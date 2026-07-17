@@ -1,0 +1,1586 @@
+======================================================================
+OLD GEORGIAN LEXICON
+Old Georgian-English Dictionary (Kartvelian)
+======================================================================
+
+About Old Georgian:
+  - Kartvelian (South Caucasian) language family
+  - UNRELATED to Indo-European or Semitic languages
+  - Language of the ancient Georgian Orthodox Church
+  - Three scripts: Asomtavruli (ancient), Nuskhuri (medieval), Mkhedruli (modern)
+  - Unique alphabet with 33 letters
+  - Agglutinative language (like Turkish, Finnish)
+
+Pronunciation Guide:
+  ა = a (father)        ი = i (machine)
+  ე = e (pet)           ო = o (note)
+  ი = i (machine)       უ = u (rule)
+  გ = g (go)            ქ = k (king)
+  დ = d (dog)           ლ = l (love)
+  ვ = v (very)          მ = m (man)
+  ზ = z (zebra)         ნ = n (no)
+  თ = t (top)           პ = p' (emphatic p)
+  ი = i (machine)       ჟ = zh (measure)
+  კ = k' (emphatic k)   რ = r (rolled)
+  ლ = l (love)          ს = s (see)
+  მ = m (man)           ტ = t' (emphatic t)
+  ნ = n (no)            უ = u (rule)
+  ფ = p (spin)          ქ = k (king)
+  ღ = gh (Arabic gh)     ყ = q (Semitic q)
+  შ = sh (ship)         ჩ = ch (church)
+  ც = ts (cats)         ძ = dz (adze)
+  წ = ts' (emphatic)    ჭ = ch' (emphatic)
+  ხ = kh (Scottish loch) ჯ = j (jump)
+  ჰ = h (hat)           ჱ = ē (archaic)
+  ჲ = y (yes)           ჳ = wī (archaic)
+  ჴ = q' (archaic)      ჵ = hō (archaic)
+
+----------------------------------------------------------------------
+
+
+აზრი  (azri)  [noun]
+    thought, idea
+    Root: azr
+
+
+ათასი  (atasi)  [numeral]
+    thousand
+    Root: atas
+
+
+ათი  (ati)  [numeral]
+    ten
+    Root: at
+
+
+აკვანი  (ak'vani)  [noun]
+    pool
+    Root: ak'van
+
+
+ან  (an)  [conjunction]
+    or
+    Root: an
+
+
+ანგელოზი  (angelozi)  [noun]
+    angel
+    Root: angeloz
+
+
+ანუ  (anu)  [conjunction]
+    that is, namely
+    Root: anu
+
+
+არ  (ar)  [negative particle]
+    not
+    Root: ar
+
+
+არა  (ara)  [negative]
+    no, not
+    Root: ar
+
+
+ასი  (asi)  [numeral]
+    hundred
+    Root: as
+
+
+აღდგა  (aghadga)  [verb]
+    to rise up, be resurrected
+    Root: aghadg
+
+
+აშენა  (ashena)  [verb]
+    to build
+    Root: ashen
+
+
+ახალი  (akhali)  [adjective]
+    new
+    Root: akhal
+
+
+ახალი აღთქმა  (akhali aghat'k'ma)  [noun phrase]
+    New Testament
+    Root: akhal; aghat'k'm
+
+
+ბადაგი  (badagi)  [adjective]
+    spotted, speckled
+    Root: badag
+
+
+ბავშვი  (bavshvi)  [noun]
+    child
+    Root: bavshv
+
+
+ბალახი  (balakhi)  [noun]
+    grass, hay
+    Root: balakh
+
+
+ბეჭი  (bechi)  [noun]
+    shoulder
+    Root: bech
+
+
+ბოგირი  (bogiri)  [noun]
+    hill
+    Root: bogir
+
+
+ბოლო  (bolo)  [adjective]
+    last
+    Root: bol
+
+
+ბოროტი  (boroti)  [noun/adjective]
+    evil one, devil
+    Root: borot
+
+
+ბრინჯაო  (brinjao)  [noun]
+    bronze
+    Root: brinja
+
+
+ბუგრი  (bugri)  [noun]
+    mist, fog
+    Root: bugr
+
+
+ბუნება  (buneba)  [noun]
+    nature
+    Root: buneb
+
+
+გაგზავნა  (gagzavna)  [verb]
+    to send
+    Root: gagzavn
+
+
+გამო  (gamo)  [postposition]
+    because of, for
+    Root: gam
+
+
+გან  (gan)  [postposition]
+    from
+    Root: gan
+
+
+განბანა  (ganbana)  [noun]
+    baptism
+    Root: ganban
+
+
+განზრახვა  (ganzirakhva)  [noun]
+    intention, purpose
+    Root: ganzirakhv
+
+
+განკვდომა  (gank'vdoma)  [noun]
+    resurrection
+    Root: gank'vdom
+
+
+განსაკუთრებული  (gansak'utrebul)  [adjective]
+    holy, separate
+    Root: gansak'utreb
+
+
+გარეული  (gareuli)  [adjective]
+    wild (animal)
+    Root: gareul
+
+
+გახსნა  (gakhna)  [verb]
+    to open
+    Root: gakhn
+
+
+გვალვა  (gvalva)  [noun]
+    drought
+    Root: gvalv
+
+
+გველი  (gveli)  [noun]
+    snake, serpent
+    Root: gvel
+
+
+გზა  (gza)  [noun]
+    road, way, path
+    Root: gz
+
+
+გზისწესი  (gzists'esi)  [noun]
+    way, manner
+    Root: gzists'es
+
+
+გონება  (goneba)  [noun]
+    mind, intellect
+    Root: goneb
+
+
+გრძნობა  (grdznobebi)  [noun]
+    feeling, sense
+    Root: grdznob
+
+
+გუგა  (guga)  [noun]
+    eyeball, pupil
+    Root: gug
+
+
+გული  (guli)  [noun]
+    heart
+    Root: gul
+
+
+გულმკერდი  (gulmk'erdi)  [noun]
+    chest
+    Root: gulmk'erd
+
+
+და  (da)  [conjunction]
+    and
+    Root: d
+
+
+დაბალი  (dabali)  [adjective]
+    low
+    Root: dabal
+
+
+დაბლობი  (dablobi)  [noun]
+    plain, lowland
+    Root: dablob
+
+
+დადგა  (dadga)  [verb]
+    to stand, rise
+    Root: dadg
+
+
+დათვი  (dat'vi)  [noun]
+    bear
+    Root: dat'v
+
+
+დაკეტა  (daketa)  [verb]
+    to close, shut
+    Root: daket
+
+
+დაუძახა  (daudzakha)  [verb]
+    to call
+    Root: daudzakh
+
+
+დაწერა  (dats'era)  [verb]
+    to write
+    Root: dats'er
+
+
+დაწვა  (datsva)  [verb]
+    to lie down, sleep
+    Root: datsv
+
+
+დიდება  (dideba)  [noun]
+    glory, praise
+    Root: dideb
+
+
+დიდი  (didi)  [adjective]
+    great, big, large
+    Root: did
+
+
+დღე  (dghe)  [noun]
+    day
+    Root: dgh
+
+
+ეკლესია  (ek'lesia)  [noun]
+    church
+    Root: ek'les
+
+
+ელვა  (elva)  [noun]
+    lightning
+    Root: elv
+
+
+ეპისკოპოსი  (episkoposi)  [noun]
+    bishop
+    Root: episkopos
+
+
+ერთი  (erti)  [numeral]
+    one
+    Root: ert
+
+
+ეს  (es)  [demonstrative]
+    this
+    Root: es
+
+
+ესმის  (esmis)  [verb]
+    to hear
+    Root: esm
+
+
+ეშმაკი  (eshmaki)  [noun]
+    devil, demon
+    Root: eshmak
+
+
+ვედრება  (vedreba)  [noun]
+    supplication
+    Root: vedreb
+
+
+ველი  (veli)  [noun]
+    plain, field
+    Root: vel
+
+
+ვერცხლი  (vertskhli)  [noun]
+    silver
+    Root: vertskhl
+
+
+ვინ  (vin)  [interrogative]
+    who
+    Root: vin
+
+
+ვინაიდან  (vinaidan)  [conjunction]
+    since, because
+    Root: vinaid
+
+
+ზე  (ze)  [postposition]
+    on, upon, over
+    Root: z
+
+
+ზეთი  (zeti)  [noun]
+    oil
+    Root: zet
+
+
+ზეცა  (zetsa)  [noun]
+    heaven, sky
+    Root: zets
+
+
+ზურგი  (zurgi)  [noun]
+    back
+    Root: zurg
+
+
+ზღვა  (zgva)  [noun]
+    sea
+    Root: zgv
+
+
+თაგუნია  (tagunia)  [noun]
+    fox
+    Root: tagun
+
+
+თავი  (tavi)  [noun]
+    head
+    Root: tav
+
+
+თან  (tan)  [postposition]
+    with
+    Root: tan
+
+
+თევზი  (tevzi)  [noun]
+    fish
+    Root: tevz
+
+
+თეთრი  (tet'ri)  [adjective]
+    white
+    Root: tet'r
+
+
+თვალი  (tvali)  [noun]
+    eye
+    Root: tval
+
+
+თვის  (tvis)  [postposition]
+    for
+    Root: tvis
+
+
+თიხა  (tikha)  [noun]
+    clay
+    Root: tikh
+
+
+თმა  (tma)  [noun]
+    hair
+    Root: tm
+
+
+თოვლი  (tovli)  [noun]
+    snow
+    Root: tovl
+
+
+თუ  (tu)  [conjunction]
+    if
+    Root: tu
+
+
+თუჯი  (tuji)  [noun]
+    copper ore
+    Root: tuj
+
+
+თქვა  (tkva)  [verb]
+    to say, speak
+    Root: tkv
+
+
+თქვენ  (tkven)  [pronoun]
+    you (plural)
+    Root: tkven
+
+
+თხა  (tkha)  [noun]
+    goat
+    Root: tkh
+
+
+თხრობა  (takhroba)  [noun]
+    digging
+    Root: takhrob
+
+
+იასამნისფერი  (iasamnisperi)  [adjective]
+    violet, purple
+    Root: iasamnisper
+
+
+იგი  (igi)  [demonstrative]
+    that one, he, she
+    Root: igi
+
+
+იესუ  (iesu)  [proper noun]
+    Jesus
+    Root: iesu
+
+
+იოვანე  (iovane)  [proper noun]
+    John
+    Root: iovan
+
+
+ის  (is)  [pronoun/demonstrative]
+    he, she, it, that
+    Root: is
+
+
+ისინი  (isini)  [pronoun]
+    they
+    Root: is
+
+
+იცის  (itsis)  [verb]
+    to know
+    Root: its
+
+
+კარი  (k'ari)  [noun]
+    cave
+    Root: k'ar
+
+
+კატუ  (k'at'u)  [noun]
+    cat
+    Root: k'at'
+
+
+კაცი  (katsi)  [noun]
+    man, human
+    Root: kats
+
+
+კბილი  (k'bili)  [noun]
+    tooth
+    Root: k'bil
+
+
+კეთილი  (ketili)  [adjective]
+    good, kind
+    Root: ketil
+
+
+კენ  (k'en)  [postposition]
+    toward
+    Root: k'en
+
+
+კერძო  (kerdzo)  [noun]
+    body
+    Root: kerdz
+
+
+კვდირობა  (k'vdiroba)  [noun]
+    death
+    Root: k'vdirob
+
+
+კვდირობისგან  (k'vdirobigsa)  [noun]
+    from death
+    Root: k'vdirobsgan
+
+
+კლდე  (k'le)  [noun]
+    rock, cliff
+    Root: k'ld
+
+
+კურდღელი  (k'urdghli)  [noun]
+    rabbit, hare
+    Root: k'urdghl
+
+
+ლოცვა  (lotsva)  [noun]
+    prayer
+    Root: lotsv
+
+
+ლურჯი  (lurji)  [adjective]
+    blue
+    Root: lurj
+
+
+მაგრამ  (magaram)  [conjunction]
+    but, however
+    Root: magar
+
+
+მამა  (mama)  [noun]
+    father
+    Root: mam
+
+
+მამათმთავარი  (mamatmtavari)  [noun]
+    God the Father
+    Root: mamatmtavar
+
+
+მართალი  (martali)  [adjective]
+    just, righteous
+    Root: martal
+
+
+მარიამი  (mariami)  [proper noun]
+    Mary
+    Root: mariam
+
+
+მატერია  (mat'eria)  [noun]
+    material, fabric
+    Root: mat'er
+
+
+მაღალი  (maghali)  [adjective]
+    high, tall
+    Root: maghal
+
+
+მაცხოვარი  (matskhovari)  [noun]
+    Savior, Redeemer
+    Root: matskhov
+
+
+მგელი  (mgeli)  [noun]
+    wolf
+    Root: mgel
+
+
+მდე  (mde)  [postposition]
+    up to, until
+    Root: mde
+
+
+მე  (me)  [pronoun]
+    I, me
+    Root: me
+
+
+მეფე  (mephe)  [noun]
+    king
+    Root: meph
+
+
+მზე  (mze)  [noun]
+    sun
+    Root: mz
+
+
+მთა  (mta)  [noun]
+    mountain
+    Root: mt
+
+
+მთავარეპისკოპოსი  (mtavarepiskoposi)  [noun]
+    archbishop, catholicos
+    Root: mtavarepiskopos
+
+
+მთვარე  (mtvare)  [noun]
+    moon
+    Root: mtvar
+
+
+მთისა  (mtisa)  [adjective]
+    of the mountain
+    Root: mtis
+
+
+მიზანი  (mizani)  [noun]
+    goal, aim
+    Root: mizan
+
+
+მიზეზი  (mizezi)  [noun]
+    cause, reason
+    Root: mizez
+
+
+მიიღო  (miigho)  [verb]
+    to take, receive
+    Root: miigh
+
+
+მინა  (mina)  [noun]
+    glass
+    Root: min
+
+
+მისცა  (mitsa)  [verb]
+    to give
+    Root: mits
+
+
+მიწა  (mitsa)  [noun]
+    earth, land, ground
+    Root: mits
+
+
+მოვიდა  (movida)  [verb]
+    to come
+    Root: movid
+
+
+მოკვდა  (moq'vda)  [verb]
+    to die
+    Root: moq'vd
+
+
+მონაზონი  (monazoni)  [noun]
+    monk
+    Root: monazon
+
+
+მონანიება  (monanieba)  [noun]
+    repentance
+    Root: monan
+
+
+მორწმუნე  (morts'mune)  [noun]
+    believer
+    Root: morts'mun
+
+
+მოსვა  (mosva)  [verb]
+    to drink
+    Root: mosv
+
+
+მოყვარული  (moq'aruli)  [noun]
+    lover, friend
+    Root: moq'arul
+
+
+მოციქული  (motsik'uli)  [noun]
+    apostle
+    Root: motsik'ul
+
+
+მოჰკლა  (mohqkla)  [verb]
+    to kill
+    Root: mohqkl
+
+
+მუცელი  (mutseli)  [noun]
+    stomach, belly
+    Root: mutsel
+
+
+მღვდელი  (mghvdeli)  [noun]
+    priest
+    Root: mghvdel
+
+
+მღვდელმთავარი  (mghvdelmtavari)  [noun]
+    high priest
+    Root: mghvdelmtavar
+
+
+მწვანე  (mts'vane)  [adjective]
+    green
+    Root: mts'van
+
+
+ნავსი  (navsi)  [noun]
+    meadow, pasture
+    Root: navs
+
+
+ნაკადი  (nakadi)  [noun]
+    stream
+    Root: nakad
+
+
+ნაკვრცი  (nak'vrtsi)  [noun]
+    lip
+    Root: nak'vrts
+
+
+ნარინჯისფერი  (narinjisperi)  [adjective]
+    orange
+    Root: narinjisper
+
+
+ნაქსოვი  (naksovi)  [noun]
+    hell
+    Root: naksov
+
+
+ნაჭერი  (nach'eri)  [noun]
+    cloth, fabric
+    Root: nach'er
+
+
+ნახავს  (nakhavs)  [verb]
+    to see
+    Root: nakh
+
+
+ნახირი  (nakhri)  [noun]
+    frost
+    Root: nakhr
+
+
+ნიავი  (niavi)  [noun]
+    breeze
+    Root: niav
+
+
+ნისლი  (nisli)  [noun]
+    mist, vapor
+    Root: nisl
+
+
+ნუნი  (nuni)  [noun]
+    nun
+    Root: nun
+
+
+ოთხი  (otkhi)  [numeral]
+    four
+    Root: otkh
+
+
+ორი  (ori)  [numeral]
+    two
+    Root: or
+
+
+ოქრო  (ok'ro)  [noun]
+    gold
+    Root: ok'r
+
+
+პავლე  (p'avle)  [proper noun]
+    Paul
+    Root: p'avl
+
+
+პატარა  (p'at'ara)  [adjective]
+    small, little
+    Root: p'at'ar
+
+
+პეტრე  (p'et're)  [proper noun]
+    Peter
+    Root: p'etr
+
+
+პირველი  (p'irveli)  [adjective/numeral]
+    first
+    Root: p'irvel
+
+
+პირი  (p'iri)  [noun]
+    mouth, face
+    Root: p'ir
+
+
+პური  (p'uri)  [noun]
+    bread
+    Root: p'ur
+
+
+რა  (ra)  [interrogative]
+    what, which
+    Root: ra
+
+
+რადგან  (radgan)  [conjunction]
+    because, for
+    Root: radgan
+
+
+რბილი  (rbili)  [adjective]
+    soft, tender
+    Root: rbil
+
+
+რკინა  (rk'ina)  [noun]
+    iron
+    Root: rk'in
+
+
+რომ  (rom)  [conjunction]
+    that, because
+    Root: rom
+
+
+რომელი  (romeli)  [relative]
+    which
+    Root: rom
+
+
+რუხი  (rukhi)  [adjective]
+    gray
+    Root: rukh
+
+
+რწმენა  (rts'mena)  [noun]
+    belief, faith
+    Root: rts'men
+
+
+საგანი  (sagani)  [noun]
+    thing, matter
+    Root: sagan
+
+
+სავანე  (savane)  [noun]
+    monastery
+    Root: savan
+
+
+სათნოება  (sat'noeba)  [noun]
+    virtue, goodness
+    Root: sat'noeb
+
+
+საიდუმლო  (saidumlo)  [noun]
+    mystery, sacrament
+    Root: saiduml
+
+
+საკმი  (sakmi)  [noun]
+    incense
+    Root: sakm
+
+
+სამართალი  (samartali)  [noun]
+    justice, righteousness
+    Root: samartal
+
+
+სამება  (sameba)  [noun]
+    Trinity
+    Root: sameb
+
+
+სამეფო  (samepho)  [noun]
+    kingdom
+    Root: meph
+
+
+სამი  (sami)  [numeral]
+    three
+    Root: sam
+
+
+სამოთხე  (samotkhe)  [noun]
+    paradise, heaven
+    Root: samotkh
+
+
+სამსხვერპლო  (samsakhverplo)  [noun]
+    altar
+    Root: samsakhverpl
+
+
+სანთელი  (santeli)  [noun]
+    candle, lamp
+    Root: santel
+
+
+სარწმუნოება  (sarts'munoeba)  [noun]
+    faith, religion
+    Root: sarts'muno
+
+
+სასოება  (sasoeba)  [noun]
+    hope
+    Root: saso
+
+
+საქმე  (sak'me)  [noun]
+    work, deed
+    Root: sak'm
+
+
+საქმიანობა  (sak'mianoba)  [noun]
+    activity
+    Root: sak'mianob
+
+
+სახარება  (sakhareba)  [noun]
+    gospel
+    Root: sakhareb
+
+
+სახელი  (sakheli)  [noun]
+    name
+    Root: sakhel
+
+
+სახლი  (sakhli)  [noun]
+    house, home
+    Root: sakhl
+
+
+სიბნელე  (sibnele)  [noun]
+    darkness
+    Root: sibnel
+
+
+სიმართლე  (simartle)  [noun]
+    righteousness, justice
+    Root: simartl
+
+
+სიმდაბლე  (simdable)  [noun]
+    humility
+    Root: simdabl
+
+
+სისხლი  (siskhli)  [noun]
+    blood
+    Root: siskhl
+
+
+სიყვარული  (siq'varuli)  [noun]
+    love
+    Root: siq'varul
+
+
+სიცოცხლე  (sists'k'hle)  [noun]
+    life
+    Root: sists'k'hl
+
+
+სიწმინდე  (sits'minde)  [noun]
+    holiness
+    Root: sits'mind
+
+
+სიწყალური  (sits'qaluri)  [noun]
+    mercy, compassion
+    Root: sits'qalur
+
+
+სპილენძი  (sp'ilendzi)  [noun]
+    copper, bronze
+    Root: sp'ilendz
+
+
+სულთმოფენობა  (sultmophenoba)  [noun]
+    Pentecost
+    Root: sultmophen
+
+
+სული  (suli)  [noun]
+    soul, spirit
+    Root: sul
+
+
+სული წმიდა  (suli tsmida)  [proper noun]
+    Holy Spirit
+    Root: sul; tsmid
+
+
+სულიწრფე  (sulits'rp'e)  [noun]
+    soul, spirit
+    Root: sulits'rp'
+
+
+სურვილი  (survili)  [noun]
+    desire, will
+    Root: survil
+
+
+სწავლა  (sts'avla)  [noun]
+    teaching, doctrine
+    Root: sts'avl
+
+
+ტაძარი  (tadzari)  [noun]
+    temple, church building
+    Root: tadzar
+
+
+ტბა  (tba)  [noun]
+    lake
+    Root: tb
+
+
+ტუჩი  (tuchi)  [noun]
+    lip
+    Root: tuch
+
+
+ტყავი  (tqvavi)  [noun]
+    leather, hide
+    Root: tqvav
+
+
+ტყე  (tqe)  [noun]
+    forest, woods
+    Root: tq
+
+
+ტყვია  (tqviai)  [noun]
+    lead
+    Root: tqv
+
+
+უკანასკნელი  (ukanaskneli)  [adjective]
+    last, final
+    Root: ukanasknel
+
+
+უკენ  (uk'en)  [postposition]
+    behind, after
+    Root: uk'en
+
+
+ულვაში  (ulvashi)  [noun]
+    mustache
+    Root: ulvash
+
+
+უფალი  (upali)  [noun]
+    Lord, Master
+    Root: upal
+    Note: Used for 'Lord' in Georgian Bible
+
+
+უფოსფერი  (up'osperi)  [adjective]
+    brown
+    Root: up'osper
+
+
+უძველესი  (udzvelesi)  [adjective]
+    oldest, most ancient
+    Root: udzveles
+
+
+ფრინველი  (p'irnveli)  [noun]
+    bird
+    Root: p'irnvel
+
+
+ფრჩხილი  (p'rchkhili)  [noun]
+    nail, claw
+    Root: p'rchkhil
+
+
+ქადაგება  (k'adageba)  [noun]
+    preaching, sermon
+    Root: k'adageb
+
+
+ქალი  (kali)  [noun]
+    woman, wife
+    Root: kal
+
+
+ქარი  (k'ari)  [noun]
+    wind
+    Root: k'ar
+
+
+ქება  (k'eba)  [noun]
+    praise
+    Root: k'eb
+
+
+ქვა  (k'va)  [noun]
+    stone
+    Root: k'v
+
+
+ქვაბი  (k'vabi)  [noun]
+    cave
+    Root: k'vab
+
+
+ქონება  (k'oneba)  [noun]
+    possession, wealth
+    Root: k'oneb
+
+
+ქრისტე  (kriste)  [proper noun]
+    Christ
+    Root: krist
+
+
+ღამე  (ghame)  [noun]
+    night
+    Root: gham
+
+
+ღვთისმოსავი  (ghvtismosavi)  [adjective]
+    godly, pious
+    Root: ghvtismosav
+
+
+ღვინო  (ghvino)  [noun]
+    wine
+    Root: ghvin
+
+
+ღმერთი  (ghmerti)  [noun]
+    God
+    Root: ghmer
+    Note: The standard word for God in Georgian
+
+
+ღორი  (ghori)  [noun]
+    pig
+    Root: ghor
+
+
+ყელი  (q'eli)  [noun]
+    throat, neck
+    Root: q'el
+
+
+ყვითელი  (q'viteli)  [adjective]
+    yellow
+    Root: q'vitel
+
+
+ყინვა  (q'invai)  [noun]
+    cold, frost
+    Root: q'inv
+
+
+ყოველგავალი  (q'ovelgavali)  [adjective]
+    almighty
+    Root: q'ovelgaval
+
+
+ყოვლადწმიდა  (q'oveladtsmida)  [adjective]
+    all-holy
+    Root: q'oveladtsmid
+
+
+ყოფა  (q'opa)  [noun]
+    existence, being
+    Root: q'op
+
+
+ყოფილ  (q'opil)  [verb]
+    to have been
+    Root: q'op
+
+
+ყოფნა  (q'opna)  [noun]
+    presence, existence
+    Root: q'opn
+
+
+ყრმა  (q'rma)  [noun]
+    infant, baby
+    Root: q'rm
+
+
+ყრუ  (q'ru)  [adjective]
+    deaf
+    Root: q'r
+
+
+ყური  (q'uri)  [noun]
+    ear
+    Root: q'ur
+
+
+ყურძენი  (q'urdzeni)  [noun]
+    ankle, wrist
+    Root: q'urdzen
+
+
+შავი  (shavi)  [adjective]
+    black
+    Root: shav
+
+
+შეაბა  (sheaba)  [verb]
+    to bind, fasten
+    Root: sheab
+
+
+შებრძნება  (shebrdzneba)  [noun]
+    humility
+    Root: shebrdzneb
+
+
+შეერია  (sheria)  [verb]
+    to put on, wear
+    Root: sher
+
+
+შემთხვევა  (shenmtkhveva)  [noun]
+    event, circumstance
+    Root: shenmtkhvev
+
+
+შენ  (shen)  [pronoun]
+    you (singular)
+    Root: shen
+
+
+შენდობა  (shendoba)  [noun]
+    forgiveness
+    Root: shendob
+
+
+შეწყალება  (shetsoyaleba)  [noun]
+    mercy, compassion
+    Root: shetsoyaleb
+
+
+ში  (shi)  [postposition]
+    in, into
+    Root: sh
+
+
+შორის  (shoris)  [postposition]
+    between, among
+    Root: shor
+
+
+შრომა  (shroma)  [noun]
+    labor, work
+    Root: shrom
+
+
+შუქი  (shuki)  [noun]
+    light
+    Root: shuk
+
+
+ჩალა  (ch'ala)  [noun]
+    straw
+    Root: ch'al
+
+
+ჩვენ  (chven)  [pronoun]
+    we
+    Root: chven
+
+
+ცა  (tsa)  [noun]
+    sky, heaven
+    Root: ts
+
+
+ცეცხლი  (tsetskhli)  [noun]
+    fire
+    Root: tsetskhl
+
+
+ცოდვა  (tsodva)  [noun]
+    sin
+    Root: tsodv
+
+
+ცოდვილი  (tsodvili)  [noun/adjective]
+    sinner
+    Root: tsodvil
+
+
+ცუდი  (tsudi)  [adjective]
+    bad, evil
+    Root: tsud
+
+
+ცხენი  (tskeni)  [noun]
+    horse
+    Root: tsken
+
+
+ცხვარი  (tskhvari)  [noun]
+    sheep
+    Root: tskhvar
+
+
+ცხვირი  (tskhviri)  [noun]
+    nose
+    Root: tskhvir
+
+
+ცხოველი  (tshovali)  [noun]
+    animal, living creature
+    Root: tshoval
+
+
+ცხონდა  (tshchonda)  [verb]
+    to live
+    Root: tshchond
+
+
+ძაღლი  (dzagli)  [noun]
+    dog
+    Root: dzagl
+
+
+ძე  (dze)  [noun]
+    son
+    Root: dz
+
+
+ძველი  (dzveli)  [adjective]
+    old, ancient
+    Root: dzvel
+
+
+ძველი აღთქმა  (dzveli aghat'k'ma)  [noun phrase]
+    Old Testament
+    Root: dzvel; aghat'k'm
+
+
+ძლიერი  (dzlieri)  [adjective]
+    strong, mighty
+    Root: dzlier
+
+
+ძროხა  (dzrokh)  [noun]
+    cow
+    Root: dzrokh
+
+
+წავიდა  (tsavida)  [verb]
+    to go
+    Root: tsavid
+
+
+წარბი  (ts'rbi)  [noun]
+    eyebrow
+    Root: ts'rab
+
+
+წერა  (ts'era)  [verb]
+    to write
+    Root: ts'er
+
+
+წესი  (ts'esi)  [noun]
+    law, rule
+    Root: ts'es
+
+
+წვერი  (ts'veri)  [noun]
+    beard
+    Root: ts'ver
+
+
+წვიმა  (ts'vima)  [noun]
+    rain
+    Root: ts'vim
+
+
+წითელი  (ts'iteli)  [adjective]
+    red
+    Root: ts'itel
+
+
+წინ  (tsin)  [postposition]
+    before, in front of
+    Root: tsin
+
+
+წინასწარმეტყველი  (ts'inasatsarmet'yvleli)  [noun]
+    prophet
+    Root: ts'inasatsarmet'yvlel
+
+
+წირვა  (ts'irva)  [noun]
+    liturgy, service
+    Root: ts'irv
+
+
+წმიდა  (tsmida)  [noun/adjective]
+    holy one, saint
+    Root: tsmid
+
+
+წმიდა წერილი  (tsmida ts'erili)  [noun phrase]
+    Holy Scripture
+    Root: tsmid; ts'eril
+
+
+წყალი  (tsqali)  [noun]
+    water
+    Root: tsqal
+
+
+წყალობა  (tsqaloba)  [noun]
+    grace, mercy
+    Root: tsqalob
+
+
+ჭა  (ch'a)  [noun]
+    well
+    Root: ch'
+
+
+ჭალა  (ch'ala)  [noun]
+    valley, ravine
+    Root: ch'al
+
+
+ჭამა  (ch'ama)  [verb]
+    to eat
+    Root: ch'am
+
+
+ჭაობი  (ch'aobi)  [noun]
+    swamp, marsh
+    Root: ch'aob
+
+
+ჭექა  (ch'eka)  [noun]
+    thunder
+    Root: ch'ek
+
+
+ჭეშმარიტება  (ch'eshmarit'eba)  [noun]
+    truth
+    Root: ch'eshmarit'
+
+
+ჭეშმარიტი  (ch'eshmariti)  [adjective]
+    true, faithful
+    Root: ch'eshmarit
+
+
+ხარი  (khari)  [noun]
+    ox, bull
+    Root: khar
+
+
+ხე  (khe)  [noun]
+    wood
+    Root: kh
+
+
+ხელი  (kheli)  [noun]
+    hand, arm
+    Root: khel
+
+
+ხერხემალი  (kherkhemali)  [noun]
+    spine, back
+    Root: kherkhemal
+
+
+ხორცი  (khortsi)  [noun]
+    flesh, meat
+    Root: khorts
+
+
+ხუთი  (khuti)  [numeral]
+    five
+    Root: khut
+
+
+ჯვარი  (jvri)  [noun]
+    cross
+    Root: jvr
+
+
+ჰიერს  (hiers)  [noun]
+    body
+    Root: hier
+
+
+ჰმადლობა  (hmadloba)  [noun]
+    thanksgiving
+    Root: hmadlob
+
+
+ჰმადლობს  (hmadlobs)  [verb]
+    to love, be grateful
+    Root: hmadlob
+
+
+ჰმართ  (hmart)  [verb]
+    to love, like
+    Root: hmart
+
+
+ჰსურათი  (hsurati)  [noun]
+    image, icon
+    Root: hsurat
+
+
+ჰქმნა  (hq'mna)  [verb]
+    to do, make
+    Root: hq'mn
+
+
+ჰყავს  (hq'avs)  [verb]
+    to have
+    Root: hq'av
+

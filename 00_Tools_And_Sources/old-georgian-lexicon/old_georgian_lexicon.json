@@ -1,0 +1,3089 @@
+{
+  "metadata": {
+    "title": "Old Georgian Lexicon",
+    "language": "Old Georgian (Kartvelian)",
+    "script": "Georgian (Mkhedruli, Asomtavruli)",
+    "period": "Old Georgian (5th-11th centuries CE)",
+    "total_entries": 309,
+    "format": "JSON",
+    "notes": "Old Georgian is the language of the ancient Georgian Orthodox Church. Georgian is a Kartvelian (South Caucasian) language, unrelated to Indo-European or Semitic families."
+  },
+  "entries": {
+    "მე": {
+      "word": "მე",
+      "definition": "I, me",
+      "part_of_speech": "pronoun",
+      "transliteration": "me",
+      "root": "me"
+    },
+    "შენ": {
+      "word": "შენ",
+      "definition": "you (singular)",
+      "part_of_speech": "pronoun",
+      "transliteration": "shen",
+      "root": "shen"
+    },
+    "ის": {
+      "word": "ის",
+      "definition": "he, she, it, that",
+      "part_of_speech": "pronoun/demonstrative",
+      "transliteration": "is",
+      "root": "is"
+    },
+    "ჩვენ": {
+      "word": "ჩვენ",
+      "definition": "we",
+      "part_of_speech": "pronoun",
+      "transliteration": "chven",
+      "root": "chven"
+    },
+    "თქვენ": {
+      "word": "თქვენ",
+      "definition": "you (plural)",
+      "part_of_speech": "pronoun",
+      "transliteration": "tkven",
+      "root": "tkven"
+    },
+    "ისინი": {
+      "word": "ისინი",
+      "definition": "they",
+      "part_of_speech": "pronoun",
+      "transliteration": "isini",
+      "root": "is"
+    },
+    "ეს": {
+      "word": "ეს",
+      "definition": "this",
+      "part_of_speech": "demonstrative",
+      "transliteration": "es",
+      "root": "es"
+    },
+    "იგი": {
+      "word": "იგი",
+      "definition": "that one, he, she",
+      "part_of_speech": "demonstrative",
+      "transliteration": "igi",
+      "root": "igi"
+    },
+    "რა": {
+      "word": "რა",
+      "definition": "what, which",
+      "part_of_speech": "interrogative",
+      "transliteration": "ra",
+      "root": "ra"
+    },
+    "ვინ": {
+      "word": "ვინ",
+      "definition": "who",
+      "part_of_speech": "interrogative",
+      "transliteration": "vin",
+      "root": "vin"
+    },
+    "რომელი": {
+      "word": "რომელი",
+      "definition": "which",
+      "part_of_speech": "relative",
+      "transliteration": "romeli",
+      "root": "rom"
+    },
+    "ღმერთი": {
+      "word": "ღმერთი",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "ghmerti",
+      "root": "ghmer",
+      "note": "The standard word for God in Georgian"
+    },
+    "უფალი": {
+      "word": "უფალი",
+      "definition": "Lord, Master",
+      "part_of_speech": "noun",
+      "transliteration": "upali",
+      "root": "upal",
+      "note": "Used for 'Lord' in Georgian Bible"
+    },
+    "იესუ": {
+      "word": "იესუ",
+      "definition": "Jesus",
+      "part_of_speech": "proper noun",
+      "transliteration": "iesu",
+      "root": "iesu"
+    },
+    "ქრისტე": {
+      "word": "ქრისტე",
+      "definition": "Christ",
+      "part_of_speech": "proper noun",
+      "transliteration": "kriste",
+      "root": "krist"
+    },
+    "მაცხოვარი": {
+      "word": "მაცხოვარი",
+      "definition": "Savior, Redeemer",
+      "part_of_speech": "noun",
+      "transliteration": "matskhovari",
+      "root": "matskhov"
+    },
+    "სული წმიდა": {
+      "word": "სული წმიდა",
+      "definition": "Holy Spirit",
+      "part_of_speech": "proper noun",
+      "transliteration": "suli tsmida",
+      "root": "sul; tsmid"
+    },
+    "მამა": {
+      "word": "მამა",
+      "definition": "father",
+      "part_of_speech": "noun",
+      "transliteration": "mama",
+      "root": "mam"
+    },
+    "ძე": {
+      "word": "ძე",
+      "definition": "son",
+      "part_of_speech": "noun",
+      "transliteration": "dze",
+      "root": "dz"
+    },
+    "მარიამი": {
+      "word": "მარიამი",
+      "definition": "Mary",
+      "part_of_speech": "proper noun",
+      "transliteration": "mariami",
+      "root": "mariam"
+    },
+    "პეტრე": {
+      "word": "პეტრე",
+      "definition": "Peter",
+      "part_of_speech": "proper noun",
+      "transliteration": "p'et're",
+      "root": "p'etr"
+    },
+    "პავლე": {
+      "word": "პავლე",
+      "definition": "Paul",
+      "part_of_speech": "proper noun",
+      "transliteration": "p'avle",
+      "root": "p'avl"
+    },
+    "იოვანე": {
+      "word": "იოვანე",
+      "definition": "John",
+      "part_of_speech": "proper noun",
+      "transliteration": "iovane",
+      "root": "iovan"
+    },
+    "მეფე": {
+      "word": "მეფე",
+      "definition": "king",
+      "part_of_speech": "noun",
+      "transliteration": "mephe",
+      "root": "meph"
+    },
+    "სამეფო": {
+      "word": "სამეფო",
+      "definition": "kingdom",
+      "part_of_speech": "noun",
+      "transliteration": "samepho",
+      "root": "meph"
+    },
+    "ანგელოზი": {
+      "word": "ანგელოზი",
+      "definition": "angel",
+      "part_of_speech": "noun",
+      "transliteration": "angelozi",
+      "root": "angeloz"
+    },
+    "ზეცა": {
+      "word": "ზეცა",
+      "definition": "heaven, sky",
+      "part_of_speech": "noun",
+      "transliteration": "zetsa",
+      "root": "zets"
+    },
+    "ცა": {
+      "word": "ცა",
+      "definition": "sky, heaven",
+      "part_of_speech": "noun",
+      "transliteration": "tsa",
+      "root": "ts"
+    },
+    "კაცი": {
+      "word": "კაცი",
+      "definition": "man, human",
+      "part_of_speech": "noun",
+      "transliteration": "katsi",
+      "root": "kats"
+    },
+    "ქალი": {
+      "word": "ქალი",
+      "definition": "woman, wife",
+      "part_of_speech": "noun",
+      "transliteration": "kali",
+      "root": "kal"
+    },
+    "ბავშვი": {
+      "word": "ბავშვი",
+      "definition": "child",
+      "part_of_speech": "noun",
+      "transliteration": "bavshvi",
+      "root": "bavshv"
+    },
+    "ყრმა": {
+      "word": "ყრმა",
+      "definition": "infant, baby",
+      "part_of_speech": "noun",
+      "transliteration": "q'rma",
+      "root": "q'rm"
+    },
+    "სახლი": {
+      "word": "სახლი",
+      "definition": "house, home",
+      "part_of_speech": "noun",
+      "transliteration": "sakhli",
+      "root": "sakhl"
+    },
+    "გული": {
+      "word": "გული",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "guli",
+      "root": "gul"
+    },
+    "სული": {
+      "word": "სული",
+      "definition": "soul, spirit",
+      "part_of_speech": "noun",
+      "transliteration": "suli",
+      "root": "sul"
+    },
+    "კერძო": {
+      "word": "კერძო",
+      "definition": "body",
+      "part_of_speech": "noun",
+      "transliteration": "kerdzo",
+      "root": "kerdz"
+    },
+    "ჰიერს": {
+      "word": "ჰიერს",
+      "definition": "body",
+      "part_of_speech": "noun",
+      "transliteration": "hiers",
+      "root": "hier"
+    },
+    "სისხლი": {
+      "word": "სისხლი",
+      "definition": "blood",
+      "part_of_speech": "noun",
+      "transliteration": "siskhli",
+      "root": "siskhl"
+    },
+    "ხორცი": {
+      "word": "ხორცი",
+      "definition": "flesh, meat",
+      "part_of_speech": "noun",
+      "transliteration": "khortsi",
+      "root": "khorts"
+    },
+    "თვალი": {
+      "word": "თვალი",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "tvali",
+      "root": "tval"
+    },
+    "ყური": {
+      "word": "ყური",
+      "definition": "ear",
+      "part_of_speech": "noun",
+      "transliteration": "q'uri",
+      "root": "q'ur"
+    },
+    "ხელი": {
+      "word": "ხელი",
+      "definition": "hand, arm",
+      "part_of_speech": "noun",
+      "transliteration": "kheli",
+      "root": "khel"
+    },
+    "თავი": {
+      "word": "თავი",
+      "definition": "head",
+      "part_of_speech": "noun",
+      "transliteration": "tavi",
+      "root": "tav"
+    },
+    "პირი": {
+      "word": "პირი",
+      "definition": "mouth, face",
+      "part_of_speech": "noun",
+      "transliteration": "p'iri",
+      "root": "p'ir"
+    },
+    "წყალი": {
+      "word": "წყალი",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "tsqali",
+      "root": "tsqal"
+    },
+    "ცეცხლი": {
+      "word": "ცეცხლი",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "tsetskhli",
+      "root": "tsetskhl"
+    },
+    "მიწა": {
+      "word": "მიწა",
+      "definition": "earth, land, ground",
+      "part_of_speech": "noun",
+      "transliteration": "mitsa",
+      "root": "mits"
+    },
+    "მზე": {
+      "word": "მზე",
+      "definition": "sun",
+      "part_of_speech": "noun",
+      "transliteration": "mze",
+      "root": "mz"
+    },
+    "მთვარე": {
+      "word": "მთვარე",
+      "definition": "moon",
+      "part_of_speech": "noun",
+      "transliteration": "mtvare",
+      "root": "mtvar"
+    },
+    "შუქი": {
+      "word": "შუქი",
+      "definition": "light",
+      "part_of_speech": "noun",
+      "transliteration": "shuki",
+      "root": "shuk"
+    },
+    "სიბნელე": {
+      "word": "სიბნელე",
+      "definition": "darkness",
+      "part_of_speech": "noun",
+      "transliteration": "sibnele",
+      "root": "sibnel"
+    },
+    "ხე": {
+      "word": "ხე",
+      "definition": "wood",
+      "part_of_speech": "noun",
+      "transliteration": "khe",
+      "root": "kh"
+    },
+    "გზა": {
+      "word": "გზა",
+      "definition": "road, way, path",
+      "part_of_speech": "noun",
+      "transliteration": "gza",
+      "root": "gz"
+    },
+    "დღე": {
+      "word": "დღე",
+      "definition": "day",
+      "part_of_speech": "noun",
+      "transliteration": "dghe",
+      "root": "dgh"
+    },
+    "ღამე": {
+      "word": "ღამე",
+      "definition": "night",
+      "part_of_speech": "noun",
+      "transliteration": "ghame",
+      "root": "gham"
+    },
+    "თქვა": {
+      "word": "თქვა",
+      "definition": "to say, speak",
+      "part_of_speech": "verb",
+      "transliteration": "tkva",
+      "root": "tkv"
+    },
+    "ყოფა": {
+      "word": "ყოფა",
+      "definition": "existence, being",
+      "part_of_speech": "noun",
+      "transliteration": "q'opa",
+      "root": "q'op"
+    },
+    "ყოფილ": {
+      "word": "ყოფილ",
+      "definition": "to have been",
+      "part_of_speech": "verb",
+      "transliteration": "q'opil",
+      "root": "q'op"
+    },
+    "ჰყავს": {
+      "word": "ჰყავს",
+      "definition": "to have",
+      "part_of_speech": "verb",
+      "transliteration": "hq'avs",
+      "root": "hq'av"
+    },
+    "ჰქმნა": {
+      "word": "ჰქმნა",
+      "definition": "to do, make",
+      "part_of_speech": "verb",
+      "transliteration": "hq'mna",
+      "root": "hq'mn"
+    },
+    "იცის": {
+      "word": "იცის",
+      "definition": "to know",
+      "part_of_speech": "verb",
+      "transliteration": "itsis",
+      "root": "its"
+    },
+    "ნახავს": {
+      "word": "ნახავს",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "nakhavs",
+      "root": "nakh"
+    },
+    "ესმის": {
+      "word": "ესმის",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "esmis",
+      "root": "esm"
+    },
+    "მისცა": {
+      "word": "მისცა",
+      "definition": "to give",
+      "part_of_speech": "verb",
+      "transliteration": "mitsa",
+      "root": "mits"
+    },
+    "მიიღო": {
+      "word": "მიიღო",
+      "definition": "to take, receive",
+      "part_of_speech": "verb",
+      "transliteration": "miigho",
+      "root": "miigh"
+    },
+    "მოვიდა": {
+      "word": "მოვიდა",
+      "definition": "to come",
+      "part_of_speech": "verb",
+      "transliteration": "movida",
+      "root": "movid"
+    },
+    "წავიდა": {
+      "word": "წავიდა",
+      "definition": "to go",
+      "part_of_speech": "verb",
+      "transliteration": "tsavida",
+      "root": "tsavid"
+    },
+    "დადგა": {
+      "word": "დადგა",
+      "definition": "to stand, rise",
+      "part_of_speech": "verb",
+      "transliteration": "dadga",
+      "root": "dadg"
+    },
+    "აღდგა": {
+      "word": "აღდგა",
+      "definition": "to rise up, be resurrected",
+      "part_of_speech": "verb",
+      "transliteration": "aghadga",
+      "root": "aghadg"
+    },
+    "ცხონდა": {
+      "word": "ცხონდა",
+      "definition": "to live",
+      "part_of_speech": "verb",
+      "transliteration": "tshchonda",
+      "root": "tshchond"
+    },
+    "მოკვდა": {
+      "word": "მოკვდა",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "moq'vda",
+      "root": "moq'vd"
+    },
+    "მოჰკლა": {
+      "word": "მოჰკლა",
+      "definition": "to kill",
+      "part_of_speech": "verb",
+      "transliteration": "mohqkla",
+      "root": "mohqkl"
+    },
+    "წერა": {
+      "word": "წერა",
+      "definition": "to write",
+      "part_of_speech": "verb",
+      "transliteration": "ts'era",
+      "root": "ts'er"
+    },
+    "დაწერა": {
+      "word": "დაწერა",
+      "definition": "to write",
+      "part_of_speech": "verb",
+      "transliteration": "dats'era",
+      "root": "dats'er"
+    },
+    "დაუძახა": {
+      "word": "დაუძახა",
+      "definition": "to call",
+      "part_of_speech": "verb",
+      "transliteration": "daudzakha",
+      "root": "daudzakh"
+    },
+    "გახსნა": {
+      "word": "გახსნა",
+      "definition": "to open",
+      "part_of_speech": "verb",
+      "transliteration": "gakhna",
+      "root": "gakhn"
+    },
+    "დაკეტა": {
+      "word": "დაკეტა",
+      "definition": "to close, shut",
+      "part_of_speech": "verb",
+      "transliteration": "daketa",
+      "root": "daket"
+    },
+    "დაწვა": {
+      "word": "დაწვა",
+      "definition": "to lie down, sleep",
+      "part_of_speech": "verb",
+      "transliteration": "datsva",
+      "root": "datsv"
+    },
+    "აშენა": {
+      "word": "აშენა",
+      "definition": "to build",
+      "part_of_speech": "verb",
+      "transliteration": "ashena",
+      "root": "ashen"
+    },
+    "მოსვა": {
+      "word": "მოსვა",
+      "definition": "to drink",
+      "part_of_speech": "verb",
+      "transliteration": "mosva",
+      "root": "mosv"
+    },
+    "ჭამა": {
+      "word": "ჭამა",
+      "definition": "to eat",
+      "part_of_speech": "verb",
+      "transliteration": "ch'ama",
+      "root": "ch'am"
+    },
+    "შეერია": {
+      "word": "შეერია",
+      "definition": "to put on, wear",
+      "part_of_speech": "verb",
+      "transliteration": "sheria",
+      "root": "sher"
+    },
+    "შეაბა": {
+      "word": "შეაბა",
+      "definition": "to bind, fasten",
+      "part_of_speech": "verb",
+      "transliteration": "sheaba",
+      "root": "sheab"
+    },
+    "გაგზავნა": {
+      "word": "გაგზავნა",
+      "definition": "to send",
+      "part_of_speech": "verb",
+      "transliteration": "gagzavna",
+      "root": "gagzavn"
+    },
+    "ჰმართ": {
+      "word": "ჰმართ",
+      "definition": "to love, like",
+      "part_of_speech": "verb",
+      "transliteration": "hmart",
+      "root": "hmart"
+    },
+    "ჰმადლობს": {
+      "word": "ჰმადლობს",
+      "definition": "to love, be grateful",
+      "part_of_speech": "verb",
+      "transliteration": "hmadlobs",
+      "root": "hmadlob"
+    },
+    "ში": {
+      "word": "ში",
+      "definition": "in, into",
+      "part_of_speech": "postposition",
+      "transliteration": "shi",
+      "root": "sh"
+    },
+    "ზე": {
+      "word": "ზე",
+      "definition": "on, upon, over",
+      "part_of_speech": "postposition",
+      "transliteration": "ze",
+      "root": "z"
+    },
+    "თვის": {
+      "word": "თვის",
+      "definition": "for",
+      "part_of_speech": "postposition",
+      "transliteration": "tvis",
+      "root": "tvis"
+    },
+    "გამო": {
+      "word": "გამო",
+      "definition": "because of, for",
+      "part_of_speech": "postposition",
+      "transliteration": "gamo",
+      "root": "gam"
+    },
+    "კენ": {
+      "word": "კენ",
+      "definition": "toward",
+      "part_of_speech": "postposition",
+      "transliteration": "k'en",
+      "root": "k'en"
+    },
+    "გან": {
+      "word": "გან",
+      "definition": "from",
+      "part_of_speech": "postposition",
+      "transliteration": "gan",
+      "root": "gan"
+    },
+    "მდე": {
+      "word": "მდე",
+      "definition": "up to, until",
+      "part_of_speech": "postposition",
+      "transliteration": "mde",
+      "root": "mde"
+    },
+    "თან": {
+      "word": "თან",
+      "definition": "with",
+      "part_of_speech": "postposition",
+      "transliteration": "tan",
+      "root": "tan"
+    },
+    "შორის": {
+      "word": "შორის",
+      "definition": "between, among",
+      "part_of_speech": "postposition",
+      "transliteration": "shoris",
+      "root": "shor"
+    },
+    "უკენ": {
+      "word": "უკენ",
+      "definition": "behind, after",
+      "part_of_speech": "postposition",
+      "transliteration": "uk'en",
+      "root": "uk'en"
+    },
+    "წინ": {
+      "word": "წინ",
+      "definition": "before, in front of",
+      "part_of_speech": "postposition",
+      "transliteration": "tsin",
+      "root": "tsin"
+    },
+    "და": {
+      "word": "და",
+      "definition": "and",
+      "part_of_speech": "conjunction",
+      "transliteration": "da",
+      "root": "d"
+    },
+    "მაგრამ": {
+      "word": "მაგრამ",
+      "definition": "but, however",
+      "part_of_speech": "conjunction",
+      "transliteration": "magaram",
+      "root": "magar"
+    },
+    "ან": {
+      "word": "ან",
+      "definition": "or",
+      "part_of_speech": "conjunction",
+      "transliteration": "an",
+      "root": "an"
+    },
+    "თუ": {
+      "word": "თუ",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "tu",
+      "root": "tu"
+    },
+    "რომ": {
+      "word": "რომ",
+      "definition": "that, because",
+      "part_of_speech": "conjunction",
+      "transliteration": "rom",
+      "root": "rom"
+    },
+    "რადგან": {
+      "word": "რადგან",
+      "definition": "because, for",
+      "part_of_speech": "conjunction",
+      "transliteration": "radgan",
+      "root": "radgan"
+    },
+    "ვინაიდან": {
+      "word": "ვინაიდან",
+      "definition": "since, because",
+      "part_of_speech": "conjunction",
+      "transliteration": "vinaidan",
+      "root": "vinaid"
+    },
+    "ანუ": {
+      "word": "ანუ",
+      "definition": "that is, namely",
+      "part_of_speech": "conjunction",
+      "transliteration": "anu",
+      "root": "anu"
+    },
+    "არ": {
+      "word": "არ",
+      "definition": "not",
+      "part_of_speech": "negative particle",
+      "transliteration": "ar",
+      "root": "ar"
+    },
+    "არა": {
+      "word": "არა",
+      "definition": "no, not",
+      "part_of_speech": "negative",
+      "transliteration": "ara",
+      "root": "ar"
+    },
+    "კეთილი": {
+      "word": "კეთილი",
+      "definition": "good, kind",
+      "part_of_speech": "adjective",
+      "transliteration": "ketili",
+      "root": "ketil"
+    },
+    "ცუდი": {
+      "word": "ცუდი",
+      "definition": "bad, evil",
+      "part_of_speech": "adjective",
+      "transliteration": "tsudi",
+      "root": "tsud"
+    },
+    "დიდი": {
+      "word": "დიდი",
+      "definition": "great, big, large",
+      "part_of_speech": "adjective",
+      "transliteration": "didi",
+      "root": "did"
+    },
+    "პატარა": {
+      "word": "პატარა",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "p'at'ara",
+      "root": "p'at'ar"
+    },
+    "წმიდა": {
+      "word": "წმიდა",
+      "definition": "holy one, saint",
+      "part_of_speech": "noun/adjective",
+      "transliteration": "tsmida",
+      "root": "tsmid"
+    },
+    "მართალი": {
+      "word": "მართალი",
+      "definition": "just, righteous",
+      "part_of_speech": "adjective",
+      "transliteration": "martali",
+      "root": "martal"
+    },
+    "ჭეშმარიტი": {
+      "word": "ჭეშმარიტი",
+      "definition": "true, faithful",
+      "part_of_speech": "adjective",
+      "transliteration": "ch'eshmariti",
+      "root": "ch'eshmarit"
+    },
+    "ახალი": {
+      "word": "ახალი",
+      "definition": "new",
+      "part_of_speech": "adjective",
+      "transliteration": "akhali",
+      "root": "akhal"
+    },
+    "ძველი": {
+      "word": "ძველი",
+      "definition": "old, ancient",
+      "part_of_speech": "adjective",
+      "transliteration": "dzveli",
+      "root": "dzvel"
+    },
+    "მაღალი": {
+      "word": "მაღალი",
+      "definition": "high, tall",
+      "part_of_speech": "adjective",
+      "transliteration": "maghali",
+      "root": "maghal"
+    },
+    "დაბალი": {
+      "word": "დაბალი",
+      "definition": "low",
+      "part_of_speech": "adjective",
+      "transliteration": "dabali",
+      "root": "dabal"
+    },
+    "ძლიერი": {
+      "word": "ძლიერი",
+      "definition": "strong, mighty",
+      "part_of_speech": "adjective",
+      "transliteration": "dzlieri",
+      "root": "dzlier"
+    },
+    "რბილი": {
+      "word": "რბილი",
+      "definition": "soft, tender",
+      "part_of_speech": "adjective",
+      "transliteration": "rbili",
+      "root": "rbil"
+    },
+    "უძველესი": {
+      "word": "უძველესი",
+      "definition": "oldest, most ancient",
+      "part_of_speech": "adjective",
+      "transliteration": "udzvelesi",
+      "root": "udzveles"
+    },
+    "პირველი": {
+      "word": "პირველი",
+      "definition": "first",
+      "part_of_speech": "adjective/numeral",
+      "transliteration": "p'irveli",
+      "root": "p'irvel"
+    },
+    "ბოლო": {
+      "word": "ბოლო",
+      "definition": "last",
+      "part_of_speech": "adjective",
+      "transliteration": "bolo",
+      "root": "bol"
+    },
+    "უკანასკნელი": {
+      "word": "უკანასკნელი",
+      "definition": "last, final",
+      "part_of_speech": "adjective",
+      "transliteration": "ukanaskneli",
+      "root": "ukanasknel"
+    },
+    "ერთი": {
+      "word": "ერთი",
+      "definition": "one",
+      "part_of_speech": "numeral",
+      "transliteration": "erti",
+      "root": "ert"
+    },
+    "ორი": {
+      "word": "ორი",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "ori",
+      "root": "or"
+    },
+    "სამი": {
+      "word": "სამი",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "sami",
+      "root": "sam"
+    },
+    "ოთხი": {
+      "word": "ოთხი",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "otkhi",
+      "root": "otkh"
+    },
+    "ხუთი": {
+      "word": "ხუთი",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "khuti",
+      "root": "khut"
+    },
+    "ათი": {
+      "word": "ათი",
+      "definition": "ten",
+      "part_of_speech": "numeral",
+      "transliteration": "ati",
+      "root": "at"
+    },
+    "ასი": {
+      "word": "ასი",
+      "definition": "hundred",
+      "part_of_speech": "numeral",
+      "transliteration": "asi",
+      "root": "as"
+    },
+    "ათასი": {
+      "word": "ათასი",
+      "definition": "thousand",
+      "part_of_speech": "numeral",
+      "transliteration": "atasi",
+      "root": "atas"
+    },
+    "ეკლესია": {
+      "word": "ეკლესია",
+      "definition": "church",
+      "part_of_speech": "noun",
+      "transliteration": "ek'lesia",
+      "root": "ek'les"
+    },
+    "საიდუმლო": {
+      "word": "საიდუმლო",
+      "definition": "mystery, sacrament",
+      "part_of_speech": "noun",
+      "transliteration": "saidumlo",
+      "root": "saiduml"
+    },
+    "წირვა": {
+      "word": "წირვა",
+      "definition": "liturgy, service",
+      "part_of_speech": "noun",
+      "transliteration": "ts'irva",
+      "root": "ts'irv"
+    },
+    "სულთმოფენობა": {
+      "word": "სულთმოფენობა",
+      "definition": "Pentecost",
+      "part_of_speech": "noun",
+      "transliteration": "sultmophenoba",
+      "root": "sultmophen"
+    },
+    "განსაკუთრებული": {
+      "word": "განსაკუთრებული",
+      "definition": "holy, separate",
+      "part_of_speech": "adjective",
+      "transliteration": "gansak'utrebul",
+      "root": "gansak'utreb"
+    },
+    "ღვთისმოსავი": {
+      "word": "ღვთისმოსავი",
+      "definition": "godly, pious",
+      "part_of_speech": "adjective",
+      "transliteration": "ghvtismosavi",
+      "root": "ghvtismosav"
+    },
+    "მორწმუნე": {
+      "word": "მორწმუნე",
+      "definition": "believer",
+      "part_of_speech": "noun",
+      "transliteration": "morts'mune",
+      "root": "morts'mun"
+    },
+    "სარწმუნოება": {
+      "word": "სარწმუნოება",
+      "definition": "faith, religion",
+      "part_of_speech": "noun",
+      "transliteration": "sarts'munoeba",
+      "root": "sarts'muno"
+    },
+    "სასოება": {
+      "word": "სასოება",
+      "definition": "hope",
+      "part_of_speech": "noun",
+      "transliteration": "sasoeba",
+      "root": "saso"
+    },
+    "ჰსურათი": {
+      "word": "ჰსურათი",
+      "definition": "image, icon",
+      "part_of_speech": "noun",
+      "transliteration": "hsurati",
+      "root": "hsurat"
+    },
+    "სიყვარული": {
+      "word": "სიყვარული",
+      "definition": "love",
+      "part_of_speech": "noun",
+      "transliteration": "siq'varuli",
+      "root": "siq'varul"
+    },
+    "მოყვარული": {
+      "word": "მოყვარული",
+      "definition": "lover, friend",
+      "part_of_speech": "noun",
+      "transliteration": "moq'aruli",
+      "root": "moq'arul"
+    },
+    "ჭეშმარიტება": {
+      "word": "ჭეშმარიტება",
+      "definition": "truth",
+      "part_of_speech": "noun",
+      "transliteration": "ch'eshmarit'eba",
+      "root": "ch'eshmarit'"
+    },
+    "სამართალი": {
+      "word": "სამართალი",
+      "definition": "justice, righteousness",
+      "part_of_speech": "noun",
+      "transliteration": "samartali",
+      "root": "samartal"
+    },
+    "წყალობა": {
+      "word": "წყალობა",
+      "definition": "grace, mercy",
+      "part_of_speech": "noun",
+      "transliteration": "tsqaloba",
+      "root": "tsqalob"
+    },
+    "ცოდვა": {
+      "word": "ცოდვა",
+      "definition": "sin",
+      "part_of_speech": "noun",
+      "transliteration": "tsodva",
+      "root": "tsodv"
+    },
+    "ცოდვილი": {
+      "word": "ცოდვილი",
+      "definition": "sinner",
+      "part_of_speech": "noun/adjective",
+      "transliteration": "tsodvili",
+      "root": "tsodvil"
+    },
+    "მონანიება": {
+      "word": "მონანიება",
+      "definition": "repentance",
+      "part_of_speech": "noun",
+      "transliteration": "monanieba",
+      "root": "monan"
+    },
+    "შენდობა": {
+      "word": "შენდობა",
+      "definition": "forgiveness",
+      "part_of_speech": "noun",
+      "transliteration": "shendoba",
+      "root": "shendob"
+    },
+    "შეწყალება": {
+      "word": "შეწყალება",
+      "definition": "mercy, compassion",
+      "part_of_speech": "noun",
+      "transliteration": "shetsoyaleba",
+      "root": "shetsoyaleb"
+    },
+    "დიდება": {
+      "word": "დიდება",
+      "definition": "glory, praise",
+      "part_of_speech": "noun",
+      "transliteration": "dideba",
+      "root": "dideb"
+    },
+    "ქება": {
+      "word": "ქება",
+      "definition": "praise",
+      "part_of_speech": "noun",
+      "transliteration": "k'eba",
+      "root": "k'eb"
+    },
+    "საქმე": {
+      "word": "საქმე",
+      "definition": "work, deed",
+      "part_of_speech": "noun",
+      "transliteration": "sak'me",
+      "root": "sak'm"
+    },
+    "რწმენა": {
+      "word": "რწმენა",
+      "definition": "belief, faith",
+      "part_of_speech": "noun",
+      "transliteration": "rts'mena",
+      "root": "rts'men"
+    },
+    "ქადაგება": {
+      "word": "ქადაგება",
+      "definition": "preaching, sermon",
+      "part_of_speech": "noun",
+      "transliteration": "k'adageba",
+      "root": "k'adageb"
+    },
+    "სწავლა": {
+      "word": "სწავლა",
+      "definition": "teaching, doctrine",
+      "part_of_speech": "noun",
+      "transliteration": "sts'avla",
+      "root": "sts'avl"
+    },
+    "განბანა": {
+      "word": "განბანა",
+      "definition": "baptism",
+      "part_of_speech": "noun",
+      "transliteration": "ganbana",
+      "root": "ganban"
+    },
+    "ჯვარი": {
+      "word": "ჯვარი",
+      "definition": "cross",
+      "part_of_speech": "noun",
+      "transliteration": "jvri",
+      "root": "jvr"
+    },
+    "კვდირობა": {
+      "word": "კვდირობა",
+      "definition": "death",
+      "part_of_speech": "noun",
+      "transliteration": "k'vdiroba",
+      "root": "k'vdirob"
+    },
+    "კვდირობისგან": {
+      "word": "კვდირობისგან",
+      "definition": "from death",
+      "part_of_speech": "noun",
+      "transliteration": "k'vdirobigsa",
+      "root": "k'vdirobsgan"
+    },
+    "განკვდომა": {
+      "word": "განკვდომა",
+      "definition": "resurrection",
+      "part_of_speech": "noun",
+      "transliteration": "gank'vdoma",
+      "root": "gank'vdom"
+    },
+    "სიცოცხლე": {
+      "word": "სიცოცხლე",
+      "definition": "life",
+      "part_of_speech": "noun",
+      "transliteration": "sists'k'hle",
+      "root": "sists'k'hl"
+    },
+    "წმიდა წერილი": {
+      "word": "წმიდა წერილი",
+      "definition": "Holy Scripture",
+      "part_of_speech": "noun phrase",
+      "transliteration": "tsmida ts'erili",
+      "root": "tsmid; ts'eril"
+    },
+    "მოციქული": {
+      "word": "მოციქული",
+      "definition": "apostle",
+      "part_of_speech": "noun",
+      "transliteration": "motsik'uli",
+      "root": "motsik'ul"
+    },
+    "სახარება": {
+      "word": "სახარება",
+      "definition": "gospel",
+      "part_of_speech": "noun",
+      "transliteration": "sakhareba",
+      "root": "sakhareb"
+    },
+    "ძველი აღთქმა": {
+      "word": "ძველი აღთქმა",
+      "definition": "Old Testament",
+      "part_of_speech": "noun phrase",
+      "transliteration": "dzveli aghat'k'ma",
+      "root": "dzvel; aghat'k'm"
+    },
+    "ახალი აღთქმა": {
+      "word": "ახალი აღთქმა",
+      "definition": "New Testament",
+      "part_of_speech": "noun phrase",
+      "transliteration": "akhali aghat'k'ma",
+      "root": "akhal; aghat'k'm"
+    },
+    "წინასწარმეტყველი": {
+      "word": "წინასწარმეტყველი",
+      "definition": "prophet",
+      "part_of_speech": "noun",
+      "transliteration": "ts'inasatsarmet'yvleli",
+      "root": "ts'inasatsarmet'yvlel"
+    },
+    "მღვდელმთავარი": {
+      "word": "მღვდელმთავარი",
+      "definition": "high priest",
+      "part_of_speech": "noun",
+      "transliteration": "mghvdelmtavari",
+      "root": "mghvdelmtavar"
+    },
+    "მღვდელი": {
+      "word": "მღვდელი",
+      "definition": "priest",
+      "part_of_speech": "noun",
+      "transliteration": "mghvdeli",
+      "root": "mghvdel"
+    },
+    "მთავარეპისკოპოსი": {
+      "word": "მთავარეპისკოპოსი",
+      "definition": "archbishop, catholicos",
+      "part_of_speech": "noun",
+      "transliteration": "mtavarepiskoposi",
+      "root": "mtavarepiskopos"
+    },
+    "ეპისკოპოსი": {
+      "word": "ეპისკოპოსი",
+      "definition": "bishop",
+      "part_of_speech": "noun",
+      "transliteration": "episkoposi",
+      "root": "episkopos"
+    },
+    "მონაზონი": {
+      "word": "მონაზონი",
+      "definition": "monk",
+      "part_of_speech": "noun",
+      "transliteration": "monazoni",
+      "root": "monazon"
+    },
+    "ნუნი": {
+      "word": "ნუნი",
+      "definition": "nun",
+      "part_of_speech": "noun",
+      "transliteration": "nuni",
+      "root": "nun"
+    },
+    "სავანე": {
+      "word": "სავანე",
+      "definition": "monastery",
+      "part_of_speech": "noun",
+      "transliteration": "savane",
+      "root": "savan"
+    },
+    "ტაძარი": {
+      "word": "ტაძარი",
+      "definition": "temple, church building",
+      "part_of_speech": "noun",
+      "transliteration": "tadzari",
+      "root": "tadzar"
+    },
+    "სამსხვერპლო": {
+      "word": "სამსხვერპლო",
+      "definition": "altar",
+      "part_of_speech": "noun",
+      "transliteration": "samsakhverplo",
+      "root": "samsakhverpl"
+    },
+    "პური": {
+      "word": "პური",
+      "definition": "bread",
+      "part_of_speech": "noun",
+      "transliteration": "p'uri",
+      "root": "p'ur"
+    },
+    "ღვინო": {
+      "word": "ღვინო",
+      "definition": "wine",
+      "part_of_speech": "noun",
+      "transliteration": "ghvino",
+      "root": "ghvin"
+    },
+    "ზეთი": {
+      "word": "ზეთი",
+      "definition": "oil",
+      "part_of_speech": "noun",
+      "transliteration": "zeti",
+      "root": "zet"
+    },
+    "სანთელი": {
+      "word": "სანთელი",
+      "definition": "candle, lamp",
+      "part_of_speech": "noun",
+      "transliteration": "santeli",
+      "root": "santel"
+    },
+    "საკმი": {
+      "word": "საკმი",
+      "definition": "incense",
+      "part_of_speech": "noun",
+      "transliteration": "sakmi",
+      "root": "sakm"
+    },
+    "სამოთხე": {
+      "word": "სამოთხე",
+      "definition": "paradise, heaven",
+      "part_of_speech": "noun",
+      "transliteration": "samotkhe",
+      "root": "samotkh"
+    },
+    "ნაქსოვი": {
+      "word": "ნაქსოვი",
+      "definition": "hell",
+      "part_of_speech": "noun",
+      "transliteration": "naksovi",
+      "root": "naksov"
+    },
+    "ეშმაკი": {
+      "word": "ეშმაკი",
+      "definition": "devil, demon",
+      "part_of_speech": "noun",
+      "transliteration": "eshmaki",
+      "root": "eshmak"
+    },
+    "ბოროტი": {
+      "word": "ბოროტი",
+      "definition": "evil one, devil",
+      "part_of_speech": "noun/adjective",
+      "transliteration": "boroti",
+      "root": "borot"
+    },
+    "ლოცვა": {
+      "word": "ლოცვა",
+      "definition": "prayer",
+      "part_of_speech": "noun",
+      "transliteration": "lotsva",
+      "root": "lotsv"
+    },
+    "ჰმადლობა": {
+      "word": "ჰმადლობა",
+      "definition": "thanksgiving",
+      "part_of_speech": "noun",
+      "transliteration": "hmadloba",
+      "root": "hmadlob"
+    },
+    "ვედრება": {
+      "word": "ვედრება",
+      "definition": "supplication",
+      "part_of_speech": "noun",
+      "transliteration": "vedreba",
+      "root": "vedreb"
+    },
+    "შებრძნება": {
+      "word": "შებრძნება",
+      "definition": "humility",
+      "part_of_speech": "noun",
+      "transliteration": "shebrdzneba",
+      "root": "shebrdzneb"
+    },
+    "სიმდაბლე": {
+      "word": "სიმდაბლე",
+      "definition": "humility",
+      "part_of_speech": "noun",
+      "transliteration": "simdable",
+      "root": "simdabl"
+    },
+    "სიწმინდე": {
+      "word": "სიწმინდე",
+      "definition": "holiness",
+      "part_of_speech": "noun",
+      "transliteration": "sits'minde",
+      "root": "sits'mind"
+    },
+    "სიწყალური": {
+      "word": "სიწყალური",
+      "definition": "mercy, compassion",
+      "part_of_speech": "noun",
+      "transliteration": "sits'qaluri",
+      "root": "sits'qalur"
+    },
+    "სიმართლე": {
+      "word": "სიმართლე",
+      "definition": "righteousness, justice",
+      "part_of_speech": "noun",
+      "transliteration": "simartle",
+      "root": "simartl"
+    },
+    "სათნოება": {
+      "word": "სათნოება",
+      "definition": "virtue, goodness",
+      "part_of_speech": "noun",
+      "transliteration": "sat'noeba",
+      "root": "sat'noeb"
+    },
+    "ყოველგავალი": {
+      "word": "ყოველგავალი",
+      "definition": "almighty",
+      "part_of_speech": "adjective",
+      "transliteration": "q'ovelgavali",
+      "root": "q'ovelgaval"
+    },
+    "ყოვლადწმიდა": {
+      "word": "ყოვლადწმიდა",
+      "definition": "all-holy",
+      "part_of_speech": "adjective",
+      "transliteration": "q'oveladtsmida",
+      "root": "q'oveladtsmid"
+    },
+    "სამება": {
+      "word": "სამება",
+      "definition": "Trinity",
+      "part_of_speech": "noun",
+      "transliteration": "sameba",
+      "root": "sameb"
+    },
+    "მამათმთავარი": {
+      "word": "მამათმთავარი",
+      "definition": "God the Father",
+      "part_of_speech": "noun",
+      "transliteration": "mamatmtavari",
+      "root": "mamatmtavar"
+    },
+    "ცხვირი": {
+      "word": "ცხვირი",
+      "definition": "nose",
+      "part_of_speech": "noun",
+      "transliteration": "tskhviri",
+      "root": "tskhvir"
+    },
+    "ყელი": {
+      "word": "ყელი",
+      "definition": "throat, neck",
+      "part_of_speech": "noun",
+      "transliteration": "q'eli",
+      "root": "q'el"
+    },
+    "ფრჩხილი": {
+      "word": "ფრჩხილი",
+      "definition": "nail, claw",
+      "part_of_speech": "noun",
+      "transliteration": "p'rchkhili",
+      "root": "p'rchkhil"
+    },
+    "ტუჩი": {
+      "word": "ტუჩი",
+      "definition": "lip",
+      "part_of_speech": "noun",
+      "transliteration": "tuchi",
+      "root": "tuch"
+    },
+    "ყრუ": {
+      "word": "ყრუ",
+      "definition": "deaf",
+      "part_of_speech": "adjective",
+      "transliteration": "q'ru",
+      "root": "q'r"
+    },
+    "კბილი": {
+      "word": "კბილი",
+      "definition": "tooth",
+      "part_of_speech": "noun",
+      "transliteration": "k'bili",
+      "root": "k'bil"
+    },
+    "ნაკვრცი": {
+      "word": "ნაკვრცი",
+      "definition": "lip",
+      "part_of_speech": "noun",
+      "transliteration": "nak'vrtsi",
+      "root": "nak'vrts"
+    },
+    "გუგა": {
+      "word": "გუგა",
+      "definition": "eyeball, pupil",
+      "part_of_speech": "noun",
+      "transliteration": "guga",
+      "root": "gug"
+    },
+    "წარბი": {
+      "word": "წარბი",
+      "definition": "eyebrow",
+      "part_of_speech": "noun",
+      "transliteration": "ts'rbi",
+      "root": "ts'rab"
+    },
+    "ყურძენი": {
+      "word": "ყურძენი",
+      "definition": "ankle, wrist",
+      "part_of_speech": "noun",
+      "transliteration": "q'urdzeni",
+      "root": "q'urdzen"
+    },
+    "გულმკერდი": {
+      "word": "გულმკერდი",
+      "definition": "chest",
+      "part_of_speech": "noun",
+      "transliteration": "gulmk'erdi",
+      "root": "gulmk'erd"
+    },
+    "მუცელი": {
+      "word": "მუცელი",
+      "definition": "stomach, belly",
+      "part_of_speech": "noun",
+      "transliteration": "mutseli",
+      "root": "mutsel"
+    },
+    "ხერხემალი": {
+      "word": "ხერხემალი",
+      "definition": "spine, back",
+      "part_of_speech": "noun",
+      "transliteration": "kherkhemali",
+      "root": "kherkhemal"
+    },
+    "ზურგი": {
+      "word": "ზურგი",
+      "definition": "back",
+      "part_of_speech": "noun",
+      "transliteration": "zurgi",
+      "root": "zurg"
+    },
+    "ბეჭი": {
+      "word": "ბეჭი",
+      "definition": "shoulder",
+      "part_of_speech": "noun",
+      "transliteration": "bechi",
+      "root": "bech"
+    },
+    "თმა": {
+      "word": "თმა",
+      "definition": "hair",
+      "part_of_speech": "noun",
+      "transliteration": "tma",
+      "root": "tm"
+    },
+    "წვერი": {
+      "word": "წვერი",
+      "definition": "beard",
+      "part_of_speech": "noun",
+      "transliteration": "ts'veri",
+      "root": "ts'ver"
+    },
+    "ულვაში": {
+      "word": "ულვაში",
+      "definition": "mustache",
+      "part_of_speech": "noun",
+      "transliteration": "ulvashi",
+      "root": "ulvash"
+    },
+    "მთა": {
+      "word": "მთა",
+      "definition": "mountain",
+      "part_of_speech": "noun",
+      "transliteration": "mta",
+      "root": "mt"
+    },
+    "ბოგირი": {
+      "word": "ბოგირი",
+      "definition": "hill",
+      "part_of_speech": "noun",
+      "transliteration": "bogiri",
+      "root": "bogir"
+    },
+    "ჭალა": {
+      "word": "ჭალა",
+      "definition": "valley, ravine",
+      "part_of_speech": "noun",
+      "transliteration": "ch'ala",
+      "root": "ch'al"
+    },
+    "ზღვა": {
+      "word": "ზღვა",
+      "definition": "sea",
+      "part_of_speech": "noun",
+      "transliteration": "zgva",
+      "root": "zgv"
+    },
+    "ტბა": {
+      "word": "ტბა",
+      "definition": "lake",
+      "part_of_speech": "noun",
+      "transliteration": "tba",
+      "root": "tb"
+    },
+    "ნაკადი": {
+      "word": "ნაკადი",
+      "definition": "stream",
+      "part_of_speech": "noun",
+      "transliteration": "nakadi",
+      "root": "nakad"
+    },
+    "აკვანი": {
+      "word": "აკვანი",
+      "definition": "pool",
+      "part_of_speech": "noun",
+      "transliteration": "ak'vani",
+      "root": "ak'van"
+    },
+    "ჭა": {
+      "word": "ჭა",
+      "definition": "well",
+      "part_of_speech": "noun",
+      "transliteration": "ch'a",
+      "root": "ch'"
+    },
+    "ქვაბი": {
+      "word": "ქვაბი",
+      "definition": "cave",
+      "part_of_speech": "noun",
+      "transliteration": "k'vabi",
+      "root": "k'vab"
+    },
+    "კლდე": {
+      "word": "კლდე",
+      "definition": "rock, cliff",
+      "part_of_speech": "noun",
+      "transliteration": "k'le",
+      "root": "k'ld"
+    },
+    "ქვა": {
+      "word": "ქვა",
+      "definition": "stone",
+      "part_of_speech": "noun",
+      "transliteration": "k'va",
+      "root": "k'v"
+    },
+    "კარი": {
+      "word": "კარი",
+      "definition": "cave",
+      "part_of_speech": "noun",
+      "transliteration": "k'ari",
+      "root": "k'ar"
+    },
+    "თხრობა": {
+      "word": "თხრობა",
+      "definition": "digging",
+      "part_of_speech": "noun",
+      "transliteration": "takhroba",
+      "root": "takhrob"
+    },
+    "დაბლობი": {
+      "word": "დაბლობი",
+      "definition": "plain, lowland",
+      "part_of_speech": "noun",
+      "transliteration": "dablobi",
+      "root": "dablob"
+    },
+    "ველი": {
+      "word": "ველი",
+      "definition": "plain, field",
+      "part_of_speech": "noun",
+      "transliteration": "veli",
+      "root": "vel"
+    },
+    "ნავსი": {
+      "word": "ნავსი",
+      "definition": "meadow, pasture",
+      "part_of_speech": "noun",
+      "transliteration": "navsi",
+      "root": "navs"
+    },
+    "ტყე": {
+      "word": "ტყე",
+      "definition": "forest, woods",
+      "part_of_speech": "noun",
+      "transliteration": "tqe",
+      "root": "tq"
+    },
+    "ჭაობი": {
+      "word": "ჭაობი",
+      "definition": "swamp, marsh",
+      "part_of_speech": "noun",
+      "transliteration": "ch'aobi",
+      "root": "ch'aob"
+    },
+    "ნახირი": {
+      "word": "ნახირი",
+      "definition": "frost",
+      "part_of_speech": "noun",
+      "transliteration": "nakhri",
+      "root": "nakhr"
+    },
+    "ყინვა": {
+      "word": "ყინვა",
+      "definition": "cold, frost",
+      "part_of_speech": "noun",
+      "transliteration": "q'invai",
+      "root": "q'inv"
+    },
+    "თოვლი": {
+      "word": "თოვლი",
+      "definition": "snow",
+      "part_of_speech": "noun",
+      "transliteration": "tovli",
+      "root": "tovl"
+    },
+    "წვიმა": {
+      "word": "წვიმა",
+      "definition": "rain",
+      "part_of_speech": "noun",
+      "transliteration": "ts'vima",
+      "root": "ts'vim"
+    },
+    "ქარი": {
+      "word": "ქარი",
+      "definition": "wind",
+      "part_of_speech": "noun",
+      "transliteration": "k'ari",
+      "root": "k'ar"
+    },
+    "ჭექა": {
+      "word": "ჭექა",
+      "definition": "thunder",
+      "part_of_speech": "noun",
+      "transliteration": "ch'eka",
+      "root": "ch'ek"
+    },
+    "ელვა": {
+      "word": "ელვა",
+      "definition": "lightning",
+      "part_of_speech": "noun",
+      "transliteration": "elva",
+      "root": "elv"
+    },
+    "ბუგრი": {
+      "word": "ბუგრი",
+      "definition": "mist, fog",
+      "part_of_speech": "noun",
+      "transliteration": "bugri",
+      "root": "bugr"
+    },
+    "ნისლი": {
+      "word": "ნისლი",
+      "definition": "mist, vapor",
+      "part_of_speech": "noun",
+      "transliteration": "nisli",
+      "root": "nisl"
+    },
+    "ნიავი": {
+      "word": "ნიავი",
+      "definition": "breeze",
+      "part_of_speech": "noun",
+      "transliteration": "niavi",
+      "root": "niav"
+    },
+    "გვალვა": {
+      "word": "გვალვა",
+      "definition": "drought",
+      "part_of_speech": "noun",
+      "transliteration": "gvalva",
+      "root": "gvalv"
+    },
+    "გონება": {
+      "word": "გონება",
+      "definition": "mind, intellect",
+      "part_of_speech": "noun",
+      "transliteration": "goneba",
+      "root": "goneb"
+    },
+    "სულიწრფე": {
+      "word": "სულიწრფე",
+      "definition": "soul, spirit",
+      "part_of_speech": "noun",
+      "transliteration": "sulits'rp'e",
+      "root": "sulits'rp'"
+    },
+    "გრძნობა": {
+      "word": "გრძნობა",
+      "definition": "feeling, sense",
+      "part_of_speech": "noun",
+      "transliteration": "grdznobebi",
+      "root": "grdznob"
+    },
+    "სურვილი": {
+      "word": "სურვილი",
+      "definition": "desire, will",
+      "part_of_speech": "noun",
+      "transliteration": "survili",
+      "root": "survil"
+    },
+    "აზრი": {
+      "word": "აზრი",
+      "definition": "thought, idea",
+      "part_of_speech": "noun",
+      "transliteration": "azri",
+      "root": "azr"
+    },
+    "განზრახვა": {
+      "word": "განზრახვა",
+      "definition": "intention, purpose",
+      "part_of_speech": "noun",
+      "transliteration": "ganzirakhva",
+      "root": "ganzirakhv"
+    },
+    "მიზანი": {
+      "word": "მიზანი",
+      "definition": "goal, aim",
+      "part_of_speech": "noun",
+      "transliteration": "mizani",
+      "root": "mizan"
+    },
+    "მიზეზი": {
+      "word": "მიზეზი",
+      "definition": "cause, reason",
+      "part_of_speech": "noun",
+      "transliteration": "mizezi",
+      "root": "mizez"
+    },
+    "სახელი": {
+      "word": "სახელი",
+      "definition": "name",
+      "part_of_speech": "noun",
+      "transliteration": "sakheli",
+      "root": "sakhel"
+    },
+    "საგანი": {
+      "word": "საგანი",
+      "definition": "thing, matter",
+      "part_of_speech": "noun",
+      "transliteration": "sagani",
+      "root": "sagan"
+    },
+    "ქონება": {
+      "word": "ქონება",
+      "definition": "possession, wealth",
+      "part_of_speech": "noun",
+      "transliteration": "k'oneba",
+      "root": "k'oneb"
+    },
+    "ბუნება": {
+      "word": "ბუნება",
+      "definition": "nature",
+      "part_of_speech": "noun",
+      "transliteration": "buneba",
+      "root": "buneb"
+    },
+    "წესი": {
+      "word": "წესი",
+      "definition": "law, rule",
+      "part_of_speech": "noun",
+      "transliteration": "ts'esi",
+      "root": "ts'es"
+    },
+    "გზისწესი": {
+      "word": "გზისწესი",
+      "definition": "way, manner",
+      "part_of_speech": "noun",
+      "transliteration": "gzists'esi",
+      "root": "gzists'es"
+    },
+    "საქმიანობა": {
+      "word": "საქმიანობა",
+      "definition": "activity",
+      "part_of_speech": "noun",
+      "transliteration": "sak'mianoba",
+      "root": "sak'mianob"
+    },
+    "შრომა": {
+      "word": "შრომა",
+      "definition": "labor, work",
+      "part_of_speech": "noun",
+      "transliteration": "shroma",
+      "root": "shrom"
+    },
+    "ყოფნა": {
+      "word": "ყოფნა",
+      "definition": "presence, existence",
+      "part_of_speech": "noun",
+      "transliteration": "q'opna",
+      "root": "q'opn"
+    },
+    "შემთხვევა": {
+      "word": "შემთხვევა",
+      "definition": "event, circumstance",
+      "part_of_speech": "noun",
+      "transliteration": "shenmtkhveva",
+      "root": "shenmtkhvev"
+    },
+    "ცხოველი": {
+      "word": "ცხოველი",
+      "definition": "animal, living creature",
+      "part_of_speech": "noun",
+      "transliteration": "tshovali",
+      "root": "tshoval"
+    },
+    "ფრინველი": {
+      "word": "ფრინველი",
+      "definition": "bird",
+      "part_of_speech": "noun",
+      "transliteration": "p'irnveli",
+      "root": "p'irnvel"
+    },
+    "თევზი": {
+      "word": "თევზი",
+      "definition": "fish",
+      "part_of_speech": "noun",
+      "transliteration": "tevzi",
+      "root": "tevz"
+    },
+    "გველი": {
+      "word": "გველი",
+      "definition": "snake, serpent",
+      "part_of_speech": "noun",
+      "transliteration": "gveli",
+      "root": "gvel"
+    },
+    "კურდღელი": {
+      "word": "კურდღელი",
+      "definition": "rabbit, hare",
+      "part_of_speech": "noun",
+      "transliteration": "k'urdghli",
+      "root": "k'urdghl"
+    },
+    "თაგუნია": {
+      "word": "თაგუნია",
+      "definition": "fox",
+      "part_of_speech": "noun",
+      "transliteration": "tagunia",
+      "root": "tagun"
+    },
+    "მგელი": {
+      "word": "მგელი",
+      "definition": "wolf",
+      "part_of_speech": "noun",
+      "transliteration": "mgeli",
+      "root": "mgel"
+    },
+    "დათვი": {
+      "word": "დათვი",
+      "definition": "bear",
+      "part_of_speech": "noun",
+      "transliteration": "dat'vi",
+      "root": "dat'v"
+    },
+    "კატუ": {
+      "word": "კატუ",
+      "definition": "cat",
+      "part_of_speech": "noun",
+      "transliteration": "k'at'u",
+      "root": "k'at'"
+    },
+    "ძაღლი": {
+      "word": "ძაღლი",
+      "definition": "dog",
+      "part_of_speech": "noun",
+      "transliteration": "dzagli",
+      "root": "dzagl"
+    },
+    "ცხენი": {
+      "word": "ცხენი",
+      "definition": "horse",
+      "part_of_speech": "noun",
+      "transliteration": "tskeni",
+      "root": "tsken"
+    },
+    "ხარი": {
+      "word": "ხარი",
+      "definition": "ox, bull",
+      "part_of_speech": "noun",
+      "transliteration": "khari",
+      "root": "khar"
+    },
+    "ძროხა": {
+      "word": "ძროხა",
+      "definition": "cow",
+      "part_of_speech": "noun",
+      "transliteration": "dzrokh",
+      "root": "dzrokh"
+    },
+    "ცხვარი": {
+      "word": "ცხვარი",
+      "definition": "sheep",
+      "part_of_speech": "noun",
+      "transliteration": "tskhvari",
+      "root": "tskhvar"
+    },
+    "თხა": {
+      "word": "თხა",
+      "definition": "goat",
+      "part_of_speech": "noun",
+      "transliteration": "tkha",
+      "root": "tkh"
+    },
+    "ღორი": {
+      "word": "ღორი",
+      "definition": "pig",
+      "part_of_speech": "noun",
+      "transliteration": "ghori",
+      "root": "ghor"
+    },
+    "გარეული": {
+      "word": "გარეული",
+      "definition": "wild (animal)",
+      "part_of_speech": "adjective",
+      "transliteration": "gareuli",
+      "root": "gareul"
+    },
+    "მთისა": {
+      "word": "მთისა",
+      "definition": "of the mountain",
+      "part_of_speech": "adjective",
+      "transliteration": "mtisa",
+      "root": "mtis"
+    },
+    "თეთრი": {
+      "word": "თეთრი",
+      "definition": "white",
+      "part_of_speech": "adjective",
+      "transliteration": "tet'ri",
+      "root": "tet'r"
+    },
+    "შავი": {
+      "word": "შავი",
+      "definition": "black",
+      "part_of_speech": "adjective",
+      "transliteration": "shavi",
+      "root": "shav"
+    },
+    "წითელი": {
+      "word": "წითელი",
+      "definition": "red",
+      "part_of_speech": "adjective",
+      "transliteration": "ts'iteli",
+      "root": "ts'itel"
+    },
+    "მწვანე": {
+      "word": "მწვანე",
+      "definition": "green",
+      "part_of_speech": "adjective",
+      "transliteration": "mts'vane",
+      "root": "mts'van"
+    },
+    "ლურჯი": {
+      "word": "ლურჯი",
+      "definition": "blue",
+      "part_of_speech": "adjective",
+      "transliteration": "lurji",
+      "root": "lurj"
+    },
+    "ყვითელი": {
+      "word": "ყვითელი",
+      "definition": "yellow",
+      "part_of_speech": "adjective",
+      "transliteration": "q'viteli",
+      "root": "q'vitel"
+    },
+    "ნარინჯისფერი": {
+      "word": "ნარინჯისფერი",
+      "definition": "orange",
+      "part_of_speech": "adjective",
+      "transliteration": "narinjisperi",
+      "root": "narinjisper"
+    },
+    "იასამნისფერი": {
+      "word": "იასამნისფერი",
+      "definition": "violet, purple",
+      "part_of_speech": "adjective",
+      "transliteration": "iasamnisperi",
+      "root": "iasamnisper"
+    },
+    "უფოსფერი": {
+      "word": "უფოსფერი",
+      "definition": "brown",
+      "part_of_speech": "adjective",
+      "transliteration": "up'osperi",
+      "root": "up'osper"
+    },
+    "რუხი": {
+      "word": "რუხი",
+      "definition": "gray",
+      "part_of_speech": "adjective",
+      "transliteration": "rukhi",
+      "root": "rukh"
+    },
+    "ბადაგი": {
+      "word": "ბადაგი",
+      "definition": "spotted, speckled",
+      "part_of_speech": "adjective",
+      "transliteration": "badagi",
+      "root": "badag"
+    },
+    "ოქრო": {
+      "word": "ოქრო",
+      "definition": "gold",
+      "part_of_speech": "noun",
+      "transliteration": "ok'ro",
+      "root": "ok'r"
+    },
+    "ვერცხლი": {
+      "word": "ვერცხლი",
+      "definition": "silver",
+      "part_of_speech": "noun",
+      "transliteration": "vertskhli",
+      "root": "vertskhl"
+    },
+    "სპილენძი": {
+      "word": "სპილენძი",
+      "definition": "copper, bronze",
+      "part_of_speech": "noun",
+      "transliteration": "sp'ilendzi",
+      "root": "sp'ilendz"
+    },
+    "ტყვია": {
+      "word": "ტყვია",
+      "definition": "lead",
+      "part_of_speech": "noun",
+      "transliteration": "tqviai",
+      "root": "tqv"
+    },
+    "რკინა": {
+      "word": "რკინა",
+      "definition": "iron",
+      "part_of_speech": "noun",
+      "transliteration": "rk'ina",
+      "root": "rk'in"
+    },
+    "თუჯი": {
+      "word": "თუჯი",
+      "definition": "copper ore",
+      "part_of_speech": "noun",
+      "transliteration": "tuji",
+      "root": "tuj"
+    },
+    "ბრინჯაო": {
+      "word": "ბრინჯაო",
+      "definition": "bronze",
+      "part_of_speech": "noun",
+      "transliteration": "brinjao",
+      "root": "brinja"
+    },
+    "ნაჭერი": {
+      "word": "ნაჭერი",
+      "definition": "cloth, fabric",
+      "part_of_speech": "noun",
+      "transliteration": "nach'eri",
+      "root": "nach'er"
+    },
+    "მატერია": {
+      "word": "მატერია",
+      "definition": "material, fabric",
+      "part_of_speech": "noun",
+      "transliteration": "mat'eria",
+      "root": "mat'er"
+    },
+    "ტყავი": {
+      "word": "ტყავი",
+      "definition": "leather, hide",
+      "part_of_speech": "noun",
+      "transliteration": "tqvavi",
+      "root": "tqvav"
+    },
+    "მინა": {
+      "word": "მინა",
+      "definition": "glass",
+      "part_of_speech": "noun",
+      "transliteration": "mina",
+      "root": "min"
+    },
+    "თიხა": {
+      "word": "თიხა",
+      "definition": "clay",
+      "part_of_speech": "noun",
+      "transliteration": "tikha",
+      "root": "tikh"
+    },
+    "ბალახი": {
+      "word": "ბალახი",
+      "definition": "grass, hay",
+      "part_of_speech": "noun",
+      "transliteration": "balakhi",
+      "root": "balakh"
+    },
+    "ჩალა": {
+      "word": "ჩალა",
+      "definition": "straw",
+      "part_of_speech": "noun",
+      "transliteration": "ch'ala",
+      "root": "ch'al"
+    }
+  },
+  "root_index": {
+    "me": [
+      "მე"
+    ],
+    "shen": [
+      "შენ"
+    ],
+    "is": [
+      "ის",
+      "ისინი"
+    ],
+    "chven": [
+      "ჩვენ"
+    ],
+    "tkven": [
+      "თქვენ"
+    ],
+    "es": [
+      "ეს"
+    ],
+    "igi": [
+      "იგი"
+    ],
+    "ra": [
+      "რა"
+    ],
+    "vin": [
+      "ვინ"
+    ],
+    "rom": [
+      "რომელი",
+      "რომ"
+    ],
+    "ghmer": [
+      "ღმერთი"
+    ],
+    "upal": [
+      "უფალი"
+    ],
+    "iesu": [
+      "იესუ"
+    ],
+    "krist": [
+      "ქრისტე"
+    ],
+    "matskhov": [
+      "მაცხოვარი"
+    ],
+    "sul": [
+      "სული წმიდა",
+      "სული"
+    ],
+    "tsmid": [
+      "სული წმიდა",
+      "წმიდა",
+      "წმიდა წერილი"
+    ],
+    "mam": [
+      "მამა"
+    ],
+    "dz": [
+      "ძე"
+    ],
+    "mariam": [
+      "მარიამი"
+    ],
+    "p'etr": [
+      "პეტრე"
+    ],
+    "p'avl": [
+      "პავლე"
+    ],
+    "iovan": [
+      "იოვანე"
+    ],
+    "meph": [
+      "მეფე",
+      "სამეფო"
+    ],
+    "angeloz": [
+      "ანგელოზი"
+    ],
+    "zets": [
+      "ზეცა"
+    ],
+    "ts": [
+      "ცა"
+    ],
+    "kats": [
+      "კაცი"
+    ],
+    "kal": [
+      "ქალი"
+    ],
+    "bavshv": [
+      "ბავშვი"
+    ],
+    "q'rm": [
+      "ყრმა"
+    ],
+    "sakhl": [
+      "სახლი"
+    ],
+    "gul": [
+      "გული"
+    ],
+    "kerdz": [
+      "კერძო"
+    ],
+    "hier": [
+      "ჰიერს"
+    ],
+    "siskhl": [
+      "სისხლი"
+    ],
+    "khorts": [
+      "ხორცი"
+    ],
+    "tval": [
+      "თვალი"
+    ],
+    "q'ur": [
+      "ყური"
+    ],
+    "khel": [
+      "ხელი"
+    ],
+    "tav": [
+      "თავი"
+    ],
+    "p'ir": [
+      "პირი"
+    ],
+    "tsqal": [
+      "წყალი"
+    ],
+    "tsetskhl": [
+      "ცეცხლი"
+    ],
+    "mits": [
+      "მიწა",
+      "მისცა"
+    ],
+    "mz": [
+      "მზე"
+    ],
+    "mtvar": [
+      "მთვარე"
+    ],
+    "shuk": [
+      "შუქი"
+    ],
+    "sibnel": [
+      "სიბნელე"
+    ],
+    "kh": [
+      "ხე"
+    ],
+    "gz": [
+      "გზა"
+    ],
+    "dgh": [
+      "დღე"
+    ],
+    "gham": [
+      "ღამე"
+    ],
+    "tkv": [
+      "თქვა"
+    ],
+    "q'op": [
+      "ყოფა",
+      "ყოფილ"
+    ],
+    "hq'av": [
+      "ჰყავს"
+    ],
+    "hq'mn": [
+      "ჰქმნა"
+    ],
+    "its": [
+      "იცის"
+    ],
+    "nakh": [
+      "ნახავს"
+    ],
+    "esm": [
+      "ესმის"
+    ],
+    "miigh": [
+      "მიიღო"
+    ],
+    "movid": [
+      "მოვიდა"
+    ],
+    "tsavid": [
+      "წავიდა"
+    ],
+    "dadg": [
+      "დადგა"
+    ],
+    "aghadg": [
+      "აღდგა"
+    ],
+    "tshchond": [
+      "ცხონდა"
+    ],
+    "moq'vd": [
+      "მოკვდა"
+    ],
+    "mohqkl": [
+      "მოჰკლა"
+    ],
+    "ts'er": [
+      "წერა"
+    ],
+    "dats'er": [
+      "დაწერა"
+    ],
+    "daudzakh": [
+      "დაუძახა"
+    ],
+    "gakhn": [
+      "გახსნა"
+    ],
+    "daket": [
+      "დაკეტა"
+    ],
+    "datsv": [
+      "დაწვა"
+    ],
+    "ashen": [
+      "აშენა"
+    ],
+    "mosv": [
+      "მოსვა"
+    ],
+    "ch'am": [
+      "ჭამა"
+    ],
+    "sher": [
+      "შეერია"
+    ],
+    "sheab": [
+      "შეაბა"
+    ],
+    "gagzavn": [
+      "გაგზავნა"
+    ],
+    "hmart": [
+      "ჰმართ"
+    ],
+    "hmadlob": [
+      "ჰმადლობს",
+      "ჰმადლობა"
+    ],
+    "sh": [
+      "ში"
+    ],
+    "z": [
+      "ზე"
+    ],
+    "tvis": [
+      "თვის"
+    ],
+    "gam": [
+      "გამო"
+    ],
+    "k'en": [
+      "კენ"
+    ],
+    "gan": [
+      "გან"
+    ],
+    "mde": [
+      "მდე"
+    ],
+    "tan": [
+      "თან"
+    ],
+    "shor": [
+      "შორის"
+    ],
+    "uk'en": [
+      "უკენ"
+    ],
+    "tsin": [
+      "წინ"
+    ],
+    "d": [
+      "და"
+    ],
+    "magar": [
+      "მაგრამ"
+    ],
+    "an": [
+      "ან"
+    ],
+    "tu": [
+      "თუ"
+    ],
+    "radgan": [
+      "რადგან"
+    ],
+    "vinaid": [
+      "ვინაიდან"
+    ],
+    "anu": [
+      "ანუ"
+    ],
+    "ar": [
+      "არ",
+      "არა"
+    ],
+    "ketil": [
+      "კეთილი"
+    ],
+    "tsud": [
+      "ცუდი"
+    ],
+    "did": [
+      "დიდი"
+    ],
+    "p'at'ar": [
+      "პატარა"
+    ],
+    "martal": [
+      "მართალი"
+    ],
+    "ch'eshmarit": [
+      "ჭეშმარიტი"
+    ],
+    "akhal": [
+      "ახალი",
+      "ახალი აღთქმა"
+    ],
+    "dzvel": [
+      "ძველი",
+      "ძველი აღთქმა"
+    ],
+    "maghal": [
+      "მაღალი"
+    ],
+    "dabal": [
+      "დაბალი"
+    ],
+    "dzlier": [
+      "ძლიერი"
+    ],
+    "rbil": [
+      "რბილი"
+    ],
+    "udzveles": [
+      "უძველესი"
+    ],
+    "p'irvel": [
+      "პირველი"
+    ],
+    "bol": [
+      "ბოლო"
+    ],
+    "ukanasknel": [
+      "უკანასკნელი"
+    ],
+    "ert": [
+      "ერთი"
+    ],
+    "or": [
+      "ორი"
+    ],
+    "sam": [
+      "სამი"
+    ],
+    "otkh": [
+      "ოთხი"
+    ],
+    "khut": [
+      "ხუთი"
+    ],
+    "at": [
+      "ათი"
+    ],
+    "as": [
+      "ასი"
+    ],
+    "atas": [
+      "ათასი"
+    ],
+    "ek'les": [
+      "ეკლესია"
+    ],
+    "saiduml": [
+      "საიდუმლო"
+    ],
+    "ts'irv": [
+      "წირვა"
+    ],
+    "sultmophen": [
+      "სულთმოფენობა"
+    ],
+    "gansak'utreb": [
+      "განსაკუთრებული"
+    ],
+    "ghvtismosav": [
+      "ღვთისმოსავი"
+    ],
+    "morts'mun": [
+      "მორწმუნე"
+    ],
+    "sarts'muno": [
+      "სარწმუნოება"
+    ],
+    "saso": [
+      "სასოება"
+    ],
+    "hsurat": [
+      "ჰსურათი"
+    ],
+    "siq'varul": [
+      "სიყვარული"
+    ],
+    "moq'arul": [
+      "მოყვარული"
+    ],
+    "ch'eshmarit'": [
+      "ჭეშმარიტება"
+    ],
+    "samartal": [
+      "სამართალი"
+    ],
+    "tsqalob": [
+      "წყალობა"
+    ],
+    "tsodv": [
+      "ცოდვა"
+    ],
+    "tsodvil": [
+      "ცოდვილი"
+    ],
+    "monan": [
+      "მონანიება"
+    ],
+    "shendob": [
+      "შენდობა"
+    ],
+    "shetsoyaleb": [
+      "შეწყალება"
+    ],
+    "dideb": [
+      "დიდება"
+    ],
+    "k'eb": [
+      "ქება"
+    ],
+    "sak'm": [
+      "საქმე"
+    ],
+    "rts'men": [
+      "რწმენა"
+    ],
+    "k'adageb": [
+      "ქადაგება"
+    ],
+    "sts'avl": [
+      "სწავლა"
+    ],
+    "ganban": [
+      "განბანა"
+    ],
+    "jvr": [
+      "ჯვარი"
+    ],
+    "k'vdirob": [
+      "კვდირობა"
+    ],
+    "k'vdirobsgan": [
+      "კვდირობისგან"
+    ],
+    "gank'vdom": [
+      "განკვდომა"
+    ],
+    "sists'k'hl": [
+      "სიცოცხლე"
+    ],
+    "ts'eril": [
+      "წმიდა წერილი"
+    ],
+    "motsik'ul": [
+      "მოციქული"
+    ],
+    "sakhareb": [
+      "სახარება"
+    ],
+    "aghat'k'm": [
+      "ძველი აღთქმა",
+      "ახალი აღთქმა"
+    ],
+    "ts'inasatsarmet'yvlel": [
+      "წინასწარმეტყველი"
+    ],
+    "mghvdelmtavar": [
+      "მღვდელმთავარი"
+    ],
+    "mghvdel": [
+      "მღვდელი"
+    ],
+    "mtavarepiskopos": [
+      "მთავარეპისკოპოსი"
+    ],
+    "episkopos": [
+      "ეპისკოპოსი"
+    ],
+    "monazon": [
+      "მონაზონი"
+    ],
+    "nun": [
+      "ნუნი"
+    ],
+    "savan": [
+      "სავანე"
+    ],
+    "tadzar": [
+      "ტაძარი"
+    ],
+    "samsakhverpl": [
+      "სამსხვერპლო"
+    ],
+    "p'ur": [
+      "პური"
+    ],
+    "ghvin": [
+      "ღვინო"
+    ],
+    "zet": [
+      "ზეთი"
+    ],
+    "santel": [
+      "სანთელი"
+    ],
+    "sakm": [
+      "საკმი"
+    ],
+    "samotkh": [
+      "სამოთხე"
+    ],
+    "naksov": [
+      "ნაქსოვი"
+    ],
+    "eshmak": [
+      "ეშმაკი"
+    ],
+    "borot": [
+      "ბოროტი"
+    ],
+    "lotsv": [
+      "ლოცვა"
+    ],
+    "vedreb": [
+      "ვედრება"
+    ],
+    "shebrdzneb": [
+      "შებრძნება"
+    ],
+    "simdabl": [
+      "სიმდაბლე"
+    ],
+    "sits'mind": [
+      "სიწმინდე"
+    ],
+    "sits'qalur": [
+      "სიწყალური"
+    ],
+    "simartl": [
+      "სიმართლე"
+    ],
+    "sat'noeb": [
+      "სათნოება"
+    ],
+    "q'ovelgaval": [
+      "ყოველგავალი"
+    ],
+    "q'oveladtsmid": [
+      "ყოვლადწმიდა"
+    ],
+    "sameb": [
+      "სამება"
+    ],
+    "mamatmtavar": [
+      "მამათმთავარი"
+    ],
+    "tskhvir": [
+      "ცხვირი"
+    ],
+    "q'el": [
+      "ყელი"
+    ],
+    "p'rchkhil": [
+      "ფრჩხილი"
+    ],
+    "tuch": [
+      "ტუჩი"
+    ],
+    "q'r": [
+      "ყრუ"
+    ],
+    "k'bil": [
+      "კბილი"
+    ],
+    "nak'vrts": [
+      "ნაკვრცი"
+    ],
+    "gug": [
+      "გუგა"
+    ],
+    "ts'rab": [
+      "წარბი"
+    ],
+    "q'urdzen": [
+      "ყურძენი"
+    ],
+    "gulmk'erd": [
+      "გულმკერდი"
+    ],
+    "mutsel": [
+      "მუცელი"
+    ],
+    "kherkhemal": [
+      "ხერხემალი"
+    ],
+    "zurg": [
+      "ზურგი"
+    ],
+    "bech": [
+      "ბეჭი"
+    ],
+    "tm": [
+      "თმა"
+    ],
+    "ts'ver": [
+      "წვერი"
+    ],
+    "ulvash": [
+      "ულვაში"
+    ],
+    "mt": [
+      "მთა"
+    ],
+    "bogir": [
+      "ბოგირი"
+    ],
+    "ch'al": [
+      "ჭალა",
+      "ჩალა"
+    ],
+    "zgv": [
+      "ზღვა"
+    ],
+    "tb": [
+      "ტბა"
+    ],
+    "nakad": [
+      "ნაკადი"
+    ],
+    "ak'van": [
+      "აკვანი"
+    ],
+    "ch'": [
+      "ჭა"
+    ],
+    "k'vab": [
+      "ქვაბი"
+    ],
+    "k'ld": [
+      "კლდე"
+    ],
+    "k'v": [
+      "ქვა"
+    ],
+    "k'ar": [
+      "კარი",
+      "ქარი"
+    ],
+    "takhrob": [
+      "თხრობა"
+    ],
+    "dablob": [
+      "დაბლობი"
+    ],
+    "vel": [
+      "ველი"
+    ],
+    "navs": [
+      "ნავსი"
+    ],
+    "tq": [
+      "ტყე"
+    ],
+    "ch'aob": [
+      "ჭაობი"
+    ],
+    "nakhr": [
+      "ნახირი"
+    ],
+    "q'inv": [
+      "ყინვა"
+    ],
+    "tovl": [
+      "თოვლი"
+    ],
+    "ts'vim": [
+      "წვიმა"
+    ],
+    "ch'ek": [
+      "ჭექა"
+    ],
+    "elv": [
+      "ელვა"
+    ],
+    "bugr": [
+      "ბუგრი"
+    ],
+    "nisl": [
+      "ნისლი"
+    ],
+    "niav": [
+      "ნიავი"
+    ],
+    "gvalv": [
+      "გვალვა"
+    ],
+    "goneb": [
+      "გონება"
+    ],
+    "sulits'rp'": [
+      "სულიწრფე"
+    ],
+    "grdznob": [
+      "გრძნობა"
+    ],
+    "survil": [
+      "სურვილი"
+    ],
+    "azr": [
+      "აზრი"
+    ],
+    "ganzirakhv": [
+      "განზრახვა"
+    ],
+    "mizan": [
+      "მიზანი"
+    ],
+    "mizez": [
+      "მიზეზი"
+    ],
+    "sakhel": [
+      "სახელი"
+    ],
+    "sagan": [
+      "საგანი"
+    ],
+    "k'oneb": [
+      "ქონება"
+    ],
+    "buneb": [
+      "ბუნება"
+    ],
+    "ts'es": [
+      "წესი"
+    ],
+    "gzists'es": [
+      "გზისწესი"
+    ],
+    "sak'mianob": [
+      "საქმიანობა"
+    ],
+    "shrom": [
+      "შრომა"
+    ],
+    "q'opn": [
+      "ყოფნა"
+    ],
+    "shenmtkhvev": [
+      "შემთხვევა"
+    ],
+    "tshoval": [
+      "ცხოველი"
+    ],
+    "p'irnvel": [
+      "ფრინველი"
+    ],
+    "tevz": [
+      "თევზი"
+    ],
+    "gvel": [
+      "გველი"
+    ],
+    "k'urdghl": [
+      "კურდღელი"
+    ],
+    "tagun": [
+      "თაგუნია"
+    ],
+    "mgel": [
+      "მგელი"
+    ],
+    "dat'v": [
+      "დათვი"
+    ],
+    "k'at'": [
+      "კატუ"
+    ],
+    "dzagl": [
+      "ძაღლი"
+    ],
+    "tsken": [
+      "ცხენი"
+    ],
+    "khar": [
+      "ხარი"
+    ],
+    "dzrokh": [
+      "ძროხა"
+    ],
+    "tskhvar": [
+      "ცხვარი"
+    ],
+    "tkh": [
+      "თხა"
+    ],
+    "ghor": [
+      "ღორი"
+    ],
+    "gareul": [
+      "გარეული"
+    ],
+    "mtis": [
+      "მთისა"
+    ],
+    "tet'r": [
+      "თეთრი"
+    ],
+    "shav": [
+      "შავი"
+    ],
+    "ts'itel": [
+      "წითელი"
+    ],
+    "mts'van": [
+      "მწვანე"
+    ],
+    "lurj": [
+      "ლურჯი"
+    ],
+    "q'vitel": [
+      "ყვითელი"
+    ],
+    "narinjisper": [
+      "ნარინჯისფერი"
+    ],
+    "iasamnisper": [
+      "იასამნისფერი"
+    ],
+    "up'osper": [
+      "უფოსფერი"
+    ],
+    "rukh": [
+      "რუხი"
+    ],
+    "badag": [
+      "ბადაგი"
+    ],
+    "ok'r": [
+      "ოქრო"
+    ],
+    "vertskhl": [
+      "ვერცხლი"
+    ],
+    "sp'ilendz": [
+      "სპილენძი"
+    ],
+    "tqv": [
+      "ტყვია"
+    ],
+    "rk'in": [
+      "რკინა"
+    ],
+    "tuj": [
+      "თუჯი"
+    ],
+    "brinja": [
+      "ბრინჯაო"
+    ],
+    "nach'er": [
+      "ნაჭერი"
+    ],
+    "mat'er": [
+      "მატერია"
+    ],
+    "tqvav": [
+      "ტყავი"
+    ],
+    "min": [
+      "მინა"
+    ],
+    "tikh": [
+      "თიხა"
+    ],
+    "balakh": [
+      "ბალახი"
+    ]
+  }
+}

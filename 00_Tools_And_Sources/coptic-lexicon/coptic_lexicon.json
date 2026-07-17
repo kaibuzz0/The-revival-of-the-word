@@ -1,0 +1,1348 @@
+{
+  "metadata": {
+    "title": "Coptic Lexicon",
+    "language": "Coptic (Sahidic dialect)",
+    "period": "Early Christian Period (100-800 CE)",
+    "total_entries": 148,
+    "format": "JSON",
+    "notes": "This is a seed lexicon based on common Coptic texts including Nag Hammadi library. Full Crum dictionary contains 10,000+ entries."
+  },
+  "entries": {
+    "ⲡ": {
+      "word": "ⲡ",
+      "definition": "the (masculine singular article)",
+      "part_of_speech": "article",
+      "transliteration": "p",
+      "etymology": "pi"
+    },
+    "ⲧ": {
+      "word": "ⲧ",
+      "definition": "the (feminine singular article)",
+      "part_of_speech": "article",
+      "transliteration": "t",
+      "etymology": "tau"
+    },
+    "ⲛ": {
+      "word": "ⲛ",
+      "definition": "not (present)",
+      "part_of_speech": "negative",
+      "transliteration": "n",
+      "etymology": "Egyptian nn"
+    },
+    "ⲟⲩ": {
+      "word": "ⲟⲩ",
+      "definition": "a, an (indefinite article)",
+      "part_of_speech": "article",
+      "transliteration": "ou",
+      "etymology": "Greek: οὐ"
+    },
+    "ⲡⲉⲓ": {
+      "word": "ⲡⲉⲓ",
+      "definition": "this (masculine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "pei",
+      "etymology": "pi + ei"
+    },
+    "ⲧⲉⲓ": {
+      "word": "ⲧⲉⲓ",
+      "definition": "this (feminine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "tei",
+      "etymology": "tau + ei"
+    },
+    "ⲛⲉⲓ": {
+      "word": "ⲛⲉⲓ",
+      "definition": "these (plural)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "nei",
+      "etymology": "nu + ei"
+    },
+    "ⲁⲛⲟⲕ": {
+      "word": "ⲁⲛⲟⲕ",
+      "definition": "I, me",
+      "part_of_speech": "pronoun",
+      "transliteration": "anok",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟⲕ": {
+      "word": "ⲛⲧⲟⲕ",
+      "definition": "you (masculine singular)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ntok",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟ": {
+      "word": "ⲛⲧⲟ",
+      "definition": "you (feminine singular)",
+      "part_of_speech": "pronoun",
+      "transliteration": "nto",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟⲩ": {
+      "word": "ⲛⲧⲟⲩ",
+      "definition": "you (plural)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ntou",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟϥ": {
+      "word": "ⲛⲧⲟϥ",
+      "definition": "he, him",
+      "part_of_speech": "pronoun",
+      "transliteration": "ntof",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟⲥ": {
+      "word": "ⲛⲧⲟⲥ",
+      "definition": "she, her",
+      "part_of_speech": "pronoun",
+      "transliteration": "ntos",
+      "etymology": "Egyptian"
+    },
+    "ⲛⲧⲟⲟⲩ": {
+      "word": "ⲛⲧⲟⲟⲩ",
+      "definition": "they, them",
+      "part_of_speech": "pronoun",
+      "transliteration": "ntoou",
+      "etymology": "Egyptian"
+    },
+    "ⲣⲱⲙⲉ": {
+      "word": "ⲣⲱⲙⲉ",
+      "definition": "man, person",
+      "part_of_speech": "noun",
+      "transliteration": "rōme",
+      "etymology": "Egyptian rmṯ"
+    },
+    "ⲥϩⲓⲙⲉ": {
+      "word": "ⲥϩⲓⲙⲉ",
+      "definition": "woman",
+      "part_of_speech": "noun",
+      "transliteration": "shime",
+      "etymology": "Egyptian ẖmt"
+    },
+    "ϣⲏⲣⲉ": {
+      "word": "ϣⲏⲣⲉ",
+      "definition": "son, child",
+      "part_of_speech": "noun",
+      "transliteration": "shēre",
+      "etymology": "Egyptian šr"
+    },
+    "ⲥⲟⲛ": {
+      "word": "ⲥⲟⲛ",
+      "definition": "brother",
+      "part_of_speech": "noun",
+      "transliteration": "son",
+      "etymology": "Greek: ἀδελφός"
+    },
+    "ⲥⲱⲛⲉ": {
+      "word": "ⲥⲱⲛⲉ",
+      "definition": "sister",
+      "part_of_speech": "noun",
+      "transliteration": "sōne",
+      "etymology": "Greek: ἀδελφή"
+    },
+    "ⲉⲓⲱⲧ": {
+      "word": "ⲉⲓⲱⲧ",
+      "definition": "father",
+      "part_of_speech": "noun",
+      "transliteration": "eitōt",
+      "etymology": "Egyptian it"
+    },
+    "ⲙⲁⲁⲩ": {
+      "word": "ⲙⲁⲁⲩ",
+      "definition": "mother",
+      "part_of_speech": "noun",
+      "transliteration": "maau",
+      "etymology": "Egyptian mw.t"
+    },
+    "ϩⲏⲧ": {
+      "word": "ϩⲏⲧ",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "hēt",
+      "etymology": "Egyptian ḥꜣt"
+    },
+    "ⲣⲁϣⲉ": {
+      "word": "ⲣⲁϣⲉ",
+      "definition": "joy, gladness",
+      "part_of_speech": "noun",
+      "transliteration": "rashe",
+      "etymology": "Egyptian ršw"
+    },
+    "ⲙⲟⲩⲛ": {
+      "word": "ⲙⲟⲩⲛ",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "moun",
+      "etymology": "Egyptian mw"
+    },
+    "ⲣⲏ": {
+      "word": "ⲣⲏ",
+      "definition": "sun",
+      "part_of_speech": "noun",
+      "transliteration": "rē",
+      "etymology": "Egyptian rꜥ"
+    },
+    "ⲡⲉ": {
+      "word": "ⲡⲉ",
+      "definition": "heaven, sky",
+      "part_of_speech": "noun",
+      "transliteration": "pe",
+      "etymology": "Egyptian pt"
+    },
+    "ⲕⲁϩ": {
+      "word": "ⲕⲁϩ",
+      "definition": "earth, land",
+      "part_of_speech": "noun",
+      "transliteration": "kah",
+      "etymology": "Egyptian tꜣ"
+    },
+    "ϩⲱⲃ": {
+      "word": "ϩⲱⲃ",
+      "definition": "thing, matter",
+      "part_of_speech": "noun",
+      "transliteration": "hōb",
+      "etymology": "Egyptian ḫt"
+    },
+    "ϩⲟⲓⲛⲉ": {
+      "word": "ϩⲟⲓⲛⲉ",
+      "definition": "road, way",
+      "part_of_speech": "noun",
+      "transliteration": "hoine",
+      "etymology": "Egyptian wꜣt"
+    },
+    "ⲙⲛⲧ": {
+      "word": "ⲙⲛⲧ",
+      "definition": "nature, condition, -ness",
+      "part_of_speech": "noun",
+      "transliteration": "mnt",
+      "etymology": "Egyptian mnt"
+    },
+    "ⲡⲛⲉⲩⲙⲁ": {
+      "word": "ⲡⲛⲉⲩⲙⲁ",
+      "definition": "spirit, breath, wind",
+      "part_of_speech": "noun",
+      "transliteration": "pneuma",
+      "etymology": "Greek: πνεῦμα"
+    },
+    "ⲯⲩⲭⲏ": {
+      "word": "ⲯⲩⲭⲏ",
+      "definition": "soul",
+      "part_of_speech": "noun",
+      "transliteration": "psychē",
+      "etymology": "Greek: ψυχή"
+    },
+    "ⲥⲁⲣⲝ": {
+      "word": "ⲥⲁⲣⲝ",
+      "definition": "flesh",
+      "part_of_speech": "noun",
+      "transliteration": "sarx",
+      "etymology": "Greek: σάρξ"
+    },
+    "ⲥⲱⲙⲁ": {
+      "word": "ⲥⲱⲙⲁ",
+      "definition": "body",
+      "part_of_speech": "noun",
+      "transliteration": "sōma",
+      "etymology": "Greek: σῶμα"
+    },
+    "ⲉⲓ": {
+      "word": "ⲉⲓ",
+      "definition": "to come",
+      "part_of_speech": "verb",
+      "transliteration": "ei",
+      "etymology": "Egyptian ii"
+    },
+    "ⲃⲱⲕ": {
+      "word": "ⲃⲱⲕ",
+      "definition": "to go, walk",
+      "part_of_speech": "verb",
+      "transliteration": "bōk",
+      "etymology": "Egyptian bk"
+    },
+    "ϩⲱⲥ": {
+      "word": "ϩⲱⲥ",
+      "definition": "until, when",
+      "part_of_speech": "conjunction",
+      "transliteration": "hōs",
+      "etymology": "Greek: ἕως"
+    },
+    "ϯ": {
+      "word": "ϯ",
+      "definition": "to give",
+      "part_of_speech": "verb",
+      "transliteration": "ti",
+      "etymology": "Egyptian di"
+    },
+    "ϫⲓ": {
+      "word": "ϫⲓ",
+      "definition": "to take, receive",
+      "part_of_speech": "verb",
+      "transliteration": "ji",
+      "etymology": "Egyptian ḫi"
+    },
+    "ⲙⲟⲩⲧⲉ": {
+      "word": "ⲙⲟⲩⲧⲉ",
+      "definition": "to call",
+      "part_of_speech": "verb",
+      "transliteration": "moute",
+      "etymology": "Egyptian mwt"
+    },
+    "ⲛⲁⲩ": {
+      "word": "ⲛⲁⲩ",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "nau",
+      "etymology": "Egyptian mꜣꜣ"
+    },
+    "ⲥⲱⲧⲙ": {
+      "word": "ⲥⲱⲧⲙ",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "sōtm",
+      "etymology": "Egyptian sḏm"
+    },
+    "ⲙⲟⲟⲩⲧⲉ": {
+      "word": "ⲙⲟⲟⲩⲧⲉ",
+      "definition": "to kill",
+      "part_of_speech": "verb",
+      "transliteration": "mooute",
+      "etymology": "Egyptian mwt"
+    },
+    "ⲱⲛϩ": {
+      "word": "ⲱⲛϩ",
+      "definition": "to live",
+      "part_of_speech": "verb",
+      "transliteration": "ōnh",
+      "etymology": "Egyptian ꜥnḫ"
+    },
+    "ⲙⲟⲩ": {
+      "word": "ⲙⲟⲩ",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "mou",
+      "etymology": "Egyptian mwt"
+    },
+    "ϣⲱⲡⲉ": {
+      "word": "ϣⲱⲡⲉ",
+      "definition": "to become, be",
+      "part_of_speech": "verb",
+      "transliteration": "shōpe",
+      "etymology": "Egyptian ḫpr"
+    },
+    "ⲉⲓⲣⲉ": {
+      "word": "ⲉⲓⲣⲉ",
+      "definition": "to do, make",
+      "part_of_speech": "verb",
+      "transliteration": "eire",
+      "etymology": "Egyptian ir"
+    },
+    "ⲙⲉ": {
+      "word": "ⲙⲉ",
+      "definition": "truth",
+      "part_of_speech": "noun",
+      "transliteration": "me",
+      "etymology": "Egyptian mꜣꜣt"
+    },
+    "ⲥⲟⲟⲩⲛ": {
+      "word": "ⲥⲟⲟⲩⲛ",
+      "definition": "to know",
+      "part_of_speech": "verb",
+      "transliteration": "sooun",
+      "etymology": "Egyptian rh"
+    },
+    "ϩⲓ": {
+      "word": "ϩⲓ",
+      "definition": "under, through, by",
+      "part_of_speech": "preposition",
+      "transliteration": "hi",
+      "etymology": "Egyptian ḥr"
+    },
+    "ϩⲛ": {
+      "word": "ϩⲛ",
+      "definition": "in, at, by (prefix)",
+      "part_of_speech": "preposition",
+      "transliteration": "hn",
+      "etymology": "Egyptian m"
+    },
+    "ⲉ": {
+      "word": "ⲉ",
+      "definition": "to, toward, for",
+      "part_of_speech": "preposition",
+      "transliteration": "e",
+      "etymology": "Egyptian r"
+    },
+    "ⲙⲛ": {
+      "word": "ⲙⲛ",
+      "definition": "with, and",
+      "part_of_speech": "preposition",
+      "transliteration": "mn",
+      "etymology": "Egyptian ḥnꜥ"
+    },
+    "ϩⲁ": {
+      "word": "ϩⲁ",
+      "definition": "with, by, near",
+      "part_of_speech": "preposition",
+      "transliteration": "ha",
+      "etymology": "Egyptian ḥꜣ"
+    },
+    "ϩⲓⲧⲛ": {
+      "word": "ϩⲓⲧⲛ",
+      "definition": "through, by means of",
+      "part_of_speech": "preposition",
+      "transliteration": "hitn",
+      "etymology": "Greek"
+    },
+    "ⲕⲁⲧⲁ": {
+      "word": "ⲕⲁⲧⲁ",
+      "definition": "according to",
+      "part_of_speech": "preposition",
+      "transliteration": "kata",
+      "etymology": "Greek: κατά"
+    },
+    "ⲁⲩⲱ": {
+      "word": "ⲁⲩⲱ",
+      "definition": "and",
+      "part_of_speech": "conjunction",
+      "transliteration": "auō",
+      "etymology": "Greek: αὐτός"
+    },
+    "ⲇⲉ": {
+      "word": "ⲇⲉ",
+      "definition": "but, and, now",
+      "part_of_speech": "conjunction",
+      "transliteration": "de",
+      "etymology": "Greek: δέ"
+    },
+    "ϫⲉ": {
+      "word": "ϫⲉ",
+      "definition": "saying, word",
+      "part_of_speech": "noun",
+      "transliteration": "je",
+      "etymology": "Coptic"
+    },
+    "ⲉⲧⲃⲉ": {
+      "word": "ⲉⲧⲃⲉ",
+      "definition": "because, since",
+      "part_of_speech": "conjunction",
+      "transliteration": "etbe",
+      "etymology": "Egyptian"
+    },
+    "ⲏ": {
+      "word": "ⲏ",
+      "definition": "or",
+      "part_of_speech": "conjunction",
+      "transliteration": "ē",
+      "etymology": "Greek: ἤ"
+    },
+    "ⲉⲓⲧⲉ": {
+      "word": "ⲉⲓⲧⲉ",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "eite",
+      "etymology": "Greek: εἴτε"
+    },
+    "ⲙⲡⲉ": {
+      "word": "ⲙⲡⲉ",
+      "definition": "not (past)",
+      "part_of_speech": "negative",
+      "transliteration": "mpe",
+      "etymology": "Egyptian n-m-ir"
+    },
+    "ⲟⲩⲁ": {
+      "word": "ⲟⲩⲁ",
+      "definition": "one",
+      "part_of_speech": "numeral",
+      "transliteration": "oua",
+      "etymology": "Egyptian waꜥ"
+    },
+    "ⲥⲛⲁⲩ": {
+      "word": "ⲥⲛⲁⲩ",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "snau",
+      "etymology": "Egyptian snwj"
+    },
+    "ϣⲟⲙⲛ̄ⲧ": {
+      "word": "ϣⲟⲙⲛ̄ⲧ",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "shomnt",
+      "etymology": "Egyptian ḫmt"
+    },
+    "ϥⲧⲟⲟⲩ": {
+      "word": "ϥⲧⲟⲟⲩ",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "ftoou",
+      "etymology": "Egyptian jfdw"
+    },
+    "ⲧⲓⲟⲩ": {
+      "word": "ⲧⲓⲟⲩ",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "tiou",
+      "etymology": "Egyptian djwf"
+    },
+    "ⲛⲟⲩⲧⲉ": {
+      "word": "ⲛⲟⲩⲧⲉ",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "noute",
+      "etymology": "Egyptian nṯr"
+    },
+    "ⲓⲥ": {
+      "word": "ⲓⲥ",
+      "definition": "Jesus",
+      "part_of_speech": "proper noun",
+      "transliteration": "is",
+      "etymology": "Greek: Ἰησοῦς"
+    },
+    "ⲭⲣⲓⲥⲧⲟⲥ": {
+      "word": "ⲭⲣⲓⲥⲧⲟⲥ",
+      "definition": "Christ",
+      "part_of_speech": "proper noun",
+      "transliteration": "christos",
+      "etymology": "Greek: Χριστός"
+    },
+    "ⲡⲛⲟⲩⲧⲉ": {
+      "word": "ⲡⲛⲟⲩⲧⲉ",
+      "definition": "the God",
+      "part_of_speech": "proper noun",
+      "transliteration": "pnoute",
+      "etymology": "ⲡ + ⲛⲟⲩⲧⲉ"
+    },
+    "ⲙⲁⲣⲓⲁ": {
+      "word": "ⲙⲁⲣⲓⲁ",
+      "definition": "Mary",
+      "part_of_speech": "proper noun",
+      "transliteration": "maria",
+      "etymology": "Greek: Μαρία"
+    },
+    "ⲡⲁⲩⲗⲟⲥ": {
+      "word": "ⲡⲁⲩⲗⲟⲥ",
+      "definition": "Paul",
+      "part_of_speech": "proper noun",
+      "transliteration": "paulos",
+      "etymology": "Greek: Παῦλος"
+    },
+    "ⲡⲉⲧⲣⲟⲥ": {
+      "word": "ⲡⲉⲧⲣⲟⲥ",
+      "definition": "Peter",
+      "part_of_speech": "proper noun",
+      "transliteration": "petros",
+      "etymology": "Greek: Πέτρος"
+    },
+    "ⲛⲟⲃⲉ": {
+      "word": "ⲛⲟⲃⲉ",
+      "definition": "bad, evil",
+      "part_of_speech": "adjective",
+      "transliteration": "nobe",
+      "etymology": "Egyptian bin"
+    },
+    "ⲛⲁⲛⲟⲩⲃ": {
+      "word": "ⲛⲁⲛⲟⲩⲃ",
+      "definition": "good, beautiful",
+      "part_of_speech": "adjective",
+      "transliteration": "nanoub",
+      "etymology": "Egyptian nfr"
+    },
+    "ⲛⲓⲙ": {
+      "word": "ⲛⲓⲙ",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "nim",
+      "etymology": "Egyptian nḏs"
+    },
+    "ⲟⲩⲟⲓ": {
+      "word": "ⲟⲩⲟⲓ",
+      "definition": "great, big",
+      "part_of_speech": "adjective",
+      "transliteration": "ouoi",
+      "etymology": "Greek: πολύς"
+    },
+    "ⲕⲟⲩⲓ": {
+      "word": "ⲕⲟⲩⲓ",
+      "definition": "small, young",
+      "part_of_speech": "adjective",
+      "transliteration": "koui",
+      "etymology": "Greek: μικρός"
+    },
+    "ⲥⲟⲩ": {
+      "word": "ⲥⲟⲩ",
+      "definition": "first",
+      "part_of_speech": "adjective",
+      "transliteration": "sou",
+      "etymology": "Egyptian tp"
+    },
+    "ⲥⲛⲟⲟⲩⲥ": {
+      "word": "ⲥⲛⲟⲟⲩⲥ",
+      "definition": "last",
+      "part_of_speech": "adjective",
+      "transliteration": "snoous",
+      "etymology": "Egyptian ḥr"
+    },
+    "ϩⲁⲑ": {
+      "word": "ϩⲁⲑ",
+      "definition": "exalted",
+      "part_of_speech": "adjective",
+      "transliteration": "hath",
+      "etymology": "Egyptian šꜣi"
+    },
+    "ⲟⲩⲁⲁⲃ": {
+      "word": "ⲟⲩⲁⲁⲃ",
+      "definition": "holy",
+      "part_of_speech": "adjective",
+      "transliteration": "ouaab",
+      "etymology": "Egyptian wꜥb"
+    },
+    "ⲥⲁϩⲛⲉ": {
+      "word": "ⲥⲁϩⲛⲉ",
+      "definition": "truth",
+      "part_of_speech": "noun",
+      "transliteration": "sahne",
+      "etymology": "Egyptian mꜣꜣt"
+    },
+    "ⲥⲟⲫⲓⲁ": {
+      "word": "ⲥⲟⲫⲓⲁ",
+      "definition": "wisdom",
+      "part_of_speech": "noun",
+      "transliteration": "sophia",
+      "etymology": "Greek: σοφία"
+    },
+    "ⲅⲛⲱⲥⲓⲥ": {
+      "word": "ⲅⲛⲱⲥⲓⲥ",
+      "definition": "knowledge",
+      "part_of_speech": "noun",
+      "transliteration": "gnōsis",
+      "etymology": "Greek: γνῶσις"
+    },
+    "ⲣⲁϩⲧ": {
+      "word": "ⲣⲁϩⲧ",
+      "definition": "kingdom, reign",
+      "part_of_speech": "noun",
+      "transliteration": "raht",
+      "etymology": "Egyptian nsyt"
+    },
+    "ⲛⲟϭ": {
+      "word": "ⲛⲟϭ",
+      "definition": "thing, matter",
+      "part_of_speech": "noun",
+      "transliteration": "noj",
+      "etymology": "Greek?"
+    },
+    "ⲁⲗⲗⲁ": {
+      "word": "ⲁⲗⲗⲁ",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "alla",
+      "etymology": "Greek: ἀλλά"
+    },
+    "ϩⲟ": {
+      "word": "ϩⲟ",
+      "definition": "face",
+      "part_of_speech": "noun",
+      "transliteration": "ho",
+      "etymology": "Egyptian ḥr"
+    },
+    "ⲧⲟⲩ": {
+      "word": "ⲧⲟⲩ",
+      "definition": "head",
+      "part_of_speech": "noun",
+      "transliteration": "tou",
+      "etymology": "Egyptian ḏd"
+    },
+    "ϩⲟⲩⲓⲧ": {
+      "word": "ϩⲟⲩⲓⲧ",
+      "definition": "hand",
+      "part_of_speech": "noun",
+      "transliteration": "houit",
+      "etymology": "Egyptian ḏrt"
+    },
+    "ⲣⲁϩ": {
+      "word": "ⲣⲁϩ",
+      "definition": "foot",
+      "part_of_speech": "noun",
+      "transliteration": "rah",
+      "etymology": "Egyptian rd"
+    },
+    "ⲙⲁⲁϫⲉ": {
+      "word": "ⲙⲁⲁϫⲉ",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "maaje",
+      "etymology": "Egyptian jrt"
+    },
+    "ⲙⲉϩ": {
+      "word": "ⲙⲉϩ",
+      "definition": "thigh, side",
+      "part_of_speech": "noun",
+      "transliteration": "meh",
+      "etymology": "Egyptian mḥ"
+    },
+    "ϩⲛⲟⲩ": {
+      "word": "ϩⲛⲟⲩ",
+      "definition": "voice",
+      "part_of_speech": "noun",
+      "transliteration": "hnou",
+      "etymology": "Egyptian ḥnw"
+    },
+    "ϣⲁϣ": {
+      "word": "ϣⲁϣ",
+      "definition": "tree, wood",
+      "part_of_speech": "noun",
+      "transliteration": "shash",
+      "etymology": "Egyptian št"
+    },
+    "ϩⲓⲟⲙ": {
+      "word": "ϩⲓⲟⲙ",
+      "definition": "sea, lake",
+      "part_of_speech": "noun",
+      "transliteration": "hiom",
+      "etymology": "Greek: ἡ θάλασσα"
+    },
+    "ϩⲁⲉ": {
+      "word": "ϩⲁⲉ",
+      "definition": "field",
+      "part_of_speech": "noun",
+      "transliteration": "hae",
+      "etymology": "Egyptian sḥt"
+    },
+    "ⲣⲱ": {
+      "word": "ⲣⲱ",
+      "definition": "river",
+      "part_of_speech": "noun",
+      "transliteration": "rō",
+      "etymology": "Greek: ῥεῖν"
+    },
+    "ⲕⲏⲡⲉ": {
+      "word": "ⲕⲏⲡⲉ",
+      "definition": "garden",
+      "part_of_speech": "noun",
+      "transliteration": "kēpe",
+      "etymology": "Greek: κῆπος"
+    },
+    "ⲛⲟⲩⲛⲉ": {
+      "word": "ⲛⲟⲩⲛⲉ",
+      "definition": "fountain, well",
+      "part_of_speech": "noun",
+      "transliteration": "noune",
+      "etymology": "Greek: πηγή"
+    },
+    "ϩⲟⲟⲩ": {
+      "word": "ϩⲟⲟⲩ",
+      "definition": "day",
+      "part_of_speech": "noun",
+      "transliteration": "hoou",
+      "etymology": "Egyptian hrw"
+    },
+    "ⲧⲉⲃⲛⲏ": {
+      "word": "ⲧⲉⲃⲛⲏ",
+      "definition": "evening",
+      "part_of_speech": "noun",
+      "transliteration": "tebnē",
+      "etymology": "Greek: ἑσπέρα"
+    },
+    "ϩⲧⲟ": {
+      "word": "ϩⲧⲟ",
+      "definition": "morning",
+      "part_of_speech": "noun",
+      "transliteration": "hto",
+      "etymology": "Greek: ἑωθινός"
+    },
+    "ⲣⲟⲩϩⲉ": {
+      "word": "ⲣⲟⲩϩⲉ",
+      "definition": "day, time",
+      "part_of_speech": "noun",
+      "transliteration": "rouhe",
+      "etymology": "Egyptian tr"
+    },
+    "ⲥⲟⲟⲩ": {
+      "word": "ⲥⲟⲟⲩ",
+      "definition": "time, hour",
+      "part_of_speech": "noun",
+      "transliteration": "soou",
+      "etymology": "Greek: ὥρα"
+    },
+    "ⲙⲛⲧⲣⲉ": {
+      "word": "ⲙⲛⲧⲣⲉ",
+      "definition": "joy",
+      "part_of_speech": "noun",
+      "transliteration": "mntre",
+      "etymology": "Egyptian"
+    },
+    "ϩⲓⲥⲉ": {
+      "word": "ϩⲓⲥⲉ",
+      "definition": "wound, mark",
+      "part_of_speech": "noun",
+      "transliteration": "hise",
+      "etymology": "Greek: ἕλκος"
+    },
+    "ⲥⲙⲟⲧ": {
+      "word": "ⲥⲙⲟⲧ",
+      "definition": "blessing",
+      "part_of_speech": "noun",
+      "transliteration": "smot",
+      "etymology": "Egyptian sḥtp"
+    },
+    "ϩⲓⲣⲏⲛⲏ": {
+      "word": "ϩⲓⲣⲏⲛⲏ",
+      "definition": "peace",
+      "part_of_speech": "noun",
+      "transliteration": "hirēnē",
+      "etymology": "Greek: εἰρήνη"
+    },
+    "ⲁⲅⲁⲡⲏ": {
+      "word": "ⲁⲅⲁⲡⲏ",
+      "definition": "love",
+      "part_of_speech": "noun",
+      "transliteration": "agapē",
+      "etymology": "Greek: ἀγάπη"
+    },
+    "ⲡⲓⲥⲧⲓⲥ": {
+      "word": "ⲡⲓⲥⲧⲓⲥ",
+      "definition": "faith",
+      "part_of_speech": "noun",
+      "transliteration": "pistis",
+      "etymology": "Greek: πίστις"
+    },
+    "ⲉⲗⲡⲓⲥ": {
+      "word": "ⲉⲗⲡⲓⲥ",
+      "definition": "hope",
+      "part_of_speech": "noun",
+      "transliteration": "elpis",
+      "etymology": "Greek: ἐλπίς"
+    },
+    "ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ": {
+      "word": "ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ",
+      "definition": "righteousness",
+      "part_of_speech": "noun",
+      "transliteration": "dikaiosynē",
+      "etymology": "Greek: δικαιοσύνη"
+    },
+    "ⲱϣ": {
+      "word": "ⲱϣ",
+      "definition": "to wash",
+      "part_of_speech": "verb",
+      "transliteration": "ōsh",
+      "etymology": "Egyptian wꜥb"
+    },
+    "ⲉⲓⲛⲉ": {
+      "word": "ⲉⲓⲛⲉ",
+      "definition": "to bring",
+      "part_of_speech": "verb",
+      "transliteration": "eine",
+      "etymology": "Egyptian jnj"
+    },
+    "ⲥⲱⲣ": {
+      "word": "ⲥⲱⲣ",
+      "definition": "to write",
+      "part_of_speech": "verb",
+      "transliteration": "sōr",
+      "etymology": "Egyptian sšꜣ"
+    },
+    "ϣⲱⲣ": {
+      "word": "ϣⲱⲣ",
+      "definition": "to spread",
+      "part_of_speech": "verb",
+      "transliteration": "shōr",
+      "etymology": "Egyptian pꜣḏ"
+    },
+    "ϯϩⲏ": {
+      "word": "ϯϩⲏ",
+      "definition": "to command",
+      "part_of_speech": "verb",
+      "transliteration": "tihē",
+      "etymology": "Egyptian wd"
+    },
+    "ⲥⲓⲛⲉ": {
+      "word": "ⲥⲓⲛⲉ",
+      "definition": "to kiss",
+      "part_of_speech": "verb",
+      "transliteration": "sine",
+      "etymology": "Greek: κυνέω"
+    },
+    "ⲣⲟϩ": {
+      "word": "ⲣⲟϩ",
+      "definition": "to open",
+      "part_of_speech": "verb",
+      "transliteration": "roh",
+      "etymology": "Egyptian wn"
+    },
+    "ϭⲱ": {
+      "word": "ϭⲱ",
+      "definition": "to remain, stay",
+      "part_of_speech": "verb",
+      "transliteration": "chō",
+      "etymology": "Greek: μένω"
+    },
+    "ϣⲱⲱⲧ": {
+      "word": "ϣⲱⲱⲧ",
+      "definition": "to seek",
+      "part_of_speech": "verb",
+      "transliteration": "shōwt",
+      "etymology": "Greek: ζητεῖν"
+    },
+    "ⲙⲟⲟⲩⲧ": {
+      "word": "ⲙⲟⲟⲩⲧ",
+      "definition": "to touch",
+      "part_of_speech": "verb",
+      "transliteration": "moout",
+      "etymology": "Greek: ἅπτεσθαι"
+    },
+    "ϩⲁⲙ": {
+      "word": "ϩⲁⲙ",
+      "definition": "reed, papyrus",
+      "part_of_speech": "noun",
+      "transliteration": "ham",
+      "etymology": "Egyptian ꜥm"
+    },
+    "ⲥⲟ": {
+      "word": "ⲥⲟ",
+      "definition": "rock, stone",
+      "part_of_speech": "noun",
+      "transliteration": "so",
+      "etymology": "Greek: πέτρα"
+    },
+    "ϩⲟⲩⲛⲧ": {
+      "word": "ϩⲟⲩⲛⲧ",
+      "definition": "clothing",
+      "part_of_speech": "noun",
+      "transliteration": "hount",
+      "etymology": "Egyptian mnḫt"
+    },
+    "ⲥⲟⲃⲧ": {
+      "word": "ⲥⲟⲃⲧ",
+      "definition": "sword",
+      "part_of_speech": "noun",
+      "transliteration": "sobt",
+      "etymology": "Greek: σπάθη"
+    },
+    "ⲟⲩⲱⲛϩ": {
+      "word": "ⲟⲩⲱⲛϩ",
+      "definition": "light",
+      "part_of_speech": "noun",
+      "transliteration": "ouōnh",
+      "etymology": "Egyptian ꜣḫt"
+    },
+    "ⲥⲕⲟⲧⲟⲥ": {
+      "word": "ⲥⲕⲟⲧⲟⲥ",
+      "definition": "darkness",
+      "part_of_speech": "noun",
+      "transliteration": "skotos",
+      "etymology": "Greek: σκότος"
+    },
+    "ⲡⲩⲣ": {
+      "word": "ⲡⲩⲣ",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "pyr",
+      "etymology": "Greek: πῦρ"
+    },
+    "ⲓⲟⲩⲇⲁⲥ": {
+      "word": "ⲓⲟⲩⲇⲁⲥ",
+      "definition": "Judas",
+      "part_of_speech": "proper noun",
+      "transliteration": "ioudas",
+      "etymology": "Greek: Ἰούδας"
+    },
+    "ⲓⲁⲕⲱⲃⲟⲥ": {
+      "word": "ⲓⲁⲕⲱⲃⲟⲥ",
+      "definition": "James",
+      "part_of_speech": "proper noun",
+      "transliteration": "iakōbos",
+      "etymology": "Greek: Ἰάκωβος"
+    },
+    "ⲓⲱⲁⲛⲛⲏⲥ": {
+      "word": "ⲓⲱⲁⲛⲛⲏⲥ",
+      "definition": "John",
+      "part_of_speech": "proper noun",
+      "transliteration": "iōannēs",
+      "etymology": "Greek: Ἰωάννης"
+    },
+    "ⲁⲛⲇⲣⲉⲁⲥ": {
+      "word": "ⲁⲛⲇⲣⲉⲁⲥ",
+      "definition": "Andrew",
+      "part_of_speech": "proper noun",
+      "transliteration": "andreas",
+      "etymology": "Greek: Ἀνδρέας"
+    },
+    "ⲡⲓⲗⲁⲧⲟⲥ": {
+      "word": "ⲡⲓⲗⲁⲧⲟⲥ",
+      "definition": "Pilate",
+      "part_of_speech": "proper noun",
+      "transliteration": "pilatos",
+      "etymology": "Greek: Πιλᾶτος"
+    },
+    "ϩⲣⲟⲇⲏ": {
+      "word": "ϩⲣⲟⲇⲏ",
+      "definition": "Herod",
+      "part_of_speech": "proper noun",
+      "transliteration": "hrōdē",
+      "etymology": "Greek: Ἡρῴδης"
+    },
+    "ⲁⲡⲟⲥⲧⲟⲗⲟⲥ": {
+      "word": "ⲁⲡⲟⲥⲧⲟⲗⲟⲥ",
+      "definition": "apostle",
+      "part_of_speech": "noun",
+      "transliteration": "apostolos",
+      "etymology": "Greek: ἀπόστολος"
+    },
+    "ⲇⲓⲁⲕⲟⲛⲟⲥ": {
+      "word": "ⲇⲓⲁⲕⲟⲛⲟⲥ",
+      "definition": "deacon",
+      "part_of_speech": "noun",
+      "transliteration": "diakonos",
+      "etymology": "Greek: διάκονος"
+    },
+    "ⲉⲡⲓⲥⲕⲟⲡⲟⲥ": {
+      "word": "ⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+      "definition": "bishop, overseer",
+      "part_of_speech": "noun",
+      "transliteration": "episkopos",
+      "etymology": "Greek: ἐπίσκοπος"
+    },
+    "ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ": {
+      "word": "ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+      "definition": "elder, priest",
+      "part_of_speech": "noun",
+      "transliteration": "presbyteros",
+      "etymology": "Greek: πρεσβύτερος"
+    },
+    "ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ": {
+      "word": "ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ",
+      "definition": "gospel",
+      "part_of_speech": "noun",
+      "transliteration": "euaggelion",
+      "etymology": "Greek: εὐαγγέλιον"
+    },
+    "ⲕⲱⲛ": {
+      "word": "ⲕⲱⲛ",
+      "definition": "village",
+      "part_of_speech": "noun",
+      "transliteration": "kōn",
+      "etymology": "Greek: κώμη"
+    },
+    "ⲡⲟⲗⲓⲥ": {
+      "word": "ⲡⲟⲗⲓⲥ",
+      "definition": "city",
+      "part_of_speech": "noun",
+      "transliteration": "polis",
+      "etymology": "Greek: πόλις"
+    },
+    "ⲟⲓⲕⲓⲁ": {
+      "word": "ⲟⲓⲕⲓⲁ",
+      "definition": "house",
+      "part_of_speech": "noun",
+      "transliteration": "oikia",
+      "etymology": "Greek: οἰκία"
+    },
+    "ⲉⲕⲕⲗⲏⲥⲓⲁ": {
+      "word": "ⲉⲕⲕⲗⲏⲥⲓⲁ",
+      "definition": "church, assembly",
+      "part_of_speech": "noun",
+      "transliteration": "ekklēsia",
+      "etymology": "Greek: ἐκκλησία"
+    }
+  },
+  "etymology_breakdown": {
+    "pi": [
+      "ⲡ"
+    ],
+    "tau": [
+      "ⲧ"
+    ],
+    "Egyptian nn": [
+      "ⲛ"
+    ],
+    "Greek": [
+      "ⲟⲩ",
+      "ⲥⲟⲛ",
+      "ⲥⲱⲛⲉ",
+      "ⲡⲛⲉⲩⲙⲁ",
+      "ⲯⲩⲭⲏ",
+      "ⲥⲁⲣⲝ",
+      "ⲥⲱⲙⲁ",
+      "ϩⲱⲥ",
+      "ϩⲓⲧⲛ",
+      "ⲕⲁⲧⲁ",
+      "ⲁⲩⲱ",
+      "ⲇⲉ",
+      "ⲏ",
+      "ⲉⲓⲧⲉ",
+      "ⲓⲥ",
+      "ⲭⲣⲓⲥⲧⲟⲥ",
+      "ⲙⲁⲣⲓⲁ",
+      "ⲡⲁⲩⲗⲟⲥ",
+      "ⲡⲉⲧⲣⲟⲥ",
+      "ⲟⲩⲟⲓ",
+      "ⲕⲟⲩⲓ",
+      "ⲥⲟⲫⲓⲁ",
+      "ⲅⲛⲱⲥⲓⲥ",
+      "ⲁⲗⲗⲁ",
+      "ϩⲓⲟⲙ",
+      "ⲣⲱ",
+      "ⲕⲏⲡⲉ",
+      "ⲛⲟⲩⲛⲉ",
+      "ⲧⲉⲃⲛⲏ",
+      "ϩⲧⲟ",
+      "ⲥⲟⲟⲩ",
+      "ϩⲓⲥⲉ",
+      "ϩⲓⲣⲏⲛⲏ",
+      "ⲁⲅⲁⲡⲏ",
+      "ⲡⲓⲥⲧⲓⲥ",
+      "ⲉⲗⲡⲓⲥ",
+      "ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ",
+      "ⲥⲓⲛⲉ",
+      "ϭⲱ",
+      "ϣⲱⲱⲧ",
+      "ⲙⲟⲟⲩⲧ",
+      "ⲥⲟ",
+      "ⲥⲟⲃⲧ",
+      "ⲥⲕⲟⲧⲟⲥ",
+      "ⲡⲩⲣ",
+      "ⲓⲟⲩⲇⲁⲥ",
+      "ⲓⲁⲕⲱⲃⲟⲥ",
+      "ⲓⲱⲁⲛⲛⲏⲥ",
+      "ⲁⲛⲇⲣⲉⲁⲥ",
+      "ⲡⲓⲗⲁⲧⲟⲥ",
+      "ϩⲣⲟⲇⲏ",
+      "ⲁⲡⲟⲥⲧⲟⲗⲟⲥ",
+      "ⲇⲓⲁⲕⲟⲛⲟⲥ",
+      "ⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+      "ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+      "ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ",
+      "ⲕⲱⲛ",
+      "ⲡⲟⲗⲓⲥ",
+      "ⲟⲓⲕⲓⲁ",
+      "ⲉⲕⲕⲗⲏⲥⲓⲁ"
+    ],
+    "pi + ei": [
+      "ⲡⲉⲓ"
+    ],
+    "tau + ei": [
+      "ⲧⲉⲓ"
+    ],
+    "nu + ei": [
+      "ⲛⲉⲓ"
+    ],
+    "Egyptian": [
+      "ⲁⲛⲟⲕ",
+      "ⲛⲧⲟⲕ",
+      "ⲛⲧⲟ",
+      "ⲛⲧⲟⲩ",
+      "ⲛⲧⲟϥ",
+      "ⲛⲧⲟⲥ",
+      "ⲛⲧⲟⲟⲩ",
+      "ⲉⲧⲃⲉ",
+      "ⲙⲛⲧⲣⲉ"
+    ],
+    "Egyptian rmṯ": [
+      "ⲣⲱⲙⲉ"
+    ],
+    "Egyptian ẖmt": [
+      "ⲥϩⲓⲙⲉ"
+    ],
+    "Egyptian šr": [
+      "ϣⲏⲣⲉ"
+    ],
+    "Egyptian it": [
+      "ⲉⲓⲱⲧ"
+    ],
+    "Egyptian mw.t": [
+      "ⲙⲁⲁⲩ"
+    ],
+    "Egyptian ḥꜣt": [
+      "ϩⲏⲧ"
+    ],
+    "Egyptian ršw": [
+      "ⲣⲁϣⲉ"
+    ],
+    "Egyptian mw": [
+      "ⲙⲟⲩⲛ"
+    ],
+    "Egyptian rꜥ": [
+      "ⲣⲏ"
+    ],
+    "Egyptian pt": [
+      "ⲡⲉ"
+    ],
+    "Egyptian tꜣ": [
+      "ⲕⲁϩ"
+    ],
+    "Egyptian ḫt": [
+      "ϩⲱⲃ"
+    ],
+    "Egyptian wꜣt": [
+      "ϩⲟⲓⲛⲉ"
+    ],
+    "Egyptian mnt": [
+      "ⲙⲛⲧ"
+    ],
+    "Egyptian ii": [
+      "ⲉⲓ"
+    ],
+    "Egyptian bk": [
+      "ⲃⲱⲕ"
+    ],
+    "Egyptian di": [
+      "ϯ"
+    ],
+    "Egyptian ḫi": [
+      "ϫⲓ"
+    ],
+    "Egyptian mwt": [
+      "ⲙⲟⲩⲧⲉ",
+      "ⲙⲟⲟⲩⲧⲉ",
+      "ⲙⲟⲩ"
+    ],
+    "Egyptian mꜣꜣ": [
+      "ⲛⲁⲩ"
+    ],
+    "Egyptian sḏm": [
+      "ⲥⲱⲧⲙ"
+    ],
+    "Egyptian ꜥnḫ": [
+      "ⲱⲛϩ"
+    ],
+    "Egyptian ḫpr": [
+      "ϣⲱⲡⲉ"
+    ],
+    "Egyptian ir": [
+      "ⲉⲓⲣⲉ"
+    ],
+    "Egyptian mꜣꜣt": [
+      "ⲙⲉ",
+      "ⲥⲁϩⲛⲉ"
+    ],
+    "Egyptian rh": [
+      "ⲥⲟⲟⲩⲛ"
+    ],
+    "Egyptian ḥr": [
+      "ϩⲓ",
+      "ⲥⲛⲟⲟⲩⲥ",
+      "ϩⲟ"
+    ],
+    "Egyptian m": [
+      "ϩⲛ"
+    ],
+    "Egyptian r": [
+      "ⲉ"
+    ],
+    "Egyptian ḥnꜥ": [
+      "ⲙⲛ"
+    ],
+    "Egyptian ḥꜣ": [
+      "ϩⲁ"
+    ],
+    "Coptic": [
+      "ϫⲉ"
+    ],
+    "Egyptian n-m-ir": [
+      "ⲙⲡⲉ"
+    ],
+    "Egyptian waꜥ": [
+      "ⲟⲩⲁ"
+    ],
+    "Egyptian snwj": [
+      "ⲥⲛⲁⲩ"
+    ],
+    "Egyptian ḫmt": [
+      "ϣⲟⲙⲛ̄ⲧ"
+    ],
+    "Egyptian jfdw": [
+      "ϥⲧⲟⲟⲩ"
+    ],
+    "Egyptian djwf": [
+      "ⲧⲓⲟⲩ"
+    ],
+    "Egyptian nṯr": [
+      "ⲛⲟⲩⲧⲉ"
+    ],
+    "ⲡ + ⲛⲟⲩⲧⲉ": [
+      "ⲡⲛⲟⲩⲧⲉ"
+    ],
+    "Egyptian bin": [
+      "ⲛⲟⲃⲉ"
+    ],
+    "Egyptian nfr": [
+      "ⲛⲁⲛⲟⲩⲃ"
+    ],
+    "Egyptian nḏs": [
+      "ⲛⲓⲙ"
+    ],
+    "Egyptian tp": [
+      "ⲥⲟⲩ"
+    ],
+    "Egyptian šꜣi": [
+      "ϩⲁⲑ"
+    ],
+    "Egyptian wꜥb": [
+      "ⲟⲩⲁⲁⲃ",
+      "ⲱϣ"
+    ],
+    "Egyptian nsyt": [
+      "ⲣⲁϩⲧ"
+    ],
+    "Greek?": [
+      "ⲛⲟϭ"
+    ],
+    "Egyptian ḏd": [
+      "ⲧⲟⲩ"
+    ],
+    "Egyptian ḏrt": [
+      "ϩⲟⲩⲓⲧ"
+    ],
+    "Egyptian rd": [
+      "ⲣⲁϩ"
+    ],
+    "Egyptian jrt": [
+      "ⲙⲁⲁϫⲉ"
+    ],
+    "Egyptian mḥ": [
+      "ⲙⲉϩ"
+    ],
+    "Egyptian ḥnw": [
+      "ϩⲛⲟⲩ"
+    ],
+    "Egyptian št": [
+      "ϣⲁϣ"
+    ],
+    "Egyptian sḥt": [
+      "ϩⲁⲉ"
+    ],
+    "Egyptian hrw": [
+      "ϩⲟⲟⲩ"
+    ],
+    "Egyptian tr": [
+      "ⲣⲟⲩϩⲉ"
+    ],
+    "Egyptian sḥtp": [
+      "ⲥⲙⲟⲧ"
+    ],
+    "Egyptian jnj": [
+      "ⲉⲓⲛⲉ"
+    ],
+    "Egyptian sšꜣ": [
+      "ⲥⲱⲣ"
+    ],
+    "Egyptian pꜣḏ": [
+      "ϣⲱⲣ"
+    ],
+    "Egyptian wd": [
+      "ϯϩⲏ"
+    ],
+    "Egyptian wn": [
+      "ⲣⲟϩ"
+    ],
+    "Egyptian ꜥm": [
+      "ϩⲁⲙ"
+    ],
+    "Egyptian mnḫt": [
+      "ϩⲟⲩⲛⲧ"
+    ],
+    "Egyptian ꜣḫt": [
+      "ⲟⲩⲱⲛϩ"
+    ]
+  }
+}

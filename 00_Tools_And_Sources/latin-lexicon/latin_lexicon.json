@@ -1,0 +1,5165 @@
+{
+  "metadata": {
+    "title": "Latin Lexicon",
+    "language": "Latin (Classical and Ecclesiastical)",
+    "period": "Classical (100 BCE-200 CE), Ecclesiastical (to present)",
+    "total_entries": 657,
+    "format": "JSON",
+    "notes": "Includes Classical Latin and Ecclesiastical/Church Latin. Vulgate Bible uses Ecclesiastical Latin."
+  },
+  "entries": {
+    "hic": {
+      "word": "hic",
+      "definition": "here",
+      "part_of_speech": "adverb",
+      "transliteration": "hic"
+    },
+    "haec": {
+      "word": "haec",
+      "definition": "this (feminine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "haec",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "hoc": {
+      "word": "hoc",
+      "definition": "this (neuter)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "hoc",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "ille": {
+      "word": "ille",
+      "definition": "that (masculine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "ille",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "illa": {
+      "word": "illa",
+      "definition": "that (feminine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "illa",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "illud": {
+      "word": "illud",
+      "definition": "that (neuter)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "illud",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "is": {
+      "word": "is",
+      "definition": "he, this",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "is",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "ea": {
+      "word": "ea",
+      "definition": "she, this",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ea",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "id": {
+      "word": "id",
+      "definition": "it, this",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "id",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "ego": {
+      "word": "ego",
+      "definition": "I",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ego",
+      "declension": "irregular"
+    },
+    "tu": {
+      "word": "tu",
+      "definition": "you (singular)",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "tu",
+      "declension": "irregular"
+    },
+    "nos": {
+      "word": "nos",
+      "definition": "we",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "nos",
+      "declension": "irregular"
+    },
+    "vos": {
+      "word": "vos",
+      "definition": "you (plural)",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "vos",
+      "declension": "irregular"
+    },
+    "qui": {
+      "word": "qui",
+      "definition": "who, which (masculine)",
+      "part_of_speech": "relative pronoun",
+      "transliteration": "qui",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "quae": {
+      "word": "quae",
+      "definition": "who, which (feminine)",
+      "part_of_speech": "relative pronoun",
+      "transliteration": "quae",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "quod": {
+      "word": "quod",
+      "definition": "which (neuter)",
+      "part_of_speech": "relative pronoun",
+      "transliteration": "quod",
+      "declension": "irregular",
+      "case": "nominative"
+    },
+    "Deus": {
+      "word": "Deus",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "Deus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "Dominus": {
+      "word": "Dominus",
+      "definition": "Lord, Master",
+      "part_of_speech": "noun",
+      "transliteration": "Dominus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "Christus": {
+      "word": "Christus",
+      "definition": "Christ, Anointed One",
+      "part_of_speech": "noun",
+      "transliteration": "Christus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "Iesus": {
+      "word": "Iesus",
+      "definition": "Jesus",
+      "part_of_speech": "proper noun",
+      "transliteration": "Iesus",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "Spiritus": {
+      "word": "Spiritus",
+      "definition": "Spirit, breath, wind",
+      "part_of_speech": "noun",
+      "transliteration": "Spiritus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "Sanctus": {
+      "word": "Sanctus",
+      "definition": "Holy One, Saint",
+      "part_of_speech": "noun/adjective",
+      "transliteration": "Sanctus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "Pater": {
+      "word": "Pater",
+      "definition": "Father",
+      "part_of_speech": "noun",
+      "transliteration": "Pater",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "Filius": {
+      "word": "Filius",
+      "definition": "Son",
+      "part_of_speech": "noun",
+      "transliteration": "Filius",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "Mater": {
+      "word": "Mater",
+      "definition": "Mother",
+      "part_of_speech": "noun",
+      "transliteration": "Mater",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "Maria": {
+      "word": "Maria",
+      "definition": "Mary",
+      "part_of_speech": "proper noun",
+      "transliteration": "Maria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "Angelus": {
+      "word": "Angelus",
+      "definition": "Angel, messenger",
+      "part_of_speech": "noun",
+      "transliteration": "Angelus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "caelum": {
+      "word": "caelum",
+      "definition": "heaven, sky",
+      "part_of_speech": "noun",
+      "transliteration": "caelum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "regnum": {
+      "word": "regnum",
+      "definition": "kingdom, reign",
+      "part_of_speech": "noun",
+      "transliteration": "regnum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "Rex": {
+      "word": "Rex",
+      "definition": "King",
+      "part_of_speech": "noun",
+      "transliteration": "Rex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "homo": {
+      "word": "homo",
+      "definition": "man, human being",
+      "part_of_speech": "noun",
+      "transliteration": "homo",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "vir": {
+      "word": "vir",
+      "definition": "man, male",
+      "part_of_speech": "noun",
+      "transliteration": "vir",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "mulier": {
+      "word": "mulier",
+      "definition": "woman",
+      "part_of_speech": "noun",
+      "transliteration": "mulier",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "femina": {
+      "word": "femina",
+      "definition": "woman",
+      "part_of_speech": "noun",
+      "transliteration": "femina",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "puer": {
+      "word": "puer",
+      "definition": "boy, child",
+      "part_of_speech": "noun",
+      "transliteration": "puer",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "puella": {
+      "word": "puella",
+      "definition": "girl",
+      "part_of_speech": "noun",
+      "transliteration": "puella",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "familia": {
+      "word": "familia",
+      "definition": "family, household",
+      "part_of_speech": "noun",
+      "transliteration": "familia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "domus": {
+      "word": "domus",
+      "definition": "house, home",
+      "part_of_speech": "noun",
+      "transliteration": "domus",
+      "declension": "4th",
+      "gender": "feminine"
+    },
+    "cor": {
+      "word": "cor",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "cor",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "anima": {
+      "word": "anima",
+      "definition": "soul, breath",
+      "part_of_speech": "noun",
+      "transliteration": "anima",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "corpus": {
+      "word": "corpus",
+      "definition": "body",
+      "part_of_speech": "noun",
+      "transliteration": "corpus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "sanguis": {
+      "word": "sanguis",
+      "definition": "blood",
+      "part_of_speech": "noun",
+      "transliteration": "sanguis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "caro": {
+      "word": "caro",
+      "definition": "meat, flesh",
+      "part_of_speech": "noun",
+      "transliteration": "caro",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "mens": {
+      "word": "mens",
+      "definition": "mind",
+      "part_of_speech": "noun",
+      "transliteration": "mens",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "oculus": {
+      "word": "oculus",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "oculus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "auris": {
+      "word": "auris",
+      "definition": "ear",
+      "part_of_speech": "noun",
+      "transliteration": "auris",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "manus": {
+      "word": "manus",
+      "definition": "hand",
+      "part_of_speech": "noun",
+      "transliteration": "manus",
+      "declension": "4th",
+      "gender": "feminine"
+    },
+    "caput": {
+      "word": "caput",
+      "definition": "head",
+      "part_of_speech": "noun",
+      "transliteration": "caput",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "pes": {
+      "word": "pes",
+      "definition": "foot",
+      "part_of_speech": "noun",
+      "transliteration": "pes",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "aqua": {
+      "word": "aqua",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "aqua",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ignis": {
+      "word": "ignis",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "ignis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "terra": {
+      "word": "terra",
+      "definition": "earth, land, ground",
+      "part_of_speech": "noun",
+      "transliteration": "terra",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "mundus": {
+      "word": "mundus",
+      "definition": "world, universe",
+      "part_of_speech": "noun",
+      "transliteration": "mundus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "arbor": {
+      "word": "arbor",
+      "definition": "tree",
+      "part_of_speech": "noun",
+      "transliteration": "arbor",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "sol": {
+      "word": "sol",
+      "definition": "sun",
+      "part_of_speech": "noun",
+      "transliteration": "sol",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "luna": {
+      "word": "luna",
+      "definition": "moon",
+      "part_of_speech": "noun",
+      "transliteration": "luna",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "stella": {
+      "word": "stella",
+      "definition": "star",
+      "part_of_speech": "noun",
+      "transliteration": "stella",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "via": {
+      "word": "via",
+      "definition": "way, road, path",
+      "part_of_speech": "noun",
+      "transliteration": "via",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "lux": {
+      "word": "lux",
+      "definition": "light",
+      "part_of_speech": "noun",
+      "transliteration": "lux",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "tenebrae": {
+      "word": "tenebrae",
+      "definition": "darkness",
+      "part_of_speech": "noun",
+      "transliteration": "tenebrae",
+      "declension": "1st",
+      "gender": "feminine",
+      "number": "plural"
+    },
+    "nox": {
+      "word": "nox",
+      "definition": "night",
+      "part_of_speech": "noun",
+      "transliteration": "nox",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "dies": {
+      "word": "dies",
+      "definition": "day",
+      "part_of_speech": "noun",
+      "transliteration": "dies",
+      "declension": "5th",
+      "gender": "masculine/feminine"
+    },
+    "aurum": {
+      "word": "aurum",
+      "definition": "gold",
+      "part_of_speech": "noun",
+      "transliteration": "aurum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "argentum": {
+      "word": "argentum",
+      "definition": "silver",
+      "part_of_speech": "noun",
+      "transliteration": "argentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sum": {
+      "word": "sum",
+      "definition": "to be, exist",
+      "part_of_speech": "verb",
+      "transliteration": "sum",
+      "conjugation": "irregular"
+    },
+    "est": {
+      "word": "est",
+      "definition": "he/she/it is",
+      "part_of_speech": "verb",
+      "transliteration": "est",
+      "conjugation": "irregular",
+      "person": "3rd",
+      "number": "singular"
+    },
+    "dico": {
+      "word": "dico",
+      "definition": "to say, speak",
+      "part_of_speech": "verb",
+      "transliteration": "dico",
+      "conjugation": "3rd"
+    },
+    "facio": {
+      "word": "facio",
+      "definition": "to make, do",
+      "part_of_speech": "verb",
+      "transliteration": "facio",
+      "conjugation": "3rd"
+    },
+    "habeo": {
+      "word": "habeo",
+      "definition": "to have, hold",
+      "part_of_speech": "verb",
+      "transliteration": "habeo",
+      "conjugation": "2nd"
+    },
+    "video": {
+      "word": "video",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "video",
+      "conjugation": "2nd"
+    },
+    "audio": {
+      "word": "audio",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "audio",
+      "conjugation": "4th"
+    },
+    "do": {
+      "word": "do",
+      "definition": "to give",
+      "part_of_speech": "verb",
+      "transliteration": "do",
+      "conjugation": "1st"
+    },
+    "capio": {
+      "word": "capio",
+      "definition": "to take, seize",
+      "part_of_speech": "verb",
+      "transliteration": "capio",
+      "conjugation": "3rd"
+    },
+    "venio": {
+      "word": "venio",
+      "definition": "to come",
+      "part_of_speech": "verb",
+      "transliteration": "venio",
+      "conjugation": "4th"
+    },
+    "vado": {
+      "word": "vado",
+      "definition": "to go",
+      "part_of_speech": "verb",
+      "transliteration": "vado",
+      "conjugation": "1st"
+    },
+    "sto": {
+      "word": "sto",
+      "definition": "to stand",
+      "part_of_speech": "verb",
+      "transliteration": "sto",
+      "conjugation": "1st"
+    },
+    "vivo": {
+      "word": "vivo",
+      "definition": "to live",
+      "part_of_speech": "verb",
+      "transliteration": "vivo",
+      "conjugation": "3rd"
+    },
+    "morior": {
+      "word": "morior",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "morior",
+      "conjugation": "3rd",
+      "deponent": "true"
+    },
+    "resurgo": {
+      "word": "resurgo",
+      "definition": "to rise again",
+      "part_of_speech": "verb",
+      "transliteration": "resurgo",
+      "conjugation": "3rd"
+    },
+    "credo": {
+      "word": "credo",
+      "definition": "to believe, trust",
+      "part_of_speech": "verb",
+      "transliteration": "credo",
+      "conjugation": "3rd"
+    },
+    "spero": {
+      "word": "spero",
+      "definition": "to hope",
+      "part_of_speech": "verb",
+      "transliteration": "spero",
+      "conjugation": "1st"
+    },
+    "amo": {
+      "word": "amo",
+      "definition": "to love",
+      "part_of_speech": "verb",
+      "transliteration": "amo",
+      "conjugation": "1st"
+    },
+    "scio": {
+      "word": "scio",
+      "definition": "to know",
+      "part_of_speech": "verb",
+      "transliteration": "scio",
+      "conjugation": "4th"
+    },
+    "oportet": {
+      "word": "oportet",
+      "definition": "it is necessary",
+      "part_of_speech": "verb",
+      "transliteration": "oportet",
+      "impersonal": "true"
+    },
+    "claudo": {
+      "word": "claudo",
+      "definition": "to close, shut",
+      "part_of_speech": "verb",
+      "transliteration": "claudo",
+      "conjugation": "3rd"
+    },
+    "aperio": {
+      "word": "aperio",
+      "definition": "to open",
+      "part_of_speech": "verb",
+      "transliteration": "aperio",
+      "conjugation": "4th"
+    },
+    "sedeo": {
+      "word": "sedeo",
+      "definition": "to sit",
+      "part_of_speech": "verb",
+      "transliteration": "sedeo",
+      "conjugation": "2nd"
+    },
+    "iacio": {
+      "word": "iacio",
+      "definition": "to throw, cast",
+      "part_of_speech": "verb",
+      "transliteration": "iacio",
+      "conjugation": "3rd"
+    },
+    "mitto": {
+      "word": "mitto",
+      "definition": "to send",
+      "part_of_speech": "verb",
+      "transliteration": "mitto",
+      "conjugation": "3rd"
+    },
+    "accipio": {
+      "word": "accipio",
+      "definition": "to receive, accept",
+      "part_of_speech": "verb",
+      "transliteration": "accipio",
+      "conjugation": "3rd"
+    },
+    "bonus": {
+      "word": "bonus",
+      "definition": "good",
+      "part_of_speech": "adjective",
+      "transliteration": "bonus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "malus": {
+      "word": "malus",
+      "definition": "bad, evil",
+      "part_of_speech": "adjective",
+      "transliteration": "malus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "magnus": {
+      "word": "magnus",
+      "definition": "great, large",
+      "part_of_speech": "adjective",
+      "transliteration": "magnus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "parvus": {
+      "word": "parvus",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "parvus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "sanctus": {
+      "word": "sanctus",
+      "definition": "holy, sacred",
+      "part_of_speech": "adjective",
+      "transliteration": "sanctus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "iustus": {
+      "word": "iustus",
+      "definition": "just, righteous",
+      "part_of_speech": "adjective",
+      "transliteration": "iustus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "verus": {
+      "word": "verus",
+      "definition": "true, real",
+      "part_of_speech": "adjective",
+      "transliteration": "verus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "novus": {
+      "word": "novus",
+      "definition": "new",
+      "part_of_speech": "adjective",
+      "transliteration": "novus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "altus": {
+      "word": "altus",
+      "definition": "high, deep",
+      "part_of_speech": "adjective",
+      "transliteration": "altus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "longus": {
+      "word": "longus",
+      "definition": "long",
+      "part_of_speech": "adjective",
+      "transliteration": "longus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "propinquus": {
+      "word": "propinquus",
+      "definition": "near",
+      "part_of_speech": "adjective",
+      "transliteration": "propinquus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "dulcis": {
+      "word": "dulcis",
+      "definition": "sweet",
+      "part_of_speech": "adjective",
+      "transliteration": "dulcis",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "omnis": {
+      "word": "omnis",
+      "definition": "all, every",
+      "part_of_speech": "adjective",
+      "transliteration": "omnis",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "totus": {
+      "word": "totus",
+      "definition": "whole, entire",
+      "part_of_speech": "adjective",
+      "transliteration": "totus",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "multus": {
+      "word": "multus",
+      "definition": "much, many",
+      "part_of_speech": "adjective",
+      "transliteration": "multus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "paucus": {
+      "word": "paucus",
+      "definition": "few",
+      "part_of_speech": "adjective",
+      "transliteration": "paucus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "primus": {
+      "word": "primus",
+      "definition": "first",
+      "part_of_speech": "adjective",
+      "transliteration": "primus",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "ultimus": {
+      "word": "ultimus",
+      "definition": "last",
+      "part_of_speech": "adjective",
+      "transliteration": "ultimus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "aeternus": {
+      "word": "aeternus",
+      "definition": "eternal",
+      "part_of_speech": "adjective",
+      "transliteration": "aeternus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "immortalis": {
+      "word": "immortalis",
+      "definition": "immortal",
+      "part_of_speech": "adjective",
+      "transliteration": "immortalis",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "in": {
+      "word": "in",
+      "definition": "in, into, on",
+      "part_of_speech": "preposition",
+      "transliteration": "in",
+      "case": "ablative/accusative"
+    },
+    "ad": {
+      "word": "ad",
+      "definition": "to, toward",
+      "part_of_speech": "preposition",
+      "transliteration": "ad",
+      "case": "accusative"
+    },
+    "ab": {
+      "word": "ab",
+      "definition": "from, away from",
+      "part_of_speech": "preposition",
+      "transliteration": "ab",
+      "case": "ablative"
+    },
+    "cum": {
+      "word": "cum",
+      "definition": "when, since",
+      "part_of_speech": "conjunction",
+      "transliteration": "cum"
+    },
+    "de": {
+      "word": "de",
+      "definition": "down from, concerning",
+      "part_of_speech": "preposition",
+      "transliteration": "de",
+      "case": "ablative"
+    },
+    "ex": {
+      "word": "ex",
+      "definition": "out of, from",
+      "part_of_speech": "preposition",
+      "transliteration": "ex",
+      "case": "ablative"
+    },
+    "per": {
+      "word": "per",
+      "definition": "through, by means of",
+      "part_of_speech": "preposition",
+      "transliteration": "per",
+      "case": "accusative"
+    },
+    "pro": {
+      "word": "pro",
+      "definition": "before, for",
+      "part_of_speech": "preposition",
+      "transliteration": "pro",
+      "case": "ablative"
+    },
+    "sine": {
+      "word": "sine",
+      "definition": "without",
+      "part_of_speech": "preposition",
+      "transliteration": "sine",
+      "case": "ablative"
+    },
+    "sub": {
+      "word": "sub",
+      "definition": "under, up to",
+      "part_of_speech": "preposition",
+      "transliteration": "sub",
+      "case": "ablative/accusative"
+    },
+    "super": {
+      "word": "super",
+      "definition": "above, over, upon",
+      "part_of_speech": "preposition",
+      "transliteration": "super",
+      "case": "ablative/accusative"
+    },
+    "trans": {
+      "word": "trans",
+      "definition": "across, beyond",
+      "part_of_speech": "preposition",
+      "transliteration": "trans",
+      "case": "accusative"
+    },
+    "propter": {
+      "word": "propter",
+      "definition": "on account of",
+      "part_of_speech": "preposition",
+      "transliteration": "propter",
+      "case": "accusative"
+    },
+    "inter": {
+      "word": "inter",
+      "definition": "between, among",
+      "part_of_speech": "preposition",
+      "transliteration": "inter",
+      "case": "accusative"
+    },
+    "ante": {
+      "word": "ante",
+      "definition": "before (in time/place)",
+      "part_of_speech": "preposition",
+      "transliteration": "ante",
+      "case": "accusative"
+    },
+    "post": {
+      "word": "post",
+      "definition": "after",
+      "part_of_speech": "preposition",
+      "transliteration": "post",
+      "case": "accusative"
+    },
+    "contra": {
+      "word": "contra",
+      "definition": "against",
+      "part_of_speech": "preposition",
+      "transliteration": "contra",
+      "case": "accusative"
+    },
+    "et": {
+      "word": "et",
+      "definition": "and",
+      "part_of_speech": "conjunction",
+      "transliteration": "et"
+    },
+    "sed": {
+      "word": "sed",
+      "definition": "but",
+      "part_of_speech": "conjunction",
+      "transliteration": "sed"
+    },
+    "aut": {
+      "word": "aut",
+      "definition": "or",
+      "part_of_speech": "conjunction",
+      "transliteration": "aut"
+    },
+    "vel": {
+      "word": "vel",
+      "definition": "or (inclusive)",
+      "part_of_speech": "conjunction",
+      "transliteration": "vel"
+    },
+    "neque": {
+      "word": "neque",
+      "definition": "and not, nor",
+      "part_of_speech": "conjunction",
+      "transliteration": "neque"
+    },
+    "quia": {
+      "word": "quia",
+      "definition": "because",
+      "part_of_speech": "conjunction",
+      "transliteration": "quia"
+    },
+    "quoniam": {
+      "word": "quoniam",
+      "definition": "since, because",
+      "part_of_speech": "conjunction",
+      "transliteration": "quoniam"
+    },
+    "si": {
+      "word": "si",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "si"
+    },
+    "nisi": {
+      "word": "nisi",
+      "definition": "unless, except",
+      "part_of_speech": "conjunction",
+      "transliteration": "nisi"
+    },
+    "ut": {
+      "word": "ut",
+      "definition": "so that, in order that",
+      "part_of_speech": "conjunction",
+      "transliteration": "ut"
+    },
+    "dum": {
+      "word": "dum",
+      "definition": "while",
+      "part_of_speech": "conjunction",
+      "transliteration": "dum"
+    },
+    "enim": {
+      "word": "enim",
+      "definition": "for",
+      "part_of_speech": "conjunction",
+      "transliteration": "enim"
+    },
+    "igitur": {
+      "word": "igitur",
+      "definition": "therefore",
+      "part_of_speech": "conjunction",
+      "transliteration": "igitur"
+    },
+    "itaque": {
+      "word": "itaque",
+      "definition": "and so, therefore",
+      "part_of_speech": "conjunction",
+      "transliteration": "itaque"
+    },
+    "unus": {
+      "word": "unus",
+      "definition": "one",
+      "part_of_speech": "numeral",
+      "transliteration": "unus",
+      "declension": "irregular"
+    },
+    "duo": {
+      "word": "duo",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "duo",
+      "declension": "irregular"
+    },
+    "tres": {
+      "word": "tres",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "tres",
+      "declension": "irregular"
+    },
+    "quattuor": {
+      "word": "quattuor",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "quattuor",
+      "indeclinable": "true"
+    },
+    "quinque": {
+      "word": "quinque",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "quinque",
+      "indeclinable": "true"
+    },
+    "centum": {
+      "word": "centum",
+      "definition": "hundred",
+      "part_of_speech": "numeral",
+      "transliteration": "centum",
+      "indeclinable": "true"
+    },
+    "mille": {
+      "word": "mille",
+      "definition": "thousand",
+      "part_of_speech": "numeral",
+      "transliteration": "mille",
+      "declension": "irregular"
+    },
+    "non": {
+      "word": "non",
+      "definition": "not",
+      "part_of_speech": "adverb",
+      "transliteration": "non"
+    },
+    "iam": {
+      "word": "iam",
+      "definition": "now, already",
+      "part_of_speech": "adverb",
+      "transliteration": "iam"
+    },
+    "semper": {
+      "word": "semper",
+      "definition": "always",
+      "part_of_speech": "adverb",
+      "transliteration": "semper"
+    },
+    "nunquam": {
+      "word": "nunquam",
+      "definition": "never",
+      "part_of_speech": "adverb",
+      "transliteration": "nunquam"
+    },
+    "illic": {
+      "word": "illic",
+      "definition": "there",
+      "part_of_speech": "adverb",
+      "transliteration": "illic"
+    },
+    "bene": {
+      "word": "bene",
+      "definition": "well",
+      "part_of_speech": "adverb",
+      "transliteration": "bene"
+    },
+    "male": {
+      "word": "male",
+      "definition": "badly, poorly",
+      "part_of_speech": "adverb",
+      "transliteration": "male"
+    },
+    "sic": {
+      "word": "sic",
+      "definition": "thus, so",
+      "part_of_speech": "adverb",
+      "transliteration": "sic"
+    },
+    "modo": {
+      "word": "modo",
+      "definition": "only, just now",
+      "part_of_speech": "adverb",
+      "transliteration": "modo"
+    },
+    "tamen": {
+      "word": "tamen",
+      "definition": "however, nevertheless",
+      "part_of_speech": "adverb",
+      "transliteration": "tamen"
+    },
+    "ecclesia": {
+      "word": "ecclesia",
+      "definition": "church, assembly",
+      "part_of_speech": "noun",
+      "transliteration": "ecclesia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "sacramentum": {
+      "word": "sacramentum",
+      "definition": "sacrament, mystery",
+      "part_of_speech": "noun",
+      "transliteration": "sacramentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "peccatum": {
+      "word": "peccatum",
+      "definition": "sin",
+      "part_of_speech": "noun",
+      "transliteration": "peccatum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "gratia": {
+      "word": "gratia",
+      "definition": "grace, thanks",
+      "part_of_speech": "noun",
+      "transliteration": "gratia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "fides": {
+      "word": "fides",
+      "definition": "faith, trust",
+      "part_of_speech": "noun",
+      "transliteration": "fides",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "spes": {
+      "word": "spes",
+      "definition": "hope",
+      "part_of_speech": "noun",
+      "transliteration": "spes",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "caritas": {
+      "word": "caritas",
+      "definition": "love, charity",
+      "part_of_speech": "noun",
+      "transliteration": "caritas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "veritas": {
+      "word": "veritas",
+      "definition": "truth",
+      "part_of_speech": "noun",
+      "transliteration": "veritas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "iustitia": {
+      "word": "iustitia",
+      "definition": "justice, righteousness",
+      "part_of_speech": "noun",
+      "transliteration": "iustitia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "misericordia": {
+      "word": "misericordia",
+      "definition": "mercy",
+      "part_of_speech": "noun",
+      "transliteration": "misericordia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "virtus": {
+      "word": "virtus",
+      "definition": "virtue, power",
+      "part_of_speech": "noun",
+      "transliteration": "virtus",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "sapientia": {
+      "word": "sapientia",
+      "definition": "wisdom",
+      "part_of_speech": "noun",
+      "transliteration": "sapientia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "scientia": {
+      "word": "scientia",
+      "definition": "knowledge",
+      "part_of_speech": "noun",
+      "transliteration": "scientia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "creatio": {
+      "word": "creatio",
+      "definition": "creation",
+      "part_of_speech": "noun",
+      "transliteration": "creatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "creatura": {
+      "word": "creatura",
+      "definition": "creature",
+      "part_of_speech": "noun",
+      "transliteration": "creatura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "vita": {
+      "word": "vita",
+      "definition": "life",
+      "part_of_speech": "noun",
+      "transliteration": "vita",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "mors": {
+      "word": "mors",
+      "definition": "death",
+      "part_of_speech": "noun",
+      "transliteration": "mors",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "resurrectio": {
+      "word": "resurrectio",
+      "definition": "resurrection",
+      "part_of_speech": "noun",
+      "transliteration": "resurrectio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "crux": {
+      "word": "crux",
+      "definition": "cross",
+      "part_of_speech": "noun",
+      "transliteration": "crux",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "baptisma": {
+      "word": "baptisma",
+      "definition": "baptism",
+      "part_of_speech": "noun",
+      "transliteration": "baptisma",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "apostolus": {
+      "word": "apostolus",
+      "definition": "apostle",
+      "part_of_speech": "noun",
+      "transliteration": "apostolus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "evangelium": {
+      "word": "evangelium",
+      "definition": "gospel",
+      "part_of_speech": "noun",
+      "transliteration": "evangelium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "testamentum": {
+      "word": "testamentum",
+      "definition": "testament, covenant",
+      "part_of_speech": "noun",
+      "transliteration": "testamentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "propheta": {
+      "word": "propheta",
+      "definition": "prophet",
+      "part_of_speech": "noun",
+      "transliteration": "propheta",
+      "declension": "1st",
+      "gender": "masculine"
+    },
+    "sacerdos": {
+      "word": "sacerdos",
+      "definition": "priest",
+      "part_of_speech": "noun",
+      "transliteration": "sacerdos",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "episcopus": {
+      "word": "episcopus",
+      "definition": "bishop, overseer",
+      "part_of_speech": "noun",
+      "transliteration": "episcopus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "presbyter": {
+      "word": "presbyter",
+      "definition": "elder, priest",
+      "part_of_speech": "noun",
+      "transliteration": "presbyter",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "templum": {
+      "word": "templum",
+      "definition": "temple",
+      "part_of_speech": "noun",
+      "transliteration": "templum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "altare": {
+      "word": "altare",
+      "definition": "altar",
+      "part_of_speech": "noun",
+      "transliteration": "altare",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "panis": {
+      "word": "panis",
+      "definition": "bread",
+      "part_of_speech": "noun",
+      "transliteration": "panis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "vinum": {
+      "word": "vinum",
+      "definition": "wine",
+      "part_of_speech": "noun",
+      "transliteration": "vinum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "paradisus": {
+      "word": "paradisus",
+      "definition": "paradise",
+      "part_of_speech": "noun",
+      "transliteration": "paradisus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "infernus": {
+      "word": "infernus",
+      "definition": "hell",
+      "part_of_speech": "noun",
+      "transliteration": "infernus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "daemon": {
+      "word": "daemon",
+      "definition": "demon, spirit",
+      "part_of_speech": "noun",
+      "transliteration": "daemon",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "diabolus": {
+      "word": "diabolus",
+      "definition": "devil",
+      "part_of_speech": "noun",
+      "transliteration": "diabolus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "satanas": {
+      "word": "satanas",
+      "definition": "satan",
+      "part_of_speech": "noun",
+      "transliteration": "satanas",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "oratio": {
+      "word": "oratio",
+      "definition": "speech, prayer",
+      "part_of_speech": "noun",
+      "transliteration": "oratio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "hymnus": {
+      "word": "hymnus",
+      "definition": "hymn",
+      "part_of_speech": "noun",
+      "transliteration": "hymnus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "gloria": {
+      "word": "gloria",
+      "definition": "glory",
+      "part_of_speech": "noun",
+      "transliteration": "gloria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "laus": {
+      "word": "laus",
+      "definition": "praise",
+      "part_of_speech": "noun",
+      "transliteration": "laus",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "pax": {
+      "word": "pax",
+      "definition": "peace, treaty",
+      "part_of_speech": "noun",
+      "transliteration": "pax",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "unitas": {
+      "word": "unitas",
+      "definition": "unity",
+      "part_of_speech": "noun",
+      "transliteration": "unitas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "trinitas": {
+      "word": "trinitas",
+      "definition": "trinity",
+      "part_of_speech": "noun",
+      "transliteration": "trinitas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "os": {
+      "word": "os",
+      "definition": "mouth, face",
+      "part_of_speech": "noun",
+      "transliteration": "os",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "nasus": {
+      "word": "nasus",
+      "definition": "nose",
+      "part_of_speech": "noun",
+      "transliteration": "nasus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "dens": {
+      "word": "dens",
+      "definition": "tooth",
+      "part_of_speech": "noun",
+      "transliteration": "dens",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "lingua": {
+      "word": "lingua",
+      "definition": "tongue, language",
+      "part_of_speech": "noun",
+      "transliteration": "lingua",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "bracchium": {
+      "word": "bracchium",
+      "definition": "arm",
+      "part_of_speech": "noun",
+      "transliteration": "bracchium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "crus": {
+      "word": "crus",
+      "definition": "leg",
+      "part_of_speech": "noun",
+      "transliteration": "crus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "digitus": {
+      "word": "digitus",
+      "definition": "finger",
+      "part_of_speech": "noun",
+      "transliteration": "digitus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "unguis": {
+      "word": "unguis",
+      "definition": "nail, claw",
+      "part_of_speech": "noun",
+      "transliteration": "unguis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "cutis": {
+      "word": "cutis",
+      "definition": "skin",
+      "part_of_speech": "noun",
+      "transliteration": "cutis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "capillus": {
+      "word": "capillus",
+      "definition": "hair",
+      "part_of_speech": "noun",
+      "transliteration": "capillus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "vertex": {
+      "word": "vertex",
+      "definition": "top of head",
+      "part_of_speech": "noun",
+      "transliteration": "vertex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "gena": {
+      "word": "gena",
+      "definition": "cheek",
+      "part_of_speech": "noun",
+      "transliteration": "gena",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "collum": {
+      "word": "collum",
+      "definition": "neck",
+      "part_of_speech": "noun",
+      "transliteration": "collum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "pectus": {
+      "word": "pectus",
+      "definition": "chest, breast",
+      "part_of_speech": "noun",
+      "transliteration": "pectus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "venter": {
+      "word": "venter",
+      "definition": "belly, stomach",
+      "part_of_speech": "noun",
+      "transliteration": "venter",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "tergum": {
+      "word": "tergum",
+      "definition": "back",
+      "part_of_speech": "noun",
+      "transliteration": "tergum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "vena": {
+      "word": "vena",
+      "definition": "vein",
+      "part_of_speech": "noun",
+      "transliteration": "vena",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ventus": {
+      "word": "ventus",
+      "definition": "wind",
+      "part_of_speech": "noun",
+      "transliteration": "ventus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "tempestas": {
+      "word": "tempestas",
+      "definition": "storm",
+      "part_of_speech": "noun",
+      "transliteration": "tempestas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "imber": {
+      "word": "imber",
+      "definition": "rain",
+      "part_of_speech": "noun",
+      "transliteration": "imber",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "nubes": {
+      "word": "nubes",
+      "definition": "cloud",
+      "part_of_speech": "noun",
+      "transliteration": "nubes",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "fulmen": {
+      "word": "fulmen",
+      "definition": "lightning",
+      "part_of_speech": "noun",
+      "transliteration": "fulmen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "tonitrus": {
+      "word": "tonitrus",
+      "definition": "thunder",
+      "part_of_speech": "noun",
+      "transliteration": "tonitrus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "flumen": {
+      "word": "flumen",
+      "definition": "river",
+      "part_of_speech": "noun",
+      "transliteration": "flumen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "lacus": {
+      "word": "lacus",
+      "definition": "lake",
+      "part_of_speech": "noun",
+      "transliteration": "lacus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "mons": {
+      "word": "mons",
+      "definition": "mountain",
+      "part_of_speech": "noun",
+      "transliteration": "mons",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "vallis": {
+      "word": "vallis",
+      "definition": "valley",
+      "part_of_speech": "noun",
+      "transliteration": "vallis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "sylva": {
+      "word": "sylva",
+      "definition": "forest, wood",
+      "part_of_speech": "noun",
+      "transliteration": "sylva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "flos": {
+      "word": "flos",
+      "definition": "flower",
+      "part_of_speech": "noun",
+      "transliteration": "flos",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "herba": {
+      "word": "herba",
+      "definition": "grass, herb",
+      "part_of_speech": "noun",
+      "transliteration": "herba",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "fructus": {
+      "word": "fructus",
+      "definition": "fruit",
+      "part_of_speech": "noun",
+      "transliteration": "fructus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "semen": {
+      "word": "semen",
+      "definition": "seed",
+      "part_of_speech": "noun",
+      "transliteration": "semen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "radix": {
+      "word": "radix",
+      "definition": "root",
+      "part_of_speech": "noun",
+      "transliteration": "radix",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "folium": {
+      "word": "folium",
+      "definition": "leaf",
+      "part_of_speech": "noun",
+      "transliteration": "folium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "ramus": {
+      "word": "ramus",
+      "definition": "branch",
+      "part_of_speech": "noun",
+      "transliteration": "ramus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "cortex": {
+      "word": "cortex",
+      "definition": "bark, shell",
+      "part_of_speech": "noun",
+      "transliteration": "cortex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "sucus": {
+      "word": "sucus",
+      "definition": "sap, juice",
+      "part_of_speech": "noun",
+      "transliteration": "sucus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "spina": {
+      "word": "spina",
+      "definition": "thorn",
+      "part_of_speech": "noun",
+      "transliteration": "spina",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "animal": {
+      "word": "animal",
+      "definition": "animal",
+      "part_of_speech": "noun",
+      "transliteration": "animal",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "bestia": {
+      "word": "bestia",
+      "definition": "beast, animal",
+      "part_of_speech": "noun",
+      "transliteration": "bestia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "avis": {
+      "word": "avis",
+      "definition": "bird",
+      "part_of_speech": "noun",
+      "transliteration": "avis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "piscis": {
+      "word": "piscis",
+      "definition": "fish",
+      "part_of_speech": "noun",
+      "transliteration": "piscis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "serpens": {
+      "word": "serpens",
+      "definition": "serpent, snake",
+      "part_of_speech": "noun",
+      "transliteration": "serpens",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "leo": {
+      "word": "leo",
+      "definition": "lion",
+      "part_of_speech": "noun",
+      "transliteration": "leo",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "lupus": {
+      "word": "lupus",
+      "definition": "wolf",
+      "part_of_speech": "noun",
+      "transliteration": "lupus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "ovis": {
+      "word": "ovis",
+      "definition": "sheep",
+      "part_of_speech": "noun",
+      "transliteration": "ovis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "capra": {
+      "word": "capra",
+      "definition": "goat",
+      "part_of_speech": "noun",
+      "transliteration": "capra",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "bos": {
+      "word": "bos",
+      "definition": "ox, cow",
+      "part_of_speech": "noun",
+      "transliteration": "bos",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "porcus": {
+      "word": "porcus",
+      "definition": "pig",
+      "part_of_speech": "noun",
+      "transliteration": "porcus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "equus": {
+      "word": "equus",
+      "definition": "horse",
+      "part_of_speech": "noun",
+      "transliteration": "equus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "asinus": {
+      "word": "asinus",
+      "definition": "donkey, ass",
+      "part_of_speech": "noun",
+      "transliteration": "asinus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "camelus": {
+      "word": "camelus",
+      "definition": "camel",
+      "part_of_speech": "noun",
+      "transliteration": "camelus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "elephans": {
+      "word": "elephans",
+      "definition": "elephant",
+      "part_of_speech": "noun",
+      "transliteration": "elephans",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "ursus": {
+      "word": "ursus",
+      "definition": "bear",
+      "part_of_speech": "noun",
+      "transliteration": "ursus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "vulpes": {
+      "word": "vulpes",
+      "definition": "fox",
+      "part_of_speech": "noun",
+      "transliteration": "vulpes",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "lepus": {
+      "word": "lepus",
+      "definition": "hare",
+      "part_of_speech": "noun",
+      "transliteration": "lepus",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "mus": {
+      "word": "mus",
+      "definition": "mouse",
+      "part_of_speech": "noun",
+      "transliteration": "mus",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "apis": {
+      "word": "apis",
+      "definition": "bee",
+      "part_of_speech": "noun",
+      "transliteration": "apis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "formica": {
+      "word": "formica",
+      "definition": "ant",
+      "part_of_speech": "noun",
+      "transliteration": "formica",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "papilio": {
+      "word": "papilio",
+      "definition": "butterfly, moth",
+      "part_of_speech": "noun",
+      "transliteration": "papilio",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "vermis": {
+      "word": "vermis",
+      "definition": "worm",
+      "part_of_speech": "noun",
+      "transliteration": "vermis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "hora": {
+      "word": "hora",
+      "definition": "hour",
+      "part_of_speech": "noun",
+      "transliteration": "hora",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "momentum": {
+      "word": "momentum",
+      "definition": "moment",
+      "part_of_speech": "noun",
+      "transliteration": "momentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "annus": {
+      "word": "annus",
+      "definition": "year",
+      "part_of_speech": "noun",
+      "transliteration": "annus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "mensis": {
+      "word": "mensis",
+      "definition": "month",
+      "part_of_speech": "noun",
+      "transliteration": "mensis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "hebdomas": {
+      "word": "hebdomas",
+      "definition": "week",
+      "part_of_speech": "noun",
+      "transliteration": "hebdomas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "hodiernus": {
+      "word": "hodiernus",
+      "definition": "today's, of today",
+      "part_of_speech": "adjective",
+      "transliteration": "hodiernus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "cras": {
+      "word": "cras",
+      "definition": "tomorrow",
+      "part_of_speech": "adverb",
+      "transliteration": "cras"
+    },
+    "heri": {
+      "word": "heri",
+      "definition": "yesterday",
+      "part_of_speech": "adverb",
+      "transliteration": "heri"
+    },
+    "mane": {
+      "word": "mane",
+      "definition": "morning",
+      "part_of_speech": "noun",
+      "transliteration": "mane",
+      "declension": "irregular",
+      "gender": "neuter"
+    },
+    "vesper": {
+      "word": "vesper",
+      "definition": "evening",
+      "part_of_speech": "noun",
+      "transliteration": "vesper",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "meridies": {
+      "word": "meridies",
+      "definition": "midday, noon",
+      "part_of_speech": "noun",
+      "transliteration": "meridies",
+      "declension": "5th",
+      "gender": "masculine"
+    },
+    "media nox": {
+      "word": "media nox",
+      "definition": "midnight",
+      "part_of_speech": "noun phrase",
+      "transliteration": "media nox",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "aestas": {
+      "word": "aestas",
+      "definition": "summer",
+      "part_of_speech": "noun",
+      "transliteration": "aestas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "hiems": {
+      "word": "hiems",
+      "definition": "winter",
+      "part_of_speech": "noun",
+      "transliteration": "hiems",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "ver": {
+      "word": "ver",
+      "definition": "spring",
+      "part_of_speech": "noun",
+      "transliteration": "ver",
+      "declension": "irregular",
+      "gender": "neuter"
+    },
+    "autumnus": {
+      "word": "autumnus",
+      "definition": "autumn, fall",
+      "part_of_speech": "noun",
+      "transliteration": "autumnus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "forma": {
+      "word": "forma",
+      "definition": "form",
+      "part_of_speech": "noun",
+      "transliteration": "forma",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "figura": {
+      "word": "figura",
+      "definition": "figure, form",
+      "part_of_speech": "noun",
+      "transliteration": "figura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "materia": {
+      "word": "materia",
+      "definition": "matter, material",
+      "part_of_speech": "noun",
+      "transliteration": "materia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "causa": {
+      "word": "causa",
+      "definition": "cause, case",
+      "part_of_speech": "noun",
+      "transliteration": "causa",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ratio": {
+      "word": "ratio",
+      "definition": "reason, account",
+      "part_of_speech": "noun",
+      "transliteration": "ratio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "mensura": {
+      "word": "mensura",
+      "definition": "measure",
+      "part_of_speech": "noun",
+      "transliteration": "mensura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "numerus": {
+      "word": "numerus",
+      "definition": "number",
+      "part_of_speech": "noun",
+      "transliteration": "numerus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "ordo": {
+      "word": "ordo",
+      "definition": "order, rank",
+      "part_of_speech": "noun",
+      "transliteration": "ordo",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "modus": {
+      "word": "modus",
+      "definition": "manner, measure",
+      "part_of_speech": "noun",
+      "transliteration": "modus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "genus": {
+      "word": "genus",
+      "definition": "kind, race",
+      "part_of_speech": "noun",
+      "transliteration": "genus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "nomen": {
+      "word": "nomen",
+      "definition": "name",
+      "part_of_speech": "noun",
+      "transliteration": "nomen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "res": {
+      "word": "res",
+      "definition": "thing, matter, affair",
+      "part_of_speech": "noun",
+      "transliteration": "res",
+      "declension": "5th",
+      "gender": "feminine"
+    },
+    "opus": {
+      "word": "opus",
+      "definition": "work",
+      "part_of_speech": "noun",
+      "transliteration": "opus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "ars": {
+      "word": "ars",
+      "definition": "art, skill",
+      "part_of_speech": "noun",
+      "transliteration": "ars",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "natura": {
+      "word": "natura",
+      "definition": "nature",
+      "part_of_speech": "noun",
+      "transliteration": "natura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "lex": {
+      "word": "lex",
+      "definition": "law",
+      "part_of_speech": "noun",
+      "transliteration": "lex",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "ius": {
+      "word": "ius",
+      "definition": "law, right, justice",
+      "part_of_speech": "noun",
+      "transliteration": "ius",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "potestas": {
+      "word": "potestas",
+      "definition": "power",
+      "part_of_speech": "noun",
+      "transliteration": "potestas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "vis": {
+      "word": "vis",
+      "definition": "force, power",
+      "part_of_speech": "noun",
+      "transliteration": "vis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "voluntas": {
+      "word": "voluntas",
+      "definition": "will, wish",
+      "part_of_speech": "noun",
+      "transliteration": "voluntas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "civitas": {
+      "word": "civitas",
+      "definition": "city, state",
+      "part_of_speech": "noun",
+      "transliteration": "civitas",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "urbs": {
+      "word": "urbs",
+      "definition": "city",
+      "part_of_speech": "noun",
+      "transliteration": "urbs",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "populus": {
+      "word": "populus",
+      "definition": "people, nation",
+      "part_of_speech": "noun",
+      "transliteration": "populus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "gens": {
+      "word": "gens",
+      "definition": "race, people",
+      "part_of_speech": "noun",
+      "transliteration": "gens",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "natio": {
+      "word": "natio",
+      "definition": "nation, race",
+      "part_of_speech": "noun",
+      "transliteration": "natio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "imperium": {
+      "word": "imperium",
+      "definition": "empire, command",
+      "part_of_speech": "noun",
+      "transliteration": "imperium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "provincia": {
+      "word": "provincia",
+      "definition": "province",
+      "part_of_speech": "noun",
+      "transliteration": "provincia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "res publica": {
+      "word": "res publica",
+      "definition": "republic, commonwealth",
+      "part_of_speech": "noun phrase",
+      "transliteration": "res publica",
+      "declension": "5th/1st",
+      "gender": "feminine"
+    },
+    "senatus": {
+      "word": "senatus",
+      "definition": "senate",
+      "part_of_speech": "noun",
+      "transliteration": "senatus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "magistratus": {
+      "word": "magistratus",
+      "definition": "magistrate",
+      "part_of_speech": "noun",
+      "transliteration": "magistratus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "dux": {
+      "word": "dux",
+      "definition": "leader",
+      "part_of_speech": "noun",
+      "transliteration": "dux",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "princeps": {
+      "word": "princeps",
+      "definition": "chief, first citizen",
+      "part_of_speech": "noun",
+      "transliteration": "princeps",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "imperator": {
+      "word": "imperator",
+      "definition": "emperor, commander",
+      "part_of_speech": "noun",
+      "transliteration": "imperator",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "consul": {
+      "word": "consul",
+      "definition": "consul",
+      "part_of_speech": "noun",
+      "transliteration": "consul",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "praetor": {
+      "word": "praetor",
+      "definition": "praetor",
+      "part_of_speech": "noun",
+      "transliteration": "praetor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "quaestor": {
+      "word": "quaestor",
+      "definition": "quaestor",
+      "part_of_speech": "noun",
+      "transliteration": "quaestor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "aedilis": {
+      "word": "aedilis",
+      "definition": "aedile",
+      "part_of_speech": "noun",
+      "transliteration": "aedilis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "tribunus": {
+      "word": "tribunus",
+      "definition": "tribune",
+      "part_of_speech": "noun",
+      "transliteration": "tribunus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "civis": {
+      "word": "civis",
+      "definition": "citizen",
+      "part_of_speech": "noun",
+      "transliteration": "civis",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "servus": {
+      "word": "servus",
+      "definition": "slave, servant",
+      "part_of_speech": "noun",
+      "transliteration": "servus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "libertus": {
+      "word": "libertus",
+      "definition": "freedman",
+      "part_of_speech": "noun",
+      "transliteration": "libertus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "cliens": {
+      "word": "cliens",
+      "definition": "client",
+      "part_of_speech": "noun",
+      "transliteration": "cliens",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "patronus": {
+      "word": "patronus",
+      "definition": "patron",
+      "part_of_speech": "noun",
+      "transliteration": "patronus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "amicus": {
+      "word": "amicus",
+      "definition": "friend",
+      "part_of_speech": "noun",
+      "transliteration": "amicus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "hostis": {
+      "word": "hostis",
+      "definition": "enemy",
+      "part_of_speech": "noun",
+      "transliteration": "hostis",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "socius": {
+      "word": "socius",
+      "definition": "ally, companion",
+      "part_of_speech": "noun",
+      "transliteration": "socius",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "foedus": {
+      "word": "foedus",
+      "definition": "treaty, league",
+      "part_of_speech": "noun",
+      "transliteration": "foedus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "bellum": {
+      "word": "bellum",
+      "definition": "war",
+      "part_of_speech": "noun",
+      "transliteration": "bellum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "victoria": {
+      "word": "victoria",
+      "definition": "victory",
+      "part_of_speech": "noun",
+      "transliteration": "victoria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "triumphus": {
+      "word": "triumphus",
+      "definition": "triumph",
+      "part_of_speech": "noun",
+      "transliteration": "triumphus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "exercitus": {
+      "word": "exercitus",
+      "definition": "army",
+      "part_of_speech": "noun",
+      "transliteration": "exercitus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "legio": {
+      "word": "legio",
+      "definition": "legion",
+      "part_of_speech": "noun",
+      "transliteration": "legio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "cohors": {
+      "word": "cohors",
+      "definition": "cohort",
+      "part_of_speech": "noun",
+      "transliteration": "cohors",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "centuria": {
+      "word": "centuria",
+      "definition": "century",
+      "part_of_speech": "noun",
+      "transliteration": "centuria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "manipulus": {
+      "word": "manipulus",
+      "definition": "maniple",
+      "part_of_speech": "noun",
+      "transliteration": "manipulus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "acies": {
+      "word": "acies",
+      "definition": "sharp edge, battle line",
+      "part_of_speech": "noun",
+      "transliteration": "acies",
+      "declension": "5th",
+      "gender": "feminine"
+    },
+    "agmen": {
+      "word": "agmen",
+      "definition": "column, army on the march",
+      "part_of_speech": "noun",
+      "transliteration": "agmen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "castra": {
+      "word": "castra",
+      "definition": "camp",
+      "part_of_speech": "noun",
+      "transliteration": "castra",
+      "declension": "2nd",
+      "gender": "neuter",
+      "number": "plural"
+    },
+    "proelium": {
+      "word": "proelium",
+      "definition": "battle",
+      "part_of_speech": "noun",
+      "transliteration": "proelium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "pugna": {
+      "word": "pugna",
+      "definition": "fight",
+      "part_of_speech": "noun",
+      "transliteration": "pugna",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "gladius": {
+      "word": "gladius",
+      "definition": "sword",
+      "part_of_speech": "noun",
+      "transliteration": "gladius",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "pilum": {
+      "word": "pilum",
+      "definition": "javelin",
+      "part_of_speech": "noun",
+      "transliteration": "pilum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "scutum": {
+      "word": "scutum",
+      "definition": "shield",
+      "part_of_speech": "noun",
+      "transliteration": "scutum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "lorica": {
+      "word": "lorica",
+      "definition": "breastplate, corselet",
+      "part_of_speech": "noun",
+      "transliteration": "lorica",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "galea": {
+      "word": "galea",
+      "definition": "helmet",
+      "part_of_speech": "noun",
+      "transliteration": "galea",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "hasta": {
+      "word": "hasta",
+      "definition": "spear",
+      "part_of_speech": "noun",
+      "transliteration": "hasta",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "arcus": {
+      "word": "arcus",
+      "definition": "bow",
+      "part_of_speech": "noun",
+      "transliteration": "arcus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "sagitta": {
+      "word": "sagitta",
+      "definition": "arrow",
+      "part_of_speech": "noun",
+      "transliteration": "sagitta",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "machina": {
+      "word": "machina",
+      "definition": "machine",
+      "part_of_speech": "noun",
+      "transliteration": "machina",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "turris": {
+      "word": "turris",
+      "definition": "tower",
+      "part_of_speech": "noun",
+      "transliteration": "turris",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "murus": {
+      "word": "murus",
+      "definition": "wall",
+      "part_of_speech": "noun",
+      "transliteration": "murus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "vallum": {
+      "word": "vallum",
+      "definition": "rampart, palisade",
+      "part_of_speech": "noun",
+      "transliteration": "vallum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fossa": {
+      "word": "fossa",
+      "definition": "ditch, trench",
+      "part_of_speech": "noun",
+      "transliteration": "fossa",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "porta": {
+      "word": "porta",
+      "definition": "gate",
+      "part_of_speech": "noun",
+      "transliteration": "porta",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "navis": {
+      "word": "navis",
+      "definition": "ship",
+      "part_of_speech": "noun",
+      "transliteration": "navis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "classis": {
+      "word": "classis",
+      "definition": "fleet, class",
+      "part_of_speech": "noun",
+      "transliteration": "classis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "eques": {
+      "word": "eques",
+      "definition": "horseman, knight",
+      "part_of_speech": "noun",
+      "transliteration": "eques",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pedes": {
+      "word": "pedes",
+      "definition": "foot-soldier",
+      "part_of_speech": "noun",
+      "transliteration": "pedes",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "miles": {
+      "word": "miles",
+      "definition": "soldier",
+      "part_of_speech": "noun",
+      "transliteration": "miles",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "signifer": {
+      "word": "signifer",
+      "definition": "standard-bearer",
+      "part_of_speech": "noun",
+      "transliteration": "signifer",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "cornicen": {
+      "word": "cornicen",
+      "definition": "horn-blower",
+      "part_of_speech": "noun",
+      "transliteration": "cornicen",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "tubicen": {
+      "word": "tubicen",
+      "definition": "trumpeter",
+      "part_of_speech": "noun",
+      "transliteration": "tubicen",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "lictor": {
+      "word": "lictor",
+      "definition": "lictor",
+      "part_of_speech": "noun",
+      "transliteration": "lictor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pecunia": {
+      "word": "pecunia",
+      "definition": "money",
+      "part_of_speech": "noun",
+      "transliteration": "pecunia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "res familiaris": {
+      "word": "res familiaris",
+      "definition": "property, estate",
+      "part_of_speech": "noun phrase",
+      "transliteration": "res familiaris",
+      "declension": "5th/3rd",
+      "gender": "feminine"
+    },
+    "patrimonium": {
+      "word": "patrimonium",
+      "definition": "inheritance",
+      "part_of_speech": "noun",
+      "transliteration": "patrimonium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "peculium": {
+      "word": "peculium",
+      "definition": "private property",
+      "part_of_speech": "noun",
+      "transliteration": "peculium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "aes": {
+      "word": "aes",
+      "definition": "bronze, copper",
+      "part_of_speech": "noun",
+      "transliteration": "aes",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "ferrum": {
+      "word": "ferrum",
+      "definition": "iron",
+      "part_of_speech": "noun",
+      "transliteration": "ferrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "plumbum": {
+      "word": "plumbum",
+      "definition": "lead",
+      "part_of_speech": "noun",
+      "transliteration": "plumbum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "aes alienum": {
+      "word": "aes alienum",
+      "definition": "debt",
+      "part_of_speech": "noun phrase",
+      "transliteration": "aes alienum",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "fenus": {
+      "word": "fenus",
+      "definition": "interest, profit",
+      "part_of_speech": "noun",
+      "transliteration": "fenus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "merces": {
+      "word": "merces",
+      "definition": "wages, reward",
+      "part_of_speech": "noun",
+      "transliteration": "merces",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "stipendium": {
+      "word": "stipendium",
+      "definition": "stipend, pay",
+      "part_of_speech": "noun",
+      "transliteration": "stipendium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "vectigal": {
+      "word": "vectigal",
+      "definition": "tax, revenue",
+      "part_of_speech": "noun",
+      "transliteration": "vectigal",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "tributum": {
+      "word": "tributum",
+      "definition": "tribute, tax",
+      "part_of_speech": "noun",
+      "transliteration": "tributum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "portorium": {
+      "word": "portorium",
+      "definition": "customs duty",
+      "part_of_speech": "noun",
+      "transliteration": "portorium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "decuma": {
+      "word": "decuma",
+      "definition": "tithe",
+      "part_of_speech": "noun",
+      "transliteration": "decuma",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "quattuorvir": {
+      "word": "quattuorvir",
+      "definition": "member of board of four",
+      "part_of_speech": "noun",
+      "transliteration": "quattuorvir",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "decemvir": {
+      "word": "decemvir",
+      "definition": "member of board of ten",
+      "part_of_speech": "noun",
+      "transliteration": "decemvir",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "ager": {
+      "word": "ager",
+      "definition": "field, land",
+      "part_of_speech": "noun",
+      "transliteration": "ager",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "arvum": {
+      "word": "arvum",
+      "definition": "plowed land",
+      "part_of_speech": "noun",
+      "transliteration": "arvum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fundus": {
+      "word": "fundus",
+      "definition": "farm, estate",
+      "part_of_speech": "noun",
+      "transliteration": "fundus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "villa": {
+      "word": "villa",
+      "definition": "country house, farm",
+      "part_of_speech": "noun",
+      "transliteration": "villa",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "rus": {
+      "word": "rus",
+      "definition": "country, countryside",
+      "part_of_speech": "noun",
+      "transliteration": "rus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "seges": {
+      "word": "seges",
+      "definition": "crop, field of grain",
+      "part_of_speech": "noun",
+      "transliteration": "seges",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "messis": {
+      "word": "messis",
+      "definition": "harvest",
+      "part_of_speech": "noun",
+      "transliteration": "messis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "triticum": {
+      "word": "triticum",
+      "definition": "wheat",
+      "part_of_speech": "noun",
+      "transliteration": "triticum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "hordeum": {
+      "word": "hordeum",
+      "definition": "barley",
+      "part_of_speech": "noun",
+      "transliteration": "hordeum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "avena": {
+      "word": "avena",
+      "definition": "oats",
+      "part_of_speech": "noun",
+      "transliteration": "avena",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "oleum": {
+      "word": "oleum",
+      "definition": "oil",
+      "part_of_speech": "noun",
+      "transliteration": "oleum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "lac": {
+      "word": "lac",
+      "definition": "milk",
+      "part_of_speech": "noun",
+      "transliteration": "lac",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "mel": {
+      "word": "mel",
+      "definition": "honey",
+      "part_of_speech": "noun",
+      "transliteration": "mel",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "caseus": {
+      "word": "caseus",
+      "definition": "cheese",
+      "part_of_speech": "noun",
+      "transliteration": "caseus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "sal": {
+      "word": "sal",
+      "definition": "salt",
+      "part_of_speech": "noun",
+      "transliteration": "sal",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "vitis": {
+      "word": "vitis",
+      "definition": "vine",
+      "part_of_speech": "noun",
+      "transliteration": "vitis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "uva": {
+      "word": "uva",
+      "definition": "grape",
+      "part_of_speech": "noun",
+      "transliteration": "uva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "malum": {
+      "word": "malum",
+      "definition": "apple",
+      "part_of_speech": "noun",
+      "transliteration": "malum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "pomum": {
+      "word": "pomum",
+      "definition": "fruit",
+      "part_of_speech": "noun",
+      "transliteration": "pomum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "oliva": {
+      "word": "oliva",
+      "definition": "olive",
+      "part_of_speech": "noun",
+      "transliteration": "oliva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ficus": {
+      "word": "ficus",
+      "definition": "fig",
+      "part_of_speech": "noun",
+      "transliteration": "ficus",
+      "declension": "2nd/4th",
+      "gender": "feminine"
+    },
+    "buxus": {
+      "word": "buxus",
+      "definition": "box tree",
+      "part_of_speech": "noun",
+      "transliteration": "buxus",
+      "declension": "2nd",
+      "gender": "feminine"
+    },
+    "pinetum": {
+      "word": "pinetum",
+      "definition": "pine grove",
+      "part_of_speech": "noun",
+      "transliteration": "pinetum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "querquetum": {
+      "word": "querquetum",
+      "definition": "oak grove",
+      "part_of_speech": "noun",
+      "transliteration": "querquetum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "instrumentum": {
+      "word": "instrumentum",
+      "definition": "tool, instrument",
+      "part_of_speech": "noun",
+      "transliteration": "instrumentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fabrica": {
+      "word": "fabrica",
+      "definition": "workshop",
+      "part_of_speech": "noun",
+      "transliteration": "fabrica",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "officina": {
+      "word": "officina",
+      "definition": "workshop, factory",
+      "part_of_speech": "noun",
+      "transliteration": "officina",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "stibadium": {
+      "word": "stibadium",
+      "definition": "couch",
+      "part_of_speech": "noun",
+      "transliteration": "stibadium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "lectus": {
+      "word": "lectus",
+      "definition": "couch, bed",
+      "part_of_speech": "noun",
+      "transliteration": "lectus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "mensa": {
+      "word": "mensa",
+      "definition": "table",
+      "part_of_speech": "noun",
+      "transliteration": "mensa",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "triclinium": {
+      "word": "triclinium",
+      "definition": "dining room",
+      "part_of_speech": "noun",
+      "transliteration": "triclinium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "cubiculum": {
+      "word": "cubiculum",
+      "definition": "bedroom",
+      "part_of_speech": "noun",
+      "transliteration": "cubiculum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "atrium": {
+      "word": "atrium",
+      "definition": "hall, court",
+      "part_of_speech": "noun",
+      "transliteration": "atrium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "peristylium": {
+      "word": "peristylium",
+      "definition": "colonnade",
+      "part_of_speech": "noun",
+      "transliteration": "peristylium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "impluvium": {
+      "word": "impluvium",
+      "definition": "rain basin",
+      "part_of_speech": "noun",
+      "transliteration": "impluvium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "tablinum": {
+      "word": "tablinum",
+      "definition": "reception room",
+      "part_of_speech": "noun",
+      "transliteration": "tablinum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fauces": {
+      "word": "fauces",
+      "definition": "throat, narrow passage",
+      "part_of_speech": "noun",
+      "transliteration": "fauces",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "ostium": {
+      "word": "ostium",
+      "definition": "door, entrance",
+      "part_of_speech": "noun",
+      "transliteration": "ostium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "ianua": {
+      "word": "ianua",
+      "definition": "door",
+      "part_of_speech": "noun",
+      "transliteration": "ianua",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "fenestra": {
+      "word": "fenestra",
+      "definition": "window",
+      "part_of_speech": "noun",
+      "transliteration": "fenestra",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "camera": {
+      "word": "camera",
+      "definition": "vault, room",
+      "part_of_speech": "noun",
+      "transliteration": "camera",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "solarium": {
+      "word": "solarium",
+      "definition": "terrace",
+      "part_of_speech": "noun",
+      "transliteration": "solarium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "balneum": {
+      "word": "balneum",
+      "definition": "bath",
+      "part_of_speech": "noun",
+      "transliteration": "balneum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "thermae": {
+      "word": "thermae",
+      "definition": "warm baths",
+      "part_of_speech": "noun",
+      "transliteration": "thermae",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "vestis": {
+      "word": "vestis",
+      "definition": "clothing",
+      "part_of_speech": "noun",
+      "transliteration": "vestis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "vestimentum": {
+      "word": "vestimentum",
+      "definition": "garment",
+      "part_of_speech": "noun",
+      "transliteration": "vestimentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "tunica": {
+      "word": "tunica",
+      "definition": "tunic",
+      "part_of_speech": "noun",
+      "transliteration": "tunica",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "toga": {
+      "word": "toga",
+      "definition": "toga",
+      "part_of_speech": "noun",
+      "transliteration": "toga",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "stola": {
+      "word": "stola",
+      "definition": "robe, stola",
+      "part_of_speech": "noun",
+      "transliteration": "stola",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "pallium": {
+      "word": "pallium",
+      "definition": "cloak, mantle",
+      "part_of_speech": "noun",
+      "transliteration": "pallium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "lacerna": {
+      "word": "lacerna",
+      "definition": "cape, cloak",
+      "part_of_speech": "noun",
+      "transliteration": "lacerna",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "paenula": {
+      "word": "paenula",
+      "definition": "thick cloak",
+      "part_of_speech": "noun",
+      "transliteration": "paenula",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "amiculum": {
+      "word": "amiculum",
+      "definition": "wrap, mantle",
+      "part_of_speech": "noun",
+      "transliteration": "amiculum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sagum": {
+      "word": "sagum",
+      "definition": "military cloak",
+      "part_of_speech": "noun",
+      "transliteration": "sagum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "caliga": {
+      "word": "caliga",
+      "definition": "military boot, sandal",
+      "part_of_speech": "noun",
+      "transliteration": "caliga",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "solea": {
+      "word": "solea",
+      "definition": "sandal",
+      "part_of_speech": "noun",
+      "transliteration": "solea",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "crepida": {
+      "word": "crepida",
+      "definition": "sandal, shoe",
+      "part_of_speech": "noun",
+      "transliteration": "crepida",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "perna": {
+      "word": "perna",
+      "definition": "ham",
+      "part_of_speech": "noun",
+      "transliteration": "perna",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "pileus": {
+      "word": "pileus",
+      "definition": "felt cap",
+      "part_of_speech": "noun",
+      "transliteration": "pileus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "petasus": {
+      "word": "petasus",
+      "definition": "broad-brimmed hat",
+      "part_of_speech": "noun",
+      "transliteration": "petasus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "mitra": {
+      "word": "mitra",
+      "definition": "headband, turban",
+      "part_of_speech": "noun",
+      "transliteration": "mitra",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "cingulum": {
+      "word": "cingulum",
+      "definition": "girdle, belt",
+      "part_of_speech": "noun",
+      "transliteration": "cingulum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fibula": {
+      "word": "fibula",
+      "definition": "brooch, clasp",
+      "part_of_speech": "noun",
+      "transliteration": "fibula",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "acu": {
+      "word": "acu",
+      "definition": "needle",
+      "part_of_speech": "noun",
+      "transliteration": "acu",
+      "declension": "4th",
+      "gender": "feminine"
+    },
+    "tela": {
+      "word": "tela",
+      "definition": "web, loom",
+      "part_of_speech": "noun",
+      "transliteration": "tela",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "lanaria": {
+      "word": "lanaria",
+      "definition": "wool merchant",
+      "part_of_speech": "noun",
+      "transliteration": "lanaria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "fullonica": {
+      "word": "fullonica",
+      "definition": "fuller's shop",
+      "part_of_speech": "noun",
+      "transliteration": "fullonica",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "textor": {
+      "word": "textor",
+      "definition": "weaver",
+      "part_of_speech": "noun",
+      "transliteration": "textor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "linteum": {
+      "word": "linteum",
+      "definition": "linen, linen cloth",
+      "part_of_speech": "noun",
+      "transliteration": "linteum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "byssus": {
+      "word": "byssus",
+      "definition": "fine linen",
+      "part_of_speech": "noun",
+      "transliteration": "byssus",
+      "declension": "2nd",
+      "gender": "feminine"
+    },
+    "purpura": {
+      "word": "purpura",
+      "definition": "purple dye, purple cloth",
+      "part_of_speech": "noun",
+      "transliteration": "purpura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "coccum": {
+      "word": "coccum",
+      "definition": "scarlet",
+      "part_of_speech": "noun",
+      "transliteration": "coccum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "purpureus": {
+      "word": "purpureus",
+      "definition": "purple",
+      "part_of_speech": "adjective",
+      "transliteration": "purpureus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "coccinus": {
+      "word": "coccinus",
+      "definition": "scarlet",
+      "part_of_speech": "adjective",
+      "transliteration": "coccinus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "littera": {
+      "word": "littera",
+      "definition": "letter, literature",
+      "part_of_speech": "noun",
+      "transliteration": "littera",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "litterae": {
+      "word": "litterae",
+      "definition": "epistle, literature",
+      "part_of_speech": "noun",
+      "transliteration": "litterae",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "volumen": {
+      "word": "volumen",
+      "definition": "volume, scroll",
+      "part_of_speech": "noun",
+      "transliteration": "volumen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "codex": {
+      "word": "codex",
+      "definition": "book, codex",
+      "part_of_speech": "noun",
+      "transliteration": "codex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "charta": {
+      "word": "charta",
+      "definition": "paper, papyrus",
+      "part_of_speech": "noun",
+      "transliteration": "charta",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "membrana": {
+      "word": "membrana",
+      "definition": "parchment",
+      "part_of_speech": "noun",
+      "transliteration": "membrana",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "stylus": {
+      "word": "stylus",
+      "definition": "stylus, pen",
+      "part_of_speech": "noun",
+      "transliteration": "stylus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "calamus": {
+      "word": "calamus",
+      "definition": "reed, pen",
+      "part_of_speech": "noun",
+      "transliteration": "calamus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "atramentum": {
+      "word": "atramentum",
+      "definition": "ink",
+      "part_of_speech": "noun",
+      "transliteration": "atramentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "ceratum": {
+      "word": "ceratum",
+      "definition": "wax tablet",
+      "part_of_speech": "noun",
+      "transliteration": "ceratum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "tabula": {
+      "word": "tabula",
+      "definition": "tablet, writing tablet",
+      "part_of_speech": "noun",
+      "transliteration": "tabula",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "scheda": {
+      "word": "scheda",
+      "definition": "strip of papyrus, leaf",
+      "part_of_speech": "noun",
+      "transliteration": "scheda",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "index": {
+      "word": "index",
+      "definition": "index, list, informer",
+      "part_of_speech": "noun",
+      "transliteration": "index",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "titulus": {
+      "word": "titulus",
+      "definition": "title, inscription",
+      "part_of_speech": "noun",
+      "transliteration": "titulus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "subscriptio": {
+      "word": "subscriptio",
+      "definition": "signature, subscription",
+      "part_of_speech": "noun",
+      "transliteration": "subscriptio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "autographum": {
+      "word": "autographum",
+      "definition": "autograph",
+      "part_of_speech": "noun",
+      "transliteration": "autographum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "apographum": {
+      "word": "apographum",
+      "definition": "copy",
+      "part_of_speech": "noun",
+      "transliteration": "apographum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "liber": {
+      "word": "liber",
+      "definition": "Liber",
+      "part_of_speech": "proper noun",
+      "transliteration": "liber",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "bibliotheca": {
+      "word": "bibliotheca",
+      "definition": "library",
+      "part_of_speech": "noun",
+      "transliteration": "bibliotheca",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "poeta": {
+      "word": "poeta",
+      "definition": "poet",
+      "part_of_speech": "noun",
+      "transliteration": "poeta",
+      "declension": "1st",
+      "gender": "masculine"
+    },
+    "orator": {
+      "word": "orator",
+      "definition": "orator",
+      "part_of_speech": "noun",
+      "transliteration": "orator",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "historicus": {
+      "word": "historicus",
+      "definition": "historian",
+      "part_of_speech": "noun",
+      "transliteration": "historicus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "grammaticus": {
+      "word": "grammaticus",
+      "definition": "grammarian, teacher",
+      "part_of_speech": "noun",
+      "transliteration": "grammaticus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "rhetor": {
+      "word": "rhetor",
+      "definition": "rhetorician",
+      "part_of_speech": "noun",
+      "transliteration": "rhetor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "philosophus": {
+      "word": "philosophus",
+      "definition": "philosopher",
+      "part_of_speech": "noun",
+      "transliteration": "philosophus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "historia": {
+      "word": "historia",
+      "definition": "history, story",
+      "part_of_speech": "noun",
+      "transliteration": "historia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "fabula": {
+      "word": "fabula",
+      "definition": "story, play",
+      "part_of_speech": "noun",
+      "transliteration": "fabula",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "tragoedia": {
+      "word": "tragoedia",
+      "definition": "tragedy",
+      "part_of_speech": "noun",
+      "transliteration": "tragoedia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "comoedia": {
+      "word": "comoedia",
+      "definition": "comedy",
+      "part_of_speech": "noun",
+      "transliteration": "comoedia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ecloga": {
+      "word": "ecloga",
+      "definition": "eclogue, selection",
+      "part_of_speech": "noun",
+      "transliteration": "ecloga",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "carmen": {
+      "word": "carmen",
+      "definition": "song, poem",
+      "part_of_speech": "noun",
+      "transliteration": "carmen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "versus": {
+      "word": "versus",
+      "definition": "verse",
+      "part_of_speech": "noun",
+      "transliteration": "versus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "sententia": {
+      "word": "sententia",
+      "definition": "opinion, sentence",
+      "part_of_speech": "noun",
+      "transliteration": "sententia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "verbum": {
+      "word": "verbum",
+      "definition": "word",
+      "part_of_speech": "noun",
+      "transliteration": "verbum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "vocabulum": {
+      "word": "vocabulum",
+      "definition": "word, term",
+      "part_of_speech": "noun",
+      "transliteration": "vocabulum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sermo": {
+      "word": "sermo",
+      "definition": "speech, conversation",
+      "part_of_speech": "noun",
+      "transliteration": "sermo",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "concio": {
+      "word": "concio",
+      "definition": "assembly, speech",
+      "part_of_speech": "noun",
+      "transliteration": "concio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "declamatio": {
+      "word": "declamatio",
+      "definition": "declamation",
+      "part_of_speech": "noun",
+      "transliteration": "declamatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "recitatio": {
+      "word": "recitatio",
+      "definition": "reading aloud, recitation",
+      "part_of_speech": "noun",
+      "transliteration": "recitatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "lectio": {
+      "word": "lectio",
+      "definition": "reading",
+      "part_of_speech": "noun",
+      "transliteration": "lectio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "dictio": {
+      "word": "dictio",
+      "definition": "expression, word",
+      "part_of_speech": "noun",
+      "transliteration": "dictio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "elocutio": {
+      "word": "elocutio",
+      "definition": "style, expression",
+      "part_of_speech": "noun",
+      "transliteration": "elocutio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "pronuntiatio": {
+      "word": "pronuntiatio",
+      "definition": "delivery, pronunciation",
+      "part_of_speech": "noun",
+      "transliteration": "pronuntiatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "memoria": {
+      "word": "memoria",
+      "definition": "memory",
+      "part_of_speech": "noun",
+      "transliteration": "memoria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ars poetica": {
+      "word": "ars poetica",
+      "definition": "poetic art",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ars poetica",
+      "declension": "3rd/1st",
+      "gender": "feminine"
+    },
+    "ars rhetorica": {
+      "word": "ars rhetorica",
+      "definition": "rhetoric",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ars rhetorica",
+      "declension": "3rd/1st",
+      "gender": "feminine"
+    },
+    "ars grammatica": {
+      "word": "ars grammatica",
+      "definition": "grammar",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ars grammatica",
+      "declension": "3rd/1st",
+      "gender": "feminine"
+    },
+    "copia verborum": {
+      "word": "copia verborum",
+      "definition": "abundance of words",
+      "part_of_speech": "noun phrase",
+      "transliteration": "copia verborum",
+      "declension": "1st/2nd",
+      "gender": "feminine/neuter"
+    },
+    "tropus": {
+      "word": "tropus",
+      "definition": "trope",
+      "part_of_speech": "noun",
+      "transliteration": "tropus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "schema": {
+      "word": "schema",
+      "definition": "scheme, figure",
+      "part_of_speech": "noun",
+      "transliteration": "schema",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "metrum": {
+      "word": "metrum",
+      "definition": "meter",
+      "part_of_speech": "noun",
+      "transliteration": "metrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "hexameter": {
+      "word": "hexameter",
+      "definition": "hexameter",
+      "part_of_speech": "noun",
+      "transliteration": "hexameter",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pentameter": {
+      "word": "pentameter",
+      "definition": "pentameter",
+      "part_of_speech": "noun",
+      "transliteration": "pentameter",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "elegia": {
+      "word": "elegia",
+      "definition": "elegy, elegiac verse",
+      "part_of_speech": "noun",
+      "transliteration": "elegia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "epigramma": {
+      "word": "epigramma",
+      "definition": "epigram",
+      "part_of_speech": "noun",
+      "transliteration": "epigramma",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "epistula": {
+      "word": "epistula",
+      "definition": "letter, epistle",
+      "part_of_speech": "noun",
+      "transliteration": "epistula",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "satira": {
+      "word": "satira",
+      "definition": "satire",
+      "part_of_speech": "noun",
+      "transliteration": "satira",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ode": {
+      "word": "ode",
+      "definition": "ode",
+      "part_of_speech": "noun",
+      "transliteration": "ode",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "psalmus": {
+      "word": "psalmus",
+      "definition": "psalm",
+      "part_of_speech": "noun",
+      "transliteration": "psalmus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "canticum": {
+      "word": "canticum",
+      "definition": "song, canticle",
+      "part_of_speech": "noun",
+      "transliteration": "canticum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "laudes": {
+      "word": "laudes",
+      "definition": "praises",
+      "part_of_speech": "noun",
+      "transliteration": "laudes",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "honor": {
+      "word": "honor",
+      "definition": "honor",
+      "part_of_speech": "noun",
+      "transliteration": "honor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "decus": {
+      "word": "decus",
+      "definition": "honor, beauty",
+      "part_of_speech": "noun",
+      "transliteration": "decus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "decorum": {
+      "word": "decorum",
+      "definition": "propriety, decorum",
+      "part_of_speech": "noun",
+      "transliteration": "decorum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "mos": {
+      "word": "mos",
+      "definition": "custom, habit",
+      "part_of_speech": "noun",
+      "transliteration": "mos",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "mores": {
+      "word": "mores",
+      "definition": "morals, customs",
+      "part_of_speech": "noun",
+      "transliteration": "mores",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "ius civile": {
+      "word": "ius civile",
+      "definition": "civil law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius civile",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius gentium": {
+      "word": "ius gentium",
+      "definition": "law of nations",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius gentium",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius naturale": {
+      "word": "ius naturale",
+      "definition": "natural law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius naturale",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius divinum": {
+      "word": "ius divinum",
+      "definition": "divine law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius divinum",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius publicum": {
+      "word": "ius publicum",
+      "definition": "public law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius publicum",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius privatum": {
+      "word": "ius privatum",
+      "definition": "private law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius privatum",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "ius honorarium": {
+      "word": "ius honorarium",
+      "definition": "praetorian law",
+      "part_of_speech": "noun phrase",
+      "transliteration": "ius honorarium",
+      "declension": "3rd/2nd",
+      "gender": "neuter"
+    },
+    "edictum": {
+      "word": "edictum",
+      "definition": "edict",
+      "part_of_speech": "noun",
+      "transliteration": "edictum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "senatus consultum": {
+      "word": "senatus consultum",
+      "definition": "senatorial decree",
+      "part_of_speech": "noun phrase",
+      "transliteration": "senatus consultum",
+      "declension": "4th/2nd",
+      "gender": "neuter"
+    },
+    "plebiscitum": {
+      "word": "plebiscitum",
+      "definition": "plebiscite",
+      "part_of_speech": "noun",
+      "transliteration": "plebiscitum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "responsum": {
+      "word": "responsum",
+      "definition": "legal opinion",
+      "part_of_speech": "noun",
+      "transliteration": "responsum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "interdictum": {
+      "word": "interdictum",
+      "definition": "interdict, injunction",
+      "part_of_speech": "noun",
+      "transliteration": "interdictum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "actio": {
+      "word": "actio",
+      "definition": "action, lawsuit",
+      "part_of_speech": "noun",
+      "transliteration": "actio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "iudicium": {
+      "word": "iudicium",
+      "definition": "trial, judgment",
+      "part_of_speech": "noun",
+      "transliteration": "iudicium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "litis": {
+      "word": "litis",
+      "definition": "dispute, lawsuit",
+      "part_of_speech": "noun",
+      "transliteration": "litis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "lis": {
+      "word": "lis",
+      "definition": "lawsuit, quarrel",
+      "part_of_speech": "noun",
+      "transliteration": "lis",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "crimen": {
+      "word": "crimen",
+      "definition": "accusation, crime",
+      "part_of_speech": "noun",
+      "transliteration": "crimen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "delictum": {
+      "word": "delictum",
+      "definition": "offense, delict",
+      "part_of_speech": "noun",
+      "transliteration": "delictum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "facinus": {
+      "word": "facinus",
+      "definition": "deed, crime",
+      "part_of_speech": "noun",
+      "transliteration": "facinus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "maleficium": {
+      "word": "maleficium",
+      "definition": "wrongdoing, sorcery",
+      "part_of_speech": "noun",
+      "transliteration": "maleficium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "poena": {
+      "word": "poena",
+      "definition": "punishment, penalty",
+      "part_of_speech": "noun",
+      "transliteration": "poena",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "supplicium": {
+      "word": "supplicium",
+      "definition": "punishment, supplication",
+      "part_of_speech": "noun",
+      "transliteration": "supplicium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "damnum": {
+      "word": "damnum",
+      "definition": "damage, loss",
+      "part_of_speech": "noun",
+      "transliteration": "damnum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    " iniuria": {
+      "word": " iniuria",
+      "definition": "injustice, injury",
+      "part_of_speech": "noun",
+      "transliteration": " iniuria",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    " iniustitia": {
+      "word": " iniustitia",
+      "definition": "injustice",
+      "part_of_speech": "noun",
+      "transliteration": " iniustitia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "culpa": {
+      "word": "culpa",
+      "definition": "fault, blame",
+      "part_of_speech": "noun",
+      "transliteration": "culpa",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "dolus": {
+      "word": "dolus",
+      "definition": "fraud, deceit",
+      "part_of_speech": "noun",
+      "transliteration": "dolus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "fraus": {
+      "word": "fraus",
+      "definition": "fraud, deceit",
+      "part_of_speech": "noun",
+      "transliteration": "fraus",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "tribunus plebis": {
+      "word": "tribunus plebis",
+      "definition": "tribune of the plebs",
+      "part_of_speech": "noun phrase",
+      "transliteration": "tribunus plebis",
+      "declension": "2nd/3rd",
+      "gender": "masculine"
+    },
+    "censor": {
+      "word": "censor",
+      "definition": "censor",
+      "part_of_speech": "noun",
+      "transliteration": "censor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "dictator": {
+      "word": "dictator",
+      "definition": "dictator",
+      "part_of_speech": "noun",
+      "transliteration": "dictator",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "magister equitum": {
+      "word": "magister equitum",
+      "definition": "master of horse",
+      "part_of_speech": "noun phrase",
+      "transliteration": "magister equitum",
+      "declension": "2nd/2nd",
+      "gender": "masculine"
+    },
+    "proconsul": {
+      "word": "proconsul",
+      "definition": "proconsul",
+      "part_of_speech": "noun",
+      "transliteration": "proconsul",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "propraetor": {
+      "word": "propraetor",
+      "definition": "propraetor",
+      "part_of_speech": "noun",
+      "transliteration": "propraetor",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "legatus": {
+      "word": "legatus",
+      "definition": "legate, ambassador",
+      "part_of_speech": "noun",
+      "transliteration": "legatus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "praefectus": {
+      "word": "praefectus",
+      "definition": "prefect",
+      "part_of_speech": "noun",
+      "transliteration": "praefectus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "vigintisexvir": {
+      "word": "vigintisexvir",
+      "definition": "member of board of twenty-six",
+      "part_of_speech": "noun",
+      "transliteration": "vigintisexvir",
+      "declension": "irregular",
+      "gender": "masculine"
+    },
+    "religio": {
+      "word": "religio",
+      "definition": "religion",
+      "part_of_speech": "noun",
+      "transliteration": "religio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "cultus": {
+      "word": "cultus",
+      "definition": "cult, worship",
+      "part_of_speech": "noun",
+      "transliteration": "cultus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "ritus": {
+      "word": "ritus",
+      "definition": "rite",
+      "part_of_speech": "noun",
+      "transliteration": "ritus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "caerimonia": {
+      "word": "caerimonia",
+      "definition": "religious ceremony",
+      "part_of_speech": "noun",
+      "transliteration": "caerimonia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "sacrum": {
+      "word": "sacrum",
+      "definition": "sacred rite",
+      "part_of_speech": "noun",
+      "transliteration": "sacrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sacrificium": {
+      "word": "sacrificium",
+      "definition": "sacrifice",
+      "part_of_speech": "noun",
+      "transliteration": "sacrificium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "victima": {
+      "word": "victima",
+      "definition": "victim, sacrificial animal",
+      "part_of_speech": "noun",
+      "transliteration": "victima",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "hostia": {
+      "word": "hostia",
+      "definition": "sacrificial victim",
+      "part_of_speech": "noun",
+      "transliteration": "hostia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "libamen": {
+      "word": "libamen",
+      "definition": "libation",
+      "part_of_speech": "noun",
+      "transliteration": "libamen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "thura": {
+      "word": "thura",
+      "definition": "incense",
+      "part_of_speech": "noun",
+      "transliteration": "thura",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "delubrum": {
+      "word": "delubrum",
+      "definition": "shrine, temple",
+      "part_of_speech": "noun",
+      "transliteration": "delubrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "fanum": {
+      "word": "fanum",
+      "definition": "shrine, temple",
+      "part_of_speech": "noun",
+      "transliteration": "fanum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sacellum": {
+      "word": "sacellum",
+      "definition": "small shrine",
+      "part_of_speech": "noun",
+      "transliteration": "sacellum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "sacristia": {
+      "word": "sacristia",
+      "definition": "sacristy",
+      "part_of_speech": "noun",
+      "transliteration": "sacristia",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "aedes sacra": {
+      "word": "aedes sacra",
+      "definition": "sacred building",
+      "part_of_speech": "noun phrase",
+      "transliteration": "aedes sacra",
+      "declension": "3rd/1st",
+      "gender": "feminine"
+    },
+    "ara": {
+      "word": "ara",
+      "definition": "altar",
+      "part_of_speech": "noun",
+      "transliteration": "ara",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "focus": {
+      "word": "focus",
+      "definition": "hearth, altar",
+      "part_of_speech": "noun",
+      "transliteration": "focus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "lucus": {
+      "word": "lucus",
+      "definition": "grove",
+      "part_of_speech": "noun",
+      "transliteration": "lucus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "nemus": {
+      "word": "nemus",
+      "definition": "grove, forest",
+      "part_of_speech": "noun",
+      "transliteration": "nemus",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "silva": {
+      "word": "silva",
+      "definition": "wood, forest",
+      "part_of_speech": "noun",
+      "transliteration": "silva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "precatio": {
+      "word": "precatio",
+      "definition": "prayer",
+      "part_of_speech": "noun",
+      "transliteration": "precatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "invocatio": {
+      "word": "invocatio",
+      "definition": "invocation",
+      "part_of_speech": "noun",
+      "transliteration": "invocatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "votum": {
+      "word": "votum",
+      "definition": "vow",
+      "part_of_speech": "noun",
+      "transliteration": "votum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "nuncupatio": {
+      "word": "nuncupatio",
+      "definition": "solemn declaration",
+      "part_of_speech": "noun",
+      "transliteration": "nuncupatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "dedicatio": {
+      "word": "dedicatio",
+      "definition": "dedication",
+      "part_of_speech": "noun",
+      "transliteration": "dedicatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "consecratio": {
+      "word": "consecratio",
+      "definition": "consecration",
+      "part_of_speech": "noun",
+      "transliteration": "consecratio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    " inauguratio": {
+      "word": " inauguratio",
+      "definition": "inauguration",
+      "part_of_speech": "noun",
+      "transliteration": " inauguratio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "purificatio": {
+      "word": "purificatio",
+      "definition": "purification",
+      "part_of_speech": "noun",
+      "transliteration": "purificatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "piaculum": {
+      "word": "piaculum",
+      "definition": "expiatory sacrifice",
+      "part_of_speech": "noun",
+      "transliteration": "piaculum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "piamentum": {
+      "word": "piamentum",
+      "definition": "means of expiation",
+      "part_of_speech": "noun",
+      "transliteration": "piamentum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "flamen": {
+      "word": "flamen",
+      "definition": "priest",
+      "part_of_speech": "noun",
+      "transliteration": "flamen",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pontifex": {
+      "word": "pontifex",
+      "definition": "pontiff, high priest",
+      "part_of_speech": "noun",
+      "transliteration": "pontifex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pontifex maximus": {
+      "word": "pontifex maximus",
+      "definition": "high priest",
+      "part_of_speech": "noun phrase",
+      "transliteration": "pontifex maximus",
+      "declension": "3rd/1st/2nd",
+      "gender": "masculine"
+    },
+    "rex sacrorum": {
+      "word": "rex sacrorum",
+      "definition": "king of sacred rites",
+      "part_of_speech": "noun phrase",
+      "transliteration": "rex sacrorum",
+      "declension": "3rd/2nd",
+      "gender": "masculine"
+    },
+    "augur": {
+      "word": "augur",
+      "definition": "augur, soothsayer",
+      "part_of_speech": "noun",
+      "transliteration": "augur",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "haruspex": {
+      "word": "haruspex",
+      "definition": "haruspex, diviner",
+      "part_of_speech": "noun",
+      "transliteration": "haruspex",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "decemvir sacris faciundis": {
+      "word": "decemvir sacris faciundis",
+      "definition": "board of ten for sacred rites",
+      "part_of_speech": "noun phrase",
+      "transliteration": "decemvir sacris faciundis",
+      "declension": "irregular/3rd",
+      "gender": "masculine"
+    },
+    "septemvir epulonum": {
+      "word": "septemvir epulonum",
+      "definition": "board of seven for feasts",
+      "part_of_speech": "noun phrase",
+      "transliteration": "septemvir epulonum",
+      "declension": "irregular/2nd",
+      "gender": "masculine"
+    },
+    "quindecimvir sacris faciundis": {
+      "word": "quindecimvir sacris faciundis",
+      "definition": "board of fifteen for sacred rites",
+      "part_of_speech": "noun phrase",
+      "transliteration": "quindecimvir sacris faciundis",
+      "declension": "irregular/3rd",
+      "gender": "masculine"
+    },
+    "salii": {
+      "word": "salii",
+      "definition": "leaping priests",
+      "part_of_speech": "noun",
+      "transliteration": "salii",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "luperci": {
+      "word": "luperci",
+      "definition": "priests of Lupercus",
+      "part_of_speech": "noun",
+      "transliteration": "luperci",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "fetiales": {
+      "word": "fetiales",
+      "definition": "fetial priests",
+      "part_of_speech": "noun",
+      "transliteration": "fetiales",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "fratres arvales": {
+      "word": "fratres arvales",
+      "definition": "Arval brothers",
+      "part_of_speech": "noun phrase",
+      "transliteration": "fratres arvales",
+      "declension": "3rd/3rd",
+      "gender": "masculine"
+    },
+    "virgo vestalis": {
+      "word": "virgo vestalis",
+      "definition": "Vestal virgin",
+      "part_of_speech": "noun phrase",
+      "transliteration": "virgo vestalis",
+      "declension": "3rd/3rd",
+      "gender": "feminine"
+    },
+    "sibylla": {
+      "word": "sibylla",
+      "definition": "sibyl",
+      "part_of_speech": "noun",
+      "transliteration": "sibylla",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "vates": {
+      "word": "vates",
+      "definition": "prophet, poet",
+      "part_of_speech": "noun",
+      "transliteration": "vates",
+      "declension": "3rd",
+      "gender": "masculine/feminine"
+    },
+    "deus": {
+      "word": "deus",
+      "definition": "god",
+      "part_of_speech": "noun",
+      "transliteration": "deus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "dea": {
+      "word": "dea",
+      "definition": "goddess",
+      "part_of_speech": "noun",
+      "transliteration": "dea",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "divus": {
+      "word": "divus",
+      "definition": "deified",
+      "part_of_speech": "adjective",
+      "transliteration": "divus",
+      "declension": "1st/2nd",
+      "gender": "masculine"
+    },
+    "numen": {
+      "word": "numen",
+      "definition": "divine power, deity",
+      "part_of_speech": "noun",
+      "transliteration": "numen",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "genius": {
+      "word": "genius",
+      "definition": "genius, guardian spirit",
+      "part_of_speech": "noun",
+      "transliteration": "genius",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "iuno": {
+      "word": "iuno",
+      "definition": "Juno",
+      "part_of_speech": "proper noun",
+      "transliteration": "iuno",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "minerva": {
+      "word": "minerva",
+      "definition": "Minerva",
+      "part_of_speech": "proper noun",
+      "transliteration": "minerva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "venus": {
+      "word": "venus",
+      "definition": "Venus",
+      "part_of_speech": "proper noun",
+      "transliteration": "venus",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "mars": {
+      "word": "mars",
+      "definition": "Mars",
+      "part_of_speech": "proper noun",
+      "transliteration": "mars",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "mercurius": {
+      "word": "mercurius",
+      "definition": "Mercury",
+      "part_of_speech": "proper noun",
+      "transliteration": "mercurius",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "iupiter": {
+      "word": "iupiter",
+      "definition": "Jupiter",
+      "part_of_speech": "proper noun",
+      "transliteration": "iupiter",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "neptunus": {
+      "word": "neptunus",
+      "definition": "Neptune",
+      "part_of_speech": "proper noun",
+      "transliteration": "neptunus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "pluto": {
+      "word": "pluto",
+      "definition": "Pluto",
+      "part_of_speech": "proper noun",
+      "transliteration": "pluto",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "apollo": {
+      "word": "apollo",
+      "definition": "Apollo",
+      "part_of_speech": "proper noun",
+      "transliteration": "apollo",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "diana": {
+      "word": "diana",
+      "definition": "Diana",
+      "part_of_speech": "proper noun",
+      "transliteration": "diana",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "vesta": {
+      "word": "vesta",
+      "definition": "Vesta",
+      "part_of_speech": "proper noun",
+      "transliteration": "vesta",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "ceres": {
+      "word": "ceres",
+      "definition": "Ceres",
+      "part_of_speech": "proper noun",
+      "transliteration": "ceres",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "proserpina": {
+      "word": "proserpina",
+      "definition": "Proserpina",
+      "part_of_speech": "proper noun",
+      "transliteration": "proserpina",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "bacchus": {
+      "word": "bacchus",
+      "definition": "Bacchus",
+      "part_of_speech": "proper noun",
+      "transliteration": "bacchus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "libera": {
+      "word": "libera",
+      "definition": "Libera",
+      "part_of_speech": "proper noun",
+      "transliteration": "libera",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "pan": {
+      "word": "pan",
+      "definition": "Pan",
+      "part_of_speech": "proper noun",
+      "transliteration": "pan",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "faunus": {
+      "word": "faunus",
+      "definition": "Faunus",
+      "part_of_speech": "proper noun",
+      "transliteration": "faunus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "silvanus": {
+      "word": "silvanus",
+      "definition": "Silvanus",
+      "part_of_speech": "proper noun",
+      "transliteration": "silvanus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "terminus": {
+      "word": "terminus",
+      "definition": "Terminus",
+      "part_of_speech": "proper noun",
+      "transliteration": "terminus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "janus": {
+      "word": "janus",
+      "definition": "Janus",
+      "part_of_speech": "proper noun",
+      "transliteration": "janus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "quirinus": {
+      "word": "quirinus",
+      "definition": "Quirinus",
+      "part_of_speech": "proper noun",
+      "transliteration": "quirinus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "romulus": {
+      "word": "romulus",
+      "definition": "Romulus",
+      "part_of_speech": "proper noun",
+      "transliteration": "romulus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "remus": {
+      "word": "remus",
+      "definition": "Remus",
+      "part_of_speech": "proper noun",
+      "transliteration": "remus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "aeneas": {
+      "word": "aeneas",
+      "definition": "Aeneas",
+      "part_of_speech": "proper noun",
+      "transliteration": "aeneas",
+      "declension": "1st",
+      "gender": "masculine"
+    },
+    "hercules": {
+      "word": "hercules",
+      "definition": "Hercules",
+      "part_of_speech": "proper noun",
+      "transliteration": "hercules",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "castor": {
+      "word": "castor",
+      "definition": "Castor",
+      "part_of_speech": "proper noun",
+      "transliteration": "castor",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "pollux": {
+      "word": "pollux",
+      "definition": "Pollux",
+      "part_of_speech": "proper noun",
+      "transliteration": "pollux",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "penates": {
+      "word": "penates",
+      "definition": "Penates",
+      "part_of_speech": "noun",
+      "transliteration": "penates",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "lares": {
+      "word": "lares",
+      "definition": "Lares",
+      "part_of_speech": "noun",
+      "transliteration": "lares",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "manes": {
+      "word": "manes",
+      "definition": "spirits of the dead",
+      "part_of_speech": "noun",
+      "transliteration": "manes",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "lemures": {
+      "word": "lemures",
+      "definition": "ghosts",
+      "part_of_speech": "noun",
+      "transliteration": "lemures",
+      "declension": "3rd",
+      "gender": "masculine"
+    },
+    "larva": {
+      "word": "larva",
+      "definition": "mask, ghost",
+      "part_of_speech": "noun",
+      "transliteration": "larva",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "spectrum": {
+      "word": "spectrum",
+      "definition": "apparition, ghost",
+      "part_of_speech": "noun",
+      "transliteration": "spectrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "umbra": {
+      "word": "umbra",
+      "definition": "shade, ghost",
+      "part_of_speech": "noun",
+      "transliteration": "umbra",
+      "declension": "1st",
+      "gender": "feminine"
+    },
+    "simulacrum": {
+      "word": "simulacrum",
+      "definition": "image, statue",
+      "part_of_speech": "noun",
+      "transliteration": "simulacrum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "effigies": {
+      "word": "effigies",
+      "definition": "effigy, image",
+      "part_of_speech": "noun",
+      "transliteration": "effigies",
+      "declension": "5th",
+      "gender": "feminine"
+    },
+    "imago": {
+      "word": "imago",
+      "definition": "image",
+      "part_of_speech": "noun",
+      "transliteration": "imago",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "species": {
+      "word": "species",
+      "definition": "appearance, kind",
+      "part_of_speech": "noun",
+      "transliteration": "species",
+      "declension": "5th",
+      "gender": "feminine"
+    },
+    "idolum": {
+      "word": "idolum",
+      "definition": "idol, image",
+      "part_of_speech": "noun",
+      "transliteration": "idolum",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "animus": {
+      "word": "animus",
+      "definition": "mind, spirit",
+      "part_of_speech": "noun",
+      "transliteration": "animus",
+      "declension": "2nd",
+      "gender": "masculine"
+    },
+    "spiritus": {
+      "word": "spiritus",
+      "definition": "spirit, breath",
+      "part_of_speech": "noun",
+      "transliteration": "spiritus",
+      "declension": "4th",
+      "gender": "masculine"
+    },
+    "viscera": {
+      "word": "viscera",
+      "definition": "internal organs, entrails",
+      "part_of_speech": "noun",
+      "transliteration": "viscera",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "exta": {
+      "word": "exta",
+      "definition": "entrails",
+      "part_of_speech": "noun",
+      "transliteration": "exta",
+      "declension": "3rd",
+      "gender": "neuter"
+    },
+    "litatio": {
+      "word": "litatio",
+      "definition": "favorable sacrifice",
+      "part_of_speech": "noun",
+      "transliteration": "litatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "obtentio": {
+      "word": "obtentio",
+      "definition": "obtaining favorable omens",
+      "part_of_speech": "noun",
+      "transliteration": "obtentio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "vitium": {
+      "word": "vitium",
+      "definition": "fault, defect in omens",
+      "part_of_speech": "noun",
+      "transliteration": "vitium",
+      "declension": "2nd",
+      "gender": "neuter"
+    },
+    "procuratio": {
+      "word": "procuratio",
+      "definition": "expiation",
+      "part_of_speech": "noun",
+      "transliteration": "procuratio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "evocatio": {
+      "word": "evocatio",
+      "definition": "evocation",
+      "part_of_speech": "noun",
+      "transliteration": "evocatio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "devotio": {
+      "word": "devotio",
+      "definition": "devotion",
+      "part_of_speech": "noun",
+      "transliteration": "devotio",
+      "declension": "3rd",
+      "gender": "feminine"
+    },
+    "evocatio deorum": {
+      "word": "evocatio deorum",
+      "definition": "evocation of gods",
+      "part_of_speech": "noun phrase",
+      "transliteration": "evocatio deorum",
+      "declension": "3rd/2nd",
+      "gender": "feminine/masculine"
+    },
+    "devotio ducis": {
+      "word": "devotio ducis",
+      "definition": "devotion of the commander",
+      "part_of_speech": "noun phrase",
+      "transliteration": "devotio ducis",
+      "declension": "3rd/3rd",
+      "gender": "feminine/masculine"
+    }
+  },
+  "root_index": {}
+}

@@ -1,0 +1,2660 @@
+{
+  "metadata": {
+    "title": "Syriac Lexicon",
+    "language": "Syriac (Classical/Edessan)",
+    "script": "Syriac (Estrangela, Serto, East Syriac)",
+    "period": "Classical Syriac (200-700 CE), Peshitta translation",
+    "total_entries": 268,
+    "format": "JSON",
+    "notes": "Peshitta Syriac is the language of the Syriac Bible and early Eastern Christianity. It is a dialect of Aramaic."
+  },
+  "entries": {
+    "ܗܘ": {
+      "word": "ܗܘ",
+      "definition": "he, that (masculine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "hû",
+      "root": "h-w"
+    },
+    "ܗܝ": {
+      "word": "ܗܝ",
+      "definition": "she, that (feminine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "hî",
+      "root": "h-y"
+    },
+    "ܗܢܘܢ": {
+      "word": "ܗܢܘܢ",
+      "definition": "they (masculine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "hennûn",
+      "root": "h-n"
+    },
+    "ܗܢܝܢ": {
+      "word": "ܗܢܝܢ",
+      "definition": "they (feminine)",
+      "part_of_speech": "demonstrative pronoun",
+      "transliteration": "hennên",
+      "root": "h-n"
+    },
+    "ܐܢܐ": {
+      "word": "ܐܢܐ",
+      "definition": "I",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ʾanâ",
+      "root": "ʾ-n"
+    },
+    "ܐܢܬ": {
+      "word": "ܐܢܬ",
+      "definition": "you (masculine singular)",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ʾant",
+      "root": "ʾ-n-t"
+    },
+    "ܐܢܬܝ": {
+      "word": "ܐܢܬܝ",
+      "definition": "you (feminine singular)",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ʾantî",
+      "root": "ʾ-n-t"
+    },
+    "ܚܢܢ": {
+      "word": "ܚܢܢ",
+      "definition": "we",
+      "part_of_speech": "personal pronoun",
+      "transliteration": "ḥnan",
+      "root": "ḥ-n-n"
+    },
+    "ܕ": {
+      "word": "ܕ",
+      "definition": "that, because, which",
+      "part_of_speech": "conjunction",
+      "transliteration": "ḏ-",
+      "root": "ḏ"
+    },
+    "ܡܢ": {
+      "word": "ܡܢ",
+      "definition": "from, out of",
+      "part_of_speech": "preposition",
+      "transliteration": "men",
+      "root": "m-n"
+    },
+    "ܡܐ": {
+      "word": "ܡܐ",
+      "definition": "what",
+      "part_of_speech": "interrogative pronoun",
+      "transliteration": "mâ",
+      "root": "m-ʾ"
+    },
+    "ܟܠ": {
+      "word": "ܟܠ",
+      "definition": "all, every",
+      "part_of_speech": "adjective",
+      "transliteration": "koll",
+      "root": "k-l"
+    },
+    "ܗܢܐ": {
+      "word": "ܗܢܐ",
+      "definition": "this (masculine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "hânêʾ",
+      "root": "h-n-ʾ"
+    },
+    "ܗܕܐ": {
+      "word": "ܗܕܐ",
+      "definition": "this (feminine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "hâḏêʾ",
+      "root": "h-ḏ-ʾ"
+    },
+    "ܐܠܗܐ": {
+      "word": "ܐܠܗܐ",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "ʾalâhâʾ",
+      "root": "ʾ-l-h",
+      "note": "The standard word for God in Syriac"
+    },
+    "ܡܪܝܐ": {
+      "word": "ܡܪܝܐ",
+      "definition": "the Lord",
+      "part_of_speech": "proper noun",
+      "transliteration": "mâryâʾ",
+      "root": "m-r-ʾ",
+      "note": "Used for YHWH in Peshitta"
+    },
+    "ܡܪܢ": {
+      "word": "ܡܪܢ",
+      "definition": "our Lord",
+      "part_of_speech": "proper noun",
+      "transliteration": "mâran",
+      "root": "m-r",
+      "note": "Common liturgical term"
+    },
+    "ܝܫܘܥ": {
+      "word": "ܝܫܘܥ",
+      "definition": "Jesus",
+      "part_of_speech": "proper noun",
+      "transliteration": "yešûʿ",
+      "root": "y-š-ʿ",
+      "note": "Jesus' name in Syriac"
+    },
+    "ܡܫܝܚܐ": {
+      "word": "ܡܫܝܚܐ",
+      "definition": "Christ, the Anointed",
+      "part_of_speech": "proper noun",
+      "transliteration": "mešîḥâʾ",
+      "root": "m-š-ḥ",
+      "note": "Messiah/Christ"
+    },
+    "ܪܘܚܐ": {
+      "word": "ܪܘܚܐ",
+      "definition": "spirit, wind, breath",
+      "part_of_speech": "noun",
+      "transliteration": "rûḥâʾ",
+      "root": "r-w-ḥ"
+    },
+    "ܪܘܚܐ ܕܩܘܕܫܐ": {
+      "word": "ܪܘܚܐ ܕܩܘܕܫܐ",
+      "definition": "Holy Spirit",
+      "part_of_speech": "proper noun",
+      "transliteration": "rûḥâʾ d-qûḏšâʾ",
+      "root": "r-w-ḥ; q-d-š"
+    },
+    "ܐܒܐ": {
+      "word": "ܐܒܐ",
+      "definition": "father",
+      "part_of_speech": "noun",
+      "transliteration": "ʾabbâʾ",
+      "root": "ʾ-b"
+    },
+    "ܒܪܐ": {
+      "word": "ܒܪܐ",
+      "definition": "son",
+      "part_of_speech": "noun",
+      "transliteration": "brâʾ",
+      "root": "b-r"
+    },
+    "ܡܠܟܐ": {
+      "word": "ܡܠܟܐ",
+      "definition": "king",
+      "part_of_speech": "noun",
+      "transliteration": "malkâʾ",
+      "root": "m-l-k"
+    },
+    "ܡܠܟܘܬܐ": {
+      "word": "ܡܠܟܘܬܐ",
+      "definition": "kingdom",
+      "part_of_speech": "noun",
+      "transliteration": "malkûṯâʾ",
+      "root": "m-l-k"
+    },
+    "ܡܪܝܡ": {
+      "word": "ܡܪܝܡ",
+      "definition": "Mary",
+      "part_of_speech": "proper noun",
+      "transliteration": "Maryam",
+      "root": "m-r-y"
+    },
+    "ܦܛܪܘܣ": {
+      "word": "ܦܛܪܘܣ",
+      "definition": "Peter",
+      "part_of_speech": "proper noun",
+      "transliteration": "Peṭrôs",
+      "root": "p-ṭ-r"
+    },
+    "ܦܘܠܘܣ": {
+      "word": "ܦܘܠܘܣ",
+      "definition": "Paul",
+      "part_of_speech": "proper noun",
+      "transliteration": "Pawlôs",
+      "root": "p-w-l"
+    },
+    "ܝܘܚܢܢ": {
+      "word": "ܝܘܚܢܢ",
+      "definition": "John",
+      "part_of_speech": "proper noun",
+      "transliteration": "Yôḥannân",
+      "root": "y-ḥ-n-n"
+    },
+    "ܒܪܢܫܐ": {
+      "word": "ܒܪܢܫܐ",
+      "definition": "human being, person",
+      "part_of_speech": "noun",
+      "transliteration": "brĕnāšâʾ",
+      "root": "b-r; n-ʾ-š",
+      "note": "Literally 'son of man'"
+    },
+    "ܓܒܪܐ": {
+      "word": "ܓܒܪܐ",
+      "definition": "man, male",
+      "part_of_speech": "noun",
+      "transliteration": "gaḇrâʾ",
+      "root": "g-b-r"
+    },
+    "ܐܢܬܬܐ": {
+      "word": "ܐܢܬܬܐ",
+      "definition": "woman",
+      "part_of_speech": "noun",
+      "transliteration": "ʾantattâʾ",
+      "root": "ʾ-n-š"
+    },
+    "ܛܠܝܐ": {
+      "word": "ܛܠܝܐ",
+      "definition": "boy, child",
+      "part_of_speech": "noun",
+      "transliteration": "ṭalyâʾ",
+      "root": "ṭ-l-y"
+    },
+    "ܒܝܬܐ": {
+      "word": "ܒܝܬܐ",
+      "definition": "house",
+      "part_of_speech": "noun",
+      "transliteration": "baytâʾ",
+      "root": "b-y-t"
+    },
+    "ܠܒܐ": {
+      "word": "ܠܒܐ",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "lḇâʾ",
+      "root": "l-b"
+    },
+    "ܢܦܫܐ": {
+      "word": "ܢܦܫܐ",
+      "definition": "soul, self, life",
+      "part_of_speech": "noun",
+      "transliteration": "nap̄šâʾ",
+      "root": "n-p-š"
+    },
+    "ܦܓܪܐ": {
+      "word": "ܦܓܪܐ",
+      "definition": "body",
+      "part_of_speech": "noun",
+      "transliteration": "pagrâʾ",
+      "root": "p-g-r"
+    },
+    "ܕܡܐ": {
+      "word": "ܕܡܐ",
+      "definition": "blood",
+      "part_of_speech": "noun",
+      "transliteration": "ḏemâʾ",
+      "root": "ḏ-m-ʾ"
+    },
+    "ܒܣܪܐ": {
+      "word": "ܒܣܪܐ",
+      "definition": "flesh",
+      "part_of_speech": "noun",
+      "transliteration": "besrâʾ",
+      "root": "b-s-r"
+    },
+    "ܥܝܢܐ": {
+      "word": "ܥܝܢܐ",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "ʿaynâʾ",
+      "root": "ʿ-y-n"
+    },
+    "ܐܕܢܐ": {
+      "word": "ܐܕܢܐ",
+      "definition": "ear",
+      "part_of_speech": "noun",
+      "transliteration": "ʾaḏnâʾ",
+      "root": "ʾ-ḏ-n"
+    },
+    "ܐܝܕܐ": {
+      "word": "ܐܝܕܐ",
+      "definition": "hand",
+      "part_of_speech": "noun",
+      "transliteration": "ʾîḏâʾ",
+      "root": "y-d"
+    },
+    "ܪܝܫܐ": {
+      "word": "ܪܝܫܐ",
+      "definition": "head, beginning",
+      "part_of_speech": "noun",
+      "transliteration": "rîšâʾ",
+      "root": "r-ʾ-š"
+    },
+    "ܐܦܐ": {
+      "word": "ܐܦܐ",
+      "definition": "dust, ashes",
+      "part_of_speech": "noun",
+      "transliteration": "ʾâpâʾ",
+      "root": "ʾ-p"
+    },
+    "ܦܘܡܐ": {
+      "word": "ܦܘܡܐ",
+      "definition": "mouth",
+      "part_of_speech": "noun",
+      "transliteration": "pûmâʾ",
+      "root": "p-m"
+    },
+    "ܐܝܠܝܢ": {
+      "word": "ܐܝܠܝܢ",
+      "definition": "tree, wood",
+      "part_of_speech": "noun",
+      "transliteration": "ʾîlân",
+      "root": "ʾ-y-l"
+    },
+    "ܡܝܐ": {
+      "word": "ܡܝܐ",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "mayyâʾ",
+      "root": "m-y"
+    },
+    "ܢܘܪܐ": {
+      "word": "ܢܘܪܐ",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "nûrâʾ",
+      "root": "n-w-r"
+    },
+    "ܐܪܥܐ": {
+      "word": "ܐܪܥܐ",
+      "definition": "earth, land, ground",
+      "part_of_speech": "noun",
+      "transliteration": "ʾarʿâʾ",
+      "root": "ʾ-r-ʿ"
+    },
+    "ܫܡܝܐ": {
+      "word": "ܫܡܝܐ",
+      "definition": "heaven, sky",
+      "part_of_speech": "noun",
+      "transliteration": "šmayyâʾ",
+      "root": "š-m-y"
+    },
+    "ܕܪܐ": {
+      "word": "ܕܪܐ",
+      "definition": "dwelling, abode",
+      "part_of_speech": "noun",
+      "transliteration": "ḏar",
+      "root": "ḏ-r"
+    },
+    "ܐܘܪܚܐ": {
+      "word": "ܐܘܪܚܐ",
+      "definition": "way, path, road",
+      "part_of_speech": "noun",
+      "transliteration": "ʾûrḥâʾ",
+      "root": "ʾ-r-ḥ"
+    },
+    "ܢܘܗܪܐ": {
+      "word": "ܢܘܗܪܐ",
+      "definition": "light",
+      "part_of_speech": "noun",
+      "transliteration": "nûhrâʾ",
+      "root": "n-w-h-r"
+    },
+    "ܚܫܘܟܐ": {
+      "word": "ܚܫܘܟܐ",
+      "definition": "darkness",
+      "part_of_speech": "noun",
+      "transliteration": "ḥeškâʾ",
+      "root": "ḥ-š-k"
+    },
+    "ܝܘܡܐ": {
+      "word": "ܝܘܡܐ",
+      "definition": "day",
+      "part_of_speech": "noun",
+      "transliteration": "yômâʾ",
+      "root": "y-w-m"
+    },
+    "ܠܠܝܐ": {
+      "word": "ܠܠܝܐ",
+      "definition": "night",
+      "part_of_speech": "noun",
+      "transliteration": "lelyâʾ",
+      "root": "l-l-y"
+    },
+    "ܫܡܫܐ": {
+      "word": "ܫܡܫܐ",
+      "definition": "sun",
+      "part_of_speech": "noun",
+      "transliteration": "šemšâʾ",
+      "root": "š-m-š"
+    },
+    "ܣܗܪܐ": {
+      "word": "ܣܗܪܐ",
+      "definition": "moon",
+      "part_of_speech": "noun",
+      "transliteration": "sāhrâʾ",
+      "root": "s-h-r"
+    },
+    "ܟܘܟܒܐ": {
+      "word": "ܟܘܟܒܐ",
+      "definition": "star",
+      "part_of_speech": "noun",
+      "transliteration": "kôḵeḇâʾ",
+      "root": "k-w-ḵ-ḇ"
+    },
+    "ܐܡܪ": {
+      "word": "ܐܡܪ",
+      "definition": "to say",
+      "part_of_speech": "verb",
+      "transliteration": "ʾemar",
+      "root": "ʾ-m-r"
+    },
+    "ܗܘܐ": {
+      "word": "ܗܘܐ",
+      "definition": "to be, become",
+      "part_of_speech": "verb",
+      "transliteration": "hǝwâʾ",
+      "root": "h-w-ʾ"
+    },
+    "ܥܒܕ": {
+      "word": "ܥܒܕ",
+      "definition": "to do, make, work",
+      "part_of_speech": "verb",
+      "transliteration": "ʿǝḇaḏ",
+      "root": "ʿ-ḇ-ḏ"
+    },
+    "ܝܕܥ": {
+      "word": "ܝܕܥ",
+      "definition": "to know",
+      "part_of_speech": "verb",
+      "transliteration": "yǝdaʿ",
+      "root": "y-d-ʿ"
+    },
+    "ܚܙܐ": {
+      "word": "ܚܙܐ",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "ḥǝzâʾ",
+      "root": "ḥ-z-ʾ"
+    },
+    "ܫܡܥ": {
+      "word": "ܫܡܥ",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "šǝmaʿ",
+      "root": "š-m-ʿ"
+    },
+    "ܝܗܒ": {
+      "word": "ܝܗܒ",
+      "definition": "to give",
+      "part_of_speech": "verb",
+      "transliteration": "yǝhaḇ",
+      "root": "y-h-ḇ"
+    },
+    "ܢܣܒ": {
+      "word": "ܢܣܒ",
+      "definition": "to take, receive",
+      "part_of_speech": "verb",
+      "transliteration": "nǝsaḇ",
+      "root": "n-s-ḇ"
+    },
+    "ܐܬܐ": {
+      "word": "ܐܬܐ",
+      "definition": "to come",
+      "part_of_speech": "verb",
+      "transliteration": "ʾǝṯâʾ",
+      "root": "ʾ-ṯ-ʾ"
+    },
+    "ܐܙܠ": {
+      "word": "ܐܙܠ",
+      "definition": "to go",
+      "part_of_speech": "verb",
+      "transliteration": "ʾǝzal",
+      "root": "ʾ-z-l"
+    },
+    "ܢܦܠ": {
+      "word": "ܢܦܠ",
+      "definition": "to fall",
+      "part_of_speech": "verb",
+      "transliteration": "nǝp̄al",
+      "root": "n-p̄-l"
+    },
+    "ܩܡ": {
+      "word": "ܩܡ",
+      "definition": "to rise, stand",
+      "part_of_speech": "verb",
+      "transliteration": "qam",
+      "root": "q-w-m"
+    },
+    "ܣܠܩ": {
+      "word": "ܣܠܩ",
+      "definition": "to go up, ascend",
+      "part_of_speech": "verb",
+      "transliteration": "sǝlaq",
+      "root": "s-l-q"
+    },
+    "ܢܚܬ": {
+      "word": "ܢܚܬ",
+      "definition": "to go down, descend",
+      "part_of_speech": "verb",
+      "transliteration": "nǝḥeṯ",
+      "root": "n-ḥ-ṯ"
+    },
+    "ܚܝ": {
+      "word": "ܚܝ",
+      "definition": "to live",
+      "part_of_speech": "verb",
+      "transliteration": "ḥay",
+      "root": "ḥ-y-y"
+    },
+    "ܡܝܬ": {
+      "word": "ܡܝܬ",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "mîṯ",
+      "root": "m-w-ṯ"
+    },
+    "ܩܛܠ": {
+      "word": "ܩܛܠ",
+      "definition": "to kill",
+      "part_of_speech": "verb",
+      "transliteration": "qǝṭal",
+      "root": "q-ṭ-l"
+    },
+    "ܟܬܒ": {
+      "word": "ܟܬܒ",
+      "definition": "to write",
+      "part_of_speech": "verb",
+      "transliteration": "kǝṯaḇ",
+      "root": "k-ṯ-ḇ"
+    },
+    "ܩܪܐ": {
+      "word": "ܩܪܐ",
+      "definition": "to call, read",
+      "part_of_speech": "verb",
+      "transliteration": "qǝrâʾ",
+      "root": "q-r-ʾ"
+    },
+    "ܦܬܚ": {
+      "word": "ܦܬܚ",
+      "definition": "to open",
+      "part_of_speech": "verb",
+      "transliteration": "pǝtaḥ",
+      "root": "p-ṯ-ḥ"
+    },
+    "ܣܟܪ": {
+      "word": "ܣܟܪ",
+      "definition": "to close",
+      "part_of_speech": "verb",
+      "transliteration": "sǝkar",
+      "root": "s-k-r"
+    },
+    "ܫܟܒ": {
+      "word": "ܫܟܒ",
+      "definition": "to lie down",
+      "part_of_speech": "verb",
+      "transliteration": "šǝkaḇ",
+      "root": "š-k-ḇ"
+    },
+    "ܒܢܐ": {
+      "word": "ܒܢܐ",
+      "definition": "to build",
+      "part_of_speech": "verb",
+      "transliteration": "bǝnâʾ",
+      "root": "b-n-ʾ"
+    },
+    "ܫܬܐ": {
+      "word": "ܫܬܐ",
+      "definition": "to drink",
+      "part_of_speech": "verb",
+      "transliteration": "šǝtâʾ",
+      "root": "š-t-ʾ"
+    },
+    "ܠܚܡ": {
+      "word": "ܠܚܡ",
+      "definition": "to eat",
+      "part_of_speech": "verb",
+      "transliteration": "lǝḥem",
+      "root": "l-ḥ-m"
+    },
+    "ܠܒܫ": {
+      "word": "ܠܒܫ",
+      "definition": "to clothe, put on",
+      "part_of_speech": "verb",
+      "transliteration": "lǝḇaš",
+      "root": "l-ḇ-š"
+    },
+    "ܫܠܡ": {
+      "word": "ܫܠܡ",
+      "definition": "to be complete, finish",
+      "part_of_speech": "verb",
+      "transliteration": "šǝlam",
+      "root": "š-l-m"
+    },
+    "ܫܕܪ": {
+      "word": "ܫܕܪ",
+      "definition": "to send",
+      "part_of_speech": "verb",
+      "transliteration": "šǝdaṛ",
+      "root": "š-ḏ-ṛ"
+    },
+    "ܡܠܐ": {
+      "word": "ܡܠܐ",
+      "definition": "to fill, be full",
+      "part_of_speech": "verb",
+      "transliteration": "mallâʾ",
+      "root": "m-l-ʾ"
+    },
+    "ܪܚܡ": {
+      "word": "ܪܚܡ",
+      "definition": "to love, have mercy",
+      "part_of_speech": "verb",
+      "transliteration": "rǝḥem",
+      "root": "r-ḥ-m"
+    },
+    "ܚܒ": {
+      "word": "ܚܒ",
+      "definition": "to love",
+      "part_of_speech": "verb",
+      "transliteration": "ḥaḇ",
+      "root": "ḥ-b"
+    },
+    "ܣܝܡ": {
+      "word": "ܣܝܡ",
+      "definition": "to place, put",
+      "part_of_speech": "verb",
+      "transliteration": "sîm",
+      "root": "s-y-m"
+    },
+    "ܐܚܕ": {
+      "word": "ܐܚܕ",
+      "definition": "to take, seize",
+      "part_of_speech": "verb",
+      "transliteration": "ʾǝḥaḏ",
+      "root": "ʾ-ḥ-ḏ"
+    },
+    "ܡܛܐ": {
+      "word": "ܡܛܐ",
+      "definition": "to arrive, reach",
+      "part_of_speech": "verb",
+      "transliteration": "maṭṭâʾ",
+      "root": "m-ṭ-ʾ"
+    },
+    "ܫܪܐ": {
+      "word": "ܫܪܐ",
+      "definition": "to loose, forgive",
+      "part_of_speech": "verb",
+      "transliteration": "šǝrâʾ",
+      "root": "š-r-ʾ"
+    },
+    "ܒ": {
+      "word": "ܒ",
+      "definition": "in, with, by",
+      "part_of_speech": "preposition",
+      "transliteration": "b-",
+      "root": "b"
+    },
+    "ܠ": {
+      "word": "ܠ",
+      "definition": "to, for, of",
+      "part_of_speech": "preposition",
+      "transliteration": "l-",
+      "root": "l"
+    },
+    "ܥܠ": {
+      "word": "ܥܠ",
+      "definition": "upon, over, concerning",
+      "part_of_speech": "preposition",
+      "transliteration": "ʿal",
+      "root": "ʿ-l"
+    },
+    "ܬܚܬ": {
+      "word": "ܬܚܬ",
+      "definition": "under, beneath",
+      "part_of_speech": "preposition",
+      "transliteration": "taḥt",
+      "root": "t-ḥ-t"
+    },
+    "ܩܕܡ": {
+      "word": "ܩܕܡ",
+      "definition": "morning",
+      "part_of_speech": "noun",
+      "transliteration": "qǝḏem",
+      "root": "q-ḏ-m"
+    },
+    "ܒܬܪ": {
+      "word": "ܒܬܪ",
+      "definition": "after, behind",
+      "part_of_speech": "preposition",
+      "transliteration": "baṯaṛ",
+      "root": "b-ṯ-ṛ"
+    },
+    "ܒܝܢ": {
+      "word": "ܒܝܢ",
+      "definition": "between",
+      "part_of_speech": "preposition",
+      "transliteration": "bayn",
+      "root": "b-y-n"
+    },
+    "ܥܡ": {
+      "word": "ܥܡ",
+      "definition": "with",
+      "part_of_speech": "preposition",
+      "transliteration": "ʿam",
+      "root": "ʿ-m"
+    },
+    "ܠܘܬ": {
+      "word": "ܠܘܬ",
+      "definition": "with, near",
+      "part_of_speech": "preposition",
+      "transliteration": "lûaṯ",
+      "root": "l-w-ṯ"
+    },
+    "ܘ": {
+      "word": "ܘ",
+      "definition": "and",
+      "part_of_speech": "conjunction",
+      "transliteration": "w-",
+      "root": "w"
+    },
+    "ܐܠܐ": {
+      "word": "ܐܠܐ",
+      "definition": "but, except",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾellâʾ",
+      "root": "ʾ-l"
+    },
+    "ܐܢ": {
+      "word": "ܐܢ",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾen",
+      "root": "ʾ-n"
+    },
+    "ܐܘ": {
+      "word": "ܐܘ",
+      "definition": "or",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾô",
+      "root": "ʾ-w"
+    },
+    "ܡܛܠ": {
+      "word": "ܡܛܠ",
+      "definition": "because, on account of",
+      "part_of_speech": "conjunction/preposition",
+      "transliteration": "maṭṭǝl",
+      "root": "m-ṭ-l"
+    },
+    "ܗܟܢܐ": {
+      "word": "ܗܟܢܐ",
+      "definition": "thus, so",
+      "part_of_speech": "adverb/conjunction",
+      "transliteration": "hāḵǝnâʾ",
+      "root": "h-k-n"
+    },
+    "ܠܐ": {
+      "word": "ܠܐ",
+      "definition": "no, not",
+      "part_of_speech": "negative particle",
+      "transliteration": "lâʾ",
+      "root": "l-ʾ"
+    },
+    "ܛܒܐ": {
+      "word": "ܛܒܐ",
+      "definition": "good",
+      "part_of_speech": "adjective",
+      "transliteration": "ṭaḇâʾ",
+      "root": "ṭ-ḇ"
+    },
+    "ܒܝܫܐ": {
+      "word": "ܒܝܫܐ",
+      "definition": "bad, evil",
+      "part_of_speech": "adjective",
+      "transliteration": "bîšâʾ",
+      "root": "b-y-š"
+    },
+    "ܪܒܐ": {
+      "word": "ܪܒܐ",
+      "definition": "great, large, old",
+      "part_of_speech": "adjective",
+      "transliteration": "raḇâʾ",
+      "root": "r-b"
+    },
+    "ܙܥܘܪܐ": {
+      "word": "ܙܥܘܪܐ",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "zʿûrâʾ",
+      "root": "z-ʿ-w-r"
+    },
+    "ܩܕܝܫܐ": {
+      "word": "ܩܕܝܫܐ",
+      "definition": "holy",
+      "part_of_speech": "adjective",
+      "transliteration": "qǝḏîšâʾ",
+      "root": "q-d-š"
+    },
+    "ܟܐܢܐ": {
+      "word": "ܟܐܢܐ",
+      "definition": "just, righteous",
+      "part_of_speech": "adjective",
+      "transliteration": "kǝʾennâʾ",
+      "root": "k-ʾ-n"
+    },
+    "ܫܪܝܪܐ": {
+      "word": "ܫܪܝܪܐ",
+      "definition": "true, firm",
+      "part_of_speech": "adjective",
+      "transliteration": "šǝrîrâʾ",
+      "root": "š-r-r"
+    },
+    "ܚܕܬܐ": {
+      "word": "ܚܕܬܐ",
+      "definition": "new",
+      "part_of_speech": "adjective",
+      "transliteration": "ḥǝḏattâʾ",
+      "root": "ḥ-ḏ-ṯ"
+    },
+    "ܥܬܝܩܐ": {
+      "word": "ܥܬܝܩܐ",
+      "definition": "old, ancient",
+      "part_of_speech": "adjective",
+      "transliteration": "ʿattîqâʾ",
+      "root": "ʿ-ṯ-y-q"
+    },
+    "ܚܕ": {
+      "word": "ܚܕ",
+      "definition": "one (masculine)",
+      "part_of_speech": "numeral",
+      "transliteration": "ḥaḏ",
+      "root": "ḥ-d"
+    },
+    "ܚܕܐ": {
+      "word": "ܚܕܐ",
+      "definition": "one (feminine)",
+      "part_of_speech": "numeral",
+      "transliteration": "ḥaḏâʾ",
+      "root": "ḥ-d"
+    },
+    "ܬܪܝܢ": {
+      "word": "ܬܪܝܢ",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "tǝrayn",
+      "root": "t-r"
+    },
+    "ܬܠܬܐ": {
+      "word": "ܬܠܬܐ",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "tǝlāṯâʾ",
+      "root": "t-l-ṯ"
+    },
+    "ܐܪܒܥܐ": {
+      "word": "ܐܪܒܥܐ",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "ʾarbaʿâʾ",
+      "root": "ʾ-r-b-ʿ"
+    },
+    "ܚܡܫܐ": {
+      "word": "ܚܡܫܐ",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "ḥammǝšâʾ",
+      "root": "ḥ-m-š"
+    },
+    "ܟܗܢܐ": {
+      "word": "ܟܗܢܐ",
+      "definition": "priest",
+      "part_of_speech": "noun",
+      "transliteration": "kahnâʾ",
+      "root": "k-h-n"
+    },
+    "ܕܝܪܐ": {
+      "word": "ܕܝܪܐ",
+      "definition": "monastery",
+      "part_of_speech": "noun",
+      "transliteration": "dayrâʾ",
+      "root": "d-y-r"
+    },
+    "ܕܝܪܝܐ": {
+      "word": "ܕܝܪܝܐ",
+      "definition": "monk",
+      "part_of_speech": "noun",
+      "transliteration": "dayrâyâʾ",
+      "root": "d-y-r"
+    },
+    "ܬܪܝܨܐ": {
+      "word": "ܬܪܝܨܐ",
+      "definition": "Trinity",
+      "part_of_speech": "noun",
+      "transliteration": "tǝrîṣâʾ",
+      "root": "t-r-ṣ"
+    },
+    "ܩܘܕܫܐ": {
+      "word": "ܩܘܕܫܐ",
+      "definition": "holiness, sanctuary",
+      "part_of_speech": "noun",
+      "transliteration": "qûḏšâʾ",
+      "root": "q-d-š"
+    },
+    "ܗܝܡܢܘܬܐ": {
+      "word": "ܗܝܡܢܘܬܐ",
+      "definition": "faith, belief",
+      "part_of_speech": "noun",
+      "transliteration": "haymânûṯâʾ",
+      "root": "h-m-n"
+    },
+    "ܣܒܪܐ": {
+      "word": "ܣܒܪܐ",
+      "definition": "hope",
+      "part_of_speech": "noun",
+      "transliteration": "seḇrâʾ",
+      "root": "s-b-r"
+    },
+    "ܚܘܒܐ": {
+      "word": "ܚܘܒܐ",
+      "definition": "love",
+      "part_of_speech": "noun",
+      "transliteration": "ḥûḇâʾ",
+      "root": "ḥ-w-b"
+    },
+    "ܫܠܡܐ": {
+      "word": "ܫܠܡܐ",
+      "definition": "peace, completion",
+      "part_of_speech": "noun",
+      "transliteration": "šelâmâʾ",
+      "root": "š-l-m"
+    },
+    "ܪܚܡܐ": {
+      "word": "ܪܚܡܐ",
+      "definition": "mercy, compassion",
+      "part_of_speech": "noun",
+      "transliteration": "raḥmâʾ",
+      "root": "r-ḥ-m"
+    },
+    "ܚܛܝܬܐ": {
+      "word": "ܚܛܝܬܐ",
+      "definition": "sin",
+      "part_of_speech": "noun",
+      "transliteration": "ḥaṭṭâytâʾ",
+      "root": "ḥ-ṭ-ʾ"
+    },
+    "ܙܕܝܩܘܬܐ": {
+      "word": "ܙܕܝܩܘܬܐ",
+      "definition": "righteousness, justice",
+      "part_of_speech": "noun",
+      "transliteration": "zǝdîqûṯâʾ",
+      "root": "z-d-q"
+    },
+    "ܣܘܥܪܐ": {
+      "word": "ܣܘܥܪܐ",
+      "definition": "grace",
+      "part_of_speech": "noun",
+      "transliteration": "sûʿarâʾ",
+      "root": "s-w-ʿ-r"
+    },
+    "ܡܠܦܢܘܬܐ": {
+      "word": "ܡܠܦܢܘܬܐ",
+      "definition": "teaching, doctrine",
+      "part_of_speech": "noun",
+      "transliteration": "mallp̄anûṯâʾ",
+      "root": "m-l-p̄"
+    },
+    "ܬܘܕܝܬܐ": {
+      "word": "ܬܘܕܝܬܐ",
+      "definition": "thanksgiving, confession",
+      "part_of_speech": "noun",
+      "transliteration": "tûḏîṯâʾ",
+      "root": "t-w-ḏ"
+    },
+    "ܨܠܘܬܐ": {
+      "word": "ܨܠܘܬܐ",
+      "definition": "prayer",
+      "part_of_speech": "noun",
+      "transliteration": "ṣelôṯâʾ",
+      "root": "ṣ-l-ʾ"
+    },
+    "ܨܘܡܐ": {
+      "word": "ܨܘܡܐ",
+      "definition": "fast, fasting",
+      "part_of_speech": "noun",
+      "transliteration": "ṣômâʾ",
+      "root": "ṣ-w-m"
+    },
+    "ܩܝܡܐ": {
+      "word": "ܩܝܡܐ",
+      "definition": "resurrection, standing",
+      "part_of_speech": "noun",
+      "transliteration": "qîyâmâʾ",
+      "root": "q-w-m"
+    },
+    "ܥܘܕܪܢܐ": {
+      "word": "ܥܘܕܪܢܐ",
+      "definition": "salvation",
+      "part_of_speech": "noun",
+      "transliteration": "ʿûdrānâʾ",
+      "root": "ʿ-w-d-r"
+    },
+    "ܐܘܢܓܠܝܘܢ": {
+      "word": "ܐܘܢܓܠܝܘܢ",
+      "definition": "gospel",
+      "part_of_speech": "noun",
+      "transliteration": "ʾewangeliyôn",
+      "root": "Greek: εὐαγγέλιον"
+    },
+    "ܬܘܪܐ": {
+      "word": "ܬܘܪܐ",
+      "definition": "law",
+      "part_of_speech": "noun",
+      "transliteration": "tûrâʾ",
+      "root": "t-w-r",
+      "note": "From Hebrew תּוֹרָה"
+    },
+    "ܢܒܝܐ": {
+      "word": "ܢܒܝܐ",
+      "definition": "prophet",
+      "part_of_speech": "noun",
+      "transliteration": "neḇyâʾ",
+      "root": "n-b-ʾ"
+    },
+    "ܫܠܝܚܐ": {
+      "word": "ܫܠܝܚܐ",
+      "definition": "apostle, sent one",
+      "part_of_speech": "noun",
+      "transliteration": "šlîḥâʾ",
+      "root": "š-l-ḥ"
+    },
+    "ܟܘܪܣܝܐ": {
+      "word": "ܟܘܪܣܝܐ",
+      "definition": "throne, chair",
+      "part_of_speech": "noun",
+      "transliteration": "kûrsayâʾ",
+      "root": "k-w-r-s-y"
+    },
+    "ܡܕܒܚܐ": {
+      "word": "ܡܕܒܚܐ",
+      "definition": "altar",
+      "part_of_speech": "noun",
+      "transliteration": "maḏbaḥâʾ",
+      "root": "ḏ-b-ḥ"
+    },
+    "ܕܪܘܢܐ": {
+      "word": "ܕܪܘܢܐ",
+      "definition": "gift, offering",
+      "part_of_speech": "noun",
+      "transliteration": "deṛônâʾ",
+      "root": "d-r-n"
+    },
+    "ܪܓܠܐ": {
+      "word": "ܪܓܠܐ",
+      "definition": "foot",
+      "part_of_speech": "noun",
+      "transliteration": "raḡlâʾ",
+      "root": "r-ḡ-l"
+    },
+    "ܐܨܒܥܐ": {
+      "word": "ܐܨܒܥܐ",
+      "definition": "finger, toe",
+      "part_of_speech": "noun",
+      "transliteration": "ʾeṣbaʿâʾ",
+      "root": "ʾ-ṣ-b-ʿ"
+    },
+    "ܨܦܪܐ": {
+      "word": "ܨܦܪܐ",
+      "definition": "nail",
+      "part_of_speech": "noun",
+      "transliteration": "ṣeprâʾ",
+      "root": "ṣ-p-r"
+    },
+    "ܓܘܕܐ": {
+      "word": "ܓܘܕܐ",
+      "definition": "skin",
+      "part_of_speech": "noun",
+      "transliteration": "gûḏâʾ",
+      "root": "g-w-ḏ"
+    },
+    "ܬܪܝܐ": {
+      "word": "ܬܪܝܐ",
+      "definition": "hair",
+      "part_of_speech": "noun",
+      "transliteration": "taryâʾ",
+      "root": "t-r-y"
+    },
+    "ܩܕܠܐ": {
+      "word": "ܩܕܠܐ",
+      "definition": "neck",
+      "part_of_speech": "noun",
+      "transliteration": "qeḏlâʾ",
+      "root": "q-ḏ-l"
+    },
+    "ܟܬܦܐ": {
+      "word": "ܟܬܦܐ",
+      "definition": "shoulder",
+      "part_of_speech": "noun",
+      "transliteration": "kaṯpâʾ",
+      "root": "k-ṯ-p"
+    },
+    "ܚܕܝܐ": {
+      "word": "ܚܕܝܐ",
+      "definition": "breast, chest",
+      "part_of_speech": "noun",
+      "transliteration": "ḥaḏyâʾ",
+      "root": "ḥ-ḏ-y"
+    },
+    "ܓܘܐ": {
+      "word": "ܓܘܐ",
+      "definition": "belly, inside",
+      "part_of_speech": "noun",
+      "transliteration": "gawwâʾ",
+      "root": "g-w"
+    },
+    "ܚܠܝܐ": {
+      "word": "ܚܠܝܐ",
+      "definition": "thigh, loin",
+      "part_of_speech": "noun",
+      "transliteration": "ḥaḷyâʾ",
+      "root": "ḥ-ḷ-y"
+    },
+    "ܓܪܡܐ": {
+      "word": "ܓܪܡܐ",
+      "definition": "bone",
+      "part_of_speech": "noun",
+      "transliteration": "gaṛmâʾ",
+      "root": "g-ṛ-m"
+    },
+    "ܡܘܚܐ": {
+      "word": "ܡܘܚܐ",
+      "definition": "marrow, brain",
+      "part_of_speech": "noun",
+      "transliteration": "mûḥâʾ",
+      "root": "m-w-ḥ"
+    },
+    "ܕܡܥܐ": {
+      "word": "ܕܡܥܐ",
+      "definition": "tear",
+      "part_of_speech": "noun",
+      "transliteration": "deʿâʾ",
+      "root": "d-ʿ"
+    },
+    "ܥܘܩܒܐ": {
+      "word": "ܥܘܩܒܐ",
+      "definition": "heel",
+      "part_of_speech": "noun",
+      "transliteration": "ʿûqbeḇâʾ",
+      "root": "ʿ-q-ḇ"
+    },
+    "ܐܝܕܝܐ": {
+      "word": "ܐܝܕܝܐ",
+      "definition": "hand (feminine)",
+      "part_of_speech": "noun",
+      "transliteration": "ʾîḏayyâʾ",
+      "root": "y-d"
+    },
+    "ܛܘܪܐ": {
+      "word": "ܛܘܪܐ",
+      "definition": "mountain",
+      "part_of_speech": "noun",
+      "transliteration": "ṭûrâʾ",
+      "root": "ṭ-w-r"
+    },
+    "ܓܒܥܐ": {
+      "word": "ܓܒܥܐ",
+      "definition": "hill",
+      "part_of_speech": "noun",
+      "transliteration": "gaḇʿâʾ",
+      "root": "g-ḇ-ʿ"
+    },
+    "ܦܩܥܬܐ": {
+      "word": "ܦܩܥܬܐ",
+      "definition": "valley",
+      "part_of_speech": "noun",
+      "transliteration": "pqaʿṯâʾ",
+      "root": "p-q-ʿ"
+    },
+    "ܝܡܐ": {
+      "word": "ܝܡܐ",
+      "definition": "sea, lake",
+      "part_of_speech": "noun",
+      "transliteration": "yammâʾ",
+      "root": "y-m"
+    },
+    "ܢܗܪܐ": {
+      "word": "ܢܗܪܐ",
+      "definition": "river",
+      "part_of_speech": "noun",
+      "transliteration": "nahraʾ",
+      "root": "n-h-r"
+    },
+    "ܡܥܝܢܐ": {
+      "word": "ܡܥܝܢܐ",
+      "definition": "spring, fountain",
+      "part_of_speech": "noun",
+      "transliteration": "maʿyannâʾ",
+      "root": "m-ʿ-y-n"
+    },
+    "ܒܐܪܐ": {
+      "word": "ܒܐܪܐ",
+      "definition": "well",
+      "part_of_speech": "noun",
+      "transliteration": "beʾârâʾ",
+      "root": "b-ʾ-r"
+    },
+    "ܚܘܪܐ": {
+      "word": "ܚܘܪܐ",
+      "definition": "white",
+      "part_of_speech": "adjective",
+      "transliteration": "ḥûrâʾ",
+      "root": "ḥ-w-r"
+    },
+    "ܩܝܛܐ": {
+      "word": "ܩܝܛܐ",
+      "definition": "summer",
+      "part_of_speech": "noun",
+      "transliteration": "qayṭâʾ",
+      "root": "q-y-ṭ"
+    },
+    "ܣܬܘܐ": {
+      "word": "ܣܬܘܐ",
+      "definition": "winter",
+      "part_of_speech": "noun",
+      "transliteration": "sǝtawâʾ",
+      "root": "s-t-w"
+    },
+    "ܦܘܩܕܢܐ": {
+      "word": "ܦܘܩܕܢܐ",
+      "definition": "command, order",
+      "part_of_speech": "noun",
+      "transliteration": "pûqdaṇâʾ",
+      "root": "p-q-ḏ"
+    },
+    "ܡܛܪܐ": {
+      "word": "ܡܛܪܐ",
+      "definition": "rain",
+      "part_of_speech": "noun",
+      "transliteration": "maṭṭârâʾ",
+      "root": "m-ṭ-r"
+    },
+    "ܓܫܡܐ": {
+      "word": "ܓܫܡܐ",
+      "definition": "rain, shower",
+      "part_of_speech": "noun",
+      "transliteration": "gešmâʾ",
+      "root": "g-š-m"
+    },
+    "ܥܢܢܐ": {
+      "word": "ܥܢܢܐ",
+      "definition": "cloud",
+      "part_of_speech": "noun",
+      "transliteration": "ʿannânâʾ",
+      "root": "ʿ-n-n"
+    },
+    "ܪܥܡܐ": {
+      "word": "ܪܥܡܐ",
+      "definition": "thunder",
+      "part_of_speech": "noun",
+      "transliteration": "raʿmâʾ",
+      "root": "r-ʿ-m"
+    },
+    "ܒܪܩܐ": {
+      "word": "ܒܪܩܐ",
+      "definition": "lightning",
+      "part_of_speech": "noun",
+      "transliteration": "barqâʾ",
+      "root": "b-r-q"
+    },
+    "ܩܛܝܪܐ": {
+      "word": "ܩܛܝܪܐ",
+      "definition": "smoke, vapor",
+      "part_of_speech": "noun",
+      "transliteration": "qaṭṭîrâʾ",
+      "root": "q-ṭ-r"
+    },
+    "ܛܝܢܐ": {
+      "word": "ܛܝܢܐ",
+      "definition": "mud, clay",
+      "part_of_speech": "noun",
+      "transliteration": "ṭaynâʾ",
+      "root": "ṭ-y-n"
+    },
+    "ܚܠܐ": {
+      "word": "ܚܠܐ",
+      "definition": "sand",
+      "part_of_speech": "noun",
+      "transliteration": "ḥelâʾ",
+      "root": "ḥ-l"
+    },
+    "ܟܐܦܐ": {
+      "word": "ܟܐܦܐ",
+      "definition": "stone",
+      "part_of_speech": "noun",
+      "transliteration": "kêp̄âʾ",
+      "root": "k-ʾ-p"
+    },
+    "ܫܥܐ": {
+      "word": "ܫܥܐ",
+      "definition": "hour, time",
+      "part_of_speech": "noun",
+      "transliteration": "šâʿâʾ",
+      "root": "š-ʿ-ʾ"
+    },
+    "ܫܢܬܐ": {
+      "word": "ܫܢܬܐ",
+      "definition": "year",
+      "part_of_speech": "noun",
+      "transliteration": "šattâʾ",
+      "root": "š-n-ṯ"
+    },
+    "ܝܪܚܐ": {
+      "word": "ܝܪܚܐ",
+      "definition": "month",
+      "part_of_speech": "noun",
+      "transliteration": "yarḥâʾ",
+      "root": "y-r-ḥ"
+    },
+    "ܫܒܘܥܐ": {
+      "word": "ܫܒܘܥܐ",
+      "definition": "week",
+      "part_of_speech": "noun",
+      "transliteration": "šaḇûʿâʾ",
+      "root": "š-b-ʿ"
+    },
+    "ܥܕܢܐ": {
+      "word": "ܥܕܢܐ",
+      "definition": "time, season",
+      "part_of_speech": "noun",
+      "transliteration": "ʿeḏannâʾ",
+      "root": "ʿ-ḏ-n"
+    },
+    "ܪܡܫܐ": {
+      "word": "ܪܡܫܐ",
+      "definition": "evening",
+      "part_of_speech": "noun",
+      "transliteration": "remešâʾ",
+      "root": "r-m-š"
+    },
+    "ܠܝܠܝܐ": {
+      "word": "ܠܝܠܝܐ",
+      "definition": "night",
+      "part_of_speech": "noun",
+      "transliteration": "lelyâʾ",
+      "root": "l-l-y"
+    },
+    "�ܡܘܢܐ": {
+      "word": "�ܡܘܢܐ",
+      "definition": "week",
+      "part_of_speech": "noun",
+      "transliteration": "šawwâʾ",
+      "root": "š-w-ʾ"
+    },
+    "ܡܠܠܐ": {
+      "word": "ܡܠܠܐ",
+      "definition": "word, speech",
+      "part_of_speech": "noun",
+      "transliteration": "mellâʾ",
+      "root": "m-l-l"
+    },
+    "ܡܕܥܐ": {
+      "word": "ܡܕܥܐ",
+      "definition": "knowledge, mind",
+      "part_of_speech": "noun",
+      "transliteration": "maḏʿâʾ",
+      "root": "y-d-ʿ"
+    },
+    "ܚܟܡܬܐ": {
+      "word": "ܚܟܡܬܐ",
+      "definition": "wisdom",
+      "part_of_speech": "noun",
+      "transliteration": "ḥokmǝṯâʾ",
+      "root": "ḥ-k-m"
+    },
+    "ܓܒܪܘܬܐ": {
+      "word": "ܓܒܪܘܬܐ",
+      "definition": "manliness, virtue",
+      "part_of_speech": "noun",
+      "transliteration": "gaḇrûṯâʾ",
+      "root": "g-b-r"
+    },
+    "ܚܝܠܐ": {
+      "word": "ܚܝܠܐ",
+      "definition": "strength, power, army",
+      "part_of_speech": "noun",
+      "transliteration": "ḥaylâʾ",
+      "root": "ḥ-y-l"
+    },
+    "ܬܩܢܐ": {
+      "word": "ܬܩܢܐ",
+      "definition": "correction, discipline",
+      "part_of_speech": "noun",
+      "transliteration": "tûqnâʾ",
+      "root": "t-q-n"
+    },
+    "ܒܘܣܝܢܐ": {
+      "word": "ܒܘܣܝܢܐ",
+      "definition": "comfort, encouragement",
+      "part_of_speech": "noun",
+      "transliteration": "bûsâynnâʾ",
+      "root": "b-w-s"
+    },
+    "ܡܘܕܥܢܘܬܐ": {
+      "word": "ܡܘܕܥܢܘܬܐ",
+      "definition": "thanksgiving, confession",
+      "part_of_speech": "noun",
+      "transliteration": "môḏaʿanûṯâʾ",
+      "root": "y-d-ʿ"
+    },
+    "ܪܘܙܐ": {
+      "word": "ܪܘܙܐ",
+      "definition": "mystery, secret",
+      "part_of_speech": "noun",
+      "transliteration": "râzâʾ",
+      "root": "r-w-z"
+    },
+    "ܬܘܪܣܝܐ": {
+      "word": "ܬܘܪܣܝܐ",
+      "definition": "will, pleasure",
+      "part_of_speech": "noun",
+      "transliteration": "tûrsâyâʾ",
+      "root": "t-r-s-y"
+    },
+    "ܒܥܘܬܐ": {
+      "word": "ܒܥܘܬܐ",
+      "definition": "request, petition",
+      "part_of_speech": "noun",
+      "transliteration": "baʿûṯâʾ",
+      "root": "b-ʿ-ʾ"
+    },
+    "ܡܘܠܕܐ": {
+      "word": "ܡܘܠܕܐ",
+      "definition": "birth, generation",
+      "part_of_speech": "noun",
+      "transliteration": "mawleḏâʾ",
+      "root": "m-w-l-ḏ"
+    },
+    "ܬܝܒܘܬܐ": {
+      "word": "ܬܝܒܘܬܐ",
+      "definition": "repentance",
+      "part_of_speech": "noun",
+      "transliteration": "tûyḇûṯâʾ",
+      "root": "t-w-ḇ"
+    },
+    "ܫܘܠܡܢܐ": {
+      "word": "ܫܘܠܡܢܐ",
+      "definition": "peace, prosperity",
+      "part_of_speech": "noun",
+      "transliteration": "šûlêmânâʾ",
+      "root": "š-l-m"
+    },
+    "ܚܕܘܬܐ": {
+      "word": "ܚܕܘܬܐ",
+      "definition": "joy, gladness",
+      "part_of_speech": "noun",
+      "transliteration": "ḥeḏwâṯâʾ",
+      "root": "ḥ-ḏ-ʾ"
+    },
+    "ܥܘܠܐ": {
+      "word": "ܥܘܠܐ",
+      "definition": "iniquity, wrong",
+      "part_of_speech": "noun",
+      "transliteration": "ʿawlâʾ",
+      "root": "ʿ-w-l"
+    },
+    "ܦܘܪܥܢܐ": {
+      "word": "ܦܘܪܥܢܐ",
+      "definition": "reward, recompense",
+      "part_of_speech": "noun",
+      "transliteration": "pûrʿānâʾ",
+      "root": "p-ʿ-n"
+    },
+    "ܒܘܕܩܐ": {
+      "word": "ܒܘܕܩܐ",
+      "definition": "examination, trial",
+      "part_of_speech": "noun",
+      "transliteration": "bûḏâqâʾ",
+      "root": "b-d-q"
+    },
+    "ܥܡܡܐ": {
+      "word": "ܥܡܡܐ",
+      "definition": "people, nation",
+      "part_of_speech": "noun",
+      "transliteration": "ʿammâmâʾ",
+      "root": "ʿ-m-m"
+    },
+    "ܟܢܫܐ": {
+      "word": "ܟܢܫܐ",
+      "definition": "assembly, gathering",
+      "part_of_speech": "noun",
+      "transliteration": "kǝnešâʾ",
+      "root": "k-n-š"
+    },
+    "ܩܗܠܐ": {
+      "word": "ܩܗܠܐ",
+      "definition": "assembly, congregation",
+      "part_of_speech": "noun",
+      "transliteration": "qahhâlâʾ",
+      "root": "q-h-l"
+    },
+    "ܐܘܡܬܐ": {
+      "word": "ܐܘܡܬܐ",
+      "definition": "nation, people",
+      "part_of_speech": "noun",
+      "transliteration": "ʾûmmaṯâʾ",
+      "root": "ʾ-w-m-m"
+    },
+    "ܠܫܢܐ": {
+      "word": "ܠܫܢܐ",
+      "definition": "language, tongue",
+      "part_of_speech": "noun",
+      "transliteration": "leššannâʾ",
+      "root": "l-š-n"
+    },
+    "ܬܪܓܡܢܐ": {
+      "word": "ܬܪܓܡܢܐ",
+      "definition": "interpreter, translator",
+      "part_of_speech": "noun",
+      "transliteration": "targǝmânâʾ",
+      "root": "t-r-g-m"
+    },
+    "ܫܘܠܛܢܐ": {
+      "word": "ܫܘܠܛܢܐ",
+      "definition": "authority, power",
+      "part_of_speech": "noun",
+      "transliteration": "šûlṭānâʾ",
+      "root": "š-l-ṭ"
+    },
+    "ܡܕܝܢܬܐ": {
+      "word": "ܡܕܝܢܬܐ",
+      "definition": "city",
+      "part_of_speech": "noun",
+      "transliteration": "maḏînǝṯâʾ",
+      "root": "ḏ-y-n"
+    },
+    "ܩܪܝܬܐ": {
+      "word": "ܩܪܝܬܐ",
+      "definition": "village",
+      "part_of_speech": "noun",
+      "transliteration": "qaryâʾ",
+      "root": "q-r-y"
+    },
+    "ܫܘܩܐ": {
+      "word": "ܫܘܩܐ",
+      "definition": "street, market",
+      "part_of_speech": "noun",
+      "transliteration": "šûqâʾ",
+      "root": "š-w-q"
+    },
+    "ܒܬܐ": {
+      "word": "ܒܬܐ",
+      "definition": "house, home",
+      "part_of_speech": "noun",
+      "transliteration": "baytâʾ",
+      "root": "b-y-t"
+    },
+    "ܕܪܬܐ": {
+      "word": "ܕܪܬܐ",
+      "definition": "dwelling, abode",
+      "part_of_speech": "noun",
+      "transliteration": "dârǝṯâʾ",
+      "root": "d-r"
+    },
+    "ܦܬܓܡܐ": {
+      "word": "ܦܬܓܡܐ",
+      "definition": "decree, word",
+      "part_of_speech": "noun",
+      "transliteration": "paṯgâmâʾ",
+      "root": "p-ṯ-g-m"
+    },
+    "ܬܢܝܢܐ": {
+      "word": "ܬܢܝܢܐ",
+      "definition": "law, custom",
+      "part_of_speech": "noun",
+      "transliteration": "tǝnayyânâʾ",
+      "root": "t-n-ʾ"
+    },
+    "ܥܣܪ": {
+      "word": "ܥܣܪ",
+      "definition": "to bind",
+      "part_of_speech": "verb",
+      "transliteration": "ʿǝsar",
+      "root": "ʿ-s-r"
+    },
+    "ܫܪܝ": {
+      "word": "ܫܪܝ",
+      "definition": "to loose, begin",
+      "part_of_speech": "verb",
+      "transliteration": "šǝrê",
+      "root": "š-r-y"
+    },
+    "ܫܦܪ": {
+      "word": "ܫܦܪ",
+      "definition": "to please, be beautiful",
+      "part_of_speech": "verb",
+      "transliteration": "šǝpaṛ",
+      "root": "š-p-ṛ"
+    },
+    "ܫܟܚ": {
+      "word": "ܫܟܚ",
+      "definition": "to find",
+      "part_of_speech": "verb",
+      "transliteration": "šǝkaḥ",
+      "root": "š-k-ḥ"
+    },
+    "ܚܫܒ": {
+      "word": "ܚܫܒ",
+      "definition": "to think, account",
+      "part_of_speech": "verb",
+      "transliteration": "ḥǝšaḇ",
+      "root": "ḥ-š-ḇ"
+    },
+    "ܓܠܐ": {
+      "word": "ܓܠܐ",
+      "definition": "to reveal, uncover",
+      "part_of_speech": "verb",
+      "transliteration": "gǝlâʾ",
+      "root": "g-l-ʾ"
+    },
+    "ܟܣܐ": {
+      "word": "ܟܣܐ",
+      "definition": "to cover, hide",
+      "part_of_speech": "verb",
+      "transliteration": "kǝsâʾ",
+      "root": "k-s-ʾ"
+    },
+    "ܦܪܓ": {
+      "word": "ܦܪܓ",
+      "definition": "to reward, recompense",
+      "part_of_speech": "verb",
+      "transliteration": "pǝraḡ",
+      "root": "p-r-ḡ"
+    },
+    "ܝܩܕ": {
+      "word": "ܝܩܕ",
+      "definition": "to burn",
+      "part_of_speech": "verb",
+      "transliteration": "yǝqaḏ",
+      "root": "y-q-ḏ"
+    },
+    "ܩܪܝ": {
+      "word": "ܩܪܝ",
+      "definition": "to happen, befall",
+      "part_of_speech": "verb",
+      "transliteration": "qǝrê",
+      "root": "q-r-y"
+    },
+    "ܦܢܐ": {
+      "word": "ܦܢܐ",
+      "definition": "to turn",
+      "part_of_speech": "verb",
+      "transliteration": "pǝnâʾ",
+      "root": "p-n-ʾ"
+    },
+    "ܗܦܟ": {
+      "word": "ܗܦܟ",
+      "definition": "to turn, convert",
+      "part_of_speech": "verb",
+      "transliteration": "hǝpǝḵ",
+      "root": "h-p-ḵ"
+    },
+    "ܩܘܡ": {
+      "word": "ܩܘܡ",
+      "definition": "to stand, rise",
+      "part_of_speech": "verb",
+      "transliteration": "qûm",
+      "root": "q-w-m"
+    },
+    "ܝܬܒ": {
+      "word": "ܝܬܒ",
+      "definition": "to sit, dwell",
+      "part_of_speech": "verb",
+      "transliteration": "yǝṯeḇ",
+      "root": "y-ṯ-ḇ"
+    },
+    "ܕܡܟ": {
+      "word": "ܕܡܟ",
+      "definition": "to sleep",
+      "part_of_speech": "verb",
+      "transliteration": "dǝmak",
+      "root": "d-m-k"
+    },
+    "ܥܪܩ": {
+      "word": "ܥܪܩ",
+      "definition": "to flee",
+      "part_of_speech": "verb",
+      "transliteration": "ʿǝraq",
+      "root": "ʿ-r-q"
+    },
+    "ܪܗܛ": {
+      "word": "ܪܗܛ",
+      "definition": "to run",
+      "part_of_speech": "verb",
+      "transliteration": "rǝhaṭ",
+      "root": "r-h-ṭ"
+    },
+    "ܟܘܡܬܐ": {
+      "word": "ܟܘܡܬܐ",
+      "definition": "black",
+      "part_of_speech": "adjective",
+      "transliteration": "kûmǝṯâʾ",
+      "root": "k-w-m"
+    },
+    "ܣܘܡܩܐ": {
+      "word": "ܣܘܡܩܐ",
+      "definition": "red",
+      "part_of_speech": "adjective",
+      "transliteration": "sûmâqâʾ",
+      "root": "s-w-m-q"
+    },
+    "ܝܘܩܪܐ": {
+      "word": "ܝܘܩܪܐ",
+      "definition": "green",
+      "part_of_speech": "adjective",
+      "transliteration": "yûqraʾ",
+      "root": "y-w-q-r"
+    },
+    "ܨܚܘܐ": {
+      "word": "ܨܚܘܐ",
+      "definition": "yellow",
+      "part_of_speech": "adjective",
+      "transliteration": "ṣeḥwâʾ",
+      "root": "ṣ-ḥ-w"
+    },
+    "ܩܨܬܐ": {
+      "word": "ܩܨܬܐ",
+      "definition": "hard, difficult",
+      "part_of_speech": "adjective",
+      "transliteration": "qeṣṣâʾ",
+      "root": "q-ṣ-ʾ"
+    },
+    "ܪܟܝܟܐ": {
+      "word": "ܪܟܝܟܐ",
+      "definition": "soft, tender",
+      "part_of_speech": "adjective",
+      "transliteration": "raḵîḵâʾ",
+      "root": "r-k-ḵ"
+    },
+    "ܚܠܝܛܐ": {
+      "word": "ܚܠܝܛܐ",
+      "definition": "smooth",
+      "part_of_speech": "adjective",
+      "transliteration": "ḥalîṭâʾ",
+      "root": "ḥ-l-ṭ"
+    },
+    "ܩܡܛܐ": {
+      "word": "ܩܡܛܐ",
+      "definition": "rough",
+      "part_of_speech": "adjective",
+      "transliteration": "qammâṭâʾ",
+      "root": "q-m-ṭ"
+    },
+    "ܝܬܝܪܐ": {
+      "word": "ܝܬܝܪܐ",
+      "definition": "more, abundant",
+      "part_of_speech": "adjective",
+      "transliteration": "yaṯîrâʾ",
+      "root": "y-ṯ-r"
+    },
+    "ܒܨܝܪܐ": {
+      "word": "ܒܨܝܪܐ",
+      "definition": "less, few",
+      "part_of_speech": "adjective",
+      "transliteration": "baṣîrâʾ",
+      "root": "b-ṣ-r"
+    },
+    "ܡܠܝܐ": {
+      "word": "ܡܠܝܐ",
+      "definition": "full",
+      "part_of_speech": "adjective",
+      "transliteration": "mallâʾ",
+      "root": "m-l-ʾ"
+    },
+    "ܣܦܝܩܐ": {
+      "word": "ܣܦܝܩܐ",
+      "definition": "empty",
+      "part_of_speech": "adjective",
+      "transliteration": "sefîqâʾ",
+      "root": "s-f-q"
+    },
+    "ܦܛܝܠܐ": {
+      "word": "ܦܛܝܠܐ",
+      "definition": "thread, cord",
+      "part_of_speech": "noun",
+      "transliteration": "pṭîlâʾ",
+      "root": "p-ṭ-l"
+    },
+    "ܓܘܕܬܐ": {
+      "word": "ܓܘܕܬܐ",
+      "definition": "leather",
+      "part_of_speech": "noun",
+      "transliteration": "gûḏaṯâʾ",
+      "root": "g-w-ḏ"
+    },
+    "ܦܪܙܠܐ": {
+      "word": "ܦܪܙܠܐ",
+      "definition": "iron",
+      "part_of_speech": "noun",
+      "transliteration": "pǝrazzǝlâʾ",
+      "root": "p-r-z-l"
+    },
+    "ܢܚܫܐ": {
+      "word": "ܢܚܫܐ",
+      "definition": "copper, bronze",
+      "part_of_speech": "noun",
+      "transliteration": "neḥāšâʾ",
+      "root": "n-ḥ-š"
+    },
+    "ܩܝܣܐ": {
+      "word": "ܩܝܣܐ",
+      "definition": "wood, beam",
+      "part_of_speech": "noun",
+      "transliteration": "qîsâʾ",
+      "root": "q-y-s"
+    },
+    "ܣܐܡܐ": {
+      "word": "ܣܐܡܐ",
+      "definition": "fastener, nail",
+      "part_of_speech": "noun",
+      "transliteration": "sâʾmâʾ",
+      "root": "s-ʾ-m"
+    },
+    "ܡܐܢܐ": {
+      "word": "ܡܐܢܐ",
+      "definition": "garment, vessel",
+      "part_of_speech": "noun",
+      "transliteration": "maʾnâʾ",
+      "root": "m-ʾ-n"
+    },
+    "ܟܘܬܝܢܐ": {
+      "word": "ܟܘܬܝܢܐ",
+      "definition": "robe, tunic",
+      "part_of_speech": "noun",
+      "transliteration": "kûtînâʾ",
+      "root": "k-w-t-n"
+    },
+    "ܚܡܝܠܐ": {
+      "word": "ܚܡܝܠܐ",
+      "definition": "cloak",
+      "part_of_speech": "noun",
+      "transliteration": "ḥǝmîlâʾ",
+      "root": "ḥ-m-l"
+    },
+    "ܣܘܕܪܐ": {
+      "word": "ܣܘܕܪܐ",
+      "definition": "turban, head covering",
+      "part_of_speech": "noun",
+      "transliteration": "sûḏarâʾ",
+      "root": "s-ḏ-r"
+    },
+    "ܡܢܝܠܐ": {
+      "word": "ܡܢܝܠܐ",
+      "definition": "sandal",
+      "part_of_speech": "noun",
+      "transliteration": "manyâlâʾ",
+      "root": "m-n-y-l"
+    },
+    "ܚܓܪܐ": {
+      "word": "ܚܓܪܐ",
+      "definition": "girdle, belt",
+      "part_of_speech": "noun",
+      "transliteration": "ḥaḡrâʾ",
+      "root": "ḥ-ḡ-r"
+    },
+    "ܡܟܒܠܐ": {
+      "word": "ܡܟܒܠܐ",
+      "definition": "chain, fetter",
+      "part_of_speech": "noun",
+      "transliteration": "makleḇlâʾ",
+      "root": "k-l-ḇ"
+    }
+  },
+  "root_index": {
+    "h-w": [
+      "ܗܘ"
+    ],
+    "h-y": [
+      "ܗܝ"
+    ],
+    "h-n": [
+      "ܗܢܘܢ",
+      "ܗܢܝܢ"
+    ],
+    "ʾ-n": [
+      "ܐܢܐ",
+      "ܐܢ"
+    ],
+    "ʾ-n-t": [
+      "ܐܢܬ",
+      "ܐܢܬܝ"
+    ],
+    "ḥ-n-n": [
+      "ܚܢܢ"
+    ],
+    "ḏ": [
+      "ܕ"
+    ],
+    "m-n": [
+      "ܡܢ"
+    ],
+    "m-ʾ": [
+      "ܡܐ"
+    ],
+    "k-l": [
+      "ܟܠ"
+    ],
+    "h-n-ʾ": [
+      "ܗܢܐ"
+    ],
+    "h-ḏ-ʾ": [
+      "ܗܕܐ"
+    ],
+    "ʾ-l-h": [
+      "ܐܠܗܐ"
+    ],
+    "m-r-ʾ": [
+      "ܡܪܝܐ"
+    ],
+    "m-r": [
+      "ܡܪܢ"
+    ],
+    "y-š-ʿ": [
+      "ܝܫܘܥ"
+    ],
+    "m-š-ḥ": [
+      "ܡܫܝܚܐ"
+    ],
+    "r-w-ḥ": [
+      "ܪܘܚܐ",
+      "ܪܘܚܐ ܕܩܘܕܫܐ"
+    ],
+    "q-d-š": [
+      "ܪܘܚܐ ܕܩܘܕܫܐ",
+      "ܩܕܝܫܐ",
+      "ܩܘܕܫܐ"
+    ],
+    "ʾ-b": [
+      "ܐܒܐ"
+    ],
+    "b-r": [
+      "ܒܪܐ",
+      "ܒܪܢܫܐ"
+    ],
+    "m-l-k": [
+      "ܡܠܟܐ",
+      "ܡܠܟܘܬܐ"
+    ],
+    "m-r-y": [
+      "ܡܪܝܡ"
+    ],
+    "p-ṭ-r": [
+      "ܦܛܪܘܣ"
+    ],
+    "p-w-l": [
+      "ܦܘܠܘܣ"
+    ],
+    "y-ḥ-n-n": [
+      "ܝܘܚܢܢ"
+    ],
+    "n-ʾ-š": [
+      "ܒܪܢܫܐ"
+    ],
+    "g-b-r": [
+      "ܓܒܪܐ",
+      "ܓܒܪܘܬܐ"
+    ],
+    "ʾ-n-š": [
+      "ܐܢܬܬܐ"
+    ],
+    "ṭ-l-y": [
+      "ܛܠܝܐ"
+    ],
+    "b-y-t": [
+      "ܒܝܬܐ",
+      "ܒܬܐ"
+    ],
+    "l-b": [
+      "ܠܒܐ"
+    ],
+    "n-p-š": [
+      "ܢܦܫܐ"
+    ],
+    "p-g-r": [
+      "ܦܓܪܐ"
+    ],
+    "ḏ-m-ʾ": [
+      "ܕܡܐ"
+    ],
+    "b-s-r": [
+      "ܒܣܪܐ"
+    ],
+    "ʿ-y-n": [
+      "ܥܝܢܐ"
+    ],
+    "ʾ-ḏ-n": [
+      "ܐܕܢܐ"
+    ],
+    "y-d": [
+      "ܐܝܕܐ",
+      "ܐܝܕܝܐ"
+    ],
+    "r-ʾ-š": [
+      "ܪܝܫܐ"
+    ],
+    "ʾ-p": [
+      "ܐܦܐ"
+    ],
+    "p-m": [
+      "ܦܘܡܐ"
+    ],
+    "ʾ-y-l": [
+      "ܐܝܠܝܢ"
+    ],
+    "m-y": [
+      "ܡܝܐ"
+    ],
+    "n-w-r": [
+      "ܢܘܪܐ"
+    ],
+    "ʾ-r-ʿ": [
+      "ܐܪܥܐ"
+    ],
+    "š-m-y": [
+      "ܫܡܝܐ"
+    ],
+    "ḏ-r": [
+      "ܕܪܐ"
+    ],
+    "ʾ-r-ḥ": [
+      "ܐܘܪܚܐ"
+    ],
+    "n-w-h-r": [
+      "ܢܘܗܪܐ"
+    ],
+    "ḥ-š-k": [
+      "ܚܫܘܟܐ"
+    ],
+    "y-w-m": [
+      "ܝܘܡܐ"
+    ],
+    "l-l-y": [
+      "ܠܠܝܐ",
+      "ܠܝܠܝܐ"
+    ],
+    "š-m-š": [
+      "ܫܡܫܐ"
+    ],
+    "s-h-r": [
+      "ܣܗܪܐ"
+    ],
+    "k-w-ḵ-ḇ": [
+      "ܟܘܟܒܐ"
+    ],
+    "ʾ-m-r": [
+      "ܐܡܪ"
+    ],
+    "h-w-ʾ": [
+      "ܗܘܐ"
+    ],
+    "ʿ-ḇ-ḏ": [
+      "ܥܒܕ"
+    ],
+    "y-d-ʿ": [
+      "ܝܕܥ",
+      "ܡܕܥܐ",
+      "ܡܘܕܥܢܘܬܐ"
+    ],
+    "ḥ-z-ʾ": [
+      "ܚܙܐ"
+    ],
+    "š-m-ʿ": [
+      "ܫܡܥ"
+    ],
+    "y-h-ḇ": [
+      "ܝܗܒ"
+    ],
+    "n-s-ḇ": [
+      "ܢܣܒ"
+    ],
+    "ʾ-ṯ-ʾ": [
+      "ܐܬܐ"
+    ],
+    "ʾ-z-l": [
+      "ܐܙܠ"
+    ],
+    "n-p̄-l": [
+      "ܢܦܠ"
+    ],
+    "q-w-m": [
+      "ܩܡ",
+      "ܩܝܡܐ",
+      "ܩܘܡ"
+    ],
+    "s-l-q": [
+      "ܣܠܩ"
+    ],
+    "n-ḥ-ṯ": [
+      "ܢܚܬ"
+    ],
+    "ḥ-y-y": [
+      "ܚܝ"
+    ],
+    "m-w-ṯ": [
+      "ܡܝܬ"
+    ],
+    "q-ṭ-l": [
+      "ܩܛܠ"
+    ],
+    "k-ṯ-ḇ": [
+      "ܟܬܒ"
+    ],
+    "q-r-ʾ": [
+      "ܩܪܐ"
+    ],
+    "p-ṯ-ḥ": [
+      "ܦܬܚ"
+    ],
+    "s-k-r": [
+      "ܣܟܪ"
+    ],
+    "š-k-ḇ": [
+      "ܫܟܒ"
+    ],
+    "b-n-ʾ": [
+      "ܒܢܐ"
+    ],
+    "š-t-ʾ": [
+      "ܫܬܐ"
+    ],
+    "l-ḥ-m": [
+      "ܠܚܡ"
+    ],
+    "l-ḇ-š": [
+      "ܠܒܫ"
+    ],
+    "š-l-m": [
+      "ܫܠܡ",
+      "ܫܠܡܐ",
+      "ܫܘܠܡܢܐ"
+    ],
+    "š-ḏ-ṛ": [
+      "ܫܕܪ"
+    ],
+    "m-l-ʾ": [
+      "ܡܠܐ",
+      "ܡܠܝܐ"
+    ],
+    "r-ḥ-m": [
+      "ܪܚܡ",
+      "ܪܚܡܐ"
+    ],
+    "ḥ-b": [
+      "ܚܒ"
+    ],
+    "s-y-m": [
+      "ܣܝܡ"
+    ],
+    "ʾ-ḥ-ḏ": [
+      "ܐܚܕ"
+    ],
+    "m-ṭ-ʾ": [
+      "ܡܛܐ"
+    ],
+    "š-r-ʾ": [
+      "ܫܪܐ"
+    ],
+    "b": [
+      "ܒ"
+    ],
+    "l": [
+      "ܠ"
+    ],
+    "ʿ-l": [
+      "ܥܠ"
+    ],
+    "t-ḥ-t": [
+      "ܬܚܬ"
+    ],
+    "q-ḏ-m": [
+      "ܩܕܡ"
+    ],
+    "b-ṯ-ṛ": [
+      "ܒܬܪ"
+    ],
+    "b-y-n": [
+      "ܒܝܢ"
+    ],
+    "ʿ-m": [
+      "ܥܡ"
+    ],
+    "l-w-ṯ": [
+      "ܠܘܬ"
+    ],
+    "w": [
+      "ܘ"
+    ],
+    "ʾ-l": [
+      "ܐܠܐ"
+    ],
+    "ʾ-w": [
+      "ܐܘ"
+    ],
+    "m-ṭ-l": [
+      "ܡܛܠ"
+    ],
+    "h-k-n": [
+      "ܗܟܢܐ"
+    ],
+    "l-ʾ": [
+      "ܠܐ"
+    ],
+    "ṭ-ḇ": [
+      "ܛܒܐ"
+    ],
+    "b-y-š": [
+      "ܒܝܫܐ"
+    ],
+    "r-b": [
+      "ܪܒܐ"
+    ],
+    "z-ʿ-w-r": [
+      "ܙܥܘܪܐ"
+    ],
+    "k-ʾ-n": [
+      "ܟܐܢܐ"
+    ],
+    "š-r-r": [
+      "ܫܪܝܪܐ"
+    ],
+    "ḥ-ḏ-ṯ": [
+      "ܚܕܬܐ"
+    ],
+    "ʿ-ṯ-y-q": [
+      "ܥܬܝܩܐ"
+    ],
+    "ḥ-d": [
+      "ܚܕ",
+      "ܚܕܐ"
+    ],
+    "t-r": [
+      "ܬܪܝܢ"
+    ],
+    "t-l-ṯ": [
+      "ܬܠܬܐ"
+    ],
+    "ʾ-r-b-ʿ": [
+      "ܐܪܒܥܐ"
+    ],
+    "ḥ-m-š": [
+      "ܚܡܫܐ"
+    ],
+    "k-h-n": [
+      "ܟܗܢܐ"
+    ],
+    "d-y-r": [
+      "ܕܝܪܐ",
+      "ܕܝܪܝܐ"
+    ],
+    "t-r-ṣ": [
+      "ܬܪܝܨܐ"
+    ],
+    "h-m-n": [
+      "ܗܝܡܢܘܬܐ"
+    ],
+    "s-b-r": [
+      "ܣܒܪܐ"
+    ],
+    "ḥ-w-b": [
+      "ܚܘܒܐ"
+    ],
+    "ḥ-ṭ-ʾ": [
+      "ܚܛܝܬܐ"
+    ],
+    "z-d-q": [
+      "ܙܕܝܩܘܬܐ"
+    ],
+    "s-w-ʿ-r": [
+      "ܣܘܥܪܐ"
+    ],
+    "m-l-p̄": [
+      "ܡܠܦܢܘܬܐ"
+    ],
+    "t-w-ḏ": [
+      "ܬܘܕܝܬܐ"
+    ],
+    "ṣ-l-ʾ": [
+      "ܨܠܘܬܐ"
+    ],
+    "ṣ-w-m": [
+      "ܨܘܡܐ"
+    ],
+    "ʿ-w-d-r": [
+      "ܥܘܕܪܢܐ"
+    ],
+    "Greek: εὐαγγέλιον": [
+      "ܐܘܢܓܠܝܘܢ"
+    ],
+    "t-w-r": [
+      "ܬܘܪܐ"
+    ],
+    "n-b-ʾ": [
+      "ܢܒܝܐ"
+    ],
+    "š-l-ḥ": [
+      "ܫܠܝܚܐ"
+    ],
+    "k-w-r-s-y": [
+      "ܟܘܪܣܝܐ"
+    ],
+    "ḏ-b-ḥ": [
+      "ܡܕܒܚܐ"
+    ],
+    "d-r-n": [
+      "ܕܪܘܢܐ"
+    ],
+    "r-ḡ-l": [
+      "ܪܓܠܐ"
+    ],
+    "ʾ-ṣ-b-ʿ": [
+      "ܐܨܒܥܐ"
+    ],
+    "ṣ-p-r": [
+      "ܨܦܪܐ"
+    ],
+    "g-w-ḏ": [
+      "ܓܘܕܐ",
+      "ܓܘܕܬܐ"
+    ],
+    "t-r-y": [
+      "ܬܪܝܐ"
+    ],
+    "q-ḏ-l": [
+      "ܩܕܠܐ"
+    ],
+    "k-ṯ-p": [
+      "ܟܬܦܐ"
+    ],
+    "ḥ-ḏ-y": [
+      "ܚܕܝܐ"
+    ],
+    "g-w": [
+      "ܓܘܐ"
+    ],
+    "ḥ-ḷ-y": [
+      "ܚܠܝܐ"
+    ],
+    "g-ṛ-m": [
+      "ܓܪܡܐ"
+    ],
+    "m-w-ḥ": [
+      "ܡܘܚܐ"
+    ],
+    "d-ʿ": [
+      "ܕܡܥܐ"
+    ],
+    "ʿ-q-ḇ": [
+      "ܥܘܩܒܐ"
+    ],
+    "ṭ-w-r": [
+      "ܛܘܪܐ"
+    ],
+    "g-ḇ-ʿ": [
+      "ܓܒܥܐ"
+    ],
+    "p-q-ʿ": [
+      "ܦܩܥܬܐ"
+    ],
+    "y-m": [
+      "ܝܡܐ"
+    ],
+    "n-h-r": [
+      "ܢܗܪܐ"
+    ],
+    "m-ʿ-y-n": [
+      "ܡܥܝܢܐ"
+    ],
+    "b-ʾ-r": [
+      "ܒܐܪܐ"
+    ],
+    "ḥ-w-r": [
+      "ܚܘܪܐ"
+    ],
+    "q-y-ṭ": [
+      "ܩܝܛܐ"
+    ],
+    "s-t-w": [
+      "ܣܬܘܐ"
+    ],
+    "p-q-ḏ": [
+      "ܦܘܩܕܢܐ"
+    ],
+    "m-ṭ-r": [
+      "ܡܛܪܐ"
+    ],
+    "g-š-m": [
+      "ܓܫܡܐ"
+    ],
+    "ʿ-n-n": [
+      "ܥܢܢܐ"
+    ],
+    "r-ʿ-m": [
+      "ܪܥܡܐ"
+    ],
+    "b-r-q": [
+      "ܒܪܩܐ"
+    ],
+    "q-ṭ-r": [
+      "ܩܛܝܪܐ"
+    ],
+    "ṭ-y-n": [
+      "ܛܝܢܐ"
+    ],
+    "ḥ-l": [
+      "ܚܠܐ"
+    ],
+    "k-ʾ-p": [
+      "ܟܐܦܐ"
+    ],
+    "š-ʿ-ʾ": [
+      "ܫܥܐ"
+    ],
+    "š-n-ṯ": [
+      "ܫܢܬܐ"
+    ],
+    "y-r-ḥ": [
+      "ܝܪܚܐ"
+    ],
+    "š-b-ʿ": [
+      "ܫܒܘܥܐ"
+    ],
+    "ʿ-ḏ-n": [
+      "ܥܕܢܐ"
+    ],
+    "r-m-š": [
+      "ܪܡܫܐ"
+    ],
+    "š-w-ʾ": [
+      "�ܡܘܢܐ"
+    ],
+    "m-l-l": [
+      "ܡܠܠܐ"
+    ],
+    "ḥ-k-m": [
+      "ܚܟܡܬܐ"
+    ],
+    "ḥ-y-l": [
+      "ܚܝܠܐ"
+    ],
+    "t-q-n": [
+      "ܬܩܢܐ"
+    ],
+    "b-w-s": [
+      "ܒܘܣܝܢܐ"
+    ],
+    "r-w-z": [
+      "ܪܘܙܐ"
+    ],
+    "t-r-s-y": [
+      "ܬܘܪܣܝܐ"
+    ],
+    "b-ʿ-ʾ": [
+      "ܒܥܘܬܐ"
+    ],
+    "m-w-l-ḏ": [
+      "ܡܘܠܕܐ"
+    ],
+    "t-w-ḇ": [
+      "ܬܝܒܘܬܐ"
+    ],
+    "ḥ-ḏ-ʾ": [
+      "ܚܕܘܬܐ"
+    ],
+    "ʿ-w-l": [
+      "ܥܘܠܐ"
+    ],
+    "p-ʿ-n": [
+      "ܦܘܪܥܢܐ"
+    ],
+    "b-d-q": [
+      "ܒܘܕܩܐ"
+    ],
+    "ʿ-m-m": [
+      "ܥܡܡܐ"
+    ],
+    "k-n-š": [
+      "ܟܢܫܐ"
+    ],
+    "q-h-l": [
+      "ܩܗܠܐ"
+    ],
+    "ʾ-w-m-m": [
+      "ܐܘܡܬܐ"
+    ],
+    "l-š-n": [
+      "ܠܫܢܐ"
+    ],
+    "t-r-g-m": [
+      "ܬܪܓܡܢܐ"
+    ],
+    "š-l-ṭ": [
+      "ܫܘܠܛܢܐ"
+    ],
+    "ḏ-y-n": [
+      "ܡܕܝܢܬܐ"
+    ],
+    "q-r-y": [
+      "ܩܪܝܬܐ",
+      "ܩܪܝ"
+    ],
+    "š-w-q": [
+      "ܫܘܩܐ"
+    ],
+    "d-r": [
+      "ܕܪܬܐ"
+    ],
+    "p-ṯ-g-m": [
+      "ܦܬܓܡܐ"
+    ],
+    "t-n-ʾ": [
+      "ܬܢܝܢܐ"
+    ],
+    "ʿ-s-r": [
+      "ܥܣܪ"
+    ],
+    "š-r-y": [
+      "ܫܪܝ"
+    ],
+    "š-p-ṛ": [
+      "ܫܦܪ"
+    ],
+    "š-k-ḥ": [
+      "ܫܟܚ"
+    ],
+    "ḥ-š-ḇ": [
+      "ܚܫܒ"
+    ],
+    "g-l-ʾ": [
+      "ܓܠܐ"
+    ],
+    "k-s-ʾ": [
+      "ܟܣܐ"
+    ],
+    "p-r-ḡ": [
+      "ܦܪܓ"
+    ],
+    "y-q-ḏ": [
+      "ܝܩܕ"
+    ],
+    "p-n-ʾ": [
+      "ܦܢܐ"
+    ],
+    "h-p-ḵ": [
+      "ܗܦܟ"
+    ],
+    "y-ṯ-ḇ": [
+      "ܝܬܒ"
+    ],
+    "d-m-k": [
+      "ܕܡܟ"
+    ],
+    "ʿ-r-q": [
+      "ܥܪܩ"
+    ],
+    "r-h-ṭ": [
+      "ܪܗܛ"
+    ],
+    "k-w-m": [
+      "ܟܘܡܬܐ"
+    ],
+    "s-w-m-q": [
+      "ܣܘܡܩܐ"
+    ],
+    "y-w-q-r": [
+      "ܝܘܩܪܐ"
+    ],
+    "ṣ-ḥ-w": [
+      "ܨܚܘܐ"
+    ],
+    "q-ṣ-ʾ": [
+      "ܩܨܬܐ"
+    ],
+    "r-k-ḵ": [
+      "ܪܟܝܟܐ"
+    ],
+    "ḥ-l-ṭ": [
+      "ܚܠܝܛܐ"
+    ],
+    "q-m-ṭ": [
+      "ܩܡܛܐ"
+    ],
+    "y-ṯ-r": [
+      "ܝܬܝܪܐ"
+    ],
+    "b-ṣ-r": [
+      "ܒܨܝܪܐ"
+    ],
+    "s-f-q": [
+      "ܣܦܝܩܐ"
+    ],
+    "p-ṭ-l": [
+      "ܦܛܝܠܐ"
+    ],
+    "p-r-z-l": [
+      "ܦܪܙܠܐ"
+    ],
+    "n-ḥ-š": [
+      "ܢܚܫܐ"
+    ],
+    "q-y-s": [
+      "ܩܝܣܐ"
+    ],
+    "s-ʾ-m": [
+      "ܣܐܡܐ"
+    ],
+    "m-ʾ-n": [
+      "ܡܐܢܐ"
+    ],
+    "k-w-t-n": [
+      "ܟܘܬܝܢܐ"
+    ],
+    "ḥ-m-l": [
+      "ܚܡܝܠܐ"
+    ],
+    "s-ḏ-r": [
+      "ܣܘܕܪܐ"
+    ],
+    "m-n-y-l": [
+      "ܡܢܝܠܐ"
+    ],
+    "ḥ-ḡ-r": [
+      "ܚܓܪܐ"
+    ],
+    "k-l-ḇ": [
+      "ܡܟܒܠܐ"
+    ]
+  }
+}

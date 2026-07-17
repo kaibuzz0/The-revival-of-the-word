@@ -1,0 +1,833 @@
+======================================================================
+GE'EZ (GƏʿƏZ) LEXICON
+Classical Ethiopic Dictionary
+Liturgical Language of Ethiopian Christianity
+======================================================================
+
+About Ge'ez:
+  - Ancient South Semitic language
+  - Liturgical language of Ethiopian Orthodox Church
+  - Ethiopian Bible: 81 books (most complete canon)
+  - Written in Ethiopic script (Fidel)
+  - Triliteral root system (like Hebrew and Arabic)
+
+Pronunciation Guide:
+  አ (ʾ) = glottal stop or silent
+  ኀ (ḫ) = voiceless pharyngeal fricative
+  ዐ (ʿ) = voiced pharyngeal fricative
+  ጸ (ṣ) = emphatic s
+  ፀ (ḍ) = emphatic ts
+  ጰ (ṗ) = emphatic p
+
+----------------------------------------------------------------------
+
+
+ሀይቅ  (Hayq)  [noun]
+    sea, lake
+    Root: h-y-q
+
+
+ሃይማኖት  (Haymanot)  [noun]
+    faith
+    Root: h-m-n
+
+
+ለ  (Lä)  [preposition]
+    to, for
+    Root: l
+
+
+ሉቃስ  (Luqas)  [proper noun]
+    Luke
+    Root: l-q-s
+
+
+ላም  (Lam)  [noun]
+    cow, cattle
+    Root: l-m
+
+
+ላዕለ  (Laʿlä)  [preposition]
+    upon, over
+    Root: l-ʿ-l
+
+
+ሌሊት  (Lelit)  [noun]
+    night
+    Root: l-l-t
+
+
+ልብ  (Ləb)  [noun]
+    heart
+    Root: l-b-b
+
+
+ሎ  (lo)  [pronoun]
+    to him
+    Root: l
+
+
+ሐመ  (Ḥäma)  [verb]
+    to be sick
+    Root: ḥ-m-m
+
+
+ሐመድ  (Ḥamäd)  [noun]
+    desert, wilderness
+    Root: ḥ-m-d
+
+
+ሐረመ  (Ḥärämä)  [verb]
+    to sit
+    Root: ḥ-r-m
+
+
+ሐሳየ  (Ḥasaya)  [adjective]
+    merciful
+    Root: ḥ-s-y
+
+
+ሐከየ  (Ḥäkaya)  [verb]
+    to love
+    Root: ḥ-k-y
+
+
+ሐወረ  (Ḥäwärä)  [verb]
+    to plow
+    Root: ḥ-w-r
+
+
+ሐዋርያ  (Ḥawarya)  [noun]
+    apostle
+    Root: ḥ-w-r
+
+
+ሐየ  (Ḥäya)  [verb]
+    to see
+    Root: ḥ-y-y
+
+
+ሐየደ  (Ḥäyadä)  [verb]
+    to run
+    Root: ḥ-y-d
+
+
+ሕይወት  (Ḥəywät)  [noun]
+    life
+    Root: ḥ-y-w
+
+
+መልአ  (Mälaʾ)  [adjective]
+    full
+    Root: m-l-ʾ
+
+
+መርሐ  (Marḥa)  [adjective]
+    bitter
+    Root: m-r-ḥ
+
+
+መስዓል  (Mäśʿal)  [noun]
+    crucifixion
+    Root: ś-ʿ-l
+
+
+መንግሥት  (Mängəśt)  [noun]
+    kingdom, reign
+    Root: n-g-ś
+
+
+መንፈስ_ቅዱስ  (Mänfäs qədus)  [proper noun]
+    Holy Spirit
+    Root: n-f-s; q-d-s
+
+
+መካን  (Mäkan)  [noun]
+    place
+    Root: m-k-n
+
+
+መጽሐፍ  (Mäṣḥaf)  [noun]
+    book, scripture
+    Root: ṣ-ḥ-f
+
+
+ማህያ  (Mahya)  [noun]
+    honey
+    Root: m-h-y
+
+
+ማርቆስ  (Marqos)  [proper noun]
+    Mark
+    Root: m-r-q
+
+
+ማርያም  (Maryam)  [proper noun]
+    Mary
+    Root: m-r-y
+
+
+ማቴዎስ  (Matewos)  [proper noun]
+    Matthew
+    Root: m-t-w
+
+
+ምድር  (Mədər)  [noun]
+    earth, land
+    Root: m-d-r
+
+
+ሞተ  (Motä)  [verb]
+    to die
+    Root: m-w-t
+
+
+ሞት  (Mot)  [noun]
+    death
+    Root: m-w-t
+
+
+ሠርክ  (Śärk)  [noun]
+    evening
+    Root: ś-r-k
+
+
+ሣልስ  (Śaləs)  [numeral]
+    three
+    Root: ś-l-s
+
+
+ሥላሴ  (Śəllase)  [noun]
+    Trinity
+    Root: ś-l-s
+
+
+ሥርዓት  (Śərʿat)  [noun]
+    law, ordinance
+    Root: ś-r-ʿ
+
+
+ሥዩመ  (Śəyuma)  [noun]
+    name
+    Root: ś-w-m
+
+
+ረቂቅ  (Räqiq)  [adjective]
+    thin, fine
+    Root: r-q-q
+
+
+ረባሕ  (Räbaḥ)  [adjective]
+    empty
+    Root: r-b-ḥ
+
+
+ሩዓቅ  (Ruʿaq)  [adjective]
+    far
+    Root: r-ʿ-q
+
+
+ራስ  (Ras)  [noun]
+    head
+    Root: r-ʾ-s
+
+
+ሰማይ  (Samay)  [noun]
+    heaven, sky
+    Root: s-m-y
+
+
+ሰማይ_መልዓ  (Samay Mälaʿ)  [noun]
+    east
+    Root: s-m-y; ʿ-l-y
+
+
+ሰማይ_ይነዘር  (Samay Yənäzär)  [noun]
+    west
+    Root: s-m-y; n-z-r
+
+
+ሰምዐ  (Sämʿa)  [verb]
+    to hear
+    Root: s-m-ʿ
+
+
+ሰራዊት  (Särawit)  [noun]
+    army, host
+    Root: s-r-w
+
+
+ሰብእ  (Səbʾ)  [noun]
+    man, human
+    Root: s-b-ʾ
+
+
+ሰንበተ  (Sänbät)  [noun]
+    Sabbath
+    Root: s-b-t
+
+
+ሰዓት  (Saʿat)  [noun]
+    hour, time
+    Root: s-ʿ-t
+
+
+ሰደደ  (Sädäda)  [verb]
+    to send
+    Root: s-d-d
+
+
+ሳበላ  (Säbala)  [adjective]
+    green
+    Root: s-b-l
+
+
+ሳዕበ  (Saʿbä)  [adjective]
+    wide
+    Root: s-ʿ-b
+
+
+ስጋ  (Səga)  [noun]
+    flesh, body
+    Root: s-g-w
+
+
+ቀይር  (Qäyər)  [adjective]
+    red
+    Root: q-y-r
+
+
+ቅዱስ  (Qədus)  [noun]
+    saint
+    Root: q-d-s
+
+
+ቅድመ  (Qədma)  [preposition]
+    before
+    Root: q-d-m
+
+
+ቆመ  (Qoma)  [verb]
+    to stand
+    Root: q-w-m
+
+
+በ  (Ba)  [preposition]
+    in, with, by
+    Root: b
+
+
+በለ  (Bäla)  [verb]
+    to say, speak
+    Root: b-l-y
+
+
+በዓል  (Baʿal)  [noun]
+    feast, festival
+    Root: b-ʿ-l
+
+
+በዘወ  (Bäzäwa)  [verb]
+    to do, make
+    Root: b-z-y
+
+
+በግዕ  (Bägʿ)  [noun]
+    sheep
+    Root: b-g-ʿ
+
+
+ቤተ  (Bet)  [noun]
+    house
+    Root: b-y-t
+
+
+ብሩር  (Bərur)  [noun]
+    iron
+    Root: b-r-r
+
+
+ብር  (Bər)  [noun]
+    silver, money
+    Root: b-r-r
+
+
+ብርሃን  (Bərhan)  [noun]
+    light
+    Root: b-r-h-n
+
+
+ብዙኅ  (Bəzuḫ)  [adjective]
+    many, much
+    Root: b-z-ḫ
+
+
+ተለአለ  (Tälaʾälä)  [noun]
+    oil
+    Root: l-ʾ
+
+
+ተቀበለ  (Täqäbalä)  [verb]
+    to receive, accept
+    Root: q-b-l
+
+
+ትሕቴ  (Təḥtä)  [preposition]
+    under, beneath
+    Root: t-ḥ-t
+
+
+ትምህርት  (Təməhərt)  [noun]
+    teaching, doctrine
+    Root: m-h-r
+
+
+ትንሣኤ  (Tənsaʾe)  [noun]
+    resurrection
+    Root: n-ś-ʾ
+
+
+ትንሹ  (Tənišu)  [adjective]
+    small, little
+    Root: t-n-š
+
+
+ትዕዛዝ  (Təʿzaz)  [noun]
+    commandment
+    Root: ʿ-w-z
+
+
+ኀምስ  (Ḫaməs)  [numeral]
+    five
+    Root: ḫ-m-s
+
+
+ኀጢአት  (Ḫaṭiʾat)  [noun]
+    sin
+    Root: ḫ-ṭ-ʾ
+
+
+ኅሩይ  (Ḫəruy)  [adjective]
+    beloved
+    Root: ḫ-r-y
+
+
+ኅብስተ  (Ḫəbstä)  [noun]
+    bread
+    Root: ḫ-b-s
+
+
+ኅድገት  (Ḫədqät)  [noun]
+    mercy
+    Root: ḫ-d-q
+
+
+ነበረ  (Näbärä)  [verb]
+    to be, exist
+    Root: n-b-r
+
+
+ነፈወ  (Näfäwa)  [verb]
+    to fly
+    Root: n-f-w
+
+
+ነፍስ  (Näfs)  [noun]
+    soul, breath
+    Root: n-f-s
+
+
+ናስ  (Nas)  [noun]
+    brass, copper
+    Root: n-s
+
+
+ንጉሥ  (Nəguś)  [noun]
+    king
+    Root: n-g-ś
+
+
+ኖረ  (Nora)  [verb]
+    to live, dwell
+    Root: n-w-r
+
+
+አሐዱ  (ʾAḥadu)  [numeral]
+    one
+    Root: ʾ-ḥ-d
+
+
+አመነ  (ʾAmäna)  [verb]
+    to believe, trust
+    Root: ʾ-m-n
+
+
+አምላክ  (amlāk)  [noun]
+    God
+    Root: ʾ-l-k
+
+
+አርባዕ  (ʾArbaʿ)  [numeral]
+    four
+    Root: ʾ-r-b-ʿ
+
+
+አርድእት  (ʾArdəʾt)  [noun]
+    friend
+    Root: ʾ-r-d
+
+
+አብ  (Ab)  [noun]
+    Father
+    Root: ʾ-b
+
+
+አብን  (ʾAbn)  [noun]
+    stone
+    Root: ʾ-b-n
+
+
+አነብስ  (ʾAnäbs)  [noun]
+    leopard
+    Root: ʾ-n-b-s
+
+
+አንስት  (ʾAnəst)  [noun]
+    woman
+    Root: ʾ-n-s
+
+
+አንገት  (ʾAngät)  [noun]
+    neck
+    Root: ʾ-n-g
+
+
+አእምሮ  (ʾAəmro)  [noun]
+    mind, intellect
+    Root: ʾ-m-r
+
+
+አውራሪስ  (ʾAwərraris)  [noun]
+    eagle
+    Root: ʾ-w-r
+
+
+አየር  (ʾAyyär)  [noun]
+    air, wind
+    Root: ʾ-y-r
+
+
+አግዐዘ  (ʾAgʿäza)  [verb]
+    to rise, stand up
+    Root: ʾ-g-z
+
+
+አፍ  (Af)  [noun]
+    mouth
+    Root: ʾ-f
+
+
+ኢየሱስ  (Iyesus)  [proper noun]
+    Jesus
+    Root: y-s-ʿ
+
+
+እሑድ  (ʾƏhud)  [noun]
+    Sunday
+    Root: ʾ-h-d
+
+
+እም  (Əm)  [preposition]
+    from, out of
+    Root: m
+
+
+እሳት  (ʾƏsat)  [noun]
+    fire
+    Root: ʾ-s-y
+
+
+እስት  (ʾƏst)  [noun]
+    belly, stomach
+    Root: ʾ-s-t
+
+
+እዝኒ  (ʾƏzni)  [noun]
+    ear
+    Root: ʾ-z-n
+
+
+እጅ  (ʾƏǧ)  [noun]
+    hand
+    Root: ʾ-ǧ
+
+
+እግር  (ʾƏgr)  [noun]
+    foot, leg
+    Root: ʾ-g-r
+
+
+እግዚአብሔር  (Ǝgziʾabəḥer)  [proper noun]
+    The Lord
+    Root: g-z-y
+
+
+ከመ  (Käma)  [preposition]
+    as, like
+    Root: k-m
+
+
+ከብት  (Käbt)  [noun]
+    cattle, livestock
+    Root: k-b-t
+
+
+ክልኤ  (Kəleʾ)  [numeral]
+    two
+    Root: k-l-ʾ
+
+
+ክሩም  (Kərum)  [adjective]
+    black
+    Root: k-r-m
+
+
+ክርስቶስ  (Krəstos)  [proper noun]
+    Christ
+    Root: k-r-s
+
+
+ወ  (wə)  [conjunction]
+    and, but
+    Root: w
+
+
+ወለድ  (Wälad)  [noun]
+    child, son
+    Root: w-l-d
+
+
+ወልድ  (Wäld)  [noun]
+    Son
+    Root: w-l-d
+
+
+ወረደ  (Wärädä)  [verb]
+    to descend, go down
+    Root: w-r-d
+
+
+ወርቅ  (Wärq)  [noun]
+    gold
+    Root: w-r-q
+
+
+ወርኅ  (Wärḫ)  [noun]
+    month, moon
+    Root: w-r-ḫ
+
+
+ወንጌል  (Wänagäl)  [noun]
+    gospel
+    Root: n-g-l
+
+
+ወአብ  (Wäʾb)  [noun]
+    river
+    Root: w-ʾ-b
+
+
+ወይን  (Wäyn)  [noun]
+    wine, grape
+    Root: w-y-n
+
+
+ወጠነ  (Wäṭäna)  [verb]
+    to begin
+    Root: w-ṭ-n
+
+
+ውሃ  (Wəha)  [noun]
+    water
+    Root: w-h-y
+
+
+ዐለ  (ʿƏla)  [verb]
+    to ascend, go up
+    Root: ʿ-l-y
+
+
+ዓመት  (ʿAmät)  [noun]
+    year
+    Root: ʿ-m-t
+
+
+ዓቢይ  (ʿAbiy)  [adjective]
+    great, big
+    Root: ʿ-b-y
+
+
+ዓይን  (ʿAyn)  [noun]
+    eye
+    Root: ʿ-y-n
+
+
+ዕፅ  (ʿƏḍ)  [noun]
+    wood, tree
+    Root: ʿ-ḍ
+
+
+ዘ  (zə)  [pronoun]
+    which, who, that (relative pronoun)
+    Root: z
+
+
+ዛፍ  (Zaf)  [noun]
+    tree
+    Root: z-f-f
+
+
+ዝናም  (Zənām)  [noun]
+    rain
+    Root: z-n-m
+
+
+ይ  (yə)  [pronoun]
+    he/it (prefix)
+    Root: y
+
+
+ዮሐንስ  (Yohannəs)  [proper noun]
+    John
+    Root: y-ḥ-n
+
+
+ደም  (Däm)  [noun]
+    blood
+    Root: d-m-m
+
+
+ደቡብ  (Däbub)  [noun]
+    south
+    Root: d-b-b
+
+
+ደብር  (Däbr)  [noun]
+    mountain
+    Root: d-b-r
+
+
+ድኅረ  (Dəḫrä)  [preposition]
+    after
+    Root: d-ḫ-r
+
+
+ጌታ  (Geta)  [noun]
+    Lord, Master
+    Root: g-t-y
+
+
+ጎዳት  (Godat)  [noun]
+    morning
+    Root: g-d-t
+
+
+ጠቢብ  (Ṭäbib)  [noun]
+    wise person
+    Root: ṭ-b-b
+
+
+ጣኒ  (Ṭani)  [adjective]
+    narrow
+    Root: ṭ-n-y
+
+
+ጣዕረ  (Ṭaʿrä)  [adjective]
+    sweet
+    Root: ṭ-ʿ-r
+
+
+ጥቀ  (Ṭəqä)  [adjective]
+    near
+    Root: ṭ-q-y
+
+
+ጥበብ  (Ṭəbab)  [noun]
+    wisdom
+    Root: ṭ-b-b
+
+
+ጥብጥበ  (Ṭəbtäbä)  [adjective]
+    thick, dense
+    Root: ṭ-b-b
+
+
+ጳውሎስ  (Ṗawlos)  [proper noun]
+    Paul
+    Root: p-w-l
+
+
+ጴጥሮስ  (Peṭros)  [proper noun]
+    Peter
+    Root: p-ṭ-r
+
+
+ጸለመት  (Ṣälamät)  [noun]
+    darkness
+    Root: ṣ-l-m
+
+
+ጸለየ  (Ṣälaya)  [verb]
+    to pray
+    Root: ṣ-l-y
+
+
+ጸሎት  (Ṣälot)  [noun]
+    prayer
+    Root: ṣ-l-y
+
+
+ጸደና  (Ṣädäna)  [noun]
+    north
+    Root: ṣ-d-n
+
+
+ጻዕዳ  (Ṣaʿda)  [adjective]
+    white
+    Root: ṣ-ʿ-d
+
+
+ጻድቅ  (Ṣadəq)  [adjective]
+    righteous, just
+    Root: ṣ-d-q
+
+
+ጽቡሕ  (Ṣəbuḥ)  [adjective]
+    beautiful
+    Root: ṣ-b-ḥ
+
+
+ጾም  (Ṣom)  [noun]
+    fast, fasting
+    Root: ṣ-w-m
+
+
+ፈረየ  (Färäya)  [verb]
+    to judge
+    Root: f-r-y
+
+
+ፍቅር  (Fəqər)  [noun]
+    love
+    Root: f-q-r
+
+
+ፍኖተ  (Fənot)  [noun]
+    way, road
+    Root: f-n-y
+
+
+ፍድል  (Fədl)  [noun]
+    goat
+    Root: f-d-l
+

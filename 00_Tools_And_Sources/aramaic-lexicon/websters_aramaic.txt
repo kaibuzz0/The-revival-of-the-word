@@ -1,0 +1,776 @@
+======================================================================
+ARAMAIC LEXICON
+Biblical and Galilean Aramaic Dictionary
+======================================================================
+
+About Aramaic:
+  - Semitic language (like Hebrew and Arabic)
+  - Jesus' spoken language (Galilean dialect)
+  - Biblical Aramaic in Daniel (ch. 2-7) and Ezra
+  - Written in Hebrew script (square letters)
+  - Triliteral root system
+
+Pronunciation Guide:
+  ʾ = glottal stop (like uh-oh)
+  ḥ/ḫ = voiceless pharyngeal (like Scottish loch)
+  ʿ = voiced pharyngeal
+  ṣ/ṣ = emphatic s
+  ṭ = emphatic t
+  ā = long a, ē = long e, ō = long o
+
+----------------------------------------------------------------------
+
+
+אֱדַיִן  (ʾĕḏayin)  [particle]
+    then
+    Root: ʾ-ḏ-y
+
+
+אֱלָא  (ʾĕlāʾ)  [negative]
+    except, but
+    Root: ʾ-l
+
+
+אֱלָהֵהּ  (ʾĕlāhēh)  [noun]
+    his God
+    Root: ʾ-l-h
+
+
+אֱלָהָא  (ʾĕlāhāʾ)  [noun]
+    God
+    Root: ʾ-l-h
+
+
+אֱנָשָׁא  (ʾĕnāšāʾ)  [noun]
+    man, human
+    Root: ʾ-n-š
+
+
+אֲבָא  (ʾăḇāʾ)  [noun]
+    father (Jesus' Aramaic)
+    Root: ʾ-b
+    Note: Mark 14:36, Abba Father
+
+
+אֲזַל  (ʾăzal)  [verb]
+    to go
+    Root: ʾ-z-l
+
+
+אֲחַשְׁדַּרְפְּנַיָּא  (ʾăḥašdarpənnayyāʾ)  [noun]
+    satraps
+    Root: Persian loan
+
+
+אֲלָא  (ʾălāʾ)  [conjunction]
+    but, however
+    Root: ʾ-l
+
+
+אֲמַר  (ʾămar)  [verb]
+    to say
+    Root: ʾ-m-r
+
+
+אֲנַחְנָא  (ʾănaḥnāʾ)  [pronoun]
+    we
+    Root: ʾ-n-ḥ
+
+
+אֲנָה  (ʾănāh)  [pronoun]
+    I
+    Root: ʾ-n-h
+
+
+אֲתָה  (ʾăṯāh)  [verb]
+    to come
+    Root: ʾ-ṯ-h
+
+
+אִילָן  (ʾîlān)  [noun]
+    tree
+    Root: ʾ-y-l
+
+
+אִם  (ʾim)  [conjunction]
+    if
+    Root: ʾ-m
+
+
+אִנִּין  (ʾinnîn)  [pronoun]
+    they (feminine)
+    Root: ʾ-n
+
+
+אִנּוּן  (ʾinnûn)  [pronoun]
+    they (masculine)
+    Root: ʾ-n
+
+
+אֵלֶּה  (ʾēlleh)  [demonstrative]
+    these
+    Root: ʾ-l-h
+
+
+אֶפְפַתַח  (ʾep̱paṯaḥ)  [verb]
+    be opened!
+    Root: p-ṯ-ḥ
+    Note: Mark 7:34, Ephphatha
+
+
+אַבָּא  (ʾabbāʾ)  [noun]
+    father (emphatic)
+    Root: ʾ-b
+
+
+אַנְתָּה  (ʾanṯāh)  [pronoun]
+    you (emphatic)
+    Root: ʾ-n-ṯ
+
+
+אַנְתּוּן  (ʾantûn)  [pronoun]
+    you (plural)
+    Root: ʾ-n-ṯ
+
+
+אַרְבַּע  (ʾarbaʿ)  [numeral]
+    four
+    Root: ʾ-r-b-ʿ
+
+
+אַרְעָא  (ʾarʿāʾ)  [noun]
+    earth, land
+    Root: ʾ-r-ʿ
+
+
+אַתִּי  (ʾattî)  [pronoun]
+    you (feminine singular)
+    Root: ʾ-t
+
+
+אַתָּה  (ʾattāh)  [pronoun]
+    you (masculine singular)
+    Root: ʾ-t-h
+
+
+אָזְנָא  (ʾoznāʾ)  [noun]
+    ear
+    Root: ʾ-z-n
+
+
+אוֹ  (ʾô)  [conjunction]
+    or
+    Root: ʾ
+
+
+בְּ  (bə)  [preposition]
+    in, with, by
+    Root: b
+
+
+בְּנָא  (bənāʾ)  [adjective]
+    built (passive participle)
+    Root: b-n-h
+
+
+בְּנָה  (bənāh)  [verb]
+    to build
+    Root: b-n-h
+
+
+בְּרִי  (bərî)  [noun]
+    son
+    Root: b-r
+
+
+בְּשַׂר  (bəśar)  [noun]
+    flesh
+    Root: b-ś-r
+
+
+בֵּין  (bēn)  [preposition]
+    between
+    Root: b-y-n
+
+
+בַּאדַיִן  (baʾḏayin)  [particle]
+    then, afterwards
+    Root: ʾ-ḏ-y
+
+
+בַּיִת  (bayiṯ)  [noun]
+    house
+    Root: b-y-ṯ
+
+
+בָּתוֹךְ  (bāṯôḵ)  [preposition]
+    in the midst of
+    Root: b-ṯ-ḵ
+
+
+גְּבַר  (gəḇar)  [noun]
+    man, male
+    Root: g-b-r
+
+
+גְּבַרְתָּא  (gəḇarṯāʾ)  [noun]
+    mistress, lady
+    Root: g-b-r
+
+
+גְּבוּרְתָּא  (gəḇûrəṯāʾ)  [noun]
+    power, might
+    Root: g-b-r
+    Note: Matthew 6:13
+
+
+גְּדַבַר  (gəḏaḇar)  [verb]
+    to speak
+    Root: d-ḇ-r
+
+
+גְּנַז  (gənaz)  [verb]
+    to hide, treasure
+    Root: g-n-z
+
+
+גְּשַׁם  (gəšam)  [noun]
+    rain
+    Root: g-š-m
+
+
+דְּרָךְ  (dərāḵ)  [noun]
+    way, road
+    Root: d-r-k
+
+
+דִּ  (di)  [pronoun]
+    which, who, that (relative)
+    Root: d
+
+
+דִּי  (dî)  [conjunction]
+    that, because, which
+    Root: d
+
+
+דָּא  (dāʾ)  [demonstrative]
+    this (demonstrative)
+    Root: d
+
+
+דָּם  (dām)  [noun]
+    blood
+    Root: d-m
+
+
+דָּת  (dāṯ)  [noun]
+    law, decree
+    Root: d-ṯ
+
+
+דּוּכְרָן  (dûḵrān)  [noun]
+    memory, mention
+    Root: d-k-r
+
+
+הֲדָא  (hăḏāʾ)  [demonstrative]
+    this (masculine)
+    Root: h-ḏ-ʾ
+
+
+הֲוָה  (hăwāh)  [verb]
+    to be, become
+    Root: h-w-h
+
+
+הִיא  (hîʾ)  [pronoun]
+    she, it
+    Root: h-y-ʾ
+
+
+הֵיךְ  (hêḵ)  [particle]
+    how?
+    Root: h-y-ḵ
+
+
+הַ  (ha)  [article]
+    the (definite article)
+    Root: h
+
+
+הָדֵא  (hāḏēʾ)  [demonstrative]
+    this (feminine)
+    Root: h-ḏ-ʾ
+
+
+הוּא  (hûʾ)  [pronoun]
+    he, it
+    Root: h-w-ʾ
+
+
+הוּדַע  (hûḏaʿ)  [verb]
+    to inform
+    Root: y-d-ʿ
+
+
+וְ  (wə)  [conjunction]
+    and
+    Root: w
+
+
+וּמְדָן  (ûməḏān)  [noun]
+    and judgment
+    Root: d-y-n
+
+
+זְמָן  (zəmān)  [noun]
+    time
+    Root: z-m-n
+
+
+זְעֵיר  (zəʿēr)  [adjective]
+    small, little
+    Root: z-ʿ-r
+
+
+חֲזַק  (ḥăzaq)  [verb]
+    to be strong
+    Root: ḥ-z-q
+
+
+חֲזָה  (ḥăzāh)  [verb]
+    to see
+    Root: ḥ-z-h
+
+
+חֲכִים  (ḥăḵîm)  [adjective]
+    wise
+    Root: ḥ-ḵ-m
+
+
+חֲמִשָּׁא  (ḥămiššāʾ)  [numeral]
+    five
+    Root: ḥ-m-š
+
+
+חֲסַד  (ḥăsaḏ)  [verb]
+    to be merciful
+    Root: ḥ-s-d
+
+
+חֲשִׁיב  (ḥăšîḇ)  [adjective]
+    important, worthy
+    Root: ḥ-š-ḇ
+
+
+חֵילָא  (ḥêlāʾ)  [noun]
+    wealth, strength
+    Root: ḥ-y-l
+    Note: Matthew 6:13, power
+
+
+חֶלְמָא  (ḥelmāʾ)  [noun]
+    dream
+    Root: ḥ-l-m
+
+
+חַד  (ḥaḏ)  [numeral]
+    one
+    Root: ḥ-d
+
+
+חַיַי  (ḥayay)  [verb]
+    to live
+    Root: ḥ-y-y
+
+
+חָזוּ  (ḥāzû)  [noun]
+    vision
+    Root: ḥ-z-h
+
+
+טְעֵם  (ṭəʿēm)  [noun]
+    taste, judgment
+    Root: ṭ-ʿ-m
+
+
+טְעַן  (ṭəʿan)  [verb]
+    to load, carry
+    Root: ṭ-ʿ-n
+
+
+טַלִיתָא  (ṭalîṯāʾ)  [noun]
+    little girl
+    Root: ṭ-l-ṯ
+    Note: Mark 5:41, Talitha cumi
+
+
+טָב  (ṭāḇ)  [adjective]
+    good
+    Root: ṭ-ḇ
+
+
+טָל  (ṭāl)  [noun]
+    dew
+    Root: ṭ-l
+
+
+יְדַע  (yəḏaʿ)  [verb]
+    to know
+    Root: y-d-ʿ
+
+
+יְהַב  (yəhaḇ)  [verb]
+    to give
+    Root: y-h-ḇ
+
+
+יַד  (yaḏ)  [noun]
+    hand
+    Root: y-d
+
+
+יַקִּיר  (yaqqîr)  [adjective]
+    precious, heavy
+    Root: y-q-r
+
+
+כְּ  (kə)  [preposition]
+    like, as
+    Root: k
+
+
+כְּנֵמָא  (kənēmāʾ)  [adverb]
+    thus
+    Root: k-n-m
+
+
+כְּעֶת  (kəʿeṯ)  [particle]
+    now
+    Root: k-ʿ-ṯ
+
+
+כְּתָב  (kəṯāḇ)  [noun]
+    writing, inscription
+    Root: k-ṯ-ḇ
+
+
+כֵּן  (kēn)  [adjective]
+    true, right
+    Root: k-n
+
+
+כָּל־קְבֵל  (kāl-qəḇēl)  [conjunction]
+    therefore
+    Root: k-l; q-ḇ-l
+
+
+לְ  (lə)  [preposition]
+    to, for, of
+    Root: l
+
+
+לְמָא  (ləmāʾ)  [particle]
+    why?
+    Root: l-m
+
+
+לְקֳבֵל  (ləqŏḇēl)  [preposition]
+    before, in front of
+    Root: q-ḇ-l
+
+
+לֵב  (lēḇ)  [noun]
+    heart
+    Root: l-ḇ-ḇ
+
+
+לָא  (lāʾ)  [negative]
+    no, not
+    Root: l-ʾ
+
+
+לָקֳבֵל  (lāqŏḇēl)  [preposition]
+    according to
+    Root: q-ḇ-l
+
+
+מְהַחֲזֵה  (məhaḥăzēh)  [adjective]
+    visible, conspicuous
+    Root: ḥ-z-h
+
+
+מִלְּתָא  (milləṯāʾ)  [noun]
+    word, matter
+    Root: m-l-ʾ
+
+
+מִן  (min)  [preposition]
+    from, out of
+    Root: m-n
+
+
+מֵישְׁר  (mêšar)  [noun]
+    uprightness
+    Root: y-š-r
+
+
+מֶלֶךְ  (meleḵ)  [noun]
+    king
+    Root: m-l-k
+
+
+מַיִן  (mayin)  [noun]
+    water
+    Root: m-y-n
+
+
+מַיַת  (mayaṯ)  [verb]
+    to die
+    Root: m-w-ṯ
+
+
+מַלְאֲכָא  (malʾăḵāʾ)  [noun]
+    angel, messenger
+    Root: m-l-ʾ
+
+
+מַלְכוּתָא  (malkûṯāʾ)  [noun]
+    kingdom
+    Root: m-l-k
+
+
+מַלְכוּתָךְ  (malkûṯāḵ)  [noun]
+    your kingdom
+    Root: m-l-k
+    Note: Lord's Prayer
+
+
+מַמְּדָא  (mammədāʾ)  [noun]
+    measure
+    Root: m-d-d
+    Note: Matthew 23:32
+
+
+מַן  (man)  [pronoun]
+    who, what
+    Root: m-n
+
+
+מָה  (māh)  [pronoun]
+    what
+    Root: m-h
+
+
+מָרֵא  (mārēʾ)  [noun]
+    lord, master
+    Root: m-r-ʾ
+
+
+נְבַעַת  (nəbaʿaṯ)  [verb]
+    to burst forth
+    Root: n-b-ʿ
+
+
+נְזִיד  (nəzîḏ)  [noun]
+    pulse, food
+    Root: n-z-d
+
+
+נְחֵת  (nəḥēṯ)  [verb]
+    to go down
+    Root: n-ḥ-ṯ
+
+
+נְסַב  (nəsaḇ)  [verb]
+    to take, receive
+    Root: n-s-ḇ
+
+
+נְפַל  (nəfal)  [verb]
+    to fall
+    Root: n-f-l
+
+
+נוּרָא  (nûrāʾ)  [noun]
+    fire
+    Root: n-w-r
+
+
+סְגַר  (səgar)  [verb]
+    to shut, close
+    Root: s-g-r
+
+
+סְפַר  (səfar)  [noun]
+    book, scroll
+    Root: s-f-r
+
+
+סוֹף  (sôp̱)  [noun]
+    end
+    Root: s-w-p̱
+
+
+עֲבַד  (ʿăḇaḏ)  [verb]
+    to do, make, serve
+    Root: ʿ-ḇ-ḏ
+
+
+עֲלָה  (ʿălāh)  [verb]
+    to go up
+    Root: ʿ-l-h
+
+
+עִדָּן  (ʿiddān)  [noun]
+    time, season
+    Root: ʿ-d-n
+
+
+עֵט  (ʿēṭ)  [noun]
+    counsel
+    Root: ʿ-y-ṭ
+
+
+עַד  (ʿaḏ)  [preposition]
+    until, as far as
+    Root: ʿ-ḏ
+
+
+עַיִן  (ʿayin)  [noun]
+    eye
+    Root: ʿ-y-n
+
+
+עַל  (ʿal)  [preposition]
+    upon, over, against
+    Root: ʿ-l
+
+
+עַל־יְדֵי  (ʿal-yəḏê)  [preposition]
+    by the hand of
+    Root: ʿ-l; y-d
+
+
+פְּשַׁר  (pəšar)  [noun]
+    interpretation
+    Root: p-š-r
+
+
+פְּתַח  (pəṯaḥ)  [verb]
+    to open
+    Root: p-ṯ-ḥ
+
+
+פֶּה  (peh)  [noun]
+    mouth
+    Root: p-h
+
+
+צְדָקָה  (ṣəḏāqāh)  [noun]
+    righteousness
+    Root: ṣ-d-q
+
+
+צְלֵם  (ṣəlēm)  [noun]
+    image, likeness
+    Root: ṣ-l-m
+
+
+קְבֵל  (qəḇēl)  [noun]
+    presence, before
+    Root: q-ḇ-l
+
+
+קְדָם  (qəḏām)  [preposition/adjective]
+    before, ancient
+    Root: q-d-m
+
+
+קְטַל  (qəṭal)  [verb]
+    to kill
+    Root: q-ṭ-l
+
+
+קַדִּישׁ  (qadiš)  [adjective]
+    holy
+    Root: q-d-š
+
+
+קוּם  (qûm)  [verb]
+    to rise, stand
+    Root: q-w-m
+
+
+קוּמִי  (qûmî)  [verb]
+    rise!
+    Root: q-w-m
+    Note: Mark 5:41
+
+
+רְמָא  (rəmāʾ)  [verb]
+    to throw
+    Root: r-m-ʾ
+
+
+רְעוּת  (rəʿûṯ)  [noun]
+    will, desire
+    Root: r-ʿ-h
+
+
+רֵאשׁ  (rēš)  [noun]
+    head
+    Root: r-ʾ-š
+
+
+רַב  (raḇ)  [adjective]
+    great, many
+    Root: r-ḇ
+
+
+רוּחַ  (rûaḥ)  [noun]
+    spirit, wind
+    Root: r-w-ḥ
+
+
+שְׁכַב  (šəḵaḇ)  [verb]
+    to lie down
+    Root: š-ḵ-ḇ
+
+
+שְׁמַיָּא  (šəmayyāʾ)  [noun]
+    heavens
+    Root: š-m-y
+
+
+שְׁמַע  (šəmaʿ)  [verb]
+    to hear
+    Root: š-m-ʿ
+
+
+תְּחוֹת  (təḥôṯ)  [preposition]
+    under, beneath
+    Root: ṯ-ḥ-ṯ
+
+
+תְּלָתָא  (təlāṯāʾ)  [numeral]
+    three
+    Root: t-l-ṯ
+
+
+תְּרֵין  (tərēn)  [numeral]
+    two
+    Root: t-r-n
+
+
+תְּרוּם  (tərûm)  [verb]
+    to rise
+    Root: r-w-m
+
+
+תֵּאתֵא  (têʾṯēʾ)  [verb]
+    let come
+    Root: ʾ-ṯ-h
+    Note: Lord's Prayer, thy kingdom come
+

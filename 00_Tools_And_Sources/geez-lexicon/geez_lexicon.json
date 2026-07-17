@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "title": "Ge'ez (Gəʿəz) Lexicon",
+    "language": "Ge'ez (Classical Ethiopic)",
+    "script": "Ethiopic (Fidel)",
+    "period": "Classical Ge'ez (100-900 CE), Liturgical (to present)",
+    "total_entries": 162,
+    "format": "JSON",
+    "notes": "Liturgical language of Ethiopian Orthodox Tewahedo Church. Ethiopian Bible has 81 books (most complete canon)."
+  },
+  "entries": {
+    "ዘ": {
+      "word": "ዘ",
+      "definition": "which, who, that (relative pronoun)",
+      "part_of_speech": "pronoun",
+      "transliteration": "zə",
+      "root": "z"
+    },
+    "ወ": {
+      "word": "ወ",
+      "definition": "and, but",
+      "part_of_speech": "conjunction",
+      "transliteration": "wə",
+      "root": "w"
+    },
+    "ሎ": {
+      "word": "ሎ",
+      "definition": "to him",
+      "part_of_speech": "pronoun",
+      "transliteration": "lo",
+      "root": "l"
+    },
+    "ይ": {
+      "word": "ይ",
+      "definition": "he/it (prefix)",
+      "part_of_speech": "pronoun",
+      "transliteration": "yə",
+      "root": "y"
+    },
+    "አምላክ": {
+      "word": "አምላክ",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "amlāk",
+      "root": "ʾ-l-k"
+    },
+    "እግዚአብሔር": {
+      "word": "እግዚአብሔር",
+      "definition": "The Lord",
+      "part_of_speech": "proper noun",
+      "transliteration": "Ǝgziʾabəḥer",
+      "root": "g-z-y"
+    },
+    "ኢየሱስ": {
+      "word": "ኢየሱስ",
+      "definition": "Jesus",
+      "part_of_speech": "proper noun",
+      "transliteration": "Iyesus",
+      "root": "y-s-ʿ"
+    },
+    "ክርስቶስ": {
+      "word": "ክርስቶስ",
+      "definition": "Christ",
+      "part_of_speech": "proper noun",
+      "transliteration": "Krəstos",
+      "root": "k-r-s"
+    },
+    "መንፈስ_ቅዱስ": {
+      "word": "መንፈስ_ቅዱስ",
+      "definition": "Holy Spirit",
+      "part_of_speech": "proper noun",
+      "transliteration": "Mänfäs qədus",
+      "root": "n-f-s; q-d-s"
+    },
+    "ማርያም": {
+      "word": "ማርያም",
+      "definition": "Mary",
+      "part_of_speech": "proper noun",
+      "transliteration": "Maryam",
+      "root": "m-r-y"
+    },
+    "ጌታ": {
+      "word": "ጌታ",
+      "definition": "Lord, Master",
+      "part_of_speech": "noun",
+      "transliteration": "Geta",
+      "root": "g-t-y"
+    },
+    "አብ": {
+      "word": "አብ",
+      "definition": "Father",
+      "part_of_speech": "noun",
+      "transliteration": "Ab",
+      "root": "ʾ-b"
+    },
+    "ወልድ": {
+      "word": "ወልድ",
+      "definition": "Son",
+      "part_of_speech": "noun",
+      "transliteration": "Wäld",
+      "root": "w-l-d"
+    },
+    "ጸሎት": {
+      "word": "ጸሎት",
+      "definition": "prayer",
+      "part_of_speech": "noun",
+      "transliteration": "Ṣälot",
+      "root": "ṣ-l-y"
+    },
+    "ሰብእ": {
+      "word": "ሰብእ",
+      "definition": "man, human",
+      "part_of_speech": "noun",
+      "transliteration": "Səbʾ",
+      "root": "s-b-ʾ"
+    },
+    "አንስት": {
+      "word": "አንስት",
+      "definition": "woman",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAnəst",
+      "root": "ʾ-n-s"
+    },
+    "ወለድ": {
+      "word": "ወለድ",
+      "definition": "child, son",
+      "part_of_speech": "noun",
+      "transliteration": "Wälad",
+      "root": "w-l-d"
+    },
+    "ቤተ": {
+      "word": "ቤተ",
+      "definition": "house",
+      "part_of_speech": "noun",
+      "transliteration": "Bet",
+      "root": "b-y-t"
+    },
+    "መንግሥት": {
+      "word": "መንግሥት",
+      "definition": "kingdom, reign",
+      "part_of_speech": "noun",
+      "transliteration": "Mängəśt",
+      "root": "n-g-ś"
+    },
+    "ንጉሥ": {
+      "word": "ንጉሥ",
+      "definition": "king",
+      "part_of_speech": "noun",
+      "transliteration": "Nəguś",
+      "root": "n-g-ś"
+    },
+    "ነፍስ": {
+      "word": "ነፍስ",
+      "definition": "soul, breath",
+      "part_of_speech": "noun",
+      "transliteration": "Näfs",
+      "root": "n-f-s"
+    },
+    "ስጋ": {
+      "word": "ስጋ",
+      "definition": "flesh, body",
+      "part_of_speech": "noun",
+      "transliteration": "Səga",
+      "root": "s-g-w"
+    },
+    "ደም": {
+      "word": "ደም",
+      "definition": "blood",
+      "part_of_speech": "noun",
+      "transliteration": "Däm",
+      "root": "d-m-m"
+    },
+    "ልብ": {
+      "word": "ልብ",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "Ləb",
+      "root": "l-b-b"
+    },
+    "አእምሮ": {
+      "word": "አእምሮ",
+      "definition": "mind, intellect",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAəmro",
+      "root": "ʾ-m-r"
+    },
+    "ፍኖተ": {
+      "word": "ፍኖተ",
+      "definition": "way, road",
+      "part_of_speech": "noun",
+      "transliteration": "Fənot",
+      "root": "f-n-y"
+    },
+    "ብርሃን": {
+      "word": "ብርሃን",
+      "definition": "light",
+      "part_of_speech": "noun",
+      "transliteration": "Bərhan",
+      "root": "b-r-h-n"
+    },
+    "ጸለመት": {
+      "word": "ጸለመት",
+      "definition": "darkness",
+      "part_of_speech": "noun",
+      "transliteration": "Ṣälamät",
+      "root": "ṣ-l-m"
+    },
+    "ሰማይ": {
+      "word": "ሰማይ",
+      "definition": "heaven, sky",
+      "part_of_speech": "noun",
+      "transliteration": "Samay",
+      "root": "s-m-y"
+    },
+    "ምድር": {
+      "word": "ምድር",
+      "definition": "earth, land",
+      "part_of_speech": "noun",
+      "transliteration": "Mədər",
+      "root": "m-d-r"
+    },
+    "ውሃ": {
+      "word": "ውሃ",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "Wəha",
+      "root": "w-h-y"
+    },
+    "እሳት": {
+      "word": "እሳት",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏsat",
+      "root": "ʾ-s-y"
+    },
+    "ዛፍ": {
+      "word": "ዛፍ",
+      "definition": "tree",
+      "part_of_speech": "noun",
+      "transliteration": "Zaf",
+      "root": "z-f-f"
+    },
+    "ብር": {
+      "word": "ብር",
+      "definition": "silver, money",
+      "part_of_speech": "noun",
+      "transliteration": "Bər",
+      "root": "b-r-r"
+    },
+    "ወርቅ": {
+      "word": "ወርቅ",
+      "definition": "gold",
+      "part_of_speech": "noun",
+      "transliteration": "Wärq",
+      "root": "w-r-q"
+    },
+    "በለ": {
+      "word": "በለ",
+      "definition": "to say, speak",
+      "part_of_speech": "verb",
+      "transliteration": "Bäla",
+      "root": "b-l-y"
+    },
+    "ነበረ": {
+      "word": "ነበረ",
+      "definition": "to be, exist",
+      "part_of_speech": "verb",
+      "transliteration": "Näbärä",
+      "root": "n-b-r"
+    },
+    "ወረደ": {
+      "word": "ወረደ",
+      "definition": "to descend, go down",
+      "part_of_speech": "verb",
+      "transliteration": "Wärädä",
+      "root": "w-r-d"
+    },
+    "ዐለ": {
+      "word": "ዐለ",
+      "definition": "to ascend, go up",
+      "part_of_speech": "verb",
+      "transliteration": "ʿƏla",
+      "root": "ʿ-l-y"
+    },
+    "ሞተ": {
+      "word": "ሞተ",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "Motä",
+      "root": "m-w-t"
+    },
+    "ኖረ": {
+      "word": "ኖረ",
+      "definition": "to live, dwell",
+      "part_of_speech": "verb",
+      "transliteration": "Nora",
+      "root": "n-w-r"
+    },
+    "ሐየ": {
+      "word": "ሐየ",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥäya",
+      "root": "ḥ-y-y"
+    },
+    "ሰምዐ": {
+      "word": "ሰምዐ",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "Sämʿa",
+      "root": "s-m-ʿ"
+    },
+    "አግዐዘ": {
+      "word": "አግዐዘ",
+      "definition": "to rise, stand up",
+      "part_of_speech": "verb",
+      "transliteration": "ʾAgʿäza",
+      "root": "ʾ-g-z"
+    },
+    "ቆመ": {
+      "word": "ቆመ",
+      "definition": "to stand",
+      "part_of_speech": "verb",
+      "transliteration": "Qoma",
+      "root": "q-w-m"
+    },
+    "አመነ": {
+      "word": "አመነ",
+      "definition": "to believe, trust",
+      "part_of_speech": "verb",
+      "transliteration": "ʾAmäna",
+      "root": "ʾ-m-n"
+    },
+    "ፈረየ": {
+      "word": "ፈረየ",
+      "definition": "to judge",
+      "part_of_speech": "verb",
+      "transliteration": "Färäya",
+      "root": "f-r-y"
+    },
+    "ጸለየ": {
+      "word": "ጸለየ",
+      "definition": "to pray",
+      "part_of_speech": "verb",
+      "transliteration": "Ṣälaya",
+      "root": "ṣ-l-y"
+    },
+    "ሐከየ": {
+      "word": "ሐከየ",
+      "definition": "to love",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥäkaya",
+      "root": "ḥ-k-y"
+    },
+    "በዘወ": {
+      "word": "በዘወ",
+      "definition": "to do, make",
+      "part_of_speech": "verb",
+      "transliteration": "Bäzäwa",
+      "root": "b-z-y"
+    },
+    "ተቀበለ": {
+      "word": "ተቀበለ",
+      "definition": "to receive, accept",
+      "part_of_speech": "verb",
+      "transliteration": "Täqäbalä",
+      "root": "q-b-l"
+    },
+    "ሰደደ": {
+      "word": "ሰደደ",
+      "definition": "to send",
+      "part_of_speech": "verb",
+      "transliteration": "Sädäda",
+      "root": "s-d-d"
+    },
+    "ወጠነ": {
+      "word": "ወጠነ",
+      "definition": "to begin",
+      "part_of_speech": "verb",
+      "transliteration": "Wäṭäna",
+      "root": "w-ṭ-n"
+    },
+    "ቅዱስ": {
+      "word": "ቅዱስ",
+      "definition": "saint",
+      "part_of_speech": "noun",
+      "transliteration": "Qədus",
+      "root": "q-d-s"
+    },
+    "ጻድቅ": {
+      "word": "ጻድቅ",
+      "definition": "righteous, just",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṣadəq",
+      "root": "ṣ-d-q"
+    },
+    "ኅሩይ": {
+      "word": "ኅሩይ",
+      "definition": "beloved",
+      "part_of_speech": "adjective",
+      "transliteration": "Ḫəruy",
+      "root": "ḫ-r-y"
+    },
+    "ሐሳየ": {
+      "word": "ሐሳየ",
+      "definition": "merciful",
+      "part_of_speech": "adjective",
+      "transliteration": "Ḥasaya",
+      "root": "ḥ-s-y"
+    },
+    "ብዙኅ": {
+      "word": "ብዙኅ",
+      "definition": "many, much",
+      "part_of_speech": "adjective",
+      "transliteration": "Bəzuḫ",
+      "root": "b-z-ḫ"
+    },
+    "ትንሹ": {
+      "word": "ትንሹ",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "Tənišu",
+      "root": "t-n-š"
+    },
+    "ዓቢይ": {
+      "word": "ዓቢይ",
+      "definition": "great, big",
+      "part_of_speech": "adjective",
+      "transliteration": "ʿAbiy",
+      "root": "ʿ-b-y"
+    },
+    "ረቂቅ": {
+      "word": "ረቂቅ",
+      "definition": "thin, fine",
+      "part_of_speech": "adjective",
+      "transliteration": "Räqiq",
+      "root": "r-q-q"
+    },
+    "ጥብጥበ": {
+      "word": "ጥብጥበ",
+      "definition": "thick, dense",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṭəbtäbä",
+      "root": "ṭ-b-b"
+    },
+    "ጽቡሕ": {
+      "word": "ጽቡሕ",
+      "definition": "beautiful",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṣəbuḥ",
+      "root": "ṣ-b-ḥ"
+    },
+    "እም": {
+      "word": "እም",
+      "definition": "from, out of",
+      "part_of_speech": "preposition",
+      "transliteration": "Əm",
+      "root": "m"
+    },
+    "ከመ": {
+      "word": "ከመ",
+      "definition": "as, like",
+      "part_of_speech": "preposition",
+      "transliteration": "Käma",
+      "root": "k-m"
+    },
+    "በ": {
+      "word": "በ",
+      "definition": "in, with, by",
+      "part_of_speech": "preposition",
+      "transliteration": "Ba",
+      "root": "b"
+    },
+    "ለ": {
+      "word": "ለ",
+      "definition": "to, for",
+      "part_of_speech": "preposition",
+      "transliteration": "Lä",
+      "root": "l"
+    },
+    "ቅድመ": {
+      "word": "ቅድመ",
+      "definition": "before",
+      "part_of_speech": "preposition",
+      "transliteration": "Qədma",
+      "root": "q-d-m"
+    },
+    "ድኅረ": {
+      "word": "ድኅረ",
+      "definition": "after",
+      "part_of_speech": "preposition",
+      "transliteration": "Dəḫrä",
+      "root": "d-ḫ-r"
+    },
+    "ላዕለ": {
+      "word": "ላዕለ",
+      "definition": "upon, over",
+      "part_of_speech": "preposition",
+      "transliteration": "Laʿlä",
+      "root": "l-ʿ-l"
+    },
+    "ትሕቴ": {
+      "word": "ትሕቴ",
+      "definition": "under, beneath",
+      "part_of_speech": "preposition",
+      "transliteration": "Təḥtä",
+      "root": "t-ḥ-t"
+    },
+    "አሐዱ": {
+      "word": "አሐዱ",
+      "definition": "one",
+      "part_of_speech": "numeral",
+      "transliteration": "ʾAḥadu",
+      "root": "ʾ-ḥ-d"
+    },
+    "ክልኤ": {
+      "word": "ክልኤ",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "Kəleʾ",
+      "root": "k-l-ʾ"
+    },
+    "ሣልስ": {
+      "word": "ሣልስ",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "Śaləs",
+      "root": "ś-l-s"
+    },
+    "አርባዕ": {
+      "word": "አርባዕ",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "ʾArbaʿ",
+      "root": "ʾ-r-b-ʿ"
+    },
+    "ኀምስ": {
+      "word": "ኀምስ",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "Ḫaməs",
+      "root": "ḫ-m-s"
+    },
+    "መጽሐፍ": {
+      "word": "መጽሐፍ",
+      "definition": "book, scripture",
+      "part_of_speech": "noun",
+      "transliteration": "Mäṣḥaf",
+      "root": "ṣ-ḥ-f"
+    },
+    "ትምህርት": {
+      "word": "ትምህርት",
+      "definition": "teaching, doctrine",
+      "part_of_speech": "noun",
+      "transliteration": "Təməhərt",
+      "root": "m-h-r"
+    },
+    "በዓል": {
+      "word": "በዓል",
+      "definition": "feast, festival",
+      "part_of_speech": "noun",
+      "transliteration": "Baʿal",
+      "root": "b-ʿ-l"
+    },
+    "ጾም": {
+      "word": "ጾም",
+      "definition": "fast, fasting",
+      "part_of_speech": "noun",
+      "transliteration": "Ṣom",
+      "root": "ṣ-w-m"
+    },
+    "መስዓል": {
+      "word": "መስዓል",
+      "definition": "crucifixion",
+      "part_of_speech": "noun",
+      "transliteration": "Mäśʿal",
+      "root": "ś-ʿ-l"
+    },
+    "ትንሣኤ": {
+      "word": "ትንሣኤ",
+      "definition": "resurrection",
+      "part_of_speech": "noun",
+      "transliteration": "Tənsaʾe",
+      "root": "n-ś-ʾ"
+    },
+    "ወንጌል": {
+      "word": "ወንጌል",
+      "definition": "gospel",
+      "part_of_speech": "noun",
+      "transliteration": "Wänagäl",
+      "root": "n-g-l"
+    },
+    "ሥላሴ": {
+      "word": "ሥላሴ",
+      "definition": "Trinity",
+      "part_of_speech": "noun",
+      "transliteration": "Śəllase",
+      "root": "ś-l-s"
+    },
+    "ወርኅ": {
+      "word": "ወርኅ",
+      "definition": "month, moon",
+      "part_of_speech": "noun",
+      "transliteration": "Wärḫ",
+      "root": "w-r-ḫ"
+    },
+    "ዓመት": {
+      "word": "ዓመት",
+      "definition": "year",
+      "part_of_speech": "noun",
+      "transliteration": "ʿAmät",
+      "root": "ʿ-m-t"
+    },
+    "እሑድ": {
+      "word": "እሑድ",
+      "definition": "Sunday",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏhud",
+      "root": "ʾ-h-d"
+    },
+    "ሰንበተ": {
+      "word": "ሰንበተ",
+      "definition": "Sabbath",
+      "part_of_speech": "noun",
+      "transliteration": "Sänbät",
+      "root": "s-b-t"
+    },
+    "ፍቅር": {
+      "word": "ፍቅር",
+      "definition": "love",
+      "part_of_speech": "noun",
+      "transliteration": "Fəqər",
+      "root": "f-q-r"
+    },
+    "ሃይማኖት": {
+      "word": "ሃይማኖት",
+      "definition": "faith",
+      "part_of_speech": "noun",
+      "transliteration": "Haymanot",
+      "root": "h-m-n"
+    },
+    "ትዕዛዝ": {
+      "word": "ትዕዛዝ",
+      "definition": "commandment",
+      "part_of_speech": "noun",
+      "transliteration": "Təʿzaz",
+      "root": "ʿ-w-z"
+    },
+    "ኀጢአት": {
+      "word": "ኀጢአት",
+      "definition": "sin",
+      "part_of_speech": "noun",
+      "transliteration": "Ḫaṭiʾat",
+      "root": "ḫ-ṭ-ʾ"
+    },
+    "ሥርዓት": {
+      "word": "ሥርዓት",
+      "definition": "law, ordinance",
+      "part_of_speech": "noun",
+      "transliteration": "Śərʿat",
+      "root": "ś-r-ʿ"
+    },
+    "ሞት": {
+      "word": "ሞት",
+      "definition": "death",
+      "part_of_speech": "noun",
+      "transliteration": "Mot",
+      "root": "m-w-t"
+    },
+    "ሕይወት": {
+      "word": "ሕይወት",
+      "definition": "life",
+      "part_of_speech": "noun",
+      "transliteration": "Ḥəywät",
+      "root": "ḥ-y-w"
+    },
+    "ጥበብ": {
+      "word": "ጥበብ",
+      "definition": "wisdom",
+      "part_of_speech": "noun",
+      "transliteration": "Ṭəbab",
+      "root": "ṭ-b-b"
+    },
+    "ኅድገት": {
+      "word": "ኅድገት",
+      "definition": "mercy",
+      "part_of_speech": "noun",
+      "transliteration": "Ḫədqät",
+      "root": "ḫ-d-q"
+    },
+    "ጴጥሮስ": {
+      "word": "ጴጥሮስ",
+      "definition": "Peter",
+      "part_of_speech": "proper noun",
+      "transliteration": "Peṭros",
+      "root": "p-ṭ-r"
+    },
+    "ጳውሎስ": {
+      "word": "ጳውሎስ",
+      "definition": "Paul",
+      "part_of_speech": "proper noun",
+      "transliteration": "Ṗawlos",
+      "root": "p-w-l"
+    },
+    "ዮሐንስ": {
+      "word": "ዮሐንስ",
+      "definition": "John",
+      "part_of_speech": "proper noun",
+      "transliteration": "Yohannəs",
+      "root": "y-ḥ-n"
+    },
+    "ማቴዎስ": {
+      "word": "ማቴዎስ",
+      "definition": "Matthew",
+      "part_of_speech": "proper noun",
+      "transliteration": "Matewos",
+      "root": "m-t-w"
+    },
+    "ማርቆስ": {
+      "word": "ማርቆስ",
+      "definition": "Mark",
+      "part_of_speech": "proper noun",
+      "transliteration": "Marqos",
+      "root": "m-r-q"
+    },
+    "ሉቃስ": {
+      "word": "ሉቃስ",
+      "definition": "Luke",
+      "part_of_speech": "proper noun",
+      "transliteration": "Luqas",
+      "root": "l-q-s"
+    },
+    "ሐዋርያ": {
+      "word": "ሐዋርያ",
+      "definition": "apostle",
+      "part_of_speech": "noun",
+      "transliteration": "Ḥawarya",
+      "root": "ḥ-w-r"
+    },
+    "ራስ": {
+      "word": "ራስ",
+      "definition": "head",
+      "part_of_speech": "noun",
+      "transliteration": "Ras",
+      "root": "r-ʾ-s"
+    },
+    "አንገት": {
+      "word": "አንገት",
+      "definition": "neck",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAngät",
+      "root": "ʾ-n-g"
+    },
+    "እጅ": {
+      "word": "እጅ",
+      "definition": "hand",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏǧ",
+      "root": "ʾ-ǧ"
+    },
+    "እግር": {
+      "word": "እግር",
+      "definition": "foot, leg",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏgr",
+      "root": "ʾ-g-r"
+    },
+    "ዓይን": {
+      "word": "ዓይን",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "ʿAyn",
+      "root": "ʿ-y-n"
+    },
+    "እዝኒ": {
+      "word": "እዝኒ",
+      "definition": "ear",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏzni",
+      "root": "ʾ-z-n"
+    },
+    "አፍ": {
+      "word": "አፍ",
+      "definition": "mouth",
+      "part_of_speech": "noun",
+      "transliteration": "Af",
+      "root": "ʾ-f"
+    },
+    "እስት": {
+      "word": "እስት",
+      "definition": "belly, stomach",
+      "part_of_speech": "noun",
+      "transliteration": "ʾƏst",
+      "root": "ʾ-s-t"
+    },
+    "ደብር": {
+      "word": "ደብር",
+      "definition": "mountain",
+      "part_of_speech": "noun",
+      "transliteration": "Däbr",
+      "root": "d-b-r"
+    },
+    "ሀይቅ": {
+      "word": "ሀይቅ",
+      "definition": "sea, lake",
+      "part_of_speech": "noun",
+      "transliteration": "Hayq",
+      "root": "h-y-q"
+    },
+    "ወአብ": {
+      "word": "ወአብ",
+      "definition": "river",
+      "part_of_speech": "noun",
+      "transliteration": "Wäʾb",
+      "root": "w-ʾ-b"
+    },
+    "ሐመድ": {
+      "word": "ሐመድ",
+      "definition": "desert, wilderness",
+      "part_of_speech": "noun",
+      "transliteration": "Ḥamäd",
+      "root": "ḥ-m-d"
+    },
+    "አየር": {
+      "word": "አየር",
+      "definition": "air, wind",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAyyär",
+      "root": "ʾ-y-r"
+    },
+    "ዝናም": {
+      "word": "ዝናም",
+      "definition": "rain",
+      "part_of_speech": "noun",
+      "transliteration": "Zənām",
+      "root": "z-n-m"
+    },
+    "ላም": {
+      "word": "ላም",
+      "definition": "cow, cattle",
+      "part_of_speech": "noun",
+      "transliteration": "Lam",
+      "root": "l-m"
+    },
+    "ከብት": {
+      "word": "ከብት",
+      "definition": "cattle, livestock",
+      "part_of_speech": "noun",
+      "transliteration": "Käbt",
+      "root": "k-b-t"
+    },
+    "በግዕ": {
+      "word": "በግዕ",
+      "definition": "sheep",
+      "part_of_speech": "noun",
+      "transliteration": "Bägʿ",
+      "root": "b-g-ʿ"
+    },
+    "ፍድል": {
+      "word": "ፍድል",
+      "definition": "goat",
+      "part_of_speech": "noun",
+      "transliteration": "Fədl",
+      "root": "f-d-l"
+    },
+    "አነብስ": {
+      "word": "አነብስ",
+      "definition": "leopard",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAnäbs",
+      "root": "ʾ-n-b-s"
+    },
+    "አውራሪስ": {
+      "word": "አውራሪስ",
+      "definition": "eagle",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAwərraris",
+      "root": "ʾ-w-r"
+    },
+    "ኅብስተ": {
+      "word": "ኅብስተ",
+      "definition": "bread",
+      "part_of_speech": "noun",
+      "transliteration": "Ḫəbstä",
+      "root": "ḫ-b-s"
+    },
+    "ወይን": {
+      "word": "ወይን",
+      "definition": "wine, grape",
+      "part_of_speech": "noun",
+      "transliteration": "Wäyn",
+      "root": "w-y-n"
+    },
+    "ተለአለ": {
+      "word": "ተለአለ",
+      "definition": "oil",
+      "part_of_speech": "noun",
+      "transliteration": "Tälaʾälä",
+      "root": "l-ʾ"
+    },
+    "ማህያ": {
+      "word": "ማህያ",
+      "definition": "honey",
+      "part_of_speech": "noun",
+      "transliteration": "Mahya",
+      "root": "m-h-y"
+    },
+    "ዕፅ": {
+      "word": "ዕፅ",
+      "definition": "wood, tree",
+      "part_of_speech": "noun",
+      "transliteration": "ʿƏḍ",
+      "root": "ʿ-ḍ"
+    },
+    "አብን": {
+      "word": "አብን",
+      "definition": "stone",
+      "part_of_speech": "noun",
+      "transliteration": "ʾAbn",
+      "root": "ʾ-b-n"
+    },
+    "ብሩር": {
+      "word": "ብሩር",
+      "definition": "iron",
+      "part_of_speech": "noun",
+      "transliteration": "Bərur",
+      "root": "b-r-r"
+    },
+    "ናስ": {
+      "word": "ናስ",
+      "definition": "brass, copper",
+      "part_of_speech": "noun",
+      "transliteration": "Nas",
+      "root": "n-s"
+    },
+    "ቀይር": {
+      "word": "ቀይር",
+      "definition": "red",
+      "part_of_speech": "adjective",
+      "transliteration": "Qäyər",
+      "root": "q-y-r"
+    },
+    "ጻዕዳ": {
+      "word": "ጻዕዳ",
+      "definition": "white",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṣaʿda",
+      "root": "ṣ-ʿ-d"
+    },
+    "ክሩም": {
+      "word": "ክሩም",
+      "definition": "black",
+      "part_of_speech": "adjective",
+      "transliteration": "Kərum",
+      "root": "k-r-m"
+    },
+    "ሳበላ": {
+      "word": "ሳበላ",
+      "definition": "green",
+      "part_of_speech": "adjective",
+      "transliteration": "Säbala",
+      "root": "s-b-l"
+    },
+    "ሐየደ": {
+      "word": "ሐየደ",
+      "definition": "to run",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥäyadä",
+      "root": "ḥ-y-d"
+    },
+    "ሐረመ": {
+      "word": "ሐረመ",
+      "definition": "to sit",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥärämä",
+      "root": "ḥ-r-m"
+    },
+    "ነፈወ": {
+      "word": "ነፈወ",
+      "definition": "to fly",
+      "part_of_speech": "verb",
+      "transliteration": "Näfäwa",
+      "root": "n-f-w"
+    },
+    "ሐመ": {
+      "word": "ሐመ",
+      "definition": "to be sick",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥäma",
+      "root": "ḥ-m-m"
+    },
+    "ሐወረ": {
+      "word": "ሐወረ",
+      "definition": "to plow",
+      "part_of_speech": "verb",
+      "transliteration": "Ḥäwärä",
+      "root": "ḥ-w-r"
+    },
+    "ሥዩመ": {
+      "word": "ሥዩመ",
+      "definition": "name",
+      "part_of_speech": "noun",
+      "transliteration": "Śəyuma",
+      "root": "ś-w-m"
+    },
+    "አርድእት": {
+      "word": "አርድእት",
+      "definition": "friend",
+      "part_of_speech": "noun",
+      "transliteration": "ʾArdəʾt",
+      "root": "ʾ-r-d"
+    },
+    "ጠቢብ": {
+      "word": "ጠቢብ",
+      "definition": "wise person",
+      "part_of_speech": "noun",
+      "transliteration": "Ṭäbib",
+      "root": "ṭ-b-b"
+    },
+    "ሰራዊት": {
+      "word": "ሰራዊት",
+      "definition": "army, host",
+      "part_of_speech": "noun",
+      "transliteration": "Särawit",
+      "root": "s-r-w"
+    },
+    "መካን": {
+      "word": "መካን",
+      "definition": "place",
+      "part_of_speech": "noun",
+      "transliteration": "Mäkan",
+      "root": "m-k-n"
+    },
+    "ሰዓት": {
+      "word": "ሰዓት",
+      "definition": "hour, time",
+      "part_of_speech": "noun",
+      "transliteration": "Saʿat",
+      "root": "s-ʿ-t"
+    },
+    "ጎዳት": {
+      "word": "ጎዳት",
+      "definition": "morning",
+      "part_of_speech": "noun",
+      "transliteration": "Godat",
+      "root": "g-d-t"
+    },
+    "ሠርክ": {
+      "word": "ሠርክ",
+      "definition": "evening",
+      "part_of_speech": "noun",
+      "transliteration": "Śärk",
+      "root": "ś-r-k"
+    },
+    "ሌሊት": {
+      "word": "ሌሊት",
+      "definition": "night",
+      "part_of_speech": "noun",
+      "transliteration": "Lelit",
+      "root": "l-l-t"
+    },
+    "ጥቀ": {
+      "word": "ጥቀ",
+      "definition": "near",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṭəqä",
+      "root": "ṭ-q-y"
+    },
+    "ሩዓቅ": {
+      "word": "ሩዓቅ",
+      "definition": "far",
+      "part_of_speech": "adjective",
+      "transliteration": "Ruʿaq",
+      "root": "r-ʿ-q"
+    },
+    "መልአ": {
+      "word": "መልአ",
+      "definition": "full",
+      "part_of_speech": "adjective",
+      "transliteration": "Mälaʾ",
+      "root": "m-l-ʾ"
+    },
+    "ረባሕ": {
+      "word": "ረባሕ",
+      "definition": "empty",
+      "part_of_speech": "adjective",
+      "transliteration": "Räbaḥ",
+      "root": "r-b-ḥ"
+    },
+    "ጣዕረ": {
+      "word": "ጣዕረ",
+      "definition": "sweet",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṭaʿrä",
+      "root": "ṭ-ʿ-r"
+    },
+    "መርሐ": {
+      "word": "መርሐ",
+      "definition": "bitter",
+      "part_of_speech": "adjective",
+      "transliteration": "Marḥa",
+      "root": "m-r-ḥ"
+    },
+    "ጣኒ": {
+      "word": "ጣኒ",
+      "definition": "narrow",
+      "part_of_speech": "adjective",
+      "transliteration": "Ṭani",
+      "root": "ṭ-n-y"
+    },
+    "ሳዕበ": {
+      "word": "ሳዕበ",
+      "definition": "wide",
+      "part_of_speech": "adjective",
+      "transliteration": "Saʿbä",
+      "root": "s-ʿ-b"
+    },
+    "ሰማይ_መልዓ": {
+      "word": "ሰማይ_መልዓ",
+      "definition": "east",
+      "part_of_speech": "noun",
+      "transliteration": "Samay Mälaʿ",
+      "root": "s-m-y; ʿ-l-y"
+    },
+    "ሰማይ_ይነዘር": {
+      "word": "ሰማይ_ይነዘር",
+      "definition": "west",
+      "part_of_speech": "noun",
+      "transliteration": "Samay Yənäzär",
+      "root": "s-m-y; n-z-r"
+    },
+    "ጸደና": {
+      "word": "ጸደና",
+      "definition": "north",
+      "part_of_speech": "noun",
+      "transliteration": "Ṣädäna",
+      "root": "ṣ-d-n"
+    },
+    "ደቡብ": {
+      "word": "ደቡብ",
+      "definition": "south",
+      "part_of_speech": "noun",
+      "transliteration": "Däbub",
+      "root": "d-b-b"
+    }
+  },
+  "root_index": {
+    "z": [
+      "ዘ"
+    ],
+    "w": [
+      "ወ"
+    ],
+    "l": [
+      "ሎ",
+      "ለ"
+    ],
+    "y": [
+      "ይ"
+    ],
+    "ʾ-l-k": [
+      "አምላክ"
+    ],
+    "g-z-y": [
+      "እግዚአብሔር"
+    ],
+    "y-s-ʿ": [
+      "ኢየሱስ"
+    ],
+    "k-r-s": [
+      "ክርስቶስ"
+    ],
+    "n-f-s": [
+      "መንፈስ_ቅዱስ",
+      "ነፍስ"
+    ],
+    "q-d-s": [
+      "መንፈስ_ቅዱስ",
+      "ቅዱስ"
+    ],
+    "m-r-y": [
+      "ማርያም"
+    ],
+    "g-t-y": [
+      "ጌታ"
+    ],
+    "ʾ-b": [
+      "አብ"
+    ],
+    "w-l-d": [
+      "ወልድ",
+      "ወለድ"
+    ],
+    "ṣ-l-y": [
+      "ጸሎት",
+      "ጸለየ"
+    ],
+    "s-b-ʾ": [
+      "ሰብእ"
+    ],
+    "ʾ-n-s": [
+      "አንስት"
+    ],
+    "b-y-t": [
+      "ቤተ"
+    ],
+    "n-g-ś": [
+      "መንግሥት",
+      "ንጉሥ"
+    ],
+    "s-g-w": [
+      "ስጋ"
+    ],
+    "d-m-m": [
+      "ደም"
+    ],
+    "l-b-b": [
+      "ልብ"
+    ],
+    "ʾ-m-r": [
+      "አእምሮ"
+    ],
+    "f-n-y": [
+      "ፍኖተ"
+    ],
+    "b-r-h-n": [
+      "ብርሃን"
+    ],
+    "ṣ-l-m": [
+      "ጸለመት"
+    ],
+    "s-m-y": [
+      "ሰማይ",
+      "ሰማይ_መልዓ",
+      "ሰማይ_ይነዘር"
+    ],
+    "m-d-r": [
+      "ምድር"
+    ],
+    "w-h-y": [
+      "ውሃ"
+    ],
+    "ʾ-s-y": [
+      "እሳት"
+    ],
+    "z-f-f": [
+      "ዛፍ"
+    ],
+    "b-r-r": [
+      "ብር",
+      "ብሩር"
+    ],
+    "w-r-q": [
+      "ወርቅ"
+    ],
+    "b-l-y": [
+      "በለ"
+    ],
+    "n-b-r": [
+      "ነበረ"
+    ],
+    "w-r-d": [
+      "ወረደ"
+    ],
+    "ʿ-l-y": [
+      "ዐለ",
+      "ሰማይ_መልዓ"
+    ],
+    "m-w-t": [
+      "ሞተ",
+      "ሞት"
+    ],
+    "n-w-r": [
+      "ኖረ"
+    ],
+    "ḥ-y-y": [
+      "ሐየ"
+    ],
+    "s-m-ʿ": [
+      "ሰምዐ"
+    ],
+    "ʾ-g-z": [
+      "አግዐዘ"
+    ],
+    "q-w-m": [
+      "ቆመ"
+    ],
+    "ʾ-m-n": [
+      "አመነ"
+    ],
+    "f-r-y": [
+      "ፈረየ"
+    ],
+    "ḥ-k-y": [
+      "ሐከየ"
+    ],
+    "b-z-y": [
+      "በዘወ"
+    ],
+    "q-b-l": [
+      "ተቀበለ"
+    ],
+    "s-d-d": [
+      "ሰደደ"
+    ],
+    "w-ṭ-n": [
+      "ወጠነ"
+    ],
+    "ṣ-d-q": [
+      "ጻድቅ"
+    ],
+    "ḫ-r-y": [
+      "ኅሩይ"
+    ],
+    "ḥ-s-y": [
+      "ሐሳየ"
+    ],
+    "b-z-ḫ": [
+      "ብዙኅ"
+    ],
+    "t-n-š": [
+      "ትንሹ"
+    ],
+    "ʿ-b-y": [
+      "ዓቢይ"
+    ],
+    "r-q-q": [
+      "ረቂቅ"
+    ],
+    "ṭ-b-b": [
+      "ጥብጥበ",
+      "ጥበብ",
+      "ጠቢብ"
+    ],
+    "ṣ-b-ḥ": [
+      "ጽቡሕ"
+    ],
+    "m": [
+      "እም"
+    ],
+    "k-m": [
+      "ከመ"
+    ],
+    "b": [
+      "በ"
+    ],
+    "q-d-m": [
+      "ቅድመ"
+    ],
+    "d-ḫ-r": [
+      "ድኅረ"
+    ],
+    "l-ʿ-l": [
+      "ላዕለ"
+    ],
+    "t-ḥ-t": [
+      "ትሕቴ"
+    ],
+    "ʾ-ḥ-d": [
+      "አሐዱ"
+    ],
+    "k-l-ʾ": [
+      "ክልኤ"
+    ],
+    "ś-l-s": [
+      "ሣልስ",
+      "ሥላሴ"
+    ],
+    "ʾ-r-b-ʿ": [
+      "አርባዕ"
+    ],
+    "ḫ-m-s": [
+      "ኀምስ"
+    ],
+    "ṣ-ḥ-f": [
+      "መጽሐፍ"
+    ],
+    "m-h-r": [
+      "ትምህርት"
+    ],
+    "b-ʿ-l": [
+      "በዓል"
+    ],
+    "ṣ-w-m": [
+      "ጾም"
+    ],
+    "ś-ʿ-l": [
+      "መስዓል"
+    ],
+    "n-ś-ʾ": [
+      "ትንሣኤ"
+    ],
+    "n-g-l": [
+      "ወንጌል"
+    ],
+    "w-r-ḫ": [
+      "ወርኅ"
+    ],
+    "ʿ-m-t": [
+      "ዓመት"
+    ],
+    "ʾ-h-d": [
+      "እሑድ"
+    ],
+    "s-b-t": [
+      "ሰንበተ"
+    ],
+    "f-q-r": [
+      "ፍቅር"
+    ],
+    "h-m-n": [
+      "ሃይማኖት"
+    ],
+    "ʿ-w-z": [
+      "ትዕዛዝ"
+    ],
+    "ḫ-ṭ-ʾ": [
+      "ኀጢአት"
+    ],
+    "ś-r-ʿ": [
+      "ሥርዓት"
+    ],
+    "ḥ-y-w": [
+      "ሕይወት"
+    ],
+    "ḫ-d-q": [
+      "ኅድገት"
+    ],
+    "p-ṭ-r": [
+      "ጴጥሮስ"
+    ],
+    "p-w-l": [
+      "ጳውሎስ"
+    ],
+    "y-ḥ-n": [
+      "ዮሐንስ"
+    ],
+    "m-t-w": [
+      "ማቴዎስ"
+    ],
+    "m-r-q": [
+      "ማርቆስ"
+    ],
+    "l-q-s": [
+      "ሉቃስ"
+    ],
+    "ḥ-w-r": [
+      "ሐዋርያ",
+      "ሐወረ"
+    ],
+    "r-ʾ-s": [
+      "ራስ"
+    ],
+    "ʾ-n-g": [
+      "አንገት"
+    ],
+    "ʾ-ǧ": [
+      "እጅ"
+    ],
+    "ʾ-g-r": [
+      "እግር"
+    ],
+    "ʿ-y-n": [
+      "ዓይን"
+    ],
+    "ʾ-z-n": [
+      "እዝኒ"
+    ],
+    "ʾ-f": [
+      "አፍ"
+    ],
+    "ʾ-s-t": [
+      "እስት"
+    ],
+    "d-b-r": [
+      "ደብር"
+    ],
+    "h-y-q": [
+      "ሀይቅ"
+    ],
+    "w-ʾ-b": [
+      "ወአብ"
+    ],
+    "ḥ-m-d": [
+      "ሐመድ"
+    ],
+    "ʾ-y-r": [
+      "አየር"
+    ],
+    "z-n-m": [
+      "ዝናም"
+    ],
+    "l-m": [
+      "ላም"
+    ],
+    "k-b-t": [
+      "ከብት"
+    ],
+    "b-g-ʿ": [
+      "በግዕ"
+    ],
+    "f-d-l": [
+      "ፍድል"
+    ],
+    "ʾ-n-b-s": [
+      "አነብስ"
+    ],
+    "ʾ-w-r": [
+      "አውራሪስ"
+    ],
+    "ḫ-b-s": [
+      "ኅብስተ"
+    ],
+    "w-y-n": [
+      "ወይን"
+    ],
+    "l-ʾ": [
+      "ተለአለ"
+    ],
+    "m-h-y": [
+      "ማህያ"
+    ],
+    "ʿ-ḍ": [
+      "ዕፅ"
+    ],
+    "ʾ-b-n": [
+      "አብን"
+    ],
+    "n-s": [
+      "ናስ"
+    ],
+    "q-y-r": [
+      "ቀይር"
+    ],
+    "ṣ-ʿ-d": [
+      "ጻዕዳ"
+    ],
+    "k-r-m": [
+      "ክሩም"
+    ],
+    "s-b-l": [
+      "ሳበላ"
+    ],
+    "ḥ-y-d": [
+      "ሐየደ"
+    ],
+    "ḥ-r-m": [
+      "ሐረመ"
+    ],
+    "n-f-w": [
+      "ነፈወ"
+    ],
+    "ḥ-m-m": [
+      "ሐመ"
+    ],
+    "ś-w-m": [
+      "ሥዩመ"
+    ],
+    "ʾ-r-d": [
+      "አርድእት"
+    ],
+    "s-r-w": [
+      "ሰራዊት"
+    ],
+    "m-k-n": [
+      "መካን"
+    ],
+    "s-ʿ-t": [
+      "ሰዓት"
+    ],
+    "g-d-t": [
+      "ጎዳት"
+    ],
+    "ś-r-k": [
+      "ሠርክ"
+    ],
+    "l-l-t": [
+      "ሌሊት"
+    ],
+    "ṭ-q-y": [
+      "ጥቀ"
+    ],
+    "r-ʿ-q": [
+      "ሩዓቅ"
+    ],
+    "m-l-ʾ": [
+      "መልአ"
+    ],
+    "r-b-ḥ": [
+      "ረባሕ"
+    ],
+    "ṭ-ʿ-r": [
+      "ጣዕረ"
+    ],
+    "m-r-ḥ": [
+      "መርሐ"
+    ],
+    "ṭ-n-y": [
+      "ጣኒ"
+    ],
+    "s-ʿ-b": [
+      "ሳዕበ"
+    ],
+    "n-z-r": [
+      "ሰማይ_ይነዘር"
+    ],
+    "ṣ-d-n": [
+      "ጸደና"
+    ],
+    "d-b-b": [
+      "ደቡብ"
+    ]
+  }
+}

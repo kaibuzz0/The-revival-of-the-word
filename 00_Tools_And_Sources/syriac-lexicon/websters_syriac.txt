@@ -1,0 +1,1375 @@
+======================================================================
+SYRIAC LEXICON
+Syriac-English Dictionary (Peshitta)
+======================================================================
+
+About Syriac:
+  - Dialect of Aramaic (Eastern Aramaic)
+  - Language of the Peshitta (Syriac Bible)
+  - Classical period: 200-700 CE
+  - Three scripts: Estrangela, Serto (West), East Syriac (Nestorian)
+  - Written right to left like Hebrew and Arabic
+
+Pronunciation Guide:
+  ܐ = ʾ (glottal stop or silent)
+  ܒ = b (soft) or ḇ (hard/v, when marked with hard dot)
+  ܓ = g (soft) or ḡ (hard/gh, when marked)
+  ܕ = d (soft) or ḏ (hard/dh, when marked)
+  ܚ = ḥ (voiceless pharyngeal, like Arabic ح)
+  ܛ = ṭ (emphatic t)
+  ܥ = ʿ (voiced pharyngeal, like Arabic ع)
+  ܨ = ṣ (emphatic s)
+  ܩ = q (emphatic k)
+  ܪ = r (rolled)
+  ܫ = š (sh)
+  ܬ = t (soft) or ṯ (hard/th, when marked)
+
+----------------------------------------------------------------------
+
+
+ܐܒܐ  (ʾabbâʾ)  [noun]
+    father
+    Root: ʾ-b
+
+
+ܐܕܢܐ  (ʾaḏnâʾ)  [noun]
+    ear
+    Root: ʾ-ḏ-n
+
+
+ܐܘ  (ʾô)  [conjunction]
+    or
+    Root: ʾ-w
+
+
+ܐܘܡܬܐ  (ʾûmmaṯâʾ)  [noun]
+    nation, people
+    Root: ʾ-w-m-m
+
+
+ܐܘܢܓܠܝܘܢ  (ʾewangeliyôn)  [noun]
+    gospel
+    Root: Greek: εὐαγγέλιον
+
+
+ܐܘܪܚܐ  (ʾûrḥâʾ)  [noun]
+    way, path, road
+    Root: ʾ-r-ḥ
+
+
+ܐܙܠ  (ʾǝzal)  [verb]
+    to go
+    Root: ʾ-z-l
+
+
+ܐܚܕ  (ʾǝḥaḏ)  [verb]
+    to take, seize
+    Root: ʾ-ḥ-ḏ
+
+
+ܐܝܕܐ  (ʾîḏâʾ)  [noun]
+    hand
+    Root: y-d
+
+
+ܐܝܕܝܐ  (ʾîḏayyâʾ)  [noun]
+    hand (feminine)
+    Root: y-d
+
+
+ܐܝܠܝܢ  (ʾîlân)  [noun]
+    tree, wood
+    Root: ʾ-y-l
+
+
+ܐܠܐ  (ʾellâʾ)  [conjunction]
+    but, except
+    Root: ʾ-l
+
+
+ܐܠܗܐ  (ʾalâhâʾ)  [noun]
+    God
+    Root: ʾ-l-h
+    Note: The standard word for God in Syriac
+
+
+ܐܡܪ  (ʾemar)  [verb]
+    to say
+    Root: ʾ-m-r
+
+
+ܐܢ  (ʾen)  [conjunction]
+    if
+    Root: ʾ-n
+
+
+ܐܢܐ  (ʾanâ)  [personal pronoun]
+    I
+    Root: ʾ-n
+
+
+ܐܢܬ  (ʾant)  [personal pronoun]
+    you (masculine singular)
+    Root: ʾ-n-t
+
+
+ܐܢܬܝ  (ʾantî)  [personal pronoun]
+    you (feminine singular)
+    Root: ʾ-n-t
+
+
+ܐܢܬܬܐ  (ʾantattâʾ)  [noun]
+    woman
+    Root: ʾ-n-š
+
+
+ܐܦܐ  (ʾâpâʾ)  [noun]
+    dust, ashes
+    Root: ʾ-p
+
+
+ܐܨܒܥܐ  (ʾeṣbaʿâʾ)  [noun]
+    finger, toe
+    Root: ʾ-ṣ-b-ʿ
+
+
+ܐܪܒܥܐ  (ʾarbaʿâʾ)  [numeral]
+    four
+    Root: ʾ-r-b-ʿ
+
+
+ܐܪܥܐ  (ʾarʿâʾ)  [noun]
+    earth, land, ground
+    Root: ʾ-r-ʿ
+
+
+ܐܬܐ  (ʾǝṯâʾ)  [verb]
+    to come
+    Root: ʾ-ṯ-ʾ
+
+
+ܒ  (b-)  [preposition]
+    in, with, by
+    Root: b
+
+
+ܒܐܪܐ  (beʾârâʾ)  [noun]
+    well
+    Root: b-ʾ-r
+
+
+ܒܘܕܩܐ  (bûḏâqâʾ)  [noun]
+    examination, trial
+    Root: b-d-q
+
+
+ܒܘܣܝܢܐ  (bûsâynnâʾ)  [noun]
+    comfort, encouragement
+    Root: b-w-s
+
+
+ܒܝܢ  (bayn)  [preposition]
+    between
+    Root: b-y-n
+
+
+ܒܝܫܐ  (bîšâʾ)  [adjective]
+    bad, evil
+    Root: b-y-š
+
+
+ܒܝܬܐ  (baytâʾ)  [noun]
+    house
+    Root: b-y-t
+
+
+ܒܢܐ  (bǝnâʾ)  [verb]
+    to build
+    Root: b-n-ʾ
+
+
+ܒܣܪܐ  (besrâʾ)  [noun]
+    flesh
+    Root: b-s-r
+
+
+ܒܥܘܬܐ  (baʿûṯâʾ)  [noun]
+    request, petition
+    Root: b-ʿ-ʾ
+
+
+ܒܨܝܪܐ  (baṣîrâʾ)  [adjective]
+    less, few
+    Root: b-ṣ-r
+
+
+ܒܪܐ  (brâʾ)  [noun]
+    son
+    Root: b-r
+
+
+ܒܪܢܫܐ  (brĕnāšâʾ)  [noun]
+    human being, person
+    Root: b-r; n-ʾ-š
+    Note: Literally 'son of man'
+
+
+ܒܪܩܐ  (barqâʾ)  [noun]
+    lightning
+    Root: b-r-q
+
+
+ܒܬܐ  (baytâʾ)  [noun]
+    house, home
+    Root: b-y-t
+
+
+ܒܬܪ  (baṯaṛ)  [preposition]
+    after, behind
+    Root: b-ṯ-ṛ
+
+
+ܓܒܥܐ  (gaḇʿâʾ)  [noun]
+    hill
+    Root: g-ḇ-ʿ
+
+
+ܓܒܪܐ  (gaḇrâʾ)  [noun]
+    man, male
+    Root: g-b-r
+
+
+ܓܒܪܘܬܐ  (gaḇrûṯâʾ)  [noun]
+    manliness, virtue
+    Root: g-b-r
+
+
+ܓܘܐ  (gawwâʾ)  [noun]
+    belly, inside
+    Root: g-w
+
+
+ܓܘܕܐ  (gûḏâʾ)  [noun]
+    skin
+    Root: g-w-ḏ
+
+
+ܓܘܕܬܐ  (gûḏaṯâʾ)  [noun]
+    leather
+    Root: g-w-ḏ
+
+
+ܓܠܐ  (gǝlâʾ)  [verb]
+    to reveal, uncover
+    Root: g-l-ʾ
+
+
+ܓܪܡܐ  (gaṛmâʾ)  [noun]
+    bone
+    Root: g-ṛ-m
+
+
+ܓܫܡܐ  (gešmâʾ)  [noun]
+    rain, shower
+    Root: g-š-m
+
+
+ܕ  (ḏ-)  [conjunction]
+    that, because, which
+    Root: ḏ
+
+
+ܕܝܪܐ  (dayrâʾ)  [noun]
+    monastery
+    Root: d-y-r
+
+
+ܕܝܪܝܐ  (dayrâyâʾ)  [noun]
+    monk
+    Root: d-y-r
+
+
+ܕܡܐ  (ḏemâʾ)  [noun]
+    blood
+    Root: ḏ-m-ʾ
+
+
+ܕܡܟ  (dǝmak)  [verb]
+    to sleep
+    Root: d-m-k
+
+
+ܕܡܥܐ  (deʿâʾ)  [noun]
+    tear
+    Root: d-ʿ
+
+
+ܕܪܐ  (ḏar)  [noun]
+    dwelling, abode
+    Root: ḏ-r
+
+
+ܕܪܘܢܐ  (deṛônâʾ)  [noun]
+    gift, offering
+    Root: d-r-n
+
+
+ܕܪܬܐ  (dârǝṯâʾ)  [noun]
+    dwelling, abode
+    Root: d-r
+
+
+ܗܕܐ  (hâḏêʾ)  [demonstrative]
+    this (feminine)
+    Root: h-ḏ-ʾ
+
+
+ܗܘ  (hû)  [demonstrative pronoun]
+    he, that (masculine)
+    Root: h-w
+
+
+ܗܘܐ  (hǝwâʾ)  [verb]
+    to be, become
+    Root: h-w-ʾ
+
+
+ܗܝ  (hî)  [demonstrative pronoun]
+    she, that (feminine)
+    Root: h-y
+
+
+ܗܝܡܢܘܬܐ  (haymânûṯâʾ)  [noun]
+    faith, belief
+    Root: h-m-n
+
+
+ܗܟܢܐ  (hāḵǝnâʾ)  [adverb/conjunction]
+    thus, so
+    Root: h-k-n
+
+
+ܗܢܐ  (hânêʾ)  [demonstrative]
+    this (masculine)
+    Root: h-n-ʾ
+
+
+ܗܢܘܢ  (hennûn)  [demonstrative pronoun]
+    they (masculine)
+    Root: h-n
+
+
+ܗܢܝܢ  (hennên)  [demonstrative pronoun]
+    they (feminine)
+    Root: h-n
+
+
+ܗܦܟ  (hǝpǝḵ)  [verb]
+    to turn, convert
+    Root: h-p-ḵ
+
+
+ܘ  (w-)  [conjunction]
+    and
+    Root: w
+
+
+ܙܕܝܩܘܬܐ  (zǝdîqûṯâʾ)  [noun]
+    righteousness, justice
+    Root: z-d-q
+
+
+ܙܥܘܪܐ  (zʿûrâʾ)  [adjective]
+    small, little
+    Root: z-ʿ-w-r
+
+
+ܚܒ  (ḥaḇ)  [verb]
+    to love
+    Root: ḥ-b
+
+
+ܚܓܪܐ  (ḥaḡrâʾ)  [noun]
+    girdle, belt
+    Root: ḥ-ḡ-r
+
+
+ܚܕ  (ḥaḏ)  [numeral]
+    one (masculine)
+    Root: ḥ-d
+
+
+ܚܕܐ  (ḥaḏâʾ)  [numeral]
+    one (feminine)
+    Root: ḥ-d
+
+
+ܚܕܘܬܐ  (ḥeḏwâṯâʾ)  [noun]
+    joy, gladness
+    Root: ḥ-ḏ-ʾ
+
+
+ܚܕܝܐ  (ḥaḏyâʾ)  [noun]
+    breast, chest
+    Root: ḥ-ḏ-y
+
+
+ܚܕܬܐ  (ḥǝḏattâʾ)  [adjective]
+    new
+    Root: ḥ-ḏ-ṯ
+
+
+ܚܘܒܐ  (ḥûḇâʾ)  [noun]
+    love
+    Root: ḥ-w-b
+
+
+ܚܘܪܐ  (ḥûrâʾ)  [adjective]
+    white
+    Root: ḥ-w-r
+
+
+ܚܙܐ  (ḥǝzâʾ)  [verb]
+    to see
+    Root: ḥ-z-ʾ
+
+
+ܚܛܝܬܐ  (ḥaṭṭâytâʾ)  [noun]
+    sin
+    Root: ḥ-ṭ-ʾ
+
+
+ܚܝ  (ḥay)  [verb]
+    to live
+    Root: ḥ-y-y
+
+
+ܚܝܠܐ  (ḥaylâʾ)  [noun]
+    strength, power, army
+    Root: ḥ-y-l
+
+
+ܚܟܡܬܐ  (ḥokmǝṯâʾ)  [noun]
+    wisdom
+    Root: ḥ-k-m
+
+
+ܚܠܐ  (ḥelâʾ)  [noun]
+    sand
+    Root: ḥ-l
+
+
+ܚܠܝܐ  (ḥaḷyâʾ)  [noun]
+    thigh, loin
+    Root: ḥ-ḷ-y
+
+
+ܚܠܝܛܐ  (ḥalîṭâʾ)  [adjective]
+    smooth
+    Root: ḥ-l-ṭ
+
+
+ܚܡܝܠܐ  (ḥǝmîlâʾ)  [noun]
+    cloak
+    Root: ḥ-m-l
+
+
+ܚܡܫܐ  (ḥammǝšâʾ)  [numeral]
+    five
+    Root: ḥ-m-š
+
+
+ܚܢܢ  (ḥnan)  [personal pronoun]
+    we
+    Root: ḥ-n-n
+
+
+ܚܫܒ  (ḥǝšaḇ)  [verb]
+    to think, account
+    Root: ḥ-š-ḇ
+
+
+ܚܫܘܟܐ  (ḥeškâʾ)  [noun]
+    darkness
+    Root: ḥ-š-k
+
+
+ܛܒܐ  (ṭaḇâʾ)  [adjective]
+    good
+    Root: ṭ-ḇ
+
+
+ܛܘܪܐ  (ṭûrâʾ)  [noun]
+    mountain
+    Root: ṭ-w-r
+
+
+ܛܝܢܐ  (ṭaynâʾ)  [noun]
+    mud, clay
+    Root: ṭ-y-n
+
+
+ܛܠܝܐ  (ṭalyâʾ)  [noun]
+    boy, child
+    Root: ṭ-l-y
+
+
+ܝܕܥ  (yǝdaʿ)  [verb]
+    to know
+    Root: y-d-ʿ
+
+
+ܝܗܒ  (yǝhaḇ)  [verb]
+    to give
+    Root: y-h-ḇ
+
+
+ܝܘܚܢܢ  (Yôḥannân)  [proper noun]
+    John
+    Root: y-ḥ-n-n
+
+
+ܝܘܡܐ  (yômâʾ)  [noun]
+    day
+    Root: y-w-m
+
+
+ܝܘܩܪܐ  (yûqraʾ)  [adjective]
+    green
+    Root: y-w-q-r
+
+
+ܝܡܐ  (yammâʾ)  [noun]
+    sea, lake
+    Root: y-m
+
+
+ܝܩܕ  (yǝqaḏ)  [verb]
+    to burn
+    Root: y-q-ḏ
+
+
+ܝܪܚܐ  (yarḥâʾ)  [noun]
+    month
+    Root: y-r-ḥ
+
+
+ܝܫܘܥ  (yešûʿ)  [proper noun]
+    Jesus
+    Root: y-š-ʿ
+    Note: Jesus' name in Syriac
+
+
+ܝܬܒ  (yǝṯeḇ)  [verb]
+    to sit, dwell
+    Root: y-ṯ-ḇ
+
+
+ܝܬܝܪܐ  (yaṯîrâʾ)  [adjective]
+    more, abundant
+    Root: y-ṯ-r
+
+
+ܟܐܢܐ  (kǝʾennâʾ)  [adjective]
+    just, righteous
+    Root: k-ʾ-n
+
+
+ܟܐܦܐ  (kêp̄âʾ)  [noun]
+    stone
+    Root: k-ʾ-p
+
+
+ܟܗܢܐ  (kahnâʾ)  [noun]
+    priest
+    Root: k-h-n
+
+
+ܟܘܟܒܐ  (kôḵeḇâʾ)  [noun]
+    star
+    Root: k-w-ḵ-ḇ
+
+
+ܟܘܡܬܐ  (kûmǝṯâʾ)  [adjective]
+    black
+    Root: k-w-m
+
+
+ܟܘܪܣܝܐ  (kûrsayâʾ)  [noun]
+    throne, chair
+    Root: k-w-r-s-y
+
+
+ܟܘܬܝܢܐ  (kûtînâʾ)  [noun]
+    robe, tunic
+    Root: k-w-t-n
+
+
+ܟܠ  (koll)  [adjective]
+    all, every
+    Root: k-l
+
+
+ܟܢܫܐ  (kǝnešâʾ)  [noun]
+    assembly, gathering
+    Root: k-n-š
+
+
+ܟܣܐ  (kǝsâʾ)  [verb]
+    to cover, hide
+    Root: k-s-ʾ
+
+
+ܟܬܒ  (kǝṯaḇ)  [verb]
+    to write
+    Root: k-ṯ-ḇ
+
+
+ܟܬܦܐ  (kaṯpâʾ)  [noun]
+    shoulder
+    Root: k-ṯ-p
+
+
+ܠ  (l-)  [preposition]
+    to, for, of
+    Root: l
+
+
+ܠܐ  (lâʾ)  [negative particle]
+    no, not
+    Root: l-ʾ
+
+
+ܠܒܐ  (lḇâʾ)  [noun]
+    heart
+    Root: l-b
+
+
+ܠܒܫ  (lǝḇaš)  [verb]
+    to clothe, put on
+    Root: l-ḇ-š
+
+
+ܠܘܬ  (lûaṯ)  [preposition]
+    with, near
+    Root: l-w-ṯ
+
+
+ܠܚܡ  (lǝḥem)  [verb]
+    to eat
+    Root: l-ḥ-m
+
+
+ܠܝܠܝܐ  (lelyâʾ)  [noun]
+    night
+    Root: l-l-y
+
+
+ܠܠܝܐ  (lelyâʾ)  [noun]
+    night
+    Root: l-l-y
+
+
+ܠܫܢܐ  (leššannâʾ)  [noun]
+    language, tongue
+    Root: l-š-n
+
+
+ܡܐ  (mâ)  [interrogative pronoun]
+    what
+    Root: m-ʾ
+
+
+ܡܐܢܐ  (maʾnâʾ)  [noun]
+    garment, vessel
+    Root: m-ʾ-n
+
+
+ܡܕܒܚܐ  (maḏbaḥâʾ)  [noun]
+    altar
+    Root: ḏ-b-ḥ
+
+
+ܡܕܝܢܬܐ  (maḏînǝṯâʾ)  [noun]
+    city
+    Root: ḏ-y-n
+
+
+ܡܕܥܐ  (maḏʿâʾ)  [noun]
+    knowledge, mind
+    Root: y-d-ʿ
+
+
+ܡܘܕܥܢܘܬܐ  (môḏaʿanûṯâʾ)  [noun]
+    thanksgiving, confession
+    Root: y-d-ʿ
+
+
+ܡܘܚܐ  (mûḥâʾ)  [noun]
+    marrow, brain
+    Root: m-w-ḥ
+
+
+ܡܘܠܕܐ  (mawleḏâʾ)  [noun]
+    birth, generation
+    Root: m-w-l-ḏ
+
+
+ܡܛܐ  (maṭṭâʾ)  [verb]
+    to arrive, reach
+    Root: m-ṭ-ʾ
+
+
+ܡܛܠ  (maṭṭǝl)  [conjunction/preposition]
+    because, on account of
+    Root: m-ṭ-l
+
+
+ܡܛܪܐ  (maṭṭârâʾ)  [noun]
+    rain
+    Root: m-ṭ-r
+
+
+ܡܝܐ  (mayyâʾ)  [noun]
+    water
+    Root: m-y
+
+
+ܡܝܬ  (mîṯ)  [verb]
+    to die
+    Root: m-w-ṯ
+
+
+ܡܟܒܠܐ  (makleḇlâʾ)  [noun]
+    chain, fetter
+    Root: k-l-ḇ
+
+
+ܡܠܐ  (mallâʾ)  [verb]
+    to fill, be full
+    Root: m-l-ʾ
+
+
+ܡܠܝܐ  (mallâʾ)  [adjective]
+    full
+    Root: m-l-ʾ
+
+
+ܡܠܟܐ  (malkâʾ)  [noun]
+    king
+    Root: m-l-k
+
+
+ܡܠܟܘܬܐ  (malkûṯâʾ)  [noun]
+    kingdom
+    Root: m-l-k
+
+
+ܡܠܠܐ  (mellâʾ)  [noun]
+    word, speech
+    Root: m-l-l
+
+
+ܡܠܦܢܘܬܐ  (mallp̄anûṯâʾ)  [noun]
+    teaching, doctrine
+    Root: m-l-p̄
+
+
+ܡܢ  (men)  [preposition]
+    from, out of
+    Root: m-n
+
+
+ܡܢܝܠܐ  (manyâlâʾ)  [noun]
+    sandal
+    Root: m-n-y-l
+
+
+ܡܥܝܢܐ  (maʿyannâʾ)  [noun]
+    spring, fountain
+    Root: m-ʿ-y-n
+
+
+ܡܪܝܐ  (mâryâʾ)  [proper noun]
+    the Lord
+    Root: m-r-ʾ
+    Note: Used for YHWH in Peshitta
+
+
+ܡܪܝܡ  (Maryam)  [proper noun]
+    Mary
+    Root: m-r-y
+
+
+ܡܪܢ  (mâran)  [proper noun]
+    our Lord
+    Root: m-r
+    Note: Common liturgical term
+
+
+ܡܫܝܚܐ  (mešîḥâʾ)  [proper noun]
+    Christ, the Anointed
+    Root: m-š-ḥ
+    Note: Messiah/Christ
+
+
+ܢܒܝܐ  (neḇyâʾ)  [noun]
+    prophet
+    Root: n-b-ʾ
+
+
+ܢܗܪܐ  (nahraʾ)  [noun]
+    river
+    Root: n-h-r
+
+
+ܢܘܗܪܐ  (nûhrâʾ)  [noun]
+    light
+    Root: n-w-h-r
+
+
+ܢܘܪܐ  (nûrâʾ)  [noun]
+    fire
+    Root: n-w-r
+
+
+ܢܚܫܐ  (neḥāšâʾ)  [noun]
+    copper, bronze
+    Root: n-ḥ-š
+
+
+ܢܚܬ  (nǝḥeṯ)  [verb]
+    to go down, descend
+    Root: n-ḥ-ṯ
+
+
+ܢܣܒ  (nǝsaḇ)  [verb]
+    to take, receive
+    Root: n-s-ḇ
+
+
+ܢܦܠ  (nǝp̄al)  [verb]
+    to fall
+    Root: n-p̄-l
+
+
+ܢܦܫܐ  (nap̄šâʾ)  [noun]
+    soul, self, life
+    Root: n-p-š
+
+
+ܣܐܡܐ  (sâʾmâʾ)  [noun]
+    fastener, nail
+    Root: s-ʾ-m
+
+
+ܣܒܪܐ  (seḇrâʾ)  [noun]
+    hope
+    Root: s-b-r
+
+
+ܣܗܪܐ  (sāhrâʾ)  [noun]
+    moon
+    Root: s-h-r
+
+
+ܣܘܕܪܐ  (sûḏarâʾ)  [noun]
+    turban, head covering
+    Root: s-ḏ-r
+
+
+ܣܘܡܩܐ  (sûmâqâʾ)  [adjective]
+    red
+    Root: s-w-m-q
+
+
+ܣܘܥܪܐ  (sûʿarâʾ)  [noun]
+    grace
+    Root: s-w-ʿ-r
+
+
+ܣܝܡ  (sîm)  [verb]
+    to place, put
+    Root: s-y-m
+
+
+ܣܟܪ  (sǝkar)  [verb]
+    to close
+    Root: s-k-r
+
+
+ܣܠܩ  (sǝlaq)  [verb]
+    to go up, ascend
+    Root: s-l-q
+
+
+ܣܦܝܩܐ  (sefîqâʾ)  [adjective]
+    empty
+    Root: s-f-q
+
+
+ܣܬܘܐ  (sǝtawâʾ)  [noun]
+    winter
+    Root: s-t-w
+
+
+ܥܒܕ  (ʿǝḇaḏ)  [verb]
+    to do, make, work
+    Root: ʿ-ḇ-ḏ
+
+
+ܥܕܢܐ  (ʿeḏannâʾ)  [noun]
+    time, season
+    Root: ʿ-ḏ-n
+
+
+ܥܘܕܪܢܐ  (ʿûdrānâʾ)  [noun]
+    salvation
+    Root: ʿ-w-d-r
+
+
+ܥܘܠܐ  (ʿawlâʾ)  [noun]
+    iniquity, wrong
+    Root: ʿ-w-l
+
+
+ܥܘܩܒܐ  (ʿûqbeḇâʾ)  [noun]
+    heel
+    Root: ʿ-q-ḇ
+
+
+ܥܝܢܐ  (ʿaynâʾ)  [noun]
+    eye
+    Root: ʿ-y-n
+
+
+ܥܠ  (ʿal)  [preposition]
+    upon, over, concerning
+    Root: ʿ-l
+
+
+ܥܡ  (ʿam)  [preposition]
+    with
+    Root: ʿ-m
+
+
+ܥܡܡܐ  (ʿammâmâʾ)  [noun]
+    people, nation
+    Root: ʿ-m-m
+
+
+ܥܢܢܐ  (ʿannânâʾ)  [noun]
+    cloud
+    Root: ʿ-n-n
+
+
+ܥܣܪ  (ʿǝsar)  [verb]
+    to bind
+    Root: ʿ-s-r
+
+
+ܥܪܩ  (ʿǝraq)  [verb]
+    to flee
+    Root: ʿ-r-q
+
+
+ܥܬܝܩܐ  (ʿattîqâʾ)  [adjective]
+    old, ancient
+    Root: ʿ-ṯ-y-q
+
+
+ܦܓܪܐ  (pagrâʾ)  [noun]
+    body
+    Root: p-g-r
+
+
+ܦܘܠܘܣ  (Pawlôs)  [proper noun]
+    Paul
+    Root: p-w-l
+
+
+ܦܘܡܐ  (pûmâʾ)  [noun]
+    mouth
+    Root: p-m
+
+
+ܦܘܩܕܢܐ  (pûqdaṇâʾ)  [noun]
+    command, order
+    Root: p-q-ḏ
+
+
+ܦܘܪܥܢܐ  (pûrʿānâʾ)  [noun]
+    reward, recompense
+    Root: p-ʿ-n
+
+
+ܦܛܝܠܐ  (pṭîlâʾ)  [noun]
+    thread, cord
+    Root: p-ṭ-l
+
+
+ܦܛܪܘܣ  (Peṭrôs)  [proper noun]
+    Peter
+    Root: p-ṭ-r
+
+
+ܦܢܐ  (pǝnâʾ)  [verb]
+    to turn
+    Root: p-n-ʾ
+
+
+ܦܩܥܬܐ  (pqaʿṯâʾ)  [noun]
+    valley
+    Root: p-q-ʿ
+
+
+ܦܪܓ  (pǝraḡ)  [verb]
+    to reward, recompense
+    Root: p-r-ḡ
+
+
+ܦܪܙܠܐ  (pǝrazzǝlâʾ)  [noun]
+    iron
+    Root: p-r-z-l
+
+
+ܦܬܓܡܐ  (paṯgâmâʾ)  [noun]
+    decree, word
+    Root: p-ṯ-g-m
+
+
+ܦܬܚ  (pǝtaḥ)  [verb]
+    to open
+    Root: p-ṯ-ḥ
+
+
+ܨܘܡܐ  (ṣômâʾ)  [noun]
+    fast, fasting
+    Root: ṣ-w-m
+
+
+ܨܚܘܐ  (ṣeḥwâʾ)  [adjective]
+    yellow
+    Root: ṣ-ḥ-w
+
+
+ܨܠܘܬܐ  (ṣelôṯâʾ)  [noun]
+    prayer
+    Root: ṣ-l-ʾ
+
+
+ܨܦܪܐ  (ṣeprâʾ)  [noun]
+    nail
+    Root: ṣ-p-r
+
+
+ܩܕܝܫܐ  (qǝḏîšâʾ)  [adjective]
+    holy
+    Root: q-d-š
+
+
+ܩܕܠܐ  (qeḏlâʾ)  [noun]
+    neck
+    Root: q-ḏ-l
+
+
+ܩܕܡ  (qǝḏem)  [noun]
+    morning
+    Root: q-ḏ-m
+
+
+ܩܗܠܐ  (qahhâlâʾ)  [noun]
+    assembly, congregation
+    Root: q-h-l
+
+
+ܩܘܕܫܐ  (qûḏšâʾ)  [noun]
+    holiness, sanctuary
+    Root: q-d-š
+
+
+ܩܘܡ  (qûm)  [verb]
+    to stand, rise
+    Root: q-w-m
+
+
+ܩܛܝܪܐ  (qaṭṭîrâʾ)  [noun]
+    smoke, vapor
+    Root: q-ṭ-r
+
+
+ܩܛܠ  (qǝṭal)  [verb]
+    to kill
+    Root: q-ṭ-l
+
+
+ܩܝܛܐ  (qayṭâʾ)  [noun]
+    summer
+    Root: q-y-ṭ
+
+
+ܩܝܡܐ  (qîyâmâʾ)  [noun]
+    resurrection, standing
+    Root: q-w-m
+
+
+ܩܝܣܐ  (qîsâʾ)  [noun]
+    wood, beam
+    Root: q-y-s
+
+
+ܩܡ  (qam)  [verb]
+    to rise, stand
+    Root: q-w-m
+
+
+ܩܡܛܐ  (qammâṭâʾ)  [adjective]
+    rough
+    Root: q-m-ṭ
+
+
+ܩܨܬܐ  (qeṣṣâʾ)  [adjective]
+    hard, difficult
+    Root: q-ṣ-ʾ
+
+
+ܩܪܐ  (qǝrâʾ)  [verb]
+    to call, read
+    Root: q-r-ʾ
+
+
+ܩܪܝ  (qǝrê)  [verb]
+    to happen, befall
+    Root: q-r-y
+
+
+ܩܪܝܬܐ  (qaryâʾ)  [noun]
+    village
+    Root: q-r-y
+
+
+ܪܒܐ  (raḇâʾ)  [adjective]
+    great, large, old
+    Root: r-b
+
+
+ܪܓܠܐ  (raḡlâʾ)  [noun]
+    foot
+    Root: r-ḡ-l
+
+
+ܪܗܛ  (rǝhaṭ)  [verb]
+    to run
+    Root: r-h-ṭ
+
+
+ܪܘܙܐ  (râzâʾ)  [noun]
+    mystery, secret
+    Root: r-w-z
+
+
+ܪܘܚܐ  (rûḥâʾ)  [noun]
+    spirit, wind, breath
+    Root: r-w-ḥ
+
+
+ܪܘܚܐ ܕܩܘܕܫܐ  (rûḥâʾ d-qûḏšâʾ)  [proper noun]
+    Holy Spirit
+    Root: r-w-ḥ; q-d-š
+
+
+ܪܚܡ  (rǝḥem)  [verb]
+    to love, have mercy
+    Root: r-ḥ-m
+
+
+ܪܚܡܐ  (raḥmâʾ)  [noun]
+    mercy, compassion
+    Root: r-ḥ-m
+
+
+ܪܝܫܐ  (rîšâʾ)  [noun]
+    head, beginning
+    Root: r-ʾ-š
+
+
+ܪܟܝܟܐ  (raḵîḵâʾ)  [adjective]
+    soft, tender
+    Root: r-k-ḵ
+
+
+ܪܡܫܐ  (remešâʾ)  [noun]
+    evening
+    Root: r-m-š
+
+
+ܪܥܡܐ  (raʿmâʾ)  [noun]
+    thunder
+    Root: r-ʿ-m
+
+
+ܫܒܘܥܐ  (šaḇûʿâʾ)  [noun]
+    week
+    Root: š-b-ʿ
+
+
+ܫܕܪ  (šǝdaṛ)  [verb]
+    to send
+    Root: š-ḏ-ṛ
+
+
+ܫܘܠܛܢܐ  (šûlṭānâʾ)  [noun]
+    authority, power
+    Root: š-l-ṭ
+
+
+ܫܘܠܡܢܐ  (šûlêmânâʾ)  [noun]
+    peace, prosperity
+    Root: š-l-m
+
+
+ܫܘܩܐ  (šûqâʾ)  [noun]
+    street, market
+    Root: š-w-q
+
+
+ܫܟܒ  (šǝkaḇ)  [verb]
+    to lie down
+    Root: š-k-ḇ
+
+
+ܫܟܚ  (šǝkaḥ)  [verb]
+    to find
+    Root: š-k-ḥ
+
+
+ܫܠܝܚܐ  (šlîḥâʾ)  [noun]
+    apostle, sent one
+    Root: š-l-ḥ
+
+
+ܫܠܡ  (šǝlam)  [verb]
+    to be complete, finish
+    Root: š-l-m
+
+
+ܫܠܡܐ  (šelâmâʾ)  [noun]
+    peace, completion
+    Root: š-l-m
+
+
+ܫܡܝܐ  (šmayyâʾ)  [noun]
+    heaven, sky
+    Root: š-m-y
+
+
+ܫܡܥ  (šǝmaʿ)  [verb]
+    to hear
+    Root: š-m-ʿ
+
+
+ܫܡܫܐ  (šemšâʾ)  [noun]
+    sun
+    Root: š-m-š
+
+
+ܫܢܬܐ  (šattâʾ)  [noun]
+    year
+    Root: š-n-ṯ
+
+
+ܫܥܐ  (šâʿâʾ)  [noun]
+    hour, time
+    Root: š-ʿ-ʾ
+
+
+ܫܦܪ  (šǝpaṛ)  [verb]
+    to please, be beautiful
+    Root: š-p-ṛ
+
+
+ܫܪܐ  (šǝrâʾ)  [verb]
+    to loose, forgive
+    Root: š-r-ʾ
+
+
+ܫܪܝ  (šǝrê)  [verb]
+    to loose, begin
+    Root: š-r-y
+
+
+ܫܪܝܪܐ  (šǝrîrâʾ)  [adjective]
+    true, firm
+    Root: š-r-r
+
+
+ܫܬܐ  (šǝtâʾ)  [verb]
+    to drink
+    Root: š-t-ʾ
+
+
+ܬܘܕܝܬܐ  (tûḏîṯâʾ)  [noun]
+    thanksgiving, confession
+    Root: t-w-ḏ
+
+
+ܬܘܪܐ  (tûrâʾ)  [noun]
+    law
+    Root: t-w-r
+    Note: From Hebrew תּוֹרָה
+
+
+ܬܘܪܣܝܐ  (tûrsâyâʾ)  [noun]
+    will, pleasure
+    Root: t-r-s-y
+
+
+ܬܚܬ  (taḥt)  [preposition]
+    under, beneath
+    Root: t-ḥ-t
+
+
+ܬܝܒܘܬܐ  (tûyḇûṯâʾ)  [noun]
+    repentance
+    Root: t-w-ḇ
+
+
+ܬܠܬܐ  (tǝlāṯâʾ)  [numeral]
+    three
+    Root: t-l-ṯ
+
+
+ܬܢܝܢܐ  (tǝnayyânâʾ)  [noun]
+    law, custom
+    Root: t-n-ʾ
+
+
+ܬܩܢܐ  (tûqnâʾ)  [noun]
+    correction, discipline
+    Root: t-q-n
+
+
+ܬܪܓܡܢܐ  (targǝmânâʾ)  [noun]
+    interpreter, translator
+    Root: t-r-g-m
+
+
+ܬܪܝܐ  (taryâʾ)  [noun]
+    hair
+    Root: t-r-y
+
+
+ܬܪܝܢ  (tǝrayn)  [numeral]
+    two
+    Root: t-r
+
+
+ܬܪܝܨܐ  (tǝrîṣâʾ)  [noun]
+    Trinity
+    Root: t-r-ṣ
+
+
+�ܡܘܢܐ  (šawwâʾ)  [noun]
+    week
+    Root: š-w-ʾ
+

@@ -1,0 +1,5208 @@
+======================================================================
+KOINE GREEK LEXICON
+Complete Dictionary of New Testament Greek
+Period: 300 BCE - 300 CE (Jesus' Era)
+======================================================================
+
+Pronunciation Guide:
+  α = a as in father    ε = e as in pet
+  η = ay as in say      ι = i as in machine
+  ο = o as in note      υ = u as in French tu
+  ω = o as in tone      γ = g (before α,ο,ω) / ng (before ι,ε)
+  χ = ch as in Bach     θ = th as in thin
+  φ = ph as in phone    ψ = ps as in lips
+
+----------------------------------------------------------------------
+
+
+Α  (A)  [unknown]
+    the first letter of the alphabet; figuratively, only (from
+    its use as a numeral) the first:
+    Usage: --Alpha
+
+
+Ἀαρών  (Aarṓn)  [unknown]
+    Aaron, the brother of Moses
+    Usage: Aaron
+
+
+Ἀβαδδών  (Abaddṓn)  [unknown]
+    a destroying angel
+    Usage: Abaddon
+
+
+ἀβαρής  (abarḗs)  [unknown]
+    weightless, i.e. (figuratively) not burdensome
+    Usage: from being burdensome
+
+
+Ἀββᾶ  (Abbâ)  [unknown]
+    father as a vocative
+    Usage: Abba
+
+
+Ἄβελ  (Ábel)  [unknown]
+    Abel, the son of Adam
+    Usage: Abel
+
+
+Ἀβιά  (Abiá)  [unknown]
+    Abijah, the name of two Israelites
+    Usage: Abia
+
+
+Ἀβιαθάρ  (Abiathár)  [unknown]
+    Abiathar, an Israelite
+    Usage: Abiathar
+
+
+Ἀβιληνή  (Abilēnḗ)  [unknown]
+    Abilene, a region of Syria
+    Usage: Abilene
+
+
+Ἀβιούδ  (Abioúd)  [unknown]
+    Abihud, an Israelite
+    Usage: Abiud
+
+
+Ἀβραάμ  (Abraám)  [unknown]
+    Abraham, the Hebrew patriarch
+    Usage: Abraham
+
+
+ἄβυσσος  (ábyssos)  [adjective]
+    depthless, i.e. (specially) (infernal) \
+    Usage: deep, (bottomless) pit
+
+
+Ἄγαβος  (Ágabos)  [adjective]
+    Agabus, an Israelite
+    Usage: Agabus
+
+
+ἀγαθοεργέω  (agathoergéō)  [verb]
+    to work good
+    Usage: do good
+
+
+ἀγαθοποιέω  (agathopoiéō)  [verb]
+    to be a well-doer (as a favor or a duty)
+    Usage: (when) do good (well)
+
+
+ἀγαθοποιΐα  (agathopoiḯa)  [unknown]
+    well-doing, i.e. virtue
+    Usage: well-doing
+
+
+ἀγαθοποιός  (agathopoiós)  [unknown]
+    a well-doer, i.e. virtuous
+    Usage: them that do well
+
+
+ἀγαθός  (agathós)  [unknown]
+    \
+    Usage: benefit, good(-s, things), well
+
+
+ἀγαθωσύνη  (agathōsýnē)  [unknown]
+    goodness, i.e. virtue or beneficence
+    Usage: goodness
+
+
+ἀγαλλίασις  (agallíasis)  [unknown]
+    exultation; specially, welcome
+    Usage: gladness, (exceeding) joy
+
+
+ἀγαλλιάω  (agalliáō)  [verb]
+    properly, to jump for joy, i.e. exult
+    Usage: be (exceeding) glad, with exceeding joy, rejoice (greatly)
+
+
+ἄγαμος  (ágamos)  [adjective]
+    unmarried
+    Usage: unmarried
+
+
+ἀγανακτέω  (aganaktéō)  [verb]
+    akin to the base of G43 (ἀγκάλη)); to be greatly afflicted,
+    i.e. (figuratively) indignant
+    Usage: be much (sore) displeased, have (be moved with, with) indignation
+
+
+ἀγανάκτησις  (aganáktēsis)  [unknown]
+    indignation
+    Usage: indignation
+
+
+ἀγαπάω  (agapáō)  [verb]
+    to love (in a social or moral sense)
+    Usage: (be-)love(-ed)
+
+
+ἀγάπη  (agápē)  [unknown]
+    love, i.e. affection or benevolence; specially (plural) a
+    love-feast
+    Usage: (feast of) charity(-ably), dear, love
+
+
+ἀγαπητός  (agapētós)  [unknown]
+    beloved
+    Usage: (dearly, well) beloved, dear
+
+
+Ἄγαρ  (Ágar)  [unknown]
+    Hagar, the concubine of Abraham
+    Usage: Hagar
+
+
+ἀγγαρεύω  (angareúō)  [verb]
+    properly, to be a courier, i.e. (by implication) to press
+    into public service
+    Usage: compel (to go)
+
+
+ἀγγεῖον  (angeîon)  [noun/adjective]
+    compare the base of G43 (ἀγκάλη)); a receptacle
+    Usage: vessel
+
+
+ἀγγελία  (angelía)  [noun]
+    an announcement, i.e. (by implication) precept
+    Usage: message
+
+
+ἄγγελος  (ángelos)  [adjective]
+    compare G34 (ἀγέλη)) (to bring tidings); a messenger;
+    especially an \
+    Usage: angel, messenger
+
+
+ἄγε  (áge)  [unknown]
+    properly, lead, i.e. come on
+    Usage: go to
+
+
+ἀγέλη  (agélē)  [unknown]
+    a drove
+    Usage: herd
+
+
+ἀγενεαλόγητος  (agenealógētos)  [adjective]
+    unregistered as to birth
+    Usage: without descent
+
+
+ἀγενής  (agenḗs)  [unknown]
+    properly, without kin, i.e. (of unknown descent, and by
+    implication) ignoble
+    Usage: base things
+
+
+ἁγιάζω  (hagiázō)  [verb]
+    to make holy, i.e. (ceremonially) purify or consecrate;
+    (mentally) to venerate
+    Usage: hallow, be holy, sanctify
+
+
+ἁγιασμός  (hagiasmós)  [unknown]
+    properly, purification, i.e. (the state) purity; concretely
+    (by Hebraism) a purifier
+    Usage: holiness, sanctification
+
+
+ἅγιον  (hágion)  [noun/adjective]
+    a sacred thing (i.e. spot)
+    Usage: holiest (of all), holy place, sanctuary
+
+
+ἅγιος  (hágios)  [adjective]
+    sacred (physically, pure, morally blameless or religious,
+    ceremonially, consecrated)
+    Usage: (most) holy (one, thing), saint
+
+
+ἁγιότης  (hagiótēs)  [noun/adjective]
+    sanctity (i.e. properly, the state)
+    Usage: holiness
+
+
+ἁγιωσύνη  (hagiōsýnē)  [unknown]
+    sacredness (i.e. properly, the quality)
+    Usage: holiness
+
+
+ἀγκάλη  (ankálē)  [unknown]
+    an arm (as curved)
+    Usage: arm
+
+
+ἄγκιστρον  (ánkistron)  [noun/adjective]
+    a hook (as bent)
+    Usage: hook
+
+
+ἄγκυρα  (ánkyra)  [unknown]
+    an \
+    Usage: anchor
+
+
+ἄγναφος  (ágnaphos)  [adjective]
+    properly, unfulled, i.e. (by implication) new (cloth)
+    Usage: new
+
+
+ἁγνεία  (hagneía)  [unknown]
+    cleanliness (the quality), i.e. (specially) chastity
+    Usage: purity
+
+
+ἁγνίζω  (hagnízō)  [verb]
+    to make clean, i.e. (figuratively) sanctify (ceremonially or
+    morally)
+    Usage: purify (self)
+
+
+ἁγνισμός  (hagnismós)  [unknown]
+    a cleansing (the act), i.e. (ceremonially) lustration
+    Usage: purification
+
+
+ἀγνοέω  (agnoéō)  [verb]
+    not to know (through lack of information or intelligence); by
+    implication, to ignore (through disinclination)
+    Usage: (be) ignorant(-ly), not know, not understand, unknown
+
+
+ἀγνόημα  (agnóēma)  [unknown]
+    a thing ignored, i.e. shortcoming
+    Usage: error
+
+
+ἄγνοια  (ágnoia)  [unknown]
+    ignorance (properly, the quality)
+    Usage: ignorance
+
+
+ἁγνός  (hagnós)  [unknown]
+    properly, clean, i.e. (figuratively) innocent, modest,
+    perfect
+    Usage: chaste, clean, pure
+
+
+ἁγνότης  (hagnótēs)  [noun/adjective]
+    cleanness (the state), i.e. (figuratively) blamelessness
+    Usage: pureness
+
+
+ἁγνῶς  (hagnōs)  [unknown]
+    purely, i.e. honestly
+    Usage: sincerely
+
+
+ἀγνωσία  (agnōsía)  [unknown]
+    ignorance (properly, the state)
+    Usage: ignorance, not the knowledge
+
+
+ἄγνωστος  (ágnōstos)  [adjective]
+    unknown
+    Usage: unknown
+
+
+ἀγορά  (agorá)  [unknown]
+    probably akin to G1453 (ἐγείρω)); properly, the town-square
+    (as a place of public resort); by implication, a market or
+    thoroughfare
+    Usage: market(-place), street
+
+
+ἀγοράζω  (agorázō)  [verb]
+    properly, to go to market, i.e. (by implication) to purchase;
+    specially, to redeem
+    Usage: buy, redeem
+
+
+ἀγοραῖος  (agoraîos)  [adjective]
+    relating to the market-place, i.e. forensic (times); by
+    implication, vulgar
+    Usage: baser sort, low
+
+
+ἄγρα  (ágra)  [unknown]
+    (abstractly) a catching (of fish); also (concretely) a haul
+    (of fish)
+    Usage: draught
+
+
+ἀγράμματος  (agrámmatos)  [adjective]
+    unlettered, i.e. illiterate
+    Usage: unlearned
+
+
+ἀγραυλέω  (agrauléō)  [verb]
+    to camp out
+    Usage: abide in the field
+
+
+ἀγρεύω  (agreúō)  [verb]
+    to hunt, i.e. (figuratively) to entrap
+    Usage: catch
+
+
+ἀγριέλαιος  (agriélaios)  [adjective]
+    an oleaster
+    Usage: olive tree (which is) wild
+
+
+ἄγριος  (ágrios)  [adjective]
+    wild (as pertaining to the country), literally (natural) or
+    figuratively (fierce)
+    Usage: wild, raging
+
+
+Ἀγρίππας  (Agríppas)  [unknown]
+    wild-horse tamer; Agrippas, one of the Herods
+    Usage: Agrippa
+
+
+ἀγρός  (agrós)  [unknown]
+    a field (as a drive for cattle); genitive case, the country;
+    specially, a farm, i.e. hamlet
+    Usage: country, farm, piece of ground, land
+
+
+ἀγρυπνέω  (agrypnéō)  [verb]
+    to be sleepless, i.e. keep awake
+    Usage: watch
+
+
+ἀγρυπνία  (agrypnía)  [unknown]
+    sleeplessness, i.e. a keeping awake
+    Usage: watch
+
+
+ἄγω  (ágō)  [verb]
+    properly, to lead; by implication, to bring, drive,
+    (reflexively) go, (specially) pass (time), or (figuratively)
+    induce
+    Usage: be, bring (forth), carry, (let) go, keep, lead away, be open
+
+
+ἀγωγή  (agōgḗ)  [unknown]
+    a bringing up, i.e. mode of living
+    Usage: manner of life
+
+
+ἀγών  (agṓn)  [unknown]
+    properly, a place of assembly (as if led), i.e. (by
+    implication) a contest (held there); figuratively, an effort
+    or anxiety
+    Usage: conflict, contention, fight, race
+
+
+ἀγωνία  (agōnía)  [unknown]
+    a struggle (properly, the state), i.e. (figuratively) anguish
+    Usage: agony
+
+
+ἀγωνίζομαι  (agōnízomai)  [verb]
+    to struggle, literally (to compete for a prize), figuratively
+    (to contend with an adversary), or genitive case (to endeavor
+    to accomplish something)
+    Usage: fight, labor fervently, strive
+
+
+Ἀδάμ  (Adám)  [unknown]
+    Adam, the first man; typically (of Jesus) man (as his
+    representative)
+    Usage: Adam
+
+
+ἀδάπανος  (adápanos)  [adjective]
+    and G1160 (δαπάνη); costless, i.e. gratuitous
+    Usage: without expense
+
+
+Ἀδδί  (Addí)  [unknown]
+    Addi, an Israelite
+    Usage: Addi
+
+
+ἀδελφή  (adelphḗ)  [unknown]
+    a sister (naturally or ecclesiastically)
+    Usage: sister
+
+
+ἀδελφός  (adelphós)  [unknown]
+    a brother (literally or figuratively) near or remote (much
+    like G1 (Α))
+    Usage: brother
+
+
+ἀδελφότης  (adelphótēs)  [noun/adjective]
+    brotherhood (properly, the feeling of brotherliness), i.e.
+    the (Christian) fraternity
+    Usage: brethren, brotherhood
+
+
+ἄδηλος  (ádēlos)  [adjective]
+    hidden, figuratively, indistinct
+    Usage: appear not, uncertain
+
+
+ἀδηλότης  (adēlótēs)  [noun/adjective]
+    uncertainty
+    Usage: X uncertain
+
+
+ἀδήλως  (adḗlōs)  [adverb]
+    uncertainly
+    Usage: uncertainly
+
+
+ἀδημονέω  (adēmonéō)  [verb]
+    to be in distress (of mind)
+    Usage: be full of heaviness, be very heavy
+
+
+ᾅδης  (háidēs)  [noun/adjective]
+    properly, unseen, i.e. \
+    Usage: grave, hell
+
+
+ἀδιάκριτος  (adiákritos)  [adjective]
+    properly, undistinguished, i.e. (actively) impartial
+    Usage: without partiality
+
+
+ἀδιάλειπτος  (adiáleiptos)  [adjective]
+    unintermitted, i.e. permanent
+    Usage: without ceasing, continual
+
+
+ἀδιαλείπτως  (adialeíptōs)  [adverb]
+    uninterruptedly, i.e. without omission (on an appropriate
+    occasion)
+    Usage: without ceasing
+
+
+ἀδιαφθορία  (adiaphthoría)  [unknown]
+    incorruptibleness, i.e. (figuratively) purity (of doctrine)
+    Usage: uncorruptness
+
+
+ἀδικέω  (adikéō)  [verb]
+    to be unjust, i.e. (actively) do wrong (morally, socially or
+    physically)
+    Usage: hurt, injure, be an offender, be unjust, (do, suffer, take) wrong
+
+
+ἀδίκημα  (adíkēma)  [unknown]
+    a wrong done
+    Usage: evil doing, iniquity, matter of wrong
+
+
+ἀδικία  (adikía)  [unknown]
+    (legal) injustice (properly, the quality, by implication, the
+    act); morally, wrongfulness (of character, life or act)
+    Usage: iniquity, unjust, unrighteousness, wrong
+
+
+ἄδικος  (ádikos)  [adjective]
+    unjust; by extension wicked; by implication, treacherous;
+    specially, heathen
+    Usage: unjust, unrighteous
+
+
+ἀδίκως  (adíkōs)  [adverb]
+    unjustly
+    Usage: wrongfully
+
+
+ἀδόκιμος  (adókimos)  [adjective]
+    unapproved, i.e. rejected; by implication, worthless
+    (literally or morally)
+    Usage: castaway, rejected, reprobate
+
+
+ἄδολος  (ádolos)  [adjective]
+    and G1388 (δόλος); undeceitful, i.e. (figuratively)
+    unadulterated
+    Usage: sincere
+
+
+Ἀδραμυττηνός  (Adramyttēnós)  [unknown]
+    Adramyttene or belonging to Adramyttium
+    Usage: of Adramyttium
+
+
+Ἀδρίας  (Adrías)  [unknown]
+    the Adriatic sea (including the Ionian)
+    Usage: Adria
+
+
+ἁδρότης  (hadrótēs)  [noun/adjective]
+    plumpness, i.e. (figuratively) liberality
+    Usage: abundance
+
+
+ἀδυνατέω  (adynatéō)  [verb]
+    to be unable, i.e. (passively) impossible
+    Usage: be impossible
+
+
+ἀδύνατος  (adýnatos)  [adjective]
+    unable, i.e. weak (literally or figuratively); passively,
+    impossible
+    Usage: could not do, impossible, impotent, not possible, weak
+
+
+ᾄδω  (áidō)  [verb]
+    to sing
+    Usage: sing
+
+
+ἀεί  (aeí)  [unknown]
+    \
+    Usage: always, ever
+
+
+ἀετός  (aetós)  [unknown]
+    an eagle (from its wind-like flight)
+    Usage: eagle
+
+
+ἄζυμος  (ázymos)  [adjective]
+    unleavened, i.e. (figuratively) uncorrupted; (in the neutral
+    plural) specially (by implication) the Passover week
+    Usage: unleavened (bread)
+
+
+Ἀζώρ  (Azṓr)  [unknown]
+    Azor, an Israelite
+    Usage: Azorigin 
+
+
+Ἄζωτος  (Ázōtos)  [adjective]
+    Azotus (i.e. Ashdod), a place in Palestine
+    Usage: Azotus
+
+
+ἀήρ  (aḗr)  [unknown]
+    by analogy, to blow); \
+    Usage: air
+
+
+ἀθανασία  (athanasía)  [unknown]
+    deathlessness
+    Usage: immortality
+
+
+ἀθέμιτος  (athémitos)  [adjective]
+    from the base of G5087 (τίθημι)); illegal; by implication,
+    flagitious
+    Usage: abominable, unlawful thing
+
+
+ἄθεος  (átheos)  [adjective]
+    godless
+    Usage: without God
+
+
+ἄθεσμος  (áthesmos)  [adjective]
+    lawless, i.e. (by implication) criminal
+    Usage: wicked
+
+
+ἀθετέω  (athetéō)  [verb]
+    to set aside, i.e. (by implication) to disesteem, neutralize
+    or violate
+    Usage: cast off, despise, disannul, frustrate, bring to nought, reject
+
+
+ἀθέτησις  (athétēsis)  [unknown]
+    cancellation (literally or figuratively)
+    Usage: disannulling, put away
+
+
+Ἀθῆναι  (Athēnai)  [unknown]
+    Athenæ, the capitol of Greece
+    Usage:  Athens
+
+
+Ἀθηναῖος  (Athēnaîos)  [adjective]
+    an Athenæan or inhabitant of Athenæ
+    Usage: Athenian
+
+
+ἀθλέω  (athléō)  [verb]
+    to contend in the competitive games
+    Usage: strive
+
+
+ἄθλησις  (áthlēsis)  [unknown]
+    a struggle (figuratively)
+    Usage: fight
+
+
+ἀθυμέω  (athyméō)  [verb]
+    to be spiritless, i.e. disheartened
+    Usage: be dismayed
+
+
+ἄθωος  (áthōos)  [adjective]
+    not guilty
+    Usage: innocent
+
+
+αἴγειος  (aígeios)  [adjective]
+    belonging to a goat
+    Usage: goat
+
+
+αἰγιαλός  (aigialós)  [unknown]
+    a beach (on which the waves dash)
+    Usage: shore
+
+
+Αἰγύπτιος  (Aigýptios)  [adjective]
+    an Ægyptian or inhabitant of Ægyptus
+    Usage: Egyptian
+
+
+Αἴγυπτος  (Aígyptos)  [adjective]
+    Ægyptus, the land of the Nile
+    Usage: Egypt
+
+
+ἀΐδιος  (aḯdios)  [adjective]
+    everduring (forward and backward, or forward only)
+    Usage: eternal, everlasting
+
+
+αἰδώς  (aidṓs)  [unknown]
+    bashfulness, i.e. (towards men), modesty or (towards God) awe
+    Usage: reverence, shamefacedness
+
+
+Αἰθίοψ  (Aithíops)  [unknown]
+    an Æthiopian (as a blackamoor)
+    Usage: Ethiopian
+
+
+αἷμα  (haîma)  [unknown]
+    blood, literally (of men or animals), figuratively (the juice
+    of grapes) or specially (the atoning blood of Christ); by
+    implication, bloodshed, also kindred
+    Usage: blood
+
+
+αἱματεκχυσία  (haimatekchysía)  [unknown]
+    an effusion of blood
+    Usage: shedding of blood
+
+
+αἱμοῤῥέω  (haimorrhéō)  [verb]
+    to flow blood, i.e. have a hæmorrhage
+    Usage: diseased with an issue of blood
+
+
+Αἰνέας  (Ainéas)  [unknown]
+    Ænĕas, an Israelite
+    Usage: Æneas
+
+
+αἴνεσις  (aínesis)  [unknown]
+    a praising (the act), i.e. (specially) a thank(-offering)
+    Usage: praise
+
+
+αἰνέω  (ainéō)  [verb]
+    to praise (God)
+    Usage: praise
+
+
+αἴνιγμα  (aínigma)  [unknown]
+    an obscure saying (\
+    Usage: X darkly
+
+
+αἶνος  (aînos)  [adjective]
+    properly, a story, but used in the sense of G1868 (ἔπαινος);
+    praise (of God)
+    Usage: praise
+
+
+Αἰνών  (Ainṓn)  [unknown]
+    Ænon, a place in Palestine
+    Usage: Ænon
+
+
+αἱρέομαι  (hairéomai)  [verb]
+    to take for oneself, i.e. to prefer
+    Usage: choose
+
+
+αἵρεσις  (haíresis)  [unknown]
+    properly, a choice, i.e. (specially) a party or (abstractly)
+    disunion
+    Usage: heresy (which is the Greek word itself), sect
+
+
+αἱρετίζω  (hairetízō)  [verb]
+    to make a choice
+    Usage: choose
+
+
+αἱρετικός  (hairetikós)  [unknown]
+    a schismatic
+    Usage: heretic (the Greek word itself)
+
+
+αἴρω  (aírō)  [verb]
+    to lift up; by implication, to take up or away; figuratively,
+    to raise (the voice), keep in suspense (the mind), specially,
+    to sail away (i.e. weigh anchor); by Hebraism (compare
+    H05375) to expiate sin
+    Usage: away with, bear (up), carry, lift up, loose, make to doubt, put away, remove, take (away, up)
+
+
+αἰσθάνομαι  (aisthánomai)  [verb]
+    to apprehend (properly, by the senses)
+    Usage: perceive
+
+
+αἴσθησις  (aísthēsis)  [unknown]
+    perception, i.e. (figuratively) discernment
+    Usage: judgment
+
+
+αἰσθητήριον  (aisthētḗrion)  [noun/adjective]
+    properly, an organ of perception, i.e. (figuratively)
+    judgment
+    Usage: senses
+
+
+αἰσχροκερδής  (aischrokerdḗs)  [unknown]
+    sordid
+    Usage: given to (greedy of) filthy lucre
+
+
+αἰσχροκερδῶς  (aischrokerdōs)  [unknown]
+    sordidly
+    Usage: for filthy lucre's sake
+
+
+αἰσχρολογία  (aischrología)  [unknown]
+    vile conversation
+    Usage: filthy communication
+
+
+αἰσχρόν  (aischrón)  [unknown]
+    a shameful thing, i.e. indecorum
+    Usage: shame
+
+
+αἰσχρός  (aischrós)  [unknown]
+    shameful, i.e. base (specially, venal)
+    Usage: filthy
+
+
+αἰσχρότης  (aischrótēs)  [noun/adjective]
+    shamefulness, i.e. obscenity
+    Usage: filthiness
+
+
+αἰσχύνη  (aischýnē)  [unknown]
+    shame or disgrace (abstractly or concretely)
+    Usage: dishonesty, shame
+
+
+αἰσχύνομαι  (aischýnomai)  [verb]
+    to feel shame (for oneself)
+    Usage: be ashamed
+
+
+αἰτέω  (aitéō)  [verb]
+    to ask (in genitive case)
+    Usage: ask, beg, call for, crave, desire, require
+
+
+αἴτημα  (aítēma)  [unknown]
+    a thing asked or (abstractly) an asking
+    Usage: petition, request, required
+
+
+αἰτία  (aitía)  [unknown]
+    a cause (as if asked for), i.e. (logical) reason (motive,
+    matter), (legal) crime (alleged or proved)
+    Usage: accusation, case, cause, crime, fault, (wh-)ere(-fore)
+
+
+αἰτίαμα  (aitíama)  [unknown]
+    a thing charged
+    Usage: complaint
+
+
+αἴτιον  (aítion)  [noun/adjective]
+    a reason or crime (like G156 (αἰτία))
+    Usage: cause, fault
+
+
+αἴτιος  (aítios)  [adjective]
+    causative, i.e. (concretely) a causer
+    Usage: author
+
+
+αἰφνίδιος  (aiphnídios)  [verb]
+    unexpected, i.e. (adverbially) suddenly
+    Usage: sudden, unawares
+
+
+αἰχμαλωσία  (aichmalōsía)  [unknown]
+    captivity
+    Usage: captivity
+
+
+αἰχμαλωτεύω  (aichmalōteúō)  [verb]
+    to capture (like G163 (αἰχμαλωτίζω))
+    Usage: lead captive
+
+
+αἰχμαλωτίζω  (aichmalōtízō)  [verb]
+    to make captive
+    Usage: lead away captive, bring into captivity
+
+
+αἰχμάλωτος  (aichmálōtos)  [adjective]
+    properly, a prisoner of war, i.e. (genitive case) a captive
+    Usage: captive
+
+
+αἰών  (aiṓn)  [unknown]
+    properly, an age; by extension, perpetuity (also past); by
+    implication, the world; specially (Jewish) a Messianic period
+    (present or future)
+    Usage: age, course, eternal, (for) ever(-more), (n-)ever, (beginning of the , while the) world (began, with...
+
+
+αἰώνιος  (aiṓnios)  [adjective]
+    perpetual (also used of past time, or past and future as
+    well)
+    Usage: eternal, for ever, everlasting, world (began)
+
+
+ἀκαθαρσία  (akatharsía)  [unknown]
+    impurity (the quality), physically or morally
+    Usage: uncleanness
+
+
+ἀκαθάρτης  (akathártēs)  [noun/adjective]
+    impurity (the state), morally
+    Usage: filthiness
+
+
+ἀκάθαρτος  (akáthartos)  [adjective]
+    impure (ceremonially, morally (lewd) or specially, (demonic))
+    Usage: foul, unclean
+
+
+ἀκαιρέομαι  (akairéomai)  [verb]
+    to be inopportune (for oneself), i.e. to fail of a proper
+    occasion
+    Usage: lack opportunity
+
+
+ἀκαίρως  (akaírōs)  [adverb]
+    inopportunely
+    Usage: out of season
+
+
+ἄκακος  (ákakos)  [adjective]
+    not bad, i.e. (objectively) innocent or (subjectively)
+    unsuspecting
+    Usage: harmless, simple
+
+
+ἄκανθα  (ákantha)  [unknown]
+    a thorn
+    Usage: thorn
+
+
+ἀκάνθινος  (akánthinos)  [adjective]
+    thorny
+    Usage: of thorns
+
+
+ἄκαρπος  (ákarpos)  [adjective]
+    barren (literally or figuratively)
+    Usage: without fruit, unfruitful
+
+
+ἀκατάγνωστος  (akatágnōstos)  [adjective]
+    unblamable
+    Usage: that cannot be condemned
+
+
+ἀκατακάλυπτος  (akatakályptos)  [adjective]
+    unveiled
+    Usage: uncovered
+
+
+ἀκατάκριτος  (akatákritos)  [adjective]
+    without (legal) trial
+    Usage: uncondemned
+
+
+ἀκατάλυτος  (akatálytos)  [adjective]
+    indissoluble, i.e. (figuratively) permanent
+    Usage: endless
+
+
+ἀκατάπαυστος  (akatápaustos)  [adjective]
+    unrefraining
+    Usage: that cannot cease
+
+
+ἀκαταστασία  (akatastasía)  [unknown]
+    instability, i.e. disorder
+    Usage: commotion, confusion, tumult
+
+
+ἀκατάστατος  (akatástatos)  [adjective]
+    inconstant
+    Usage: unstable
+
+
+ἀκατάσχετος  (akatáschetos)  [adjective]
+    unrestrainable
+    Usage: unruly
+
+
+Ἀκελδαμά  (Akeldamá)  [unknown]
+    corresponding to H02506 and H01818); Akeldama, a place near
+    Jerusalem
+    Usage: Aceldama
+
+
+ἀκέραιος  (akéraios)  [adjective]
+    unmixed, i.e. (figuratively) innocent
+    Usage: harmless, simple
+
+
+ἀκλινής  (aklinḗs)  [unknown]
+    not leaning, i.e. (figuratively) firm
+    Usage: without wavering
+
+
+ἀκμάζω  (akmázō)  [verb]
+    to make a point, i.e. (figuratively) mature
+    Usage: be fully ripe
+
+
+ἀκμήν  (akmḗn)  [verb]
+    adverbially, just now, i.e. still
+    Usage: yet
+
+
+ἀκοή  (akoḗ)  [unknown]
+    hearing (the act, the sense or the thing heard)
+    Usage: audience, ear, fame, which ye heard, hearing, preached, report, rumor
+
+
+ἀκολουθέω  (akolouthéō)  [verb]
+    properly, to be in the same way with, i.e. to accompany
+    (specially, as a disciple)
+    Usage: follow, reach
+
+
+ἀκούω  (akoúō)  [verb]
+    to hear (in various senses)
+    Usage: give (in the) audience (of), come (to the ears), (shall) hear(-er, -ken), be noised, be reported, un...
+
+
+ἀκρασία  (akrasía)  [unknown]
+    want of self-restraint
+    Usage: excess, incontinency
+
+
+ἀκρατής  (akratḗs)  [unknown]
+    powerless, i.e. without self-control
+    Usage: incontinent
+
+
+ἄκρατος  (ákratos)  [adjective]
+    undiluted
+    Usage: without mixture
+
+
+ἀκρίβεια  (akríbeia)  [unknown]
+    exactness
+    Usage: perfect manner
+
+
+ἀκριβέστατος  (akribéstatos)  [adjective]
+    most exact
+    Usage: most straitest
+
+
+ἀκριβέστερον  (akribésteron)  [verb]
+    (adverbially) more exactly
+    Usage: more perfect(-ly)
+
+
+ἀκριβόω  (akribóō)  [verb]
+    to be exact, i.e. ascertain
+    Usage: enquire diligently
+
+
+ἀκριβῶς  (akribōs)  [unknown]
+    exactly
+    Usage: circumspectly, diligently, perfect(-ly)
+
+
+ἀκρίς  (akrís)  [unknown]
+    a locust (as pointed, or as lighting on the top of
+    vegetation)
+    Usage: locust
+
+
+ἀκροατήριον  (akroatḗrion)  [noun/adjective]
+    an audience-room
+    Usage: place of hearing
+
+
+ἀκροατής  (akroatḗs)  [unknown]
+    apparently an intensive of G191 (ἀκούω)); a hearer (merely)
+    Usage: hearer
+
+
+ἀκροβυστία  (akrobystía)  [unknown]
+    the prepuce; by implication, an uncircumcised (i.e. gentile,
+    figuratively, unregenerate) state or person
+    Usage: not circumcised, uncircumcised (with G2192 (ἔχω)), uncircumcision
+
+
+ἀκρογωνιαῖος  (akrogōniaîos)  [adjective]
+    belonging to the extreme corner
+    Usage: chief corner
+
+
+ἀκροθίνιον  (akrothínion)  [noun/adjective]
+    properly (in the plural) the top of the heap, i.e. (by
+    implication) best of the booty
+    Usage: spoils
+
+
+ἄκρον  (ákron)  [noun/adjective]
+    the extremity
+    Usage: one end… other, tip, top, uttermost participle 
+
+
+Ἀκύλας  (Akýlas)  [unknown]
+    Akulas, an Israelite
+    Usage: Aquila
+
+
+ἀκυρόω  (akyróō)  [verb]
+    to invalidate
+    Usage: disannul, make of none effect
+
+
+ἀκωλύτως  (akōlýtōs)  [adverb]
+    in an unhindered manner, i.e. freely
+    Usage: no man forbidding him
+
+
+ἄκων  (ákōn)  [adjective]
+    unwilling
+    Usage: against the will
+
+
+ἀλάβαστρον  (alábastron)  [noun/adjective]
+    properly, an \
+    Usage: (alabaster) box
+
+
+ἀλαζονεία  (alazoneía)  [unknown]
+    braggadocio, i.e. (by implication) self-confidence
+    Usage: boasting, pride
+
+
+ἀλαζών  (alazṓn)  [unknown]
+    braggart
+    Usage: boaster
+
+
+ἀλαλάζω  (alalázō)  [verb]
+    to vociferate, i.e. (by implication) to wail; figuratively,
+    to clang
+    Usage: tinkle, wail
+
+
+ἀλάλητος  (alálētos)  [adjective]
+    unspeakable
+    Usage: unutterable, which cannot be uttered
+
+
+ἄλαλος  (álalos)  [adjective]
+    mute
+    Usage: dumb
+
+
+ἅλας  (hálas)  [unknown]
+    salt; figuratively, prudence
+    Usage: salt
+
+
+ἀλείφω  (aleíphō)  [verb]
+    to oil (with perfume)
+    Usage: anoint
+
+
+ἀλεκτοροφωνία  (alektorophōnía)  [unknown]
+    cock-crow, i.e. the third night-watch
+    Usage: cockcrowing
+
+
+ἀλέκτωρ  (aléktōr)  [unknown]
+    a cock or male fowl
+    Usage: cock
+
+
+Ἀλεξανδρεύς  (Alexandreús)  [unknown]
+    an Alexandreian or inhabitant of Alexandria
+    Usage: of Alexandria, Alexandrian
+
+
+Ἀλεξανδρῖνος  (Alexandrînos)  [adjective]
+    Alexandrine, or belonging to Alexandria
+    Usage: of Alexandria
+
+
+Ἀλέξανδρος  (Aléxandros)  [adjective]
+    man-defender; Alexander, the name of three Israelites and one
+    other man
+    Usage: Alexander
+
+
+ἄλευρον  (áleuron)  [noun/adjective]
+    flour
+    Usage: meal
+
+
+ἀλήθεια  (alḗtheia)  [unknown]
+    truth
+    Usage: true, X truly, truth, verity
+
+
+ἀληθεύω  (alētheúō)  [verb]
+    to be true (in doctrine and profession)
+    Usage: speak (tell) the truth
+
+
+ἀληθής  (alēthḗs)  [unknown]
+    true (as not concealing)
+    Usage: true, truly, truth
+
+
+ἀληθινός  (alēthinós)  [unknown]
+    truthful
+    Usage: true
+
+
+ἀλήθω  (alḗthō)  [verb]
+    to grind
+    Usage: grind
+
+
+ἀληθῶς  (alēthōs)  [unknown]
+    truly
+    Usage: indeed, surely, of a surety, truly, of a (in) truth, verily, very
+
+
+ἁλιεύς  (halieús)  [unknown]
+    a sailor (as engaged on the salt water), i.e. (by
+    implication) a fisher
+    Usage: fisher(-man)
+
+
+ἁλιεύω  (halieúō)  [verb]
+    to be a fisher, i.e. (by implication) to fish
+    Usage: go a-fishing
+
+
+ἁλίζω  (halízō)  [verb]
+    to salt
+    Usage: salt
+
+
+ἀλίσγεμα  (alísgema)  [unknown]
+    (ceremonially) defilement
+    Usage: pollution
+
+
+ἀλλά  (allá)  [verb]
+    properly, other things, i.e. (adverbially) contrariwise (in
+    many relations)
+    Usage: and, but (even), howbeit, indeed, nay, nevertheless, no, notwithstanding, save, therefore, yea, yet
+
+
+ἀλλάσσω  (allássō)  [verb]
+    to make different
+    Usage: change
+
+
+ἀλλαχόθεν  (allachóthen)  [unknown]
+    from elsewhere
+    Usage: some other way
+
+
+ἀλληγορέω  (allēgoréō)  [verb]
+    to allegorize
+    Usage: be an allegory (the Greek word itself)
+
+
+ἀλληλουϊα  (allēlouïa)  [unknown]
+    praise ye Jah!, an adoring exclamation
+    Usage: alleluiah
+
+
+ἀλλήλων  (allḗlōn)  [adjective]
+    one another
+    Usage: each other, mutual, one another, (the other), (them-, your-)selves, (selves) together (sometimes wit...
+
+
+ἀλλογενής  (allogenḗs)  [unknown]
+    foreign, i.e. not a Jew
+    Usage: stranger
+
+
+ἅλλομαι  (hállomai)  [verb]
+    to jump; figuratively, to gush
+    Usage: leap, spring up
+
+
+ἄλλος  (állos)  [adjective]
+    \
+    Usage: more, one (another), (an-, some an-)other(-s, -wise)
+
+
+ἀλλοτριεπίσκοπος  (allotriepískopos)  [adjective]
+    overseeing others' affairs, i.e. a meddler (specially, in
+    Gentile customs)
+    Usage: busybody in other men's matters
+
+
+ἀλλότριος  (allótrios)  [adjective]
+    another's, i.e. not one's own; by extension foreign, not
+    akin, hostile
+    Usage: alien, (an-)other (man's, men's), strange(-r)
+
+
+ἀλλόφυλος  (allóphylos)  [adjective]
+    foreign, i.e. (specially) Gentile
+    Usage: one of another nation
+
+
+ἄλλως  (állōs)  [adverb]
+    differently
+    Usage: otherwise
+
+
+ἀλοάω  (aloáō)  [verb]
+    to tread out grain
+    Usage: thresh, tread out the corn
+
+
+ἄλογος  (álogos)  [adjective]
+    irrational
+    Usage: brute, unreasonable
+
+
+ἀλόη  (alóē)  [unknown]
+    aloes (the gum)
+    Usage: aloes
+
+
+ἅλς  (háls)  [unknown]
+    \
+    Usage: salt
+
+
+ἁλυκός  (halykós)  [unknown]
+    briny
+    Usage: salt
+
+
+ἀλυπότερος  (alypóteros)  [adjective]
+    more without grief
+    Usage: less sorrowful
+
+
+ἅλυσις  (hálysis)  [unknown]
+    a fetter or manacle
+    Usage: bonds, chain
+
+
+ἀλυσιτελής  (alysitelḗs)  [unknown]
+    gainless, i.e. (by implication) pernicious
+    Usage: unprofitable
+
+
+Ἀλφαῖος  (Alphaîos)  [adjective]
+    Alphæus, an Israelite
+    Usage: Alpheus
+
+
+ἅλων  (hálōn)  [adjective]
+    a threshing-floor (as rolled hard), i.e. (figuratively) the
+    grain (and chaff, as just threshed)
+    Usage: floor
+
+
+ἀλώπηξ  (alṓpēx)  [unknown]
+    a fox, i.e. (figuratively) a cunning person
+    Usage: fox
+
+
+ἅλωσις  (hálōsis)  [unknown]
+    capture, be taken.
+
+
+ἅμα  (háma)  [unknown]
+    properly, at the \
+    Usage: also, and, together, with(-al)
+
+
+ἀμαθής  (amathḗs)  [unknown]
+    ignorant
+    Usage: unlearned
+
+
+ἀμαράντινος  (amarántinos)  [adjective]
+    \
+    Usage: that fadeth not away
+
+
+ἀμάραντος  (amárantos)  [adjective]
+    unfading, i.e. (by implication) perpetual
+    Usage: that fadeth not away
+
+
+ἁμαρτάνω  (hamartánō)  [verb]
+    properly, to miss the mark (and so not share in the prize),
+    i.e. (figuratively) to err, especially (morally) to sin
+    Usage: for your faults, offend, sin, trespass
+
+
+ἁμάρτημα  (hamártēma)  [unknown]
+    a sin (properly concrete)
+    Usage: sin
+
+
+ἁμαρτία  (hamartía)  [unknown]
+    a sin (properly abstract)
+    Usage: offence, sin(-ful)
+
+
+ἀμάρτυρος  (amártyros)  [adjective]
+    unattested
+    Usage: without witness
+
+
+ἁμαρτωλός  (hamartōlós)  [unknown]
+    sinful, i.e. a sinner
+    Usage: sinful, sinner
+
+
+ἄμαχος  (ámachos)  [adjective]
+    peaceable
+    Usage: not a brawler
+
+
+ἀμάω  (amáō)  [verb]
+    properly, to collect, i.e. (by implication) reap
+    Usage: reap down
+
+
+ἀμέθυστος  (améthystos)  [adjective]
+    the \
+    Usage: amethyst
+
+
+ἀμελέω  (ameléō)  [verb]
+    to be careless of
+    Usage: make light of, neglect, be negligent, no regard
+
+
+ἄμεμπτος  (ámemptos)  [adjective]
+    irreproachable
+    Usage: blameless, faultless, unblamable
+
+
+ἀμέμπτως  (amémptōs)  [adverb]
+    faultlessly
+    Usage: blameless, unblamably
+
+
+ἀμέριμνος  (amérimnos)  [adjective]
+    not anxious
+    Usage: without care(-fulness), secure
+
+
+ἀμετάθετος  (ametáthetos)  [adjective]
+    unchangeable, or (neuter as abstract) unchangeability
+    Usage: immutable(-ility)
+
+
+ἀμετακίνητος  (ametakínētos)  [adjective]
+    immovable
+    Usage: unmovable
+
+
+ἀμεταμέλητος  (ametamélētos)  [adjective]
+    irrevocable
+    Usage: without repentance, not to be repented of
+
+
+ἀμετανόητος  (ametanóētos)  [adjective]
+    unrepentant
+    Usage: impenitent
+
+
+ἄμετρος  (ámetros)  [adjective]
+    immoderate
+    Usage: (thing) without measure
+
+
+ἀμήν  (amḗn)  [verb]
+    properly, firm, i.e. (figuratively) trustworthy; adverbially,
+    surely (often as interjection, so be it)
+    Usage: amen, verily
+
+
+ἀμήτωρ  (amḗtōr)  [unknown]
+    motherless, i.e. of unknown maternity
+    Usage: without mother
+
+
+ἀμίαντος  (amíantos)  [adjective]
+    unsoiled, i.e. (figuratively) pure
+    Usage: undefiled
+
+
+Ἀμιναδάβ  (Aminadáb)  [unknown]
+    Aminadab, an Israelite
+    Usage: Aminadab
+
+
+ἄμμος  (ámmos)  [adjective]
+    sand (as heaped on the beach)
+    Usage: sand
+
+
+ἀμνός  (amnós)  [unknown]
+    a lamb
+    Usage: lamb
+
+
+ἀμοιβή  (amoibḗ)  [unknown]
+    requital
+    Usage: requite
+
+
+ἄμπελος  (ámpelos)  [adjective]
+    a vine (as coiling about a support)
+    Usage: vine
+
+
+ἀμπελουργός  (ampelourgós)  [unknown]
+    a vine-worker, i.e. pruner
+    Usage: vine-dresser
+
+
+ἀμπελών  (ampelṓn)  [unknown]
+    a vineyard
+    Usage: vineyard
+
+
+Ἀμπλίας  (Amplías)  [unknown]
+    Amplias, a Roman Christian
+    Usage: Amplias
+
+
+ἀμύνομαι  (amýnomai)  [verb]
+    to ward off (for oneself), i.e. protect
+    Usage: defend
+
+
+ἀμφίβληστρον  (amphíblēstron)  [noun/adjective]
+    a (fishing) net (as thrown about the fish)
+    Usage: net
+
+
+ἀμφιέννυμι  (amphiénnymi)  [verb]
+    to enrobe
+    Usage: clothe
+
+
+Ἀμφίπολις  (Amphípolis)  [unknown]
+    a city surrounded by a river; Amphipolis, a place in
+    Macedonia
+    Usage: Amphipolis
+
+
+ἄμφοδον  (ámphodon)  [noun/adjective]
+    a fork in the road
+    Usage: where two ways meet
+
+
+ἀμφότερος  (amphóteros)  [adjective]
+    (in plural) both
+    Usage: both
+
+
+ἀμώμητος  (amṓmētos)  [adjective]
+    unblamable
+    Usage: blameless
+
+
+ἄμωμος  (ámōmos)  [adjective]
+    unblemished (literally or figuratively)
+    Usage: without blame (blemish, fault, spot), faultless, unblamable
+
+
+Ἀμών  (Amṓn)  [unknown]
+    Amon, an Israelite
+    Usage: Amon
+
+
+Ἀμώς  (Amṓs)  [unknown]
+    Amos, an Israelite
+    Usage: Amos
+
+
+ἄν  (án)  [unknown]
+    Usage: (what-, where-, wither-, who-)soever
+
+
+ἀνά  (aná)  [unknown]
+    properly, up; but (by extension) used (distributively)
+    severally, or (locally) at (etc.)
+    Usage: and, apiece, by, each, every (man), in, through
+
+
+ἀναβαθμός  (anabathmós)  [unknown]
+    a stairway
+    Usage: stairs
+
+
+ἀναβαίνω  (anabaínō)  [verb]
+    to go up (literally or figuratively)
+    Usage: arise, ascend (up), climb (go, grow, rise, spring) up, come (up)
+
+
+ἀναβάλλομαι  (anabállomai)  [verb]
+    to put off (for oneself)
+    Usage: defer
+
+
+ἀναβιβάζω  (anabibázō)  [verb]
+    to cause to go up, i.e. haul (a net)
+    Usage: draw
+
+
+ἀναβλέπω  (anablépō)  [verb]
+    to look up; by implication, to recover sight
+    Usage: look (up), see, receive sight
+
+
+ἀνάβλεψις  (anáblepsis)  [unknown]
+    restoration of sight
+    Usage: recovery of sight
+
+
+ἀναβοάω  (anaboáō)  [verb]
+    to halloo
+    Usage: cry (aloud, out)
+
+
+ἀναβολή  (anabolḗ)  [unknown]
+    a putting off
+    Usage: delay
+
+
+ἀναγγέλλω  (anangéllō)  [verb]
+    to announce (in detail)
+    Usage: declare, rehearse, report, show, speak, tell
+
+
+ἀναγεννάω  (anagennáō)  [verb]
+    to beget or (by extension) bear (again)
+    Usage: beget, (bear) X (again)
+
+
+ἀναγινώσκω  (anaginṓskō)  [verb]
+    to know again, i.e. (by extension) to read
+    Usage: read
+
+
+ἀναγκάζω  (anankázō)  [verb]
+    to necessitate
+    Usage: compel, constrain
+
+
+ἀναγκαῖος  (anankaîos)  [adjective]
+    necessary; by implication, close (of kin)
+    Usage: near, necessary, necessity, needful
+
+
+ἀναγκαστῶς  (anankastōs)  [unknown]
+    compulsorily
+    Usage: by constraint
+
+
+ἀνάγκη  (anánkē)  [unknown]
+    constraint (literally or figuratively); by implication,
+    distress
+    Usage: distress, must needs, (of) necessity(-sary), needeth, needful
+
+
+ἀναγνωρίζομαι  (anagnōrízomai)  [verb]
+    to make (oneself) known
+    Usage: be made known
+
+
+ἀνάγνωσις  (anágnōsis)  [unknown]
+    (the act of) reading
+    Usage: reading
+
+
+ἀνάγω  (anágō)  [verb]
+    to lead up; by extension to bring out; specially, to sail
+    away
+    Usage: bring (again, forth, up again), depart, launch (forth), lead (up), loose, offer, sail, set forth, ta...
+
+
+ἀναδείκνυμι  (anadeíknymi)  [verb]
+    to exhibit, i.e. (by implication) to indicate, appoint
+    Usage: appoint, shew
+
+
+ἀνάδειξις  (anádeixis)  [unknown]
+    (the act of) exhibition
+    Usage: shewing
+
+
+ἀναδέχομαι  (anadéchomai)  [verb]
+    to entertain (as a guest)
+    Usage: receive
+
+
+ἀναδίδωμι  (anadídōmi)  [verb]
+    to hand over
+    Usage: deliver
+
+
+ἀναζάω  (anazáō)  [verb]
+    to recover life (literally or figuratively)
+    Usage: (be a-)live again, revive
+
+
+ἀναζητέω  (anazētéō)  [verb]
+    to search out
+    Usage: seek
+
+
+ἀναζώννυμι  (anazṓnnymi)  [verb]
+    to gird afresh
+    Usage: gird up
+
+
+ἀναζωπυρέω  (anazōpyréō)  [verb]
+    to re-enkindle
+    Usage: stir up
+
+
+ἀναθάλλω  (anathállō)  [verb]
+    to revive
+    Usage: flourish again
+
+
+ἀνάθεμα  (anáthema)  [unknown]
+    a (religious) ban or (concretely) excommunicated (thing or
+    person)
+    Usage: accused, anathema, curse, X great
+
+
+ἀναθεματίζω  (anathematízō)  [verb]
+    to declare or vow under penalty of execration
+    Usage: (bind under a) curse, bind with an oath
+
+
+ἀναθεωρέω  (anatheōréō)  [verb]
+    to look again (i.e. attentively) at (literally or
+    figuratively)
+    Usage: behold, consider
+
+
+ἀνάθημα  (anáthēma)  [unknown]
+    a votive offering
+    Usage: gift
+
+
+ἀναίδεια  (anaídeia)  [unknown]
+    impudence, i.e. (by implication) importunity
+    Usage: importunity
+
+
+ἀναίρεσις  (anaíresis)  [unknown]
+    (the act of) killing
+    Usage: death
+
+
+ἀναιρέω  (anairéō)  [verb]
+    to take up, i.e. adopt; by implication, to take away
+    (violently), i.e. abolish, murder
+    Usage: put to death, kill, slay, take away, take up
+
+
+ἀναίτιος  (anaítios)  [adjective]
+    innocent
+    Usage: blameless, guiltless
+
+
+ἀνακαθίζω  (anakathízō)  [verb]
+    properly, to set up, i.e. (reflexively) to sit up
+    Usage: sit up
+
+
+ἀνακαινίζω  (anakainízō)  [verb]
+    to restore
+    Usage: renew
+
+
+ἀνακαινόω  (anakainóō)  [verb]
+    to renovate
+    Usage: renew
+
+
+ἀνακαίνωσις  (anakaínōsis)  [unknown]
+    renovation
+    Usage: renewing
+
+
+ἀνακαλύπτω  (anakalýptō)  [verb]
+    to unveil
+    Usage: open, (un-)taken away
+
+
+ἀνακάμπτω  (anakámptō)  [verb]
+    to turn back
+    Usage: (re-)turn
+
+
+ἀνακεῖμαι  (anakeîmai)  [verb]
+    to recline (as a corpse or at a meal)
+    Usage: guest, lean, lie, sit (down, at meat), at the table
+
+
+ἀνακεφαλαίομαι  (anakephalaíomai)  [verb]
+    to sum up
+    Usage: briefly comprehend, gather together in one
+
+
+ἀνακλίνω  (anaklínō)  [verb]
+    to lean back
+    Usage: lay, (make) sit down
+
+
+ἀνακόπτω  (anakóptō)  [verb]
+    to beat back, i.e. check
+    Usage: hinder
+
+
+ἀνακράζω  (anakrázō)  [verb]
+    to scream up (aloud)
+    Usage: cry out
+
+
+ἀνακρίνω  (anakrínō)  [verb]
+    properly, to scrutinize, i.e. (by implication) investigate,
+    interrogate, determine
+    Usage: ask, question, discern, examine, judge, search
+
+
+ἀνάκρισις  (anákrisis)  [unknown]
+    a (judicial) investigation
+    Usage: examination
+
+
+ἀνακύπτω  (anakýptō)  [verb]
+    to unbend, i.e. rise; figuratively, be elated
+    Usage: lift up, look up
+
+
+ἀναλαμβάνω  (analambánō)  [verb]
+    to take up
+    Usage: receive up, take (in, unto, up)
+
+
+ἀνάληψις  (análēpsis)  [unknown]
+    ascension
+    Usage: taking up
+
+
+ἀναλίσκω  (analískō)  [verb]
+    properly, to use up, i.e. destroy
+    Usage: consume
+
+
+ἀναλογία  (analogía)  [unknown]
+    proportion
+    Usage: proportion
+
+
+ἀναλογίζομαι  (analogízomai)  [verb]
+    to estimate, i.e. (figuratively) contemplate
+    Usage: consider
+
+
+ἄναλος  (ánalos)  [adjective]
+    saltless, i.e. insipid
+    Usage: X lose saltness
+
+
+ἀνάλυσις  (análysis)  [unknown]
+    departure
+    Usage: departure
+
+
+ἀναλύω  (analýō)  [verb]
+    to break up, i.e. depart (literally or figuratively)
+    Usage: depart, return
+
+
+ἀναμάρτητος  (anamártētos)  [adjective]
+    sinless
+    Usage: that is without sin
+
+
+ἀναμένω  (anaménō)  [verb]
+    to await
+    Usage: wait for
+
+
+ἀναμιμνήσκω  (anamimnḗskō)  [verb]
+    to remind; (reflexively) to recollect
+    Usage: call to mind, (bring to , call to, put in), remember(-brance)
+
+
+ἀνάμνησις  (anámnēsis)  [unknown]
+    recollection
+    Usage: remembrance (again)
+
+
+ἀνανεόω  (ananeóō)  [verb]
+    to renovate, i.e. reform
+    Usage: renew
+
+
+ἀνανήφω  (ananḗphō)  [verb]
+    to become sober again, i.e. (figuratively) regain (one's)
+    senses
+    Usage: recover self
+
+
+Ἀνανίας  (Ananías)  [unknown]
+    Ananias, the name of three Israelites
+    Usage: Ananias
+
+
+ἀναντίῤῥητος  (anantírrhētos)  [adjective]
+    indisputable
+    Usage: cannot be spoken against
+
+
+ἀναντιῤῥήτως  (anantirrhḗtōs)  [adverb]
+    promptly
+    Usage: without gainsaying
+
+
+ἀνάξιος  (anáxios)  [adjective]
+    unfit
+    Usage: unworthy
+
+
+ἀναξίως  (anaxíōs)  [adverb]
+    irreverently
+    Usage: unworthily
+
+
+ἀνάπαυσις  (anápausis)  [unknown]
+    intermission; by implication, recreation
+    Usage: rest
+
+
+ἀναπαύω  (anapaúō)  [verb]
+    (reflexively) to repose (literally or figuratively (be
+    exempt), remain); by implication, to refresh
+    Usage: take ease, refresh, (give, take) rest
+
+
+ἀναπείθω  (anapeíthō)  [verb]
+    to incite
+    Usage: persuade
+
+
+ἀναπέμπω  (anapémpō)  [verb]
+    to send up or back
+    Usage: send (again)
+
+
+ἀνάπηρος  (anápēros)  [adjective]
+    crippled
+    Usage: maimed
+
+
+ἀναπίπτω  (anapíptō)  [verb]
+    to fall back, i.e. lie down, lean back
+    Usage: lean, sit down (to meat)
+
+
+ἀναπληρόω  (anaplēróō)  [verb]
+    to complete; by implication, to occupy, supply; figuratively,
+    to accomplish (by coincidence ot obedience)
+    Usage: fill up, fulfill, occupy, supply
+
+
+ἀναπολόγητος  (anapológētos)  [adjective]
+    indefensible
+    Usage: without an excuse, inexcusable
+
+
+ἀναπτύσσω  (anaptýssō)  [verb]
+    to unroll (a scroll or volume)
+    Usage: open
+
+
+ἀνάπτω  (anáptō)  [verb]
+    to enkindle
+    Usage: kindle, light
+
+
+ἀναρίθμητος  (anaríthmētos)  [adjective]
+    unnumbered, i.e. without number
+    Usage: innumerable
+
+
+ἀνασείω  (anaseíō)  [verb]
+    figuratively, to excite
+    Usage: move, stir up
+
+
+ἀνασκευάζω  (anaskeuázō)  [verb]
+    properly, to pack up (baggage), i.e. (by implication, and
+    figuratively) to upset
+    Usage: subvert
+
+
+ἀνασπάω  (anaspáō)  [verb]
+    to take up or extricate
+    Usage: draw up, pull out
+
+
+ἀνάστασις  (anástasis)  [unknown]
+    a standing up again, i.e. (literally) a resurrection from
+    death (individual, genitive case or by implication, (its
+    author)), or (figuratively) a (moral) recovery (of spiritual
+    truth)
+    Usage: raised to life again, resurrection, rise from the dead, that should rise, rising again
+
+
+ἀναστατόω  (anastatóō)  [verb]
+    properly, to drive out of home, i.e. (by implication) to
+    disturb (literally or figuratively)
+    Usage: trouble, turn upside down, make an uproar
+
+
+ἀνασταυρόω  (anastauróō)  [verb]
+    to recrucify (figuratively)
+    Usage: crucify afresh
+
+
+ἀναστενάζω  (anastenázō)  [verb]
+    to sigh deeply
+    Usage: sigh deeply
+
+
+ἀναστρέφω  (anastréphō)  [verb]
+    to overturn; also to return; by implication, to busy oneself,
+    i.e. remain, live
+    Usage: abide, behave self, have conversation, live, overthrow, pass, return, be used
+
+
+ἀναστροφή  (anastrophḗ)  [unknown]
+    behavior
+    Usage: conversation
+
+
+ἀνατάσσομαι  (anatássomai)  [verb]
+    to arrange
+    Usage: set in order
+
+
+ἀνατέλλω  (anatéllō)  [verb]
+    to (cause to) arise
+    Usage: (a-, make to) rise, at the rising of, spring (up), be up
+
+
+ἀνατίθεμαι  (anatíthemai)  [verb]
+    to set forth (for oneself), i.e propound
+    Usage: communicate, declare
+
+
+ἀνατολή  (anatolḗ)  [unknown]
+    a rising of light, i.e. dawn (figuratively); by implication,
+    the east (also in plural)
+    Usage: dayspring, east, rising
+
+
+ἀνατρέπω  (anatrépō)  [verb]
+    to overturn (figuratively)
+    Usage: overthrow, subvert
+
+
+ἀνατρέφω  (anatréphō)  [verb]
+    to rear (physically or mentally)
+    Usage: bring up, nourish (up)
+
+
+ἀναφαίνω  (anaphaínō)  [verb]
+    to show, i.e. (reflexively) appear, or (passively) to have
+    pointed out
+    Usage: (should) appear, discover
+
+
+ἀναφέρω  (anaphérō)  [verb]
+    to take up (literally or figuratively)
+    Usage: bear, bring (carry, lead) up, offer (up)
+
+
+ἀναφωνέω  (anaphōnéō)  [verb]
+    to exclaim
+    Usage: speak out
+
+
+ἀνάχυσις  (anáchysis)  [unknown]
+    properly, effusion, i.e. (figuratively) license
+    Usage: excess
+
+
+ἀναχωρέω  (anachōréō)  [verb]
+    to retire
+    Usage: depart, give place, go (turn) aside, withdraw self
+
+
+ἀνάψυξις  (anápsyxis)  [unknown]
+    properly, a recovery of breath, i.e. (figuratively) revival
+    Usage: revival
+
+
+ἀναψύχω  (anapsýchō)  [verb]
+    properly, to cool off, i.e. (figuratively) relieve
+    Usage: refresh
+
+
+ἀνδραποδιστής  (andrapodistḗs)  [unknown]
+    an enslaver (as bringing men to his feet)
+    Usage: menstealer
+
+
+Ἀνδρέας  (Andréas)  [unknown]
+    manly; Andreas, an Israelite
+    Usage: Andrew
+
+
+ἀνδρίζομαι  (andrízomai)  [verb]
+    to act manly
+    Usage: quit like men
+
+
+Ἀνδρόνικος  (Andrónikos)  [adjective]
+    man of victory; Andronicos, an Israelite
+    Usage: Adronicus
+
+
+ἀνδροφόνος  (androphónos)  [adjective]
+    a murderer
+    Usage: manslayer
+
+
+ἀνέγκλητος  (anénklētos)  [adjective]
+    unaccused, i.e. (by implication) irreproachable
+    Usage: blameless
+
+
+ἀνεκδιήγητος  (anekdiḗgētos)  [adjective]
+    not expounded in full, i.e. indescribable
+    Usage: unspeakable
+
+
+ἀνεκλάλητος  (aneklálētos)  [adjective]
+    not spoken out, i.e. (by implication) unutterable
+    Usage: unspeakable
+
+
+ἀνέκλειπτος  (anékleiptos)  [adjective]
+    not left out, i.e. (by implication) inexhaustible
+    Usage: that faileth not
+
+
+ἀνεκτότερος  (anektóteros)  [adjective]
+    more endurable
+    Usage: more tolerable
+
+
+ἀνελεήμων  (aneleḗmōn)  [adjective]
+    merciless
+    Usage: unmerciful
+
+
+ἀνεμίζω  (anemízō)  [verb]
+    to toss with the wind
+    Usage: drive with the wind
+
+
+ἄνεμος  (ánemos)  [adjective]
+    wind; (plural) by implication, (the four) quarters (of the
+    earth)
+    Usage: wind
+
+
+ἀνένδεκτος  (anéndektos)  [adjective]
+    unadmitted, i.e. (by implication) not supposable
+    Usage: impossible
+
+
+ἀνεξερεύνητος  (anexereúnētos)  [adjective]
+    not searched out, i.e. (by implication) inscrutable
+    Usage: unsearchable
+
+
+ἀνεξίκακος  (anexíkakos)  [adjective]
+    enduring of ill, i.e. forbearing
+    Usage: patient
+
+
+ἀνεξιχνίαστος  (anexichníastos)  [adjective]
+    not tracked out, i.e. (by implication) untraceable
+    Usage: past finding out; unsearchable
+
+
+ἀνεπαίσχυντος  (anepaíschyntos)  [adjective]
+    not ashamed, i.e. irreprehensible:
+    Usage: --that needeth not to be ashamed
+
+
+ἀνεπίληπτος  (anepílēptos)  [adjective]
+    not arrested, i.e. (by implication) inculpable
+    Usage: blameless, unrebukeable
+
+
+ἀνέρχομαι  (anérchomai)  [verb]
+    to ascend
+    Usage: go up
+
+
+ἄνεσις  (ánesis)  [unknown]
+    relaxation or (figuratively) relief
+    Usage: eased, liberty, rest
+
+
+ἀνετάζω  (anetázō)  [verb]
+    to investigate (judicially)
+    Usage: (should have) examined(-d)
+
+
+ἄνευ  (áneu)  [unknown]
+    without
+    Usage: without
+
+
+ἀνεύθετος  (aneúthetos)  [adjective]
+    not well set, i.e. inconvenient
+    Usage: not commodious
+
+
+ἀνευρίσκω  (aneurískō)  [verb]
+    to find out
+    Usage: find
+
+
+ἀνέχομαι  (anéchomai)  [verb]
+    to hold oneself up against, i.e. (figuratively) put up with
+    Usage: bear with, endure, forbear, suffer
+
+
+ἀνεψιός  (anepsiós)  [unknown]
+    properly, akin, i.e. (specially) a cousin
+    Usage: sister's son
+
+
+ἄνηθον  (ánēthon)  [noun/adjective]
+    dill
+    Usage: anise
+
+
+ἀνήκω  (anḗkō)  [verb]
+    to attain to, i.e. (figuratively) be proper
+    Usage: convenient, be fit
+
+
+ἀνήμερος  (anḗmeros)  [adjective]
+    savage
+    Usage: fierce
+
+
+ἀνήρ  (anḗr)  [unknown]
+    a man (properly as an individual male)
+    Usage: fellow, husband, man, sir
+
+
+ἀνθίστημι  (anthístēmi)  [verb]
+    to stand against, i.e. oppose
+    Usage: resist, withstand
+
+
+ἀνθομολογέομαι  (anthomologéomai)  [verb]
+    to confess in turn, i.e. respond in praise
+    Usage: give thanks
+
+
+ἄνθος  (ánthos)  [adjective]
+    a blossom
+    Usage: flower
+
+
+ἀνθρακιά  (anthrakiá)  [unknown]
+    a bed of burning coals
+    Usage: fire of coals
+
+
+ἄνθραξ  (ánthrax)  [unknown]
+    a live coal
+    Usage: coal of fire
+
+
+ἀνθρωπάρεσκος  (anthrōpáreskos)  [adjective]
+    man-courting, i.e. fawning
+    Usage: men-pleaser
+
+
+ἀνθρώπινος  (anthrṓpinos)  [adjective]
+    human
+    Usage: human, common to man, man(-kind), (man-)kind, men's, after the manner of men
+
+
+ἀνθρωποκτόνος  (anthrōpoktónos)  [adjective]
+    a manslayer
+    Usage: murderer
+
+
+ἄνθρωπος  (ánthrōpos)  [adjective]
+    from G3700 (ὀπτάνομαι)); man-faced, i.e. a human being
+    Usage: certain, man
+
+
+ἀνθυπατεύω  (anthypateúō)  [verb]
+    to act as proconsul
+    Usage: be the deputy
+
+
+ἀνθύπατος  (anthýpatos)  [adjective]
+    instead of the highest officer, i.e. (specially) a Roman
+    proconsul
+    Usage: deputy
+
+
+ἀνίημι  (aníēmi)  [verb]
+    to let up, i.e. (literally) slacken or (figuratively) desert,
+    desist from
+    Usage: forbear, leave, loose
+
+
+ἀνίλεως  (aníleōs)  [adverb]
+    inexorable
+    Usage: without mercy
+
+
+ἄνιπτος  (ániptos)  [adjective]
+    without ablution
+    Usage: unwashen
+
+
+ἀνίστημι  (anístēmi)  [verb]
+    to stand up (literal or figurative, transitive or
+    intransitive)
+    Usage: arise, lift up, raise up (again), rise (again), stand up(-right)
+
+
+Ἄννα  (Ánna)  [unknown]
+    Anna, an Israelitess
+    Usage: Anna
+
+
+Ἄννας  (Ánnas)  [unknown]
+    Annas (i.e. G367 (Ἀνανίας)), an Israelite
+    Usage: Annas
+
+
+ἀνόητος  (anóētos)  [adjective]
+    unintelligent; by implication, sensual
+    Usage: fool(-ish), unwise
+
+
+ἄνοια  (ánoia)  [unknown]
+    stupidity; by implication, rage
+    Usage: folly, madness
+
+
+ἀνοίγω  (anoígō)  [verb]
+    to open up (literally or figuratively, in various
+    applications)
+    Usage: open
+
+
+ἀνοικοδομέω  (anoikodoméō)  [verb]
+    to rebuild
+    Usage: build again
+
+
+ἄνοιξις  (ánoixis)  [unknown]
+    opening (throat)
+    Usage: X open
+
+
+ἀνομία  (anomía)  [unknown]
+    illegality, i.e. violation of law or (genitive case)
+    wickedness
+    Usage: iniquity, X transgress(-ion of) the law, unrighteousness
+
+
+ἄνομος  (ánomos)  [adjective]
+    lawless, i.e. (negatively) not subject to (the Jewish) law;
+    (by implication, a Gentile), or (positively) wicked
+    Usage: without law, lawless, transgressor, unlawful, wicked
+
+
+ἀνόμως  (anómōs)  [adverb]
+    lawlessly, i.e. (specially) not amenable to (the Jewish) law
+    Usage: without law
+
+
+ἀνορθόω  (anorthóō)  [verb]
+    to straighten up
+    Usage: lift (set) up, make straight
+
+
+ἀνόσιος  (anósios)  [adjective]
+    wicked
+    Usage: unholy
+
+
+ἀνοχή  (anochḗ)  [unknown]
+    self-restraint, i.e. tolerance
+    Usage: forbearance
+
+
+ἀνταγωνίζομαι  (antagōnízomai)  [verb]
+    to struggle against (figuratively) (\
+    Usage: strive against
+
+
+ἀντάλλαγμα  (antállagma)  [unknown]
+    an equivalent or ransom
+    Usage: in exchange
+
+
+ἀνταναπληρόω  (antanaplēróō)  [verb]
+    to supplement
+    Usage: fill up
+
+
+ἀνταποδίδωμι  (antapodídōmi)  [verb]
+    to requite (good or evil)
+    Usage: recompense, render, repay
+
+
+ἀνταπόδομα  (antapódoma)  [unknown]
+    a requital (properly, the thing)
+    Usage: recompense
+
+
+ἀνταπόδοσις  (antapódosis)  [unknown]
+    requital (properly, the act)
+    Usage: reward
+
+
+ἀνταποκρίνομαι  (antapokrínomai)  [verb]
+    to contradict or dispute
+    Usage: answer again, reply against
+
+
+ἀντέπω  (antépō)  [verb]
+    to refute or deny
+    Usage: gainsay, say against
+
+
+ἀντέχομαι  (antéchomai)  [verb]
+    to hold oneself opposite to, i.e. (by implication) adhere to;
+    by extension to care for
+    Usage: hold fast, hold to, support
+
+
+ἀντί  (antí)  [unknown]
+    opposite, i.e. instead or because of (rarely in addition to)
+    Usage: for, in the room of
+
+
+ἀντιβάλλω  (antibállō)  [verb]
+    to bandy
+    Usage: have
+
+
+ἀντιδιατίθεμαι  (antidiatíthemai)  [verb]
+    to set oneself opposite, i.e. be disputatious
+    Usage: that oppose themselves
+
+
+ἀντίδικος  (antídikos)  [adjective]
+    an opponent (in a lawsuit); specially, Satan (as the
+    arch-enemy)
+    Usage: adversary
+
+
+ἀντίθεσις  (antíthesis)  [unknown]
+    opposition, i.e. a conflict (of theories)
+    Usage: opposition
+
+
+ἀντικαθίστημι  (antikathístēmi)  [verb]
+    to set down (troops) against, i.e. withstand
+    Usage: resist
+
+
+ἀντικαλέω  (antikaléō)  [verb]
+    to invite in return
+    Usage: bid again
+
+
+ἀντίκειμαι  (antíkeimai)  [verb]
+    to lie opposite, i.e. be adverse (figuratively, repugnant) to
+    Usage: adversary, be contrary, oppose
+
+
+ἀντικρύ  (antikrý)  [unknown]
+    opposite
+    Usage: over against
+
+
+ἀντιλαμβάνομαι  (antilambánomai)  [verb]
+    to take hold of in turn, i.e. succor; also to participate
+    Usage: help, partaker, support
+
+
+ἀντιλέγω  (antilégō)  [verb]
+    to dispute, refuse
+    Usage: answer again, contradict, deny, gainsay(-er), speak against
+
+
+ἀντίληψις  (antílēpsis)  [unknown]
+    relief
+    Usage: help
+
+
+ἀντιλογία  (antilogía)  [unknown]
+    dispute, disobedience
+    Usage: contradiction, gainsaying, strife
+
+
+ἀντιλοιδορέω  (antiloidoréō)  [verb]
+    to rail in reply
+    Usage: revile again
+
+
+ἀντίλυτρον  (antílytron)  [noun/adjective]
+    a redemption-price
+    Usage: ransom
+
+
+ἀντιμετρέω  (antimetréō)  [verb]
+    to mete in return
+    Usage: measure again
+
+
+ἀντιμισθία  (antimisthía)  [unknown]
+    requital, correspondence
+    Usage: recompense
+
+
+Ἀντιόχεια  (Antiócheia)  [unknown]
+    Antiochia, a place in Syria
+    Usage: Antioch
+
+
+Ἀντιοχεύς  (Antiocheús)  [unknown]
+    an Antiochian or inhabitant of Antiochia
+    Usage: of Antioch
+
+
+ἀντιπαρέρχομαι  (antiparérchomai)  [verb]
+    to go along opposite
+    Usage: pass by on the other side
+
+
+Ἀντίπας  (Antípas)  [unknown]
+    Antipas, a Christian
+    Usage: Antipas
+
+
+Ἀντιπατρίς  (Antipatrís)  [unknown]
+    Antipatris, a place in Palestine
+    Usage: Antipatris
+
+
+ἀντιπέραν  (antipéran)  [unknown]
+    on the opposite side
+    Usage: over against
+
+
+ἀντιπίπτω  (antipíptō)  [verb]
+    to oppose
+    Usage: resist
+
+
+ἀντιστρατεύομαι  (antistrateúomai)  [verb]
+    (figuratively) to attack, i.e. (by implication) destroy
+    Usage: war against
+
+
+ἀντιτάσσομαι  (antitássomai)  [verb]
+    to range oneself against, i.e. oppose
+    Usage: oppose themselves, resist
+
+
+ἀντίτυπον  (antítypon)  [noun/adjective]
+    corresponding (\
+    Usage: (like) figure (whereunto)
+
+
+ἀντίχριστος  (antíchristos)  [adjective]
+    an opponent of the Messiah
+    Usage: antichrist
+
+
+ἀντλέω  (antléō)  [verb]
+    to bale up (properly, bilge water), i.e. dip water (with a
+    bucket, pitcher, etc.)
+    Usage: draw (out)
+
+
+ἄντλημα  (ántlēma)  [unknown]
+    a baling-vessel
+    Usage: thing to draw with
+
+
+ἀντοφθαλμέω  (antophthalméō)  [verb]
+    to face
+    Usage: bear up into
+
+
+ἄνυδρος  (ánydros)  [adjective]
+    waterless, i.e. dry
+    Usage: dry, without water
+
+
+ἀνυπόκριτος  (anypókritos)  [adjective]
+    undissembled, i.e. sincere
+    Usage: without dissimulation (hypocrisy), unfeigned
+
+
+ἀνυπότακτος  (anypótaktos)  [adjective]
+    unsubdued, i.e. insubordinate (in fact or temper)
+    Usage: disobedient, that is not put under, unruly
+
+
+ἄνω  (ánō)  [verb]
+    upward or on the top
+    Usage: above, brim, high, up
+
+
+ἀνώγεον  (anṓgeon)  [noun/adjective]
+    above the ground, i.e. (properly) the second floor of a
+    building; used for a dome or a balcony on the upper story
+    Usage: upper room
+
+
+ἄνωθεν  (ánōthen)  [unknown]
+    from above; by analogy, from the first; by implication, anew
+    Usage: from above, again, from the beginning (very first), the top
+
+
+ἀνωτερικός  (anōterikós)  [unknown]
+    superior, i.e. (locally) more remote
+    Usage: upper
+
+
+ἀνώτερος  (anṓteros)  [verb]
+    upper, i.e. (neuter as adverb) to a more conspicuous place,
+    in a former part of the book
+    Usage: above, higher
+
+
+ἀνωφελής  (anōphelḗs)  [unknown]
+    useless or (neuter) inutility
+    Usage: unprofitable(-ness)
+
+
+ἀξίνη  (axínē)  [unknown]
+    compare G4486 (ῥήγνυμι)); an axe
+    Usage: axe
+
+
+ἄξιος  (áxios)  [adjective]
+    deserving, comparable or suitable (as if drawing praise)
+    Usage: due reward, meet, (un-)worthy
+
+
+ἀξιόω  (axióō)  [verb]
+    to deem entitled or fit
+    Usage: desire, think good, count (think) worthy
+
+
+ἀξίως  (axíōs)  [adverb]
+    appropriately
+    Usage: as becometh, after a godly sort, worthily(-thy)
+
+
+ἀόρατος  (aóratos)  [adjective]
+    invisible
+    Usage: invisible (thing)
+
+
+ἀπαγγέλλω  (apangéllō)  [verb]
+    to announce
+    Usage: bring word (again), declare, report, shew (again), tell
+
+
+ἀπάγχομαι  (apánchomai)  [verb]
+    akin to the base of G43 (ἀγκάλη)); to strangle oneself off
+    (i.e. to death)
+    Usage: hang himself
+
+
+ἀπάγω  (apágō)  [verb]
+    to take off (in various senses)
+    Usage: bring, carry away, lead (away), put to death, take away
+
+
+ἀπαίδευτος  (apaídeutos)  [adjective]
+    uninstructed, i.e. (figuratively) stupid
+    Usage: unlearned
+
+
+ἀπαίρω  (apaírō)  [verb]
+    to lift off, i.e. remove
+    Usage: take (away)
+
+
+ἀπαιτέω  (apaitéō)  [verb]
+    to demand back
+    Usage: ask again, require
+
+
+ἀπαλγέω  (apalgéō)  [verb]
+    to grieve out, i.e. become apathetic
+    Usage: be past feeling
+
+
+ἀπαλλάσσω  (apallássō)  [verb]
+    to change away, i.e. release, (reflexively) remove
+    Usage: deliver, depart
+
+
+ἀπαλλοτριόω  (apallotrióō)  [verb]
+    to estrange away, i.e. (passively and figuratively) to be
+    non-participant
+    Usage:  alienate, be alien
+
+
+ἀπαλός  (apalós)  [unknown]
+    soft
+    Usage: tender
+
+
+ἀπαντάω  (apantáō)  [verb]
+    to meet away, i.e. encounter
+    Usage: meet
+
+
+ἀπάντησις  (apántēsis)  [unknown]
+    a (friendly) encounter
+    Usage: meet
+
+
+ἅπαξ  (hápax)  [unknown]
+    one (or a single) time (numerically or conclusively)
+    Usage: once
+
+
+ἀπαράβατος  (aparábatos)  [adjective]
+    not passing away, i.e. untransferable (perpetual)
+    Usage:  unchangeable
+
+
+ἀπαρασκεύαστος  (aparaskeúastos)  [adjective]
+    unready
+    Usage: unprepared
+
+
+ἀπαρνέομαι  (aparnéomai)  [verb]
+    to deny utterly, i.e. disown, abstain
+    Usage: deny
+
+
+ἀπάρτι  (apárti)  [unknown]
+    from now, i.e. henceforth (already)
+    Usage: from henceforth
+
+
+ἀπαρτισμός  (apartismós)  [unknown]
+    completion
+    Usage: finishing
+
+
+ἀπαρχή  (aparchḗ)  [unknown]
+    a beginning of sacrifice, i.e. the (Jewish) first-fruit
+    (figuratively)
+    Usage: first-fruits
+
+
+ἅπας  (hápas)  [unknown]
+    absolutely all or (singular) every one
+    Usage: all (things), every (one), whole
+
+
+ἀπατάω  (apatáō)  [verb]
+    to cheat, i.e. delude
+    Usage: deceive
+
+
+ἀπάτη  (apátē)  [unknown]
+    delusion
+    Usage: deceit(-ful, -fulness), deceivableness(-ving)
+
+
+ἀπάτωρ  (apátōr)  [unknown]
+    fatherless, i.e. of unrecorded paternity
+    Usage: without father
+
+
+ἀπαύγασμα  (apaúgasma)  [unknown]
+    an off-flash, i.e. effulgence
+    Usage: brightness
+
+
+ἀπείδω  (apeídō)  [verb]
+    to see fully
+    Usage: see
+
+
+ἀπείθεια  (apeítheia)  [unknown]
+    disbelief (obstinate and rebellious)
+    Usage: disobedience, unbelief
+
+
+ἀπειθέω  (apeithéō)  [verb]
+    to disbelieve (wilfully and perversely)
+    Usage: not believe, disobedient, obey not, unbelieving
+
+
+ἀπειθής  (apeithḗs)  [unknown]
+    unpersuadable, i.e. contumacious
+    Usage: disobedient
+
+
+ἀπειλέω  (apeiléō)  [verb]
+    to menace; by implication, to forbid
+    Usage: threaten
+
+
+ἀπειλή  (apeilḗ)  [unknown]
+    a menace
+    Usage: X straitly, threatening
+
+
+ἄπειμι  (ápeimi)  [verb]
+    to be away
+    Usage: be absent
+
+
+ἄπειμι  (ápeimi)  [verb]
+    to go away
+    Usage: go
+
+
+ἀπειπόμην  (apeipómēn)  [verb]
+    to say off for oneself, i.e. disown
+    Usage: renounce
+
+
+ἀπείραστος  (apeírastos)  [adjective]
+    untried, i.e. not temptable
+    Usage: not to be tempted
+
+
+ἄπειρος  (ápeiros)  [adjective]
+    inexperienced, i.e. ignorant
+    Usage: unskilful
+
+
+ἀπεκδέχομαι  (apekdéchomai)  [verb]
+    to expect fully
+    Usage: look (wait) for
+
+
+ἀπεκδύομαι  (apekdýomai)  [verb]
+    to divest wholly oneself, or (for oneself) despoil
+    Usage: put off, spoil
+
+
+ἀπέκδυσις  (apékdysis)  [unknown]
+    divestment
+    Usage: putting off
+
+
+ἀπελαύνω  (apelaúnō)  [verb]
+    to dismiss
+    Usage: drive
+
+
+ἀπελεγμός  (apelegmós)  [unknown]
+    refutation, i.e. (by implication) contempt
+    Usage: nought
+
+
+ἀπελεύθερος  (apeleútheros)  [adjective]
+    one freed away, i.e. a freedman
+    Usage: freeman
+
+
+Ἀπελλῆς  (Apellēs)  [unknown]
+    Apelles, a Christian
+    Usage: Apelles
+
+
+ἀπελπίζω  (apelpízō)  [verb]
+    to hope out, i.e. fully expect
+    Usage: hope for again
+
+
+ἀπέναντι  (apénanti)  [unknown]
+    from in front, i.e. opposite, before or against
+    Usage: before, contrary, over against, in the presence of
+
+
+ἀπέραντος  (apérantos)  [adjective]
+    unfinished, i.e. (by implication) interminable
+    Usage: endless
+
+
+ἀπερισπάστως  (aperispástōs)  [adverb]
+    undistractedly, i.e. free from (domestic) solicitude
+    Usage: without distraction
+
+
+ἀπερίτμητος  (aperítmētos)  [adjective]
+    uncircumcised (figuratively)
+    Usage: uncircumcised
+
+
+ἀπέρχομαι  (apérchomai)  [verb]
+    to go off (i.e. depart), aside (i.e. apart) or behind (i.e.
+    follow), literally or figuratively
+    Usage: come, depart, go (aside, away, back, out, … ways), pass away, be past
+
+
+ἀπέχει  (apéchei)  [unknown]
+    it is sufficient
+    Usage: it is enough
+
+
+ἀπέχομαι  (apéchomai)  [verb]
+    to hold oneself off, i.e. refrain
+    Usage: abstain
+
+
+ἀπέχω  (apéchō)  [verb]
+    (actively) to have out, i.e. receive in full;
+    (intransitively) to keep (oneself) away, i.e. be distant
+    (literally or figuratively)
+    Usage: be, have, receive
+
+
+ἀπιστέω  (apistéō)  [verb]
+    to be unbelieving, i.e. (transitively) disbelieve, or (by
+    implication) disobey
+    Usage: believe not
+
+
+ἀπιστία  (apistía)  [unknown]
+    faithlessness, i.e. (negatively) disbelief (lack of Christian
+    faith), or (positively) unfaithfulness (disobedience)
+    Usage: unbelief
+
+
+ἄπιστος  (ápistos)  [adjective]
+    (actively) disbelieving, i.e. without Christian faith
+    (specially, a heathen); (passively) untrustworthy (person),
+    or incredible (thing)
+    Usage: that believeth not, faithless, incredible thing, infidel, unbeliever(-ing)
+
+
+ἁπλότης  (haplótēs)  [noun/adjective]
+    singleness, i.e. (subjectively) sincerity (without
+    dissimulation or self-seeking), or (objectively) generosity
+    (copious bestowal)
+    Usage: bountifulness, liberal(-ity), simplicity, singleness
+
+
+ἁπλοῦς  (haploûs)  [unknown]
+    properly, folded together, i.e. single (figuratively, clear)
+    Usage: single
+
+
+ἁπλῶς  (haplōs)  [unknown]
+    bountifully;
+    Usage: --liberally
+
+
+ἀπό  (apó)  [unknown]
+    \
+    Usage: (X here-)after, ago, at, because of, before, by (the space of), for(-th), from, in, (out) of, off, (...
+
+
+ἀποβαίνω  (apobaínō)  [verb]
+    literally, to disembark; figuratively, to eventuate
+    Usage: become, go out, turn
+
+
+ἀποβάλλω  (apobállō)  [verb]
+    to throw off; figuratively, to lose
+    Usage: cast away
+
+
+ἀποβλέπω  (apoblépō)  [verb]
+    to look away from everything else, i.e. (figuratively)
+    intently regard
+    Usage: have respect
+
+
+ἀπόβλητος  (apóblētos)  [adjective]
+    cast off, i.e. (figuratively) such as to be rejected
+    Usage: be refused
+
+
+ἀποβολή  (apobolḗ)  [unknown]
+    rejection; figuratively, loss
+    Usage: casting away, loss
+
+
+ἀπογενόμενος  (apogenómenos)  [noun]
+    absent, i.e. deceased (figuratively, renounced)
+    Usage: being dead
+
+
+ἀπογραφή  (apographḗ)  [unknown]
+    an enrollment; by implication, an assessment
+    Usage: taxing
+
+
+ἀπογράφω  (apográphō)  [verb]
+    to write off (a copy or list), i.e. enrol
+    Usage: tax, write
+
+
+ἀποδείκνυμι  (apodeíknymi)  [verb]
+    to show off, i.e. exhibit; figuratively, to demonstrate, i.e.
+    accredit
+    Usage: (ap-)prove, set forth, shew
+
+
+ἀπόδειξις  (apódeixis)  [unknown]
+    manifestation
+    Usage: demonstration
+
+
+ἀποδεκατόω  (apodekatóō)  [verb]
+    to tithe (as debtor or creditor)
+    Usage: (give, pay, take) tithe
+
+
+ἀπόδεκτος  (apódektos)  [adjective]
+    accepted, i.e. agreeable
+    Usage: acceptable
+
+
+ἀποδέχομαι  (apodéchomai)  [verb]
+    to take fully, i.e. welcome (persons), approve (things)
+    Usage: accept, receive (gladly)
+
+
+ἀποδημέω  (apodēméō)  [verb]
+    to go abroad, i.e. visit a foreign land
+    Usage: go (travel) into a far country, journey
+
+
+ἀπόδημος  (apódēmos)  [adjective]
+    absent from one's own people, i.e. a foreign traveller
+    Usage: taking a far journey
+
+
+ἀποδίδωμι  (apodídōmi)  [verb]
+    to give away, i.e. up, over, back, etc. (in various
+    applications)
+    Usage: deliver (again), give (again), (re-)pay(-ment be made), perform, recompense, render, requite, restor...
+
+
+ἀποδιορίζω  (apodiorízō)  [verb]
+    to disjoin (by a boundary, figuratively, a party)
+    Usage: separate
+
+
+ἀποδοκιμάζω  (apodokimázō)  [verb]
+    to disapprove, i.e. (by implication) to repudiate
+    Usage: disallow, reject
+
+
+ἀποδοχή  (apodochḗ)  [unknown]
+    acceptance
+    Usage: acceptation
+
+
+ἀπόθεσις  (apóthesis)  [unknown]
+    a laying aside (literally or figuratively)
+    Usage: putting away (off)
+
+
+ἀποθήκη  (apothḗkē)  [unknown]
+    a repository, i.e. granary
+    Usage: barn, garner
+
+
+ἀποθησαυρίζω  (apothēsaurízō)  [verb]
+    to treasure away
+    Usage: lay up in store
+
+
+ἀποθλίβω  (apothlíbō)  [verb]
+    to crowd (from every side)
+    Usage: press
+
+
+ἀποθνήσκω  (apothnḗskō)  [verb]
+    to die off (literally or figuratively)
+    Usage: be dead, death, die, lie a-dying, be slain (X with)
+
+
+ἀποκαθίστημι  (apokathístēmi)  [verb]
+    to reconstitute (in health, home or organization)
+    Usage: restore (again)
+
+
+ἀποκαλύπτω  (apokalýptō)  [verb]
+    to take off the cover, i.e. disclose
+    Usage: reveal
+
+
+ἀποκάλυψις  (apokálypsis)  [unknown]
+    disclosure
+    Usage: appearing, coming, lighten, manifestation, be revealed, revelation
+
+
+ἀποκαραδοκία  (apokaradokía)  [unknown]
+    intense anticipation
+    Usage: earnest expectation
+
+
+ἀποκαταλλάσσω  (apokatallássō)  [verb]
+    to reconcile fully
+    Usage: reconcile
+
+
+ἀποκατάστασις  (apokatástasis)  [unknown]
+    reconstitution
+    Usage: restitution
+
+
+ἀπόκειμαι  (apókeimai)  [verb]
+    to be reserved; figuratively, to await
+    Usage: be appointed, (be) laid up
+
+
+ἀποκεφαλίζω  (apokephalízō)  [verb]
+    to decapitate
+    Usage: behead
+
+
+ἀποκλείω  (apokleíō)  [verb]
+    to close fully
+    Usage: shut up
+
+
+ἀποκόπτω  (apokóptō)  [verb]
+    to amputate; reflexively (by irony) to mutilate (the privy
+    parts)
+    Usage: cut off
+
+
+ἀπόκριμα  (apókrima)  [unknown]
+    a judicial decision
+    Usage: sentence
+
+
+ἀποκρίνομαι  (apokrínomai)  [verb]
+    to conclude for oneself, i.e. (by implication) to respond; by
+    Hebraism (compare H06030) to begin to speak (where an address
+    is expected)
+    Usage: answer
+
+
+ἀπόκρισις  (apókrisis)  [unknown]
+    a response
+    Usage: answer
+
+
+ἀποκρύπτω  (apokrýptō)  [verb]
+    to conceal away (i.e. fully); figuratively, to keep secret
+    Usage: hide
+
+
+ἀπόκρυφος  (apókryphos)  [adjective]
+    secret; by implication, treasured
+    Usage: hid, kept secret
+
+
+ἀποκτείνω  (apokteínō)  [verb]
+    to kill outright; figuratively, to destroy
+    Usage: put to death, kill, slay
+
+
+ἀποκυέω  (apokyéō)  [verb]
+    to breed forth, i.e. (by transference) to generate
+    (figuratively)
+    Usage: beget, produce
+
+
+ἀποκυλίω  (apokylíō)  [verb]
+    to roll away
+    Usage: roll away (back)
+
+
+ἀπολαμβάνω  (apolambánō)  [verb]
+    to receive (specially, in full, or as a host); also to take
+    aside
+    Usage: receive, take
+
+
+ἀπόλαυσις  (apólausis)  [unknown]
+    full enjoyment
+    Usage: enjoy(-ment)
+
+
+ἀπολείπω  (apoleípō)  [verb]
+    to leave behind (passively, remain); by implication, to
+    forsake
+    Usage: leave, remain
+
+
+ἀπολείχω  (apoleíchō)  [verb]
+    to lick clean
+    Usage: lick
+
+
+ἀπόλλυμι  (apóllymi)  [verb]
+    to destroy fully (reflexively, to perish, or lose), literally
+    or figuratively
+    Usage: destroy, die, lose, mar, perish
+
+
+Ἀπολλύων  (Apollýōn)  [adjective]
+    a destroyer (i.e. Satan)
+    Usage: Apollyon
+
+
+Ἀπολλωνία  (Apollōnía)  [unknown]
+    from G622 (ἀπόλλυμι)); Apollonia, a place in Macedonia
+    Usage: Apollonia
+
+
+Ἀπολλῶς  (Apollōs)  [unknown]
+    Apollos, an Israelite
+    Usage: Apollos
+
+
+ἀπολογέομαι  (apologéomai)  [verb]
+    to give an account (legal plea) of oneself, i.e. exculpate
+    (self)
+    Usage: answer (for self), make defence, excuse (self), speak for self
+
+
+ἀπολογία  (apología)  [unknown]
+    a plea (\
+    Usage: answer (for self), clearing of self, defence
+
+
+ἀπολούω  (apoloúō)  [verb]
+    to wash fully, i.e. (figuratively) have remitted
+    (reflexively)
+    Usage: wash (away)
+
+
+ἀπολύτρωσις  (apolýtrōsis)  [unknown]
+    (the act) ransom in full, i.e. (figuratively) riddance, or
+    (specially) Christian salvation
+    Usage: deliverance, redemption
+
+
+ἀπολύω  (apolýō)  [verb]
+    to free fully, i.e. (literally) relieve, release, dismiss
+    (reflexively, depart), or (figuratively) let die, pardon or
+    (specially) divorce
+    Usage: (let) depart, dismiss, divorce, forgive, let go, loose, put (send) away, release, set at liberty
+
+
+ἀπομάσσομαι  (apomássomai)  [verb]
+    to scrape away
+    Usage: wipe off
+
+
+ἀπονέμω  (aponémō)  [verb]
+    to apportion, i.e. bestow
+    Usage: give
+
+
+ἀπονίπτω  (aponíptō)  [verb]
+    to wash off (reflexively, one's own hands symbolically)
+    Usage: wash
+
+
+ἀποπίπτω  (apopíptō)  [verb]
+    to fall off
+    Usage: fall
+
+
+ἀποπλανάω  (apoplanáō)  [verb]
+    to lead astray (figuratively); passively, to stray (from
+    truth)
+    Usage: err, seduce
+
+
+ἀποπλέω  (apopléō)  [verb]
+    to set sail
+    Usage: sail away
+
+
+ἀποπλύνω  (apoplýnō)  [verb]
+    to rinse off
+    Usage: wash
+
+
+ἀποπνίγω  (apopnígō)  [verb]
+    to stifle (by drowning or overgrowth)
+    Usage: choke
+
+
+ἀπορέω  (aporéō)  [verb]
+    to have no way out, i.e. be at a loss (mentally)
+    Usage:  (stand in) doubt, be perplexed
+
+
+ἀπορία  (aporía)  [unknown]
+    a (state of) quandary
+    Usage: perplexity
+
+
+ἀποῤῥίπτω  (aporrhíptō)  [verb]
+    to hurl off, i.e. precipitate (oneself)
+    Usage: cast
+
+
+ἀπορφανίζω  (aporphanízō)  [verb]
+    to bereave wholly, i.e. (figuratively) separate (from
+    intercourse)
+    Usage: take
+
+
+ἀποσκευάζω  (aposkeuázō)  [verb]
+    to pack up (one's) baggage
+    Usage: take up… carriages
+
+
+ἀποσκίασμα  (aposkíasma)  [unknown]
+    a shading off, i.e. obscuration
+    Usage: shadow
+
+
+ἀποσπάω  (apospáō)  [verb]
+    to drag forth, i.e. (literally) unsheathe (a sword), or
+    relatively (with a degree of force implied) retire
+    (personally or factiously)
+    Usage: (with-)draw (away), after we were gotten from
+
+
+ἀποστασία  (apostasía)  [unknown]
+    defection from truth (properly, the state) (\
+    Usage: falling away, forsake
+
+
+ἀποστάσιον  (apostásion)  [noun/adjective]
+    properly, something separative, i.e. (specially) divorce
+    Usage: (writing of) divorcement
+
+
+ἀποστεγάζω  (apostegázō)  [verb]
+    to unroof
+    Usage: uncover
+
+
+ἀποστέλλω  (apostéllō)  [verb]
+    set apart, i.e. (by implication) to send out (properly, on a
+    mission) literally or figuratively
+    Usage: put in, send (away, forth, out), set (at liberty)
+
+
+ἀποστερέω  (aposteréō)  [verb]
+    to despoil
+    Usage: defraud, destitute, kept back by fraud
+
+
+ἀποστολή  (apostolḗ)  [unknown]
+    commission, i.e. (specially) apostolate
+    Usage: apostleship
+
+
+ἀπόστολος  (apóstolos)  [adjective]
+    a delegate; specially, an ambassador of the Gospel;
+    officially a commissioner of Christ (\
+    Usage: apostle, messenger, he that is sent
+
+
+ἀποστοματίζω  (apostomatízō)  [verb]
+    to speak off-hand (properly, dictate), i.e. to catechize (in
+    an invidious manner)
+    Usage: provoke to speak
+
+
+ἀποστρέφω  (apostréphō)  [verb]
+    to turn away or back (literally or figuratively)
+    Usage: bring again, pervert, turn away (from)
+
+
+ἀποστυγέω  (apostygéō)  [verb]
+    to detest utterly
+    Usage: abhor
+
+
+ἀποσυνάγωγος  (aposynágōgos)  [adjective]
+    excommunicated
+    Usage: (put) out of the synagogue(-s)
+
+
+ἀποτάσσομαι  (apotássomai)  [noun]
+    literally, to say adieu (by departing or dismissing);
+    figuratively, to renounce
+    Usage: bid farewell, forsake, take leave, send away
+
+
+ἀποτελέω  (apoteléō)  [verb]
+    to complete entirely, i.e. consummate
+    Usage: finish
+
+
+ἀποτίθημι  (apotíthēmi)  [verb]
+    to put away (literally or figuratively)
+    Usage: cast off, lay apart (aside, down), put away (off)
+
+
+ἀποτινάσσω  (apotinássō)  [verb]
+    to brush off
+    Usage: shake off
+
+
+ἀποτίνω  (apotínō)  [verb]
+    to pay in full
+    Usage: repay
+
+
+ἀποτολμάω  (apotolmáō)  [verb]
+    to venture plainly
+    Usage: be very bold
+
+
+ἀποτομία  (apotomía)  [unknown]
+    (figuratively) decisiveness, i.e. rigor
+    Usage: severity
+
+
+ἀποτόμως  (apotómōs)  [adverb]
+    abruptly, i.e. peremptorily
+    Usage: sharply(-ness)
+
+
+ἀποτρέπω  (apotrépō)  [verb]
+    to deflect, i.e. (reflexively) avoid
+    Usage: turn away
+
+
+ἀπουσία  (apousía)  [unknown]
+    a being away
+    Usage: absence
+
+
+ἀποφέρω  (apophérō)  [verb]
+    to bear off (literally or relatively)
+    Usage: bring, carry (away)
+
+
+ἀποφεύγω  (apopheúgō)  [verb]
+    (figuratively) to escape
+    Usage: escape
+
+
+ἀποφθέγγομαι  (apophthéngomai)  [verb]
+    to enunciate plainly, i.e. declare
+    Usage: say, speak forth, utterance
+
+
+ἀποφορτίζομαι  (apophortízomai)  [verb]
+    to unload
+    Usage: unlade
+
+
+ἀπόχρησις  (apóchrēsis)  [unknown]
+    the act of using up, i.e. consumption
+    Usage: using
+
+
+ἀποχωρέω  (apochōréō)  [verb]
+    to go away
+    Usage: depart
+
+
+ἀποχωρίζω  (apochōrízō)  [verb]
+    to rend apart; reflexively, to separate
+    Usage: depart (asunder)
+
+
+ἀποψύχω  (apopsýchō)  [verb]
+    to breathe out, i.e. faint
+    Usage: hearts failing
+
+
+Ἄππιος  (Áppios)  [adjective]
+    (in the genitive, i.e. possessive case) of Appius, the name
+    of a Roman
+    Usage: Appii
+
+
+ἀπρόσιτος  (aprósitos)  [adjective]
+    inaccessible
+    Usage: which no man can approach
+
+
+ἀπρόσκοπος  (apróskopos)  [adjective]
+    actively, inoffensive, i.e. not leading into sin; passively,
+    faultless, i.e. not led into sin
+    Usage: none (void of, without) offence
+
+
+ἀπροσωπολήπτως  (aprosōpolḗptōs)  [adverb]
+    in a way not accepting the person, i.e. impartially
+    Usage: without respect of persons
+
+
+ἄπταιστος  (áptaistos)  [adjective]
+    not stumbling, i.e. (figuratively) without sin
+    Usage: from falling
+
+
+ἅπτομαι  (háptomai)  [verb]
+    properly, to attach oneself to, i.e. to touch (in many
+    implied relations)
+    Usage: touch
+
+
+ἅπτω  (háptō)  [verb]
+    properly, to fasten to, i.e. (specially) to set on fire
+    Usage: kindle, light
+
+
+Ἀπφία  (Apphía)  [unknown]
+    Apphia, a woman of Collosæ
+    Usage: Apphia
+
+
+ἀπωθέομαι  (apōthéomai)  [verb]
+    to push off, figuratively, to reject
+    Usage: cast away, put away (from), thrust away (from)
+
+
+ἀπώλεια  (apṓleia)  [unknown]
+    ruin or loss (physical, spiritual or eternal)
+    Usage: damnable(-nation), destruction, die, perdition, X perish, pernicious ways, waste
+
+
+ἀρά  (ará)  [unknown]
+    properly, prayer (as lifted to Heaven), i.e. (by implication)
+    imprecation
+    Usage: curse
+
+
+ἄρα  (ára)  [article]
+    a particle denoting an inference more or less decisive (as
+    follows)
+    Usage: haply, (what) manner (of man), no doubt, perhaps, so be, then, therefore, truly, wherefore
+
+
+ἆρα  (âra)  [unknown]
+    Usage: therefore
+
+
+Ἀραβία  (Arabía)  [unknown]
+    Arabia, a region of Asia
+    Usage: Arabia
+
+
+Ἀράμ  (Arám)  [unknown]
+    Aram (i.e. Ram), an Israelite
+    Usage: Aram
+
+
+Ἄραψ  (Áraps)  [unknown]
+    an Arab or native of Arabia
+    Usage: Arabian
+
+
+ἀργέω  (argéō)  [verb]
+    to be idle, i.e. (figuratively) to delay
+    Usage: linger
+
+
+ἀργός  (argós)  [unknown]
+    inactive, i.e. unemployed; (by implication) lazy, useless
+    Usage: barren, idle, slow
+
+
+ἀργύρεος  (argýreos)  [adjective]
+    made of silver
+    Usage: (of) silver
+
+
+ἀργύριον  (argýrion)  [noun/adjective]
+    silvery, i.e. (by implication) cash; specially, a silverling
+    (i.e. drachma or shekel)
+    Usage: money, (piece of) silver (piece)
+
+
+ἀργυροκόπος  (argyrokópos)  [adjective]
+    a beater (i.e. worker) of silver
+    Usage: silversmith
+
+
+ἄργυρος  (árgyros)  [adjective]
+    silver (the metal, in the articles or coin)
+    Usage: silver
+
+
+Ἄρειος Πάγος  (Áreios Págos)  [adjective]
+    rock of Ares, a place in Athens
+    Usage: Areopagus, Mars' Hill
+
+
+Ἀρεοπαγίτης  (Areopagítēs)  [noun/adjective]
+    an Areopagite or member of the court held on Mars' Hill
+    Usage: Areopagite
+
+
+ἀρεσκεία  (areskeía)  [unknown]
+    complaisance
+    Usage: pleasing
+
+
+ἀρέσκω  (aréskō)  [verb]
+    to be agreeable (or by implication, to seek to be so)
+    Usage: please
+
+
+ἀρεστός  (arestós)  [unknown]
+    agreeable; by implication, fit
+    Usage: (things that) please(-ing), reason
+
+
+Ἀρέτας  (Arétas)  [unknown]
+    Aretas, an Arabian
+    Usage: Aretas
+
+
+ἀρέτη  (arétē)  [unknown]
+    properly, manliness (valor), i.e. excellence (intrinsic or
+    attributed)
+    Usage: praise, virtue
+
+
+ἀρήν  (arḗn)  [unknown]
+    a lamb (as a male)
+    Usage: lamb
+
+
+ἀριθμέω  (arithméō)  [verb]
+    to enumerate or count
+    Usage: number
+
+
+ἀριθμός  (arithmós)  [unknown]
+    a number (as reckoned up)
+    Usage: number
+
+
+Ἀριμαθαία  (Arimathaía)  [unknown]
+    Arimathæa (or Ramah), a place in Palestine
+    Usage: Arimathæa
+
+
+Ἀρίσταρχος  (Arístarchos)  [adjective]
+    best ruling; Aristarchus, a Macedonian
+    Usage: Aristarchus
+
+
+ἀριστάω  (aristáō)  [verb]
+    to take the principle meal
+    Usage: dine
+
+
+ἀριστερός  (aristerós)  [unknown]
+    the left hand (as second-best)
+    Usage: left (hand)
+
+
+Ἀριστόβουλος  (Aristóboulos)  [adjective]
+    best counselling; Aristoboulus, a Christian
+    Usage: Aristobulus
+
+
+ἄριστον  (áriston)  [noun/adjective]
+    the best meal (or breakfast; perhaps from (\
+    Usage: dinner
+
+
+ἀρκετός  (arketós)  [unknown]
+    satisfactory
+    Usage: enough, suffice (-ient)
+
+
+ἀρκέω  (arkéō)  [verb]
+    properly, to ward off, i.e. (by implication) to avail
+    (figuratively, be satisfactory)
+    Usage: be content, be enough, suffice, be sufficient
+
+
+ἄρκτος  (árktos)  [adjective]
+    a bear (as obstructing by ferocity)
+    Usage: bear
+
+
+ἅρμα  (hárma)  [unknown]
+    a chariot (as raised or fitted together (compare G719
+    (ἁρμός)))
+    Usage: chariot
+
+
+Ἀρμαγεδδών  (Armageddṓn)  [unknown]
+    Armageddon (or Har-Meggiddon), a symbolic name
+    Usage: Armageddon
+
+
+ἁρμόζω  (harmózō)  [verb]
+    to joint, i.e. (figuratively) to woo (reflexively, to
+    betroth)
+    Usage: espouse
+
+
+ἁρμός  (harmós)  [unknown]
+    an articulation (of the body)
+    Usage: joint
+
+
+ἀρνέομαι  (arnéomai)  [verb]
+    to contradict, i.e. disavow, reject, abnegate
+    Usage: deny, refuse
+
+
+ἀρνίον  (arníon)  [noun/adjective]
+    a lambkin
+    Usage: lamb
+
+
+ἀροτριόω  (arotrióō)  [verb]
+    to plow
+    Usage: plough
+
+
+ἄροτρον  (árotron)  [noun/adjective]
+    a plow
+    Usage: plough
+
+
+ἁρπαγή  (harpagḗ)  [unknown]
+    pillage (properly abstract)
+    Usage: extortion, ravening, spoiling
+
+
+ἁρπαγμός  (harpagmós)  [unknown]
+    plunder (properly concrete)
+    Usage: robbery
+
+
+ἁρπάζω  (harpázō)  [verb]
+    to seize (in various applications)
+    Usage: catch (away, up), pluck, pull, take (by force)
+
+
+ἅρπαξ  (hárpax)  [unknown]
+    rapacious
+    Usage: extortion, ravening
+
+
+ἀῤῥαβών  (arrhabṓn)  [unknown]
+    a pledge, i.e. part of the purchase-money or property given
+    in advance as security for the rest
+    Usage: earnest
+
+
+ἄῤῥαφος  (árrhaphos)  [adjective]
+    unsewed, i.e. of a single piece
+    Usage: without seam
+
+
+ἄῤῥην  (árrhēn)  [unknown]
+    male (as stronger for lifting)
+    Usage: male, man
+
+
+ἄῤῥητος  (árrhētos)  [adjective]
+    unsaid, i.e. (by implication) inexpressible
+    Usage: unspeakable
+
+
+ἄῤῥωστος  (árrhōstos)  [adjective]
+    infirm
+    Usage: sick (folk, -ly)
+
+
+ἀρσενοκοίτης  (arsenokoítēs)  [noun/adjective]
+    a sodomite
+    Usage: abuser of (that defile) self with mankind
+
+
+Ἀρτεμάς  (Artemás)  [unknown]
+    gift of Artemis; Artemas (or Artemidorus), a Christian
+    Usage: Artemas
+
+
+Ἄρτεμις  (Ártemis)  [unknown]
+    prompt; Artemis, the name of a Grecian goddess borrowed by
+    the Asiatics for one of their deities
+    Usage: Diana
+
+
+ἀρτέμων  (artémōn)  [adjective]
+    properly, something ready (or else more remotely from G142
+    (αἴρω) (compare G740 (ἄρτος)); something hung up), i.e.
+    (specially) the topsail (rather foresail or jib) of a vessel
+    Usage: mainsail
+
+
+ἄρτι  (árti)  [unknown]
+    just now
+    Usage: this day (hour), hence(-forth), here(-after), hither(-to), (even) now, (this) present
+
+
+ἀρτιγέννητος  (artigénnētos)  [adjective]
+    just born, i.e. (figuratively) a young convert
+    Usage: new born
+
+
+ἄρτιος  (ártios)  [adjective]
+    fresh, i.e. (by implication) complete
+    Usage: perfect
+
+
+ἄρτος  (ártos)  [adjective]
+    bread (as raised) or a loaf
+    Usage: (shew-)bread, loaf
+
+
+ἀρτύω  (artýō)  [verb]
+    to prepare, i.e. spice (with stimulating condiments)
+    Usage: season
+
+
+Ἀρφαξάδ  (Arphaxád)  [unknown]
+    Arphaxad, a post-diluvian patriarch
+    Usage: Arphaxad
+
+
+ἀρχάγγελος  (archángelos)  [adjective]
+    a chief angel
+    Usage: archangel
+
+
+ἀρχαῖος  (archaîos)  [adjective]
+    original or primeval
+    Usage: (them of) old (time)
+
+
+Ἀρχέλαος  (Archélaos)  [adjective]
+    people-ruling; Archelaus, a Jewish king
+    Usage: Archelaus
+
+
+ἀρχή  (archḗ)  [unknown]
+    (properly abstract) a commencement, or (concretely) chief (in
+    various applications of order, time, place, or rank)
+    Usage: beginning, corner, (at the, the) first (estate), magistrate, power, principality, principle, rule
+
+
+ἀρχηγός  (archēgós)  [unknown]
+    a chief leader
+    Usage: author, captain, prince
+
+
+ἀρχιερατικός  (archieratikós)  [unknown]
+    high-priestly
+    Usage: of the high-priest
+
+
+ἀρχιερεύς  (archiereús)  [unknown]
+    the high-priest (literally, of the Jews, typically, Christ);
+    by extension a chief priest
+    Usage: chief (high) priest, chief of the priests
+
+
+ἀρχιποίμην  (archipoímēn)  [unknown]
+    a head shepherd
+    Usage: chief shepherd
+
+
+Ἄρχιππος  (Árchippos)  [adjective]
+    horse-ruler; Archippus, a Christian
+    Usage: Archippus
+
+
+ἀρχισυνάγωγος  (archisynágōgos)  [adjective]
+    director of the synagogue services
+    Usage: (chief) ruler of the synagogue
+
+
+ἀρχιτέκτων  (architéktōn)  [adjective]
+    a chief constructor, i.e. \
+    Usage: masterbuilder
+
+
+ἀρχιτελώνης  (architelṓnēs)  [noun/adjective]
+    a principle tax-gatherer
+    Usage: chief among the publicans
+
+
+ἀρχιτρίκλινος  (architríklinos)  [adjective]
+    director of the entertainment
+    Usage: governor (ruler) of the feast
+
+
+ἄρχομαι  (árchomai)  [verb]
+    to commence (in order of time)
+    Usage: (rehearse from the) begin(-ning)
+
+
+ἄρχω  (árchō)  [verb]
+    to be first (in political rank or power)
+    Usage: reign (rule) over
+
+
+ἄρχων  (árchōn)  [adjective]
+    a first (in rank or power)
+    Usage: chief (ruler), magistrate, prince, ruler
+
+
+ἄρωμα  (árōma)  [unknown]
+    an aromatic
+    Usage: (sweet) spice
+
+
+Ἀσά  (Asá)  [unknown]
+    Asa, an Israelite
+    Usage: Asa
+
+
+ἀσάλευτος  (asáleutos)  [adjective]
+    unshaken, i.e. (by implication) immovable (figuratively)
+    Usage: which cannot be moved, unmovable
+
+
+ἄσβεστος  (ásbestos)  [adjective]
+    not extinguished, i.e. (by implication) perpetual
+    Usage: not to be quenched, unquenchable
+
+
+ἀσέβεια  (asébeia)  [unknown]
+    impiety, i.e. (by implication) wickedness
+    Usage: ungodly(-liness)
+
+
+ἀσεβέω  (asebéō)  [verb]
+    to be (by implied act) impious or wicked
+    Usage: commit (live, that after should live) ungodly
+
+
+ἀσεβής  (asebḗs)  [unknown]
+    irreverent, i.e. (by extension) impious or wicked
+    Usage:  ungodly (man)
+
+
+ἀσέλγεια  (asélgeia)  [unknown]
+    licentiousness (sometimes including other vices)
+    Usage: filthy, lasciviousness, wantonness
+
+
+ἄσημος  (ásēmos)  [adjective]
+    unmarked, i.e. (figuratively) ignoble
+    Usage: mean
+
+
+Ἀσήρ  (Asḗr)  [unknown]
+    Aser (i.e. Asher), an Israelite tribe
+    Usage: Aser
+
+
+ἀσθένεια  (asthéneia)  [unknown]
+    feebleness (of mind or body); by implication, malady;
+    morally, frailty
+    Usage: disease, infirmity, sickness, weakness
+
+
+ἀσθενέω  (asthenéō)  [verb]
+    to be feeble (in any sense)
+    Usage: be diseased, impotent folk (man), (be) sick, (be, be made) weak
+
+
+ἀσθένημα  (asthénēma)  [unknown]
+    a scruple of conscience
+    Usage: infirmity
+
+
+ἀσθενής  (asthenḗs)  [unknown]
+    strengthless (in various applications, literal, figurative
+    and moral)
+    Usage: more feeble, impotent, sick, without strength, weak(-er, -ness, thing)
+
+
+Ἀσία  (Asía)  [unknown]
+    Asia, i.e. Asia Minor, or (usually) only its western shore
+    Usage: Asia
+
+
+Ἀσιανός  (Asianós)  [unknown]
+    an Asian (i.e. Asiatic) or an inhabitant of Asia
+    Usage: of Asia
+
+
+Ἀσιάρχης  (Asiárchēs)  [noun/adjective]
+    an Asiarch or president of the public festivities in a city
+    of Asia Minor
+    Usage: chief of Asia
+
+
+ἀσιτία  (asitía)  [unknown]
+    fasting (the state)
+    Usage: abstinence
+
+
+ἄσιτος  (ásitos)  [adjective]
+    without (taking) food
+    Usage: fasting
+
+
+ἀσκέω  (askéō)  [verb]
+    to elaborate, i.e. (figuratively) train (by implication,
+    strive)
+    Usage: exercise
+
+
+ἀσκός  (askós)  [unknown]
+    a leathern (or skin) bag used as a bottle
+    Usage: bottle
+
+
+ἀσμένως  (asménōs)  [adverb]
+    with pleasure
+    Usage: gladly
+
+
+ἄσοφος  (ásophos)  [adjective]
+    unwise
+    Usage: fool
+
+
+ἀσπάζομαι  (aspázomai)  [verb]
+    to enfold in the arms, i.e. (by implication) to salute,
+    (figuratively) to welcome
+    Usage: embrace, greet, salute, take leave
+
+
+ἀσπασμός  (aspasmós)  [unknown]
+    a greeting (in person or by letter)
+    Usage: greeting, salutation
+
+
+ἄσπιλος  (áspilos)  [adjective]
+    unblemished (physically or morally)
+    Usage: without spot, unspotted
+
+
+ἀσπίς  (aspís)  [unknown]
+    a buckler (or round shield); used of a serpent (as coiling
+    itself), probably the \
+    Usage: asp
+
+
+ἄσπονδος  (áspondos)  [adjective]
+    literally, without libation (which usually accompanied a
+    treaty), i.e. (by implication) truceless
+    Usage: implacable, truce-breaker
+
+
+ἀσσάριον  (assárion)  [noun/adjective]
+    an assarius or as, a Roman coin
+    Usage: farthing
+
+
+ἆσσον  (âsson)  [noun/adjective]
+    more nearly, i.e. very near
+    Usage: close
+
+
+Ἄσσος  (Ássos)  [adjective]
+    Assus, a city of Asia MInor
+    Usage: Assos
+
+
+ἀστατέω  (astatéō)  [verb]
+    to be non-stationary, i.e. (figuratively) homeless
+    Usage: have no certain dwelling-place
+
+
+ἀστεῖος  (asteîos)  [adjective]
+    urbane, i.e. (by implication) handsome
+    Usage: fair
+
+
+ἀστήρ  (astḗr)  [unknown]
+    a star (as strown over the sky), literally or figuratively
+    Usage: star
+
+
+ἀστήρικτος  (astḗriktos)  [adjective]
+    unfixed, i.e. (figuratively) vacillating
+    Usage: unstable
+
+
+ἄστοργος  (ástorgos)  [adjective]
+    hard-hearted towards kindred
+    Usage: without natural affection
+
+
+ἀστοχέω  (astochéō)  [verb]
+    to miss the mark, i.e. (figuratively) deviate from truth
+    Usage: err, swerve
+
+
+ἀστραπή  (astrapḗ)  [unknown]
+    lightning; by analogy, glare
+    Usage: lightning, bright shining
+
+
+ἀστράπτω  (astráptō)  [verb]
+    to flash as lightning
+    Usage: lighten, shine
+
+
+ἄστρον  (ástron)  [noun/adjective]
+    properly, a constellation; put for a single star (natural or
+    artificial)
+    Usage: star
+
+
+Ἀσύγκριτος  (Asýnkritos)  [adjective]
+    incomparable; Asyncritus, a Christian
+    Usage: Asyncritos
+
+
+ἀσύμφωνος  (asýmphōnos)  [adjective]
+    inharmonious (figuratively)
+    Usage: agree not
+
+
+ἀσύνετος  (asýnetos)  [adjective]
+    unintelligent; by implication, wicked
+    Usage: foolish, without understanding
+
+
+ἀσύνθετος  (asýnthetos)  [adjective]
+    properly, not agreed, i.e. treacherous to compacts
+    Usage:  covenant-breaker
+
+
+ἀσφάλεια  (aspháleia)  [unknown]
+    security (literally or figuratively)
+    Usage: certainty, safety
+
+
+ἀσφαλής  (asphalḗs)  [unknown]
+    secure (literally or figuratively)
+    Usage: certain(-ty), safe, sure
+
+
+ἀσφαλίζω  (asphalízō)  [verb]
+    to render secure
+    Usage: make fast (sure)
+
+
+ἀσφαλῶς  (asphalōs)  [unknown]
+    securely (literally or figuratively)
+    Usage: assuredly, safely
+
+
+ἀσχημονέω  (aschēmonéō)  [verb]
+    to be (i.e. act) unbecoming
+    Usage: behave self uncomely (unseemly)
+
+
+ἀσχημοσύνη  (aschēmosýnē)  [unknown]
+    an indecency; by implication, the pudenda
+    Usage: shame, that which is unseemly
+
+
+ἀσχήμων  (aschḗmōn)  [adjective]
+    properly, shapeless, i.e. (figuratively) inelegant
+    Usage: uncomely
+
+
+ἀσωτία  (asōtía)  [unknown]
+    properly, unsavedness, i.e. (by implication) profligacy
+    Usage: excess, riot
+
+
+ἀσώτως  (asṓtōs)  [adverb]
+    dissolutely
+    Usage: riotous
+
+
+ἀτακτέω  (ataktéō)  [verb]
+    to be (i.e. act) irregular
+    Usage: behave self disorderly
+
+
+ἄτακτος  (átaktos)  [adjective]
+    unarranged, i.e. (by implication) insubordinate (religiously)
+    Usage: unruly
+
+
+ἀτάκτως  (atáktōs)  [adverb]
+    Usage: disorderly
+
+
+ἄτεκνος  (áteknos)  [adjective]
+    childless
+    Usage: childless, without children
+
+
+ἀτενίζω  (atenízō)  [verb]
+    to gaze intently
+    Usage: behold earnestly (stedfastly), fasten (eyes), look (earnestly, stedfastly, up stedfastly), set eyes
+
+
+ἄτερ  (áter)  [unknown]
+    aloof, i.e. apart from (literally or figuratively)
+    Usage: in the absence of, without
+
+
+ἀτιμάζω  (atimázō)  [verb]
+    to render infamous, i.e. (by implication) contemn or maltreat
+    Usage: despise, dishonour, suffer shame, entreat shamefully
+
+
+ἀτιμία  (atimía)  [unknown]
+    infamy, i.e. (subjectively) comparative indignity,
+    (objectively) disgrace
+    Usage: dishonour, reproach, shame, vile
+
+
+ἄτιμος  (átimos)  [adjective]
+    (negatively) unhonoured or (positively) dishonoured
+    Usage: despised, without honour, less honourable (comparative degree)
+
+
+ἀτιμόω  (atimóō)  [verb]
+    used like G818 (ἀτιμάζω), to maltreat
+    Usage: handle shamefully
+
+
+ἀτμίς  (atmís)  [unknown]
+    mist
+    Usage: vapour
+
+
+ἄτομος  (átomos)  [adjective]
+    uncut, i.e. (by implication) indivisible (an \
+    Usage:  moment
+
+
+ἄτοπος  (átopos)  [adjective]
+    out of place, i.e. (figuratively) improper, injurious, wicked
+    Usage: amiss, harm, unreasonable
+
+
+Ἀττάλεια  (Attáleia)  [unknown]
+    Attaleia, a place in Pamphylia
+    Usage: Attalia
+
+
+αὐγάζω  (augázō)  [verb]
+    to beam forth (figuratively)
+    Usage: shine
+
+
+αὐγή  (augḗ)  [unknown]
+    a ray of light, i.e. (by implication) radiance, dawn
+    Usage: break of day
+
+
+Αὐγοῦστος  (Augoûstos)  [adjective]
+    Augustus, a title of the Roman emperor
+    Usage: Augustus
+
+
+αὐθάδης  (authádēs)  [noun/adjective]
+    self-pleasing, i.e. arrogant
+    Usage: self-willed
+
+
+αὐθαίρετος  (authaíretos)  [adjective]
+    self-chosen, i.e. (by implication) voluntary
+    Usage: of own accord, willing of self
+
+
+αὐθεντέω  (authentéō)  [verb]
+    to act of oneself, i.e. (figuratively) dominate
+    Usage: usurp authority over
+
+
+αὐλέω  (auléō)  [verb]
+    to play the flute
+    Usage: pipe
+
+
+αὐλή  (aulḗ)  [unknown]
+    a yard (as open to the wind); by implication, a mansion
+    Usage: court, (sheep-)fold, hall, palace
+
+
+αὐλητής  (aulētḗs)  [unknown]
+    a flute-player
+    Usage: minstrel, piper
+
+
+αὐλίζομαι  (aulízomai)  [verb]
+    to pass the night (properly, in the open air)
+    Usage: abide, lodge
+
+
+αὐλός  (aulós)  [unknown]
+    a flute (as blown)
+    Usage: pipe
+
+
+αὐξάνω  (auxánō)  [verb]
+    to grow (\
+    Usage: grow (up), (give the) increase
+
+
+αὔξησις  (aúxēsis)  [unknown]
+    growth
+    Usage: increase
+
+
+αὔριον  (aúrion)  [verb]
+    properly, fresh, i.e. (adverb with ellipsis of G2250 (ἡμέρα))
+    to-morrow
+    Usage: (to-)morrow, next day
+
+
+αὐστηρός  (austērós)  [unknown]
+    rough (properly as a gale), i.e. (figuratively) severe
+    Usage: austere
+
+
+αὐτάρκεια  (autárkeia)  [unknown]
+    self-satisfaction, i.e. (abstractly) contentedness, or
+    (concretely) a competence
+    Usage: contentment, sufficiency
+
+
+αὐτάρκης  (autárkēs)  [noun/adjective]
+    self-complacent, i.e. contented
+    Usage: content
+
+
+αὐτοκατάκριτος  (autokatákritos)  [adjective]
+    self-condemned
+    Usage: condemned of self
+
+
+αὐτόματος  (autómatos)  [adjective]
+    self-moved (\
+    Usage: of own accord, of self
+
+
+αὐτόπτης  (autóptēs)  [noun/adjective]
+    self-seeing, i.e. an eye-witness
+    Usage: eye-witness
+
+
+αὐτός  (autós)  [noun]
+    the reflexive pronoun self, used (alone or in the comparative
+    G1438 (ἑαυτοῦ)) of the third person , and (with the proper
+    personal pronoun) of the other persons
+    Usage: her, it(-self), one, the other, (mine) own, said, (self-), the) same, ((him-, my-, thy- )self, (your...
+
+
+αὐτοῦ  (autoû)  [unknown]
+    properly, belonging to the same spot, i.e. in this (or that)
+    place
+    Usage: (t-)here
+
+
+αὑτοῦ  (hautoû)  [unknown]
+    self (in some oblique case or reflexively, relation)
+    Usage: her (own), (of) him(-self), his (own), of it, thee, their (own), them(-selves), they
+
+
+αὐτόχειρ  (autócheir)  [unknown]
+    self-handed, i.e. doing personally
+    Usage: with … own hands
+
+
+αὐχμηρός  (auchmērós)  [unknown]
+    properly, dirty, i.e. (by implication) obscure
+    Usage: dark
+
+
+ἀφαιρέω  (aphairéō)  [verb]
+    to remove (literally or figuratively)
+    Usage: cut (smite) off, take away
+
+
+ἀφανής  (aphanḗs)  [unknown]
+    non-apparent)
+    Usage: that is not manifest
+
+
+ἀφανίζω  (aphanízō)  [verb]
+    to render unapparent, i.e. (actively) consume (becloud), or
+    (passively) disappear (be destroyed)
+    Usage:  corrupt, disfigure, perish, vanish away
+
+
+ἀφανισμός  (aphanismós)  [unknown]
+    disappearance, i.e. (figuratively) abrogation
+    Usage: vanish away
+
+
+ἄφαντος  (áphantos)  [adjective]
+    non-manifested, i.e. invisible
+    Usage: vanished out of sight
+
+
+ἀφεδρών  (aphedrṓn)  [unknown]
+    a place of sitting apart, i.e. a privy
+    Usage: draught
+
+
+ἀφειδία  (apheidía)  [unknown]
+    unsparingness, i.e. austerity (asceticism)
+    Usage: neglecting
+
+
+ἀφελότης  (aphelótēs)  [noun/adjective]
+    smoothness, i.e. (figuratively) simplicity
+    Usage: singleness
+
+
+ἄφεσις  (áphesis)  [unknown]
+    freedom; (figuratively) pardon
+    Usage: deliverance, forgiveness, liberty, remission
+
+
+ἁφή  (haphḗ)  [unknown]
+    probably a ligament (as fastening)
+    Usage: joint
+
+
+ἀφθαρσία  (aphtharsía)  [unknown]
+    incorruptibility; genitive, unending existence;
+    (figuratively) genuineness
+    Usage: immortality, incorruption, sincerity
+
+
+ἄφθαρτος  (áphthartos)  [adjective]
+    undecaying (in essence or continuance)
+    Usage: not (in-, un-)corruptible, immortal
+
+
+ἀφίημι  (aphíēmi)  [verb]
+    an intensive form of , to go); to send forth, in various
+    applications (as follow)
+    Usage: cry, forgive, forsake, lay aside, leave, let (alone, be, go, have), omit, put (send) away, remit, su...
+
+
+ἀφικνέομαι  (aphiknéomai)  [verb]
+    to go (i.e. spread) forth (by rumor)
+    Usage: come abroad
+
+
+ἀφιλάγαθος  (aphilágathos)  [adjective]
+    hostile to virtue
+    Usage: despiser of those that are good
+
+
+ἀφιλάργυρος  (aphilárgyros)  [adjective]
+    unavaricious
+    Usage: without covetousness, not greedy of filthy lucre
+
+
+ἄφιξις  (áphixis)  [unknown]
+    properly, arrival, i.e. (by implication) departure
+    Usage: departing
+
+
+ἀφίστημι  (aphístēmi)  [verb]
+    to remove, i.e. (actively) instigate to revolt; usually
+    (reflexively) to desist, desert, etc.
+    Usage: depart, draw (fall) away, refrain, withdraw self
+
+
+ἄφνω  (áphnō)  [verb]
+    unawares, i.e. unexpectedly
+    Usage: suddenly
+
+
+ἀφόβως  (aphóbōs)  [adverb]
+    fearlessly
+    Usage: without fear
+
+
+ἀφομοιόω  (aphomoióō)  [verb]
+    to assimilate closely
+    Usage: make like
+
+
+ἀφοράω  (aphoráō)  [verb]
+    to consider attentively
+    Usage: look
+
+
+ἀφορίζω  (aphorízō)  [verb]
+    to set off by boundary, i.e. (figuratively) limit, exclude,
+    appoint, etc.
+    Usage: divide, separate, sever
+
+
+ἀφορμή  (aphormḗ)  [unknown]
+    a starting-point, i.e. (figuratively) an opportunity
+    Usage: occasion
+
+
+ἀφρίζω  (aphrízō)  [verb]
+    to froth at the mouth (in epilepsy)
+    Usage: foam
+
+
+ἀφρός  (aphrós)  [unknown]
+    froth, i.e. slaver
+    Usage: foaming
+
+
+ἀφροσύνη  (aphrosýnē)  [unknown]
+    senselessness, i.e. (euphemistically) egotism; (morally)
+    recklessness
+    Usage: folly, foolishly(-ness)
+
+
+ἄφρων  (áphrōn)  [adjective]
+    properly, mindless, i.e. stupid, (by implication) ignorant,
+    (specially) egotistic, (practically) rash, or (morally)
+    unbelieving
+    Usage: fool(-ish), unwise
+
+
+ἀφυπνόω  (aphypnóō)  [verb]
+    properly, to become awake, i.e. (by implication) to drop
+    (off) in slumber
+    Usage: fall asleep
+
+
+ἄφωνος  (áphōnos)  [adjective]
+    voiceless, i.e. mute (by nature or choice); figuratively,
+    unmeaning
+    Usage: dumb, without signification
+
+
+Ἀχάζ  (Acház)  [unknown]
+    Achaz, an Israelite
+    Usage: Achaz
+
+
+Ἀχαΐα  (Achaḯa)  [unknown]
+    Achaia (i.e. Greece), a country of Europe
+    Usage: Achaia
+
+
+Ἀχαϊκός  (Achaïkós)  [unknown]
+    an Achaian; Achaicus, a Christian
+    Usage: Achaicus
+
+
+ἀχάριστος  (acháristos)  [adjective]
+    thankless, i.e. ungrateful
+    Usage: unthankful
+
+
+Ἀχείμ  (Acheím)  [unknown]
+    Achim, an Israelite
+    Usage: Achim
+
+
+ἀχειροποίητος  (acheiropoíētos)  [adjective]
+    unmanufactured, i.e. inartificial
+    Usage: made without (not made with) hands
+
+
+ἀχλύς  (achlýs)  [unknown]
+    dimness of sight, i.e. (probably) a cataract
+    Usage: mist
+
+
+ἀχρεῖος  (achreîos)  [adjective]
+    useless, i.e. (euphemistically) unmeritorious
+    Usage: unprofitable
+
+
+ἀχρειόω  (achreióō)  [verb]
+    to render useless, i.e. spoil
+    Usage: become unprofitable
+
+
+ἄχρηστος  (áchrēstos)  [adjective]
+    inefficient, i.e. (by implication) detrimental
+    Usage: unprofitable
+
+
+ἄχρι  (áchri)  [unknown]
+    (of time) until or (of place) up to
+    Usage: as far as, for, in(-to), till, (even, un-)to, until, while
+
+
+ἄχυρον  (áchyron)  [noun/adjective]
+    chaff (as diffusive)
+    Usage: chaff
+
+
+ἀψευδής  (apseudḗs)  [unknown]
+    veracious
+    Usage: that cannot lie
+
+
+ἄψινθος  (ápsinthos)  [adjective]
+    wormwood (as a type of bitterness, i.e. (figuratively)
+    calamity)
+    Usage: wormwood
+
+
+ἄψυχος  (ápsychos)  [adjective]
+    lifeless, i.e. inanimate (mechanical)
+    Usage: without life
+
+
+Βάαλ  (Báal)  [unknown]
+    Baal, a Phœnician deity (used as a symbol of idolatry)
+    Usage: Baal
+
+
+Βαβυλών  (Babylṓn)  [unknown]
+    Babylon, the capitol of Chaldæa (literally or figuratively
+    (as a type of tyranny))
+    Usage:  Babylon
+
+
+βαθμός  (bathmós)  [unknown]
+    a step, i.e. (figuratively) grade (of dignity)
+    Usage: degree
+
+
+βάθος  (báthos)  [adjective]
+    profundity, i.e. (by implication) extent; (figuratively)
+    mystery
+    Usage: deep(-ness, things), depth
+
+
+βαθύνω  (bathýnō)  [verb]
+    to deepen
+    Usage: deep
+
+
+βαθύς  (bathýs)  [unknown]
+    profound (as going down), literally or figuratively
+    Usage: deep, very early
+
+
+βαΐον  (baḯon)  [noun/adjective]
+    a palm twig (as going out far)
+    Usage: branch
+
+
+Βαλαάμ  (Balaám)  [unknown]
+    Balaam, a Mesopotamian (symbolic of a false teacher)
+    Usage: Balaam
+
+
+Βαλάκ  (Balák)  [unknown]
+    Balak, a Moabite
+    Usage: Balac
+
+
+βαλάντιον  (balántion)  [noun/adjective]
+    a pouch (for money)
+    Usage: bag, purse
+
+
+βάλλω  (bállō)  [verb]
+    to throw (in various applications, more or less violent or
+    intense)
+    Usage: arise, cast (out), X dung, lay, lie, pour, put (up), send, strike, throw (down), thrust
+
+
+βαπτίζω  (baptízō)  [verb]
+    to immerse, submerge; to make whelmed (i.e. fully wet); used
+    only (in the New Testament) of ceremonial ablution,
+    especially (technically) of the ordinance of Christian
+    baptism
+    Usage: Baptist, baptize, wash
+
+
+βάπτισμα  (báptisma)  [unknown]
+    baptism (technically or figuratively)
+    Usage: baptism
+
+
+βαπτισμός  (baptismós)  [unknown]
+    ablution (ceremonial or Christian)
+    Usage: baptism, washing
+
+
+Βαπτιστής  (Baptistḗs)  [unknown]
+    a baptizer, as an epithet of Christ's forerunner
+    Usage: Baptist
+
+
+βάπτω  (báptō)  [verb]
+    to whelm, i.e. cover wholly with a fluid; in the New
+    Testament only in a qualified or special sense, i.e.
+    (literally) to moisten (a part of one's person), or (by
+    implication) to stain (as with dye)
+    Usage: dip
+
+
+Βαραββᾶς  (Barabbâs)  [unknown]
+    son of Abba; Bar-abbas, an Israelite
+    Usage: Barabbas
+
+
+Βαράκ  (Barák)  [unknown]
+    Barak, an Israelite
+    Usage: Barak
+
+
+Βαραχίας  (Barachías)  [unknown]
+    Barachias (i.e. Berechijah), an Israelite
+    Usage: Barachias
+
+
+βάρβαρος  (bárbaros)  [adjective]
+    a foreigner (i.e. non-Greek)
+    Usage: barbarian(-rous)
+
+
+βαρέω  (baréō)  [verb]
+    to weigh down (figuratively)
+    Usage: burden, charge, heavy, press
+
+
+βαρέως  (baréōs)  [adverb]
+    heavily (figuratively)
+    Usage: dull
+
+
+Βαρθολομαῖος  (Bartholomaîos)  [adjective]
+    son of Tolmai; Bar-tholomæus, a Christian apostle
+    Usage: Bartholomeus
+
+
+Βαριησοῦς  (Bariēsoûs)  [unknown]
+    son of Jesus (or Joshua); Bar-jesus, an Israelite
+    Usage: Barjesus
+
+
+Βαριωνᾶς  (Bariōnâs)  [unknown]
+    son of Jonas (or Jonah); Bar-jonas, an Israelite
+    Usage: Bar-jona
+
+
+Βαρνάβας  (Barnábas)  [unknown]
+    son of Nabas (i.e. prophecy); Barnabas, an Israelite
+    Usage: Barnabas
+
+
+βάρος  (báros)  [adjective]
+    compare G899 (βάθος)); weight; in the New Testament only,
+    figuratively, a load, abundance, authority
+    Usage: burden(-some), weight
+
+
+Βαρσαβᾶς  (Barsabâs)  [unknown]
+    son of Sabas (or Tsaba); Bar-sabas, the name of two
+    Israelites
+    Usage: Barsabas
+
+
+Βαρτιμαῖος  (Bartimaîos)  [adjective]
+    son of Timæus (or the unclean); Bar-timæus, an Israelite
+    Usage: Bartimæus
+
+
+βαρύνω  (barýnō)  [verb]
+    to burden (figuratively)
+    Usage: overcharge
+
+
+βαρύς  (barýs)  [unknown]
+    weighty, i.e. (fig) burdensome, grave
+    Usage: grievous, heavy, weightier
+
+
+βαρύτιμος  (barýtimos)  [adjective]
+    highly valuable
+    Usage: very precious
+
+
+βασανίζω  (basanízō)  [verb]
+    to torture
+    Usage: pain, toil, torment, toss, vex
+
+
+βασανισμός  (basanismós)  [unknown]
+    torture
+    Usage: torment
+
+
+βασανιστής  (basanistḗs)  [unknown]
+    a torturer
+    Usage: tormentor
+
+
+βάσανος  (básanos)  [adjective]
+    a touch-stone, i.e. (by analogy) torture
+    Usage: torment
+
+
+βασιλεία  (basileía)  [unknown]
+    properly, royalty, i.e. (abstractly) rule, or (concretely) a
+    realm (literally or figuratively)
+    Usage: kingdom, + reign
+
+
+βασίλειον  (basíleion)  [noun/adjective]
+    a palace
+    Usage: king's court
+
+
+βασίλειος  (basíleios)  [adjective]
+    kingly (in nature)
+    Usage: royal
+
+
+βασιλεύς  (basileús)  [unknown]
+    a sovereign (abstractly, relatively, or figuratively)
+    Usage: king
+
+
+βασιλεύω  (basileúō)  [verb]
+    to rule (literally or figuratively)
+    Usage: king, reign
+
+
+βασιλικός  (basilikós)  [unknown]
+    regal (in relation), i.e. (literally) belonging to (or
+    befitting) the sovereign (as land, dress, or a courtier), or
+    (figuratively) preeminent
+    Usage: king's, nobleman, royal
+
+
+βασίλισσα  (basílissa)  [unknown]
+    a queen
+    Usage: queen
+
+
+βάσις  (básis)  [unknown]
+    a pace (\
+    Usage: foot
+
+
+βασκαίνω  (baskaínō)  [verb]
+    to malign, i.e. (by extension) to fascinate (by false
+    representations)
+    Usage: bewitch
+
+
+βαστάζω  (bastázō)  [verb]
+    to lift, literally or figuratively (endure, declare, sustain,
+    receive, etc.)
+    Usage: bear, carry, take up
+
+
+βάτος  (bátos)  [adjective]
+    a brier shrub
+    Usage: bramble, bush
+
+
+βάτος  (bátos)  [adjective]
+    a bath, or measure for liquids
+    Usage: measure
+
+
+βάτραχος  (bátrachos)  [adjective]
+    a frog
+    Usage: frog
+
+
+βαττολογέω  (battologéō)  [verb]
+    to stutter, i.e. (by implication) to prate tediously
+    Usage: use vain repetitions
+
+
+βδέλυγμα  (bdélygma)  [unknown]
+    a detestation, i.e. (specially) idolatry
+    Usage: abomination
+
+
+βδελυκτός  (bdelyktós)  [unknown]
+    detestable, i.e. (specially) idolatrous
+    Usage: abominable
+
+
+βδελύσσω  (bdelýssō)  [verb]
+    to be disgusted, i.e. (by implication) detest (especially of
+    idolatry)
+    Usage: abhor, abominable
+
+
+βέβαιος  (bébaios)  [adjective]
+    stable (literally or figuratively)
+    Usage: firm, of force, stedfast, sure
+
+
+βεβαιόω  (bebaióō)  [verb]
+    to stabilitate (figuratively)
+    Usage: confirm, (e-)stablish
+
+
+βεβαίωσις  (bebaíōsis)  [unknown]
+    stabiliment
+    Usage: confirmation
+
+
+βέβηλος  (bébēlos)  [adjective]
+    accessible (as by crossing the door-way), i.e. (by
+    implication, of Jewish notions) heathenish, wicked
+    Usage: profane (person)
+
+
+βεβηλόω  (bebēlóō)  [verb]
+    to desecrate
+    Usage: profane
+
+
+Βεελζεβούλ  (Beelzeboúl)  [unknown]
+    dung-god; Beelzebul, a name of Satan
+    Usage: Beelzebub
+
+
+Βελίαλ  (Belíal)  [unknown]
+    worthlessness; Belial, as an epithet of Satan
+    Usage: Belial
+
+
+βέλος  (bélos)  [adjective]
+    a missile, i.e. spear or arrow
+    Usage: dart
+
+
+βελτίον  (beltíon)  [noun/adjective]
+    better
+    Usage: very well
+
+
+Βενιαμίν  (Beniamín)  [unknown]
+    Benjamin, an Israelite
+    Usage: Benjamin
+
+
+Βερνίκη  (Berníkē)  [unknown]
+    victorious; Bernice, a member of the Herodian family
+    Usage: Bernice
+
+
+Βέροια  (Béroia)  [unknown]
+    Berœa, a place in Macedonia
+    Usage: Berea
+
+
+Βεροιαῖος  (Beroiaîos)  [adjective]
+    a Berœoean or native of Berœa
+    Usage: of Berea
+
+
+Βηθαβαρά  (Bēthabará)  [unknown]
+    ferry-house; Bethabara (i.e. Bethabarah), a place on the
+    Jordan
+    Usage: Bethabara
+
+
+Βηθανία  (Bēthanía)  [unknown]
+    date-house; Beth-any, a place in Palestine
+    Usage: Bethany
+
+
+Βηθεσδά  (Bēthesdá)  [unknown]
+    house of kindness; Beth-esda, a pool in Jerusalem
+    Usage: Bethesda
+
+
+Βηθλεέμ  (Bēthleém)  [unknown]
+    Bethleem (i.e. Beth-lechem), a place in Palestine
+    Usage: Bethlehem
+
+
+Βηθσαϊδά  (Bēthsaïdá)  [unknown]
+    fishing-house; Bethsaida, a place in Palestine
+    Usage: Bethsaida
+
+
+Βηθφαγή  (Bēthphagḗ)  [unknown]
+    fig-house; Beth-phage, a place in Palestine
+    Usage: Bethphage
+
+
+βῆμα  (bēma)  [unknown]
+    a step, i.e. foot-breath; by implication, a rostrum, i.e. a
+    tribunal
+    Usage: judgment-seat, set (foot) on, throne
+
+
+βήρυλλος  (bḗryllos)  [adjective]
+    a \
+    Usage: beryl
+
+
+βία  (bía)  [unknown]
+    force
+    Usage: violence
+
+
+βιάζω  (biázō)  [verb]
+    to force, i.e. (reflexively) to crowd oneself (into), or
+    (passively) to be seized
+    Usage: press, suffer violence
+
+
+βίαιος  (bíaios)  [adjective]
+    violent
+    Usage: mighty
+
+
+βιαστής  (biastḗs)  [unknown]
+    a forcer, i.e. (figuratively) energetic
+    Usage: violent
+
+
+βιβλιαρίδιον  (bibliarídion)  [noun/adjective]
+    a booklet
+    Usage: little book
+
+
+βιβλίον  (biblíon)  [noun/adjective]
+    a roll
+    Usage: bill, book, scroll, writing
+
+
+βίβλος  (bíblos)  [adjective]
+    Usage: book
+
+
+βιβρώσκω  (bibrṓskō)  [verb]
+    to eat
+    Usage: eat
+
+
+Βιθυνία  (Bithynía)  [unknown]
+    Bithynia, a region of Asia
+    Usage: Bithynia
+
+
+βίος  (bíos)  [adjective]
+    life, i.e. (literally) the present state of existence; by
+    implication, the means of livelihood
+    Usage: good, life, living
+
+
+βιόω  (bióō)  [verb]
+    to spend existence
+    Usage: live
+
+
+βίωσις  (bíōsis)  [unknown]
+    living (properly, the act, by implication, the mode)
+    Usage: manner of life
+
+
+βιωτικός  (biōtikós)  [unknown]
+    relating to the present existence
+    Usage: of (pertaining to, things that pertain to) this life
+
+
+βλαβερός  (blaberós)  [unknown]
+    injurious
+    Usage: hurtful
+
+
+βλάπτω  (bláptō)  [verb]
+    properly, to hinder, i.e. (by implication) to injure
+    Usage: hurt
+
+
+βλαστάνω  (blastánō)  [verb]
+    to germinate; by implication, to yield fruit
+    Usage: bring forth, bud, spring (up)
+
+
+Βλάστος  (Blástos)  [adjective]
+    Blastus, an officer of Herod Agrippa
+    Usage: Blastus
+
+
+βλασφημέω  (blasphēméō)  [verb]
+    to vilify; specially, to speak impiously
+    Usage: (speak) blaspheme(-er, -mously, -my), defame, rail on, revile, speak evil
+
+
+βλασφημία  (blasphēmía)  [unknown]
+    vilification (especially against God)
+    Usage: blasphemy, evil speaking, railing
+
+
+βλάσφημος  (blásphēmos)  [adjective]
+    scurrilious, i.e. calumnious (against men), or (specially)
+    impious (against God)
+    Usage: blasphemer(-mous), railing
+
+
+βλέμμα  (blémma)  [unknown]
+    vision (properly concrete; by implication, abstract)
+    Usage: seeing
+
+
+βλέπω  (blépō)  [verb]
+    to look at (literally or figuratively)
+    Usage: behold, beware, lie, look (on, to), perceive, regard, see, sight, take heed
+
+
+βλητέος  (blētéos)  [adjective]
+    fit to be cast (i.e. applied)
+    Usage: must be put
+
+
+Βοανεργές  (Boanergés)  [unknown]
+    sons of commotion; Boanerges, an epithet of two of the
+    apostles
+    Usage: Boanerges
+
+
+βοάω  (boáō)  [verb]
+    to halloo, i.e. shout (for help or in a tumultuous way)
+    Usage: cry
+
+
+βοή  (boḗ)  [unknown]
+    a halloo, i.e. call (for aid, etc.)
+    Usage: cry
+
+
+βοήθεια  (boḗtheia)  [unknown]
+    aid; specially, a rope or chain for frapping a vessel
+    Usage: help
+
+
+βοηθέω  (boēthéō)  [verb]
+    to aid or relieve
+    Usage: help, succor
+
+
+βοηθός  (boēthós)  [unknown]
+    a succorer
+    Usage: helper
+
+
+βόθυνος  (bóthynos)  [adjective]
+    a hole (in the ground); specially, a cistern
+    Usage: ditch, pit
+
+
+βολή  (bolḗ)  [unknown]
+    a throw (as a measure of distance)
+    Usage: cast
+

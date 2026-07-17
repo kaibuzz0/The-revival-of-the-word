@@ -1,0 +1,2651 @@
+======================================================================
+LATIN LEXICON
+Classical and Ecclesiastical Latin Dictionary
+======================================================================
+
+About Latin:
+  - Language of ancient Rome and the Roman Empire
+  - Classical Latin: 100 BCE - 200 CE
+  - Ecclesiastical Latin: Church and Vulgate Bible (400 CE-present)
+  - Extensive case system (nominative, genitive, dative, accusative, ablative, vocative)
+  - Five declensions, four conjugations
+
+Pronunciation Guide:
+  ā = long a (father)    ă = short a (cat)
+  ē = long e (say)       ĕ = short e (pet)
+  ī = long i (machine)   ĭ = short i (pin)
+  ō = long o (tone)      ŏ = short o (hot)
+  ū = long u (rule)      ŭ = short u (put)
+  c = always hard k (cat)   g = always hard g (go)
+  v = w or v               j = y (as in yes)
+
+----------------------------------------------------------------------
+
+
+ inauguratio  [noun] (3rd decl., feminine)
+    inauguration
+
+
+ iniuria  [noun] (1st decl., feminine)
+    injustice, injury
+
+
+ iniustitia  [noun] (1st decl., feminine)
+    injustice
+
+
+Angelus  (Angelus)  [noun] (2nd decl., masculine)
+    Angel, messenger
+
+
+Christus  (Christus)  [noun] (2nd decl., masculine)
+    Christ, Anointed One
+
+
+Deus  (Deus)  [noun] (2nd decl., masculine)
+    God
+
+
+Dominus  (Dominus)  [noun] (2nd decl., masculine)
+    Lord, Master
+
+
+Filius  (Filius)  [noun] (2nd decl., masculine)
+    Son
+
+
+Iesus  (Iesus)  [proper noun] (irregular decl., masculine)
+    Jesus
+
+
+Maria  (Maria)  [proper noun] (1st decl., feminine)
+    Mary
+
+
+Mater  (Mater)  [noun] (3rd decl., feminine)
+    Mother
+
+
+Pater  (Pater)  [noun] (3rd decl., masculine)
+    Father
+
+
+Rex  (Rex)  [noun] (3rd decl., masculine)
+    King
+
+
+Sanctus  (Sanctus)  [noun/adjective] (1st/2nd decl., masculine)
+    Holy One, Saint
+
+
+Spiritus  (Spiritus)  [noun] (4th decl., masculine)
+    Spirit, breath, wind
+
+
+ab  [preposition]
+    from, away from
+
+
+accipio  [verb] (3rd conj.)
+    to receive, accept
+
+
+acies  [noun] (5th decl., feminine)
+    sharp edge, battle line
+
+
+actio  [noun] (3rd decl., feminine)
+    action, lawsuit
+
+
+acu  [noun] (4th decl., feminine)
+    needle
+
+
+ad  [preposition]
+    to, toward
+
+
+aedes sacra  [noun phrase] (3rd/1st decl., feminine)
+    sacred building
+
+
+aedilis  [noun] (3rd decl., masculine)
+    aedile
+
+
+aeneas  [proper noun] (1st decl., masculine)
+    Aeneas
+
+
+aes  [noun] (3rd decl., neuter)
+    bronze, copper
+
+
+aes alienum  [noun phrase] (3rd/2nd decl., neuter)
+    debt
+
+
+aestas  [noun] (3rd decl., feminine)
+    summer
+
+
+aeternus  [adjective] (1st/2nd decl., masculine)
+    eternal
+
+
+ager  [noun] (2nd decl., masculine)
+    field, land
+
+
+agmen  [noun] (3rd decl., neuter)
+    column, army on the march
+
+
+altare  [noun] (3rd decl., neuter)
+    altar
+
+
+altus  [adjective] (1st/2nd decl., masculine)
+    high, deep
+
+
+amiculum  [noun] (2nd decl., neuter)
+    wrap, mantle
+
+
+amicus  [noun] (2nd decl., masculine)
+    friend
+
+
+amo  [verb] (1st conj.)
+    to love
+
+
+anima  [noun] (1st decl., feminine)
+    soul, breath
+
+
+animal  [noun] (3rd decl., neuter)
+    animal
+
+
+animus  [noun] (2nd decl., masculine)
+    mind, spirit
+
+
+annus  [noun] (2nd decl., masculine)
+    year
+
+
+ante  [preposition]
+    before (in time/place)
+
+
+aperio  [verb] (4th conj.)
+    to open
+
+
+apis  [noun] (3rd decl., feminine)
+    bee
+
+
+apographum  [noun] (2nd decl., neuter)
+    copy
+
+
+apollo  [proper noun] (3rd decl., masculine)
+    Apollo
+
+
+apostolus  [noun] (2nd decl., masculine)
+    apostle
+
+
+aqua  [noun] (1st decl., feminine)
+    water
+
+
+ara  [noun] (1st decl., feminine)
+    altar
+
+
+arbor  [noun] (3rd decl., feminine)
+    tree
+
+
+arcus  [noun] (4th decl., masculine)
+    bow
+
+
+argentum  [noun] (2nd decl., neuter)
+    silver
+
+
+ars  [noun] (3rd decl., feminine)
+    art, skill
+
+
+ars grammatica  [noun phrase] (3rd/1st decl., feminine)
+    grammar
+
+
+ars poetica  [noun phrase] (3rd/1st decl., feminine)
+    poetic art
+
+
+ars rhetorica  [noun phrase] (3rd/1st decl., feminine)
+    rhetoric
+
+
+arvum  [noun] (2nd decl., neuter)
+    plowed land
+
+
+asinus  [noun] (2nd decl., masculine)
+    donkey, ass
+
+
+atramentum  [noun] (2nd decl., neuter)
+    ink
+
+
+atrium  [noun] (2nd decl., neuter)
+    hall, court
+
+
+audio  [verb] (4th conj.)
+    to hear
+
+
+augur  [noun] (3rd decl., masculine)
+    augur, soothsayer
+
+
+auris  [noun] (3rd decl., feminine)
+    ear
+
+
+aurum  [noun] (2nd decl., neuter)
+    gold
+
+
+aut  [conjunction]
+    or
+
+
+autographum  [noun] (2nd decl., neuter)
+    autograph
+
+
+autumnus  [noun] (2nd decl., masculine)
+    autumn, fall
+
+
+avena  [noun] (1st decl., feminine)
+    oats
+
+
+avis  [noun] (3rd decl., feminine)
+    bird
+
+
+bacchus  [proper noun] (2nd decl., masculine)
+    Bacchus
+
+
+balneum  [noun] (2nd decl., neuter)
+    bath
+
+
+baptisma  [noun] (3rd decl., neuter)
+    baptism
+
+
+bellum  [noun] (2nd decl., neuter)
+    war
+
+
+bene  [adverb]
+    well
+
+
+bestia  [noun] (1st decl., feminine)
+    beast, animal
+
+
+bibliotheca  [noun] (1st decl., feminine)
+    library
+
+
+bonus  [adjective] (1st/2nd decl., masculine)
+    good
+
+
+bos  [noun] (3rd decl., masculine/feminine)
+    ox, cow
+
+
+bracchium  [noun] (2nd decl., neuter)
+    arm
+
+
+buxus  [noun] (2nd decl., feminine)
+    box tree
+
+
+byssus  [noun] (2nd decl., feminine)
+    fine linen
+
+
+caelum  [noun] (2nd decl., neuter)
+    heaven, sky
+
+
+caerimonia  [noun] (1st decl., feminine)
+    religious ceremony
+
+
+calamus  [noun] (2nd decl., masculine)
+    reed, pen
+
+
+caliga  [noun] (1st decl., feminine)
+    military boot, sandal
+
+
+camelus  [noun] (2nd decl., masculine)
+    camel
+
+
+camera  [noun] (1st decl., feminine)
+    vault, room
+
+
+canticum  [noun] (2nd decl., neuter)
+    song, canticle
+
+
+capillus  [noun] (2nd decl., masculine)
+    hair
+
+
+capio  [verb] (3rd conj.)
+    to take, seize
+
+
+capra  [noun] (1st decl., feminine)
+    goat
+
+
+caput  [noun] (3rd decl., neuter)
+    head
+
+
+caritas  [noun] (3rd decl., feminine)
+    love, charity
+
+
+carmen  [noun] (3rd decl., neuter)
+    song, poem
+
+
+caro  [noun] (3rd decl., feminine)
+    meat, flesh
+
+
+caseus  [noun] (2nd decl., masculine)
+    cheese
+
+
+castor  [proper noun] (3rd decl., masculine)
+    Castor
+
+
+castra  [noun] (2nd decl., neuter)
+    camp
+
+
+causa  [noun] (1st decl., feminine)
+    cause, case
+
+
+censor  [noun] (3rd decl., masculine)
+    censor
+
+
+centum  [numeral]
+    hundred
+
+
+centuria  [noun] (1st decl., feminine)
+    century
+
+
+ceratum  [noun] (2nd decl., neuter)
+    wax tablet
+
+
+ceres  [proper noun] (3rd decl., feminine)
+    Ceres
+
+
+charta  [noun] (1st decl., feminine)
+    paper, papyrus
+
+
+cingulum  [noun] (2nd decl., neuter)
+    girdle, belt
+
+
+civis  [noun] (3rd decl., masculine/feminine)
+    citizen
+
+
+civitas  [noun] (3rd decl., feminine)
+    city, state
+
+
+classis  [noun] (3rd decl., feminine)
+    fleet, class
+
+
+claudo  [verb] (3rd conj.)
+    to close, shut
+
+
+cliens  [noun] (3rd decl., masculine)
+    client
+
+
+coccinus  [adjective] (1st/2nd decl., masculine)
+    scarlet
+
+
+coccum  [noun] (2nd decl., neuter)
+    scarlet
+
+
+codex  [noun] (3rd decl., masculine)
+    book, codex
+
+
+cohors  [noun] (3rd decl., feminine)
+    cohort
+
+
+collum  [noun] (2nd decl., neuter)
+    neck
+
+
+comoedia  [noun] (1st decl., feminine)
+    comedy
+
+
+concio  [noun] (3rd decl., feminine)
+    assembly, speech
+
+
+consecratio  [noun] (3rd decl., feminine)
+    consecration
+
+
+consul  [noun] (irregular decl., masculine)
+    consul
+
+
+contra  [preposition]
+    against
+
+
+copia verborum  [noun phrase] (1st/2nd decl., feminine/neuter)
+    abundance of words
+
+
+cor  [noun] (3rd decl., neuter)
+    heart
+
+
+cornicen  [noun] (3rd decl., masculine)
+    horn-blower
+
+
+corpus  [noun] (3rd decl., neuter)
+    body
+
+
+cortex  [noun] (3rd decl., masculine)
+    bark, shell
+
+
+cras  [adverb]
+    tomorrow
+
+
+creatio  [noun] (3rd decl., feminine)
+    creation
+
+
+creatura  [noun] (1st decl., feminine)
+    creature
+
+
+credo  [verb] (3rd conj.)
+    to believe, trust
+
+
+crepida  [noun] (1st decl., feminine)
+    sandal, shoe
+
+
+crimen  [noun] (3rd decl., neuter)
+    accusation, crime
+
+
+crus  [noun] (3rd decl., neuter)
+    leg
+
+
+crux  [noun] (3rd decl., feminine)
+    cross
+
+
+cubiculum  [noun] (2nd decl., neuter)
+    bedroom
+
+
+culpa  [noun] (1st decl., feminine)
+    fault, blame
+
+
+cultus  [noun] (4th decl., masculine)
+    cult, worship
+
+
+cum  [conjunction]
+    when, since
+
+
+cutis  [noun] (3rd decl., feminine)
+    skin
+
+
+daemon  [noun] (3rd decl., masculine)
+    demon, spirit
+
+
+damnum  [noun] (2nd decl., neuter)
+    damage, loss
+
+
+de  [preposition]
+    down from, concerning
+
+
+dea  [noun] (1st decl., feminine)
+    goddess
+
+
+decemvir  [noun] (irregular decl., masculine)
+    member of board of ten
+
+
+decemvir sacris faciundis  [noun phrase] (irregular/3rd decl., masculine)
+    board of ten for sacred rites
+
+
+declamatio  [noun] (3rd decl., feminine)
+    declamation
+
+
+decorum  [noun] (2nd decl., neuter)
+    propriety, decorum
+
+
+decuma  [noun] (1st decl., feminine)
+    tithe
+
+
+decus  [noun] (3rd decl., neuter)
+    honor, beauty
+
+
+dedicatio  [noun] (3rd decl., feminine)
+    dedication
+
+
+delictum  [noun] (2nd decl., neuter)
+    offense, delict
+
+
+delubrum  [noun] (2nd decl., neuter)
+    shrine, temple
+
+
+dens  [noun] (3rd decl., masculine)
+    tooth
+
+
+deus  [noun] (2nd decl., masculine)
+    god
+
+
+devotio  [noun] (3rd decl., feminine)
+    devotion
+
+
+devotio ducis  [noun phrase] (3rd/3rd decl., feminine/masculine)
+    devotion of the commander
+
+
+diabolus  [noun] (2nd decl., masculine)
+    devil
+
+
+diana  [proper noun] (1st decl., feminine)
+    Diana
+
+
+dico  [verb] (3rd conj.)
+    to say, speak
+
+
+dictator  [noun] (3rd decl., masculine)
+    dictator
+
+
+dictio  [noun] (3rd decl., feminine)
+    expression, word
+
+
+dies  [noun] (5th decl., masculine/feminine)
+    day
+
+
+digitus  [noun] (2nd decl., masculine)
+    finger
+
+
+divus  [adjective] (1st/2nd decl., masculine)
+    deified
+
+
+do  [verb] (1st conj.)
+    to give
+
+
+dolus  [noun] (2nd decl., masculine)
+    fraud, deceit
+
+
+domus  [noun] (4th decl., feminine)
+    house, home
+
+
+dulcis  [adjective] (3rd decl., masculine/feminine)
+    sweet
+
+
+dum  [conjunction]
+    while
+
+
+duo  [numeral] (irregular decl.)
+    two
+
+
+dux  [noun] (3rd decl., masculine)
+    leader
+
+
+ea  [personal pronoun] (irregular decl.)
+    she, this
+
+
+ecclesia  [noun] (1st decl., feminine)
+    church, assembly
+
+
+ecloga  [noun] (1st decl., feminine)
+    eclogue, selection
+
+
+edictum  [noun] (2nd decl., neuter)
+    edict
+
+
+effigies  [noun] (5th decl., feminine)
+    effigy, image
+
+
+ego  [personal pronoun] (irregular decl.)
+    I
+
+
+elegia  [noun] (1st decl., feminine)
+    elegy, elegiac verse
+
+
+elephans  [noun] (3rd decl., masculine)
+    elephant
+
+
+elocutio  [noun] (3rd decl., feminine)
+    style, expression
+
+
+enim  [conjunction]
+    for
+
+
+epigramma  [noun] (3rd decl., neuter)
+    epigram
+
+
+episcopus  [noun] (2nd decl., masculine)
+    bishop, overseer
+
+
+epistula  [noun] (1st decl., feminine)
+    letter, epistle
+
+
+eques  [noun] (3rd decl., masculine)
+    horseman, knight
+
+
+equus  [noun] (2nd decl., masculine)
+    horse
+
+
+est  [verb] (irregular conj.)
+    he/she/it is
+
+
+et  [conjunction]
+    and
+
+
+evangelium  [noun] (2nd decl., neuter)
+    gospel
+
+
+evocatio  [noun] (3rd decl., feminine)
+    evocation
+
+
+evocatio deorum  [noun phrase] (3rd/2nd decl., feminine/masculine)
+    evocation of gods
+
+
+ex  [preposition]
+    out of, from
+
+
+exercitus  [noun] (4th decl., masculine)
+    army
+
+
+exta  [noun] (3rd decl., neuter)
+    entrails
+
+
+fabrica  [noun] (1st decl., feminine)
+    workshop
+
+
+fabula  [noun] (1st decl., feminine)
+    story, play
+
+
+facinus  [noun] (3rd decl., neuter)
+    deed, crime
+
+
+facio  [verb] (3rd conj.)
+    to make, do
+
+
+familia  [noun] (1st decl., feminine)
+    family, household
+
+
+fanum  [noun] (2nd decl., neuter)
+    shrine, temple
+
+
+fauces  [noun] (3rd decl., feminine)
+    throat, narrow passage
+
+
+faunus  [proper noun] (2nd decl., masculine)
+    Faunus
+
+
+femina  [noun] (1st decl., feminine)
+    woman
+
+
+fenestra  [noun] (1st decl., feminine)
+    window
+
+
+fenus  [noun] (3rd decl., neuter)
+    interest, profit
+
+
+ferrum  [noun] (2nd decl., neuter)
+    iron
+
+
+fetiales  [noun] (3rd decl., masculine)
+    fetial priests
+
+
+fibula  [noun] (1st decl., feminine)
+    brooch, clasp
+
+
+ficus  [noun] (2nd/4th decl., feminine)
+    fig
+
+
+fides  [noun] (3rd decl., feminine)
+    faith, trust
+
+
+figura  [noun] (1st decl., feminine)
+    figure, form
+
+
+flamen  [noun] (3rd decl., masculine)
+    priest
+
+
+flos  [noun] (3rd decl., masculine)
+    flower
+
+
+flumen  [noun] (3rd decl., neuter)
+    river
+
+
+focus  [noun] (2nd decl., masculine)
+    hearth, altar
+
+
+foedus  [noun] (3rd decl., neuter)
+    treaty, league
+
+
+folium  [noun] (2nd decl., neuter)
+    leaf
+
+
+forma  [noun] (1st decl., feminine)
+    form
+
+
+formica  [noun] (1st decl., feminine)
+    ant
+
+
+fossa  [noun] (1st decl., feminine)
+    ditch, trench
+
+
+fratres arvales  [noun phrase] (3rd/3rd decl., masculine)
+    Arval brothers
+
+
+fraus  [noun] (3rd decl., feminine)
+    fraud, deceit
+
+
+fructus  [noun] (4th decl., masculine)
+    fruit
+
+
+fullonica  [noun] (1st decl., feminine)
+    fuller's shop
+
+
+fulmen  [noun] (3rd decl., neuter)
+    lightning
+
+
+fundus  [noun] (2nd decl., masculine)
+    farm, estate
+
+
+galea  [noun] (1st decl., feminine)
+    helmet
+
+
+gena  [noun] (1st decl., feminine)
+    cheek
+
+
+genius  [noun] (2nd decl., masculine)
+    genius, guardian spirit
+
+
+gens  [noun] (3rd decl., feminine)
+    race, people
+
+
+genus  [noun] (3rd decl., neuter)
+    kind, race
+
+
+gladius  [noun] (2nd decl., masculine)
+    sword
+
+
+gloria  [noun] (1st decl., feminine)
+    glory
+
+
+grammaticus  [noun] (2nd decl., masculine)
+    grammarian, teacher
+
+
+gratia  [noun] (1st decl., feminine)
+    grace, thanks
+
+
+habeo  [verb] (2nd conj.)
+    to have, hold
+
+
+haec  [demonstrative pronoun] (irregular decl.)
+    this (feminine)
+
+
+haruspex  [noun] (3rd decl., masculine)
+    haruspex, diviner
+
+
+hasta  [noun] (1st decl., feminine)
+    spear
+
+
+hebdomas  [noun] (3rd decl., feminine)
+    week
+
+
+herba  [noun] (1st decl., feminine)
+    grass, herb
+
+
+hercules  [proper noun] (3rd decl., masculine)
+    Hercules
+
+
+heri  [adverb]
+    yesterday
+
+
+hexameter  [noun] (3rd decl., masculine)
+    hexameter
+
+
+hic  [adverb]
+    here
+
+
+hiems  [noun] (3rd decl., feminine)
+    winter
+
+
+historia  [noun] (1st decl., feminine)
+    history, story
+
+
+historicus  [noun] (2nd decl., masculine)
+    historian
+
+
+hoc  [demonstrative pronoun] (irregular decl.)
+    this (neuter)
+
+
+hodiernus  [adjective] (1st/2nd decl., masculine)
+    today's, of today
+
+
+homo  [noun] (3rd decl., masculine)
+    man, human being
+
+
+honor  [noun] (3rd decl., masculine)
+    honor
+
+
+hora  [noun] (1st decl., feminine)
+    hour
+
+
+hordeum  [noun] (2nd decl., neuter)
+    barley
+
+
+hostia  [noun] (1st decl., feminine)
+    sacrificial victim
+
+
+hostis  [noun] (3rd decl., masculine)
+    enemy
+
+
+hymnus  [noun] (2nd decl., masculine)
+    hymn
+
+
+iacio  [verb] (3rd conj.)
+    to throw, cast
+
+
+iam  [adverb]
+    now, already
+
+
+ianua  [noun] (1st decl., feminine)
+    door
+
+
+id  [personal pronoun] (irregular decl.)
+    it, this
+
+
+idolum  [noun] (2nd decl., neuter)
+    idol, image
+
+
+igitur  [conjunction]
+    therefore
+
+
+ignis  [noun] (3rd decl., masculine)
+    fire
+
+
+illa  [demonstrative pronoun] (irregular decl.)
+    that (feminine)
+
+
+ille  [demonstrative pronoun] (irregular decl.)
+    that (masculine)
+
+
+illic  [adverb]
+    there
+
+
+illud  [demonstrative pronoun] (irregular decl.)
+    that (neuter)
+
+
+imago  [noun] (3rd decl., feminine)
+    image
+
+
+imber  [noun] (3rd decl., masculine)
+    rain
+
+
+immortalis  [adjective] (3rd decl., masculine/feminine)
+    immortal
+
+
+imperator  [noun] (3rd decl., masculine)
+    emperor, commander
+
+
+imperium  [noun] (2nd decl., neuter)
+    empire, command
+
+
+impluvium  [noun] (2nd decl., neuter)
+    rain basin
+
+
+in  [preposition]
+    in, into, on
+
+
+index  [noun] (3rd decl., masculine)
+    index, list, informer
+
+
+infernus  [noun] (2nd decl., masculine)
+    hell
+
+
+instrumentum  [noun] (2nd decl., neuter)
+    tool, instrument
+
+
+inter  [preposition]
+    between, among
+
+
+interdictum  [noun] (2nd decl., neuter)
+    interdict, injunction
+
+
+invocatio  [noun] (3rd decl., feminine)
+    invocation
+
+
+is  [personal pronoun] (irregular decl.)
+    he, this
+
+
+itaque  [conjunction]
+    and so, therefore
+
+
+iudicium  [noun] (2nd decl., neuter)
+    trial, judgment
+
+
+iuno  [proper noun] (3rd decl., feminine)
+    Juno
+
+
+iupiter  [proper noun] (3rd decl., masculine)
+    Jupiter
+
+
+ius  [noun] (3rd decl., neuter)
+    law, right, justice
+
+
+ius civile  [noun phrase] (3rd/2nd decl., neuter)
+    civil law
+
+
+ius divinum  [noun phrase] (3rd/2nd decl., neuter)
+    divine law
+
+
+ius gentium  [noun phrase] (3rd/2nd decl., neuter)
+    law of nations
+
+
+ius honorarium  [noun phrase] (3rd/2nd decl., neuter)
+    praetorian law
+
+
+ius naturale  [noun phrase] (3rd/2nd decl., neuter)
+    natural law
+
+
+ius privatum  [noun phrase] (3rd/2nd decl., neuter)
+    private law
+
+
+ius publicum  [noun phrase] (3rd/2nd decl., neuter)
+    public law
+
+
+iustitia  [noun] (1st decl., feminine)
+    justice, righteousness
+
+
+iustus  [adjective] (1st/2nd decl., masculine)
+    just, righteous
+
+
+janus  [proper noun] (2nd decl., masculine)
+    Janus
+
+
+lac  [noun] (3rd decl., neuter)
+    milk
+
+
+lacerna  [noun] (1st decl., feminine)
+    cape, cloak
+
+
+lacus  [noun] (4th decl., masculine)
+    lake
+
+
+lanaria  [noun] (1st decl., feminine)
+    wool merchant
+
+
+lares  [noun] (3rd decl., masculine)
+    Lares
+
+
+larva  [noun] (1st decl., feminine)
+    mask, ghost
+
+
+laudes  [noun] (3rd decl., feminine)
+    praises
+
+
+laus  [noun] (3rd decl., feminine)
+    praise
+
+
+lectio  [noun] (3rd decl., feminine)
+    reading
+
+
+lectus  [noun] (2nd decl., masculine)
+    couch, bed
+
+
+legatus  [noun] (2nd decl., masculine)
+    legate, ambassador
+
+
+legio  [noun] (3rd decl., feminine)
+    legion
+
+
+lemures  [noun] (3rd decl., masculine)
+    ghosts
+
+
+leo  [noun] (3rd decl., masculine)
+    lion
+
+
+lepus  [noun] (3rd decl., masculine)
+    hare
+
+
+lex  [noun] (3rd decl., feminine)
+    law
+
+
+libamen  [noun] (3rd decl., neuter)
+    libation
+
+
+liber  [proper noun] (2nd decl., masculine)
+    Liber
+
+
+libera  [proper noun] (1st decl., feminine)
+    Libera
+
+
+libertus  [noun] (2nd decl., masculine)
+    freedman
+
+
+lictor  [noun] (3rd decl., masculine)
+    lictor
+
+
+lingua  [noun] (1st decl., feminine)
+    tongue, language
+
+
+linteum  [noun] (2nd decl., neuter)
+    linen, linen cloth
+
+
+lis  [noun] (3rd decl., feminine)
+    lawsuit, quarrel
+
+
+litatio  [noun] (3rd decl., feminine)
+    favorable sacrifice
+
+
+litis  [noun] (3rd decl., feminine)
+    dispute, lawsuit
+
+
+littera  [noun] (1st decl., feminine)
+    letter, literature
+
+
+litterae  [noun] (1st decl., feminine)
+    epistle, literature
+
+
+longus  [adjective] (1st/2nd decl., masculine)
+    long
+
+
+lorica  [noun] (1st decl., feminine)
+    breastplate, corselet
+
+
+lucus  [noun] (2nd decl., masculine)
+    grove
+
+
+luna  [noun] (1st decl., feminine)
+    moon
+
+
+luperci  [noun] (2nd decl., masculine)
+    priests of Lupercus
+
+
+lupus  [noun] (2nd decl., masculine)
+    wolf
+
+
+lux  [noun] (3rd decl., feminine)
+    light
+
+
+machina  [noun] (1st decl., feminine)
+    machine
+
+
+magister equitum  [noun phrase] (2nd/2nd decl., masculine)
+    master of horse
+
+
+magistratus  [noun] (4th decl., masculine)
+    magistrate
+
+
+magnus  [adjective] (1st/2nd decl., masculine)
+    great, large
+
+
+male  [adverb]
+    badly, poorly
+
+
+maleficium  [noun] (2nd decl., neuter)
+    wrongdoing, sorcery
+
+
+malum  [noun] (2nd decl., neuter)
+    apple
+
+
+malus  [adjective] (1st/2nd decl., masculine)
+    bad, evil
+
+
+mane  [noun] (irregular decl., neuter)
+    morning
+
+
+manes  [noun] (3rd decl., masculine)
+    spirits of the dead
+
+
+manipulus  [noun] (2nd decl., masculine)
+    maniple
+
+
+manus  [noun] (4th decl., feminine)
+    hand
+
+
+mars  [proper noun] (3rd decl., masculine)
+    Mars
+
+
+materia  [noun] (1st decl., feminine)
+    matter, material
+
+
+media nox  [noun phrase] (3rd decl., feminine)
+    midnight
+
+
+mel  [noun] (3rd decl., neuter)
+    honey
+
+
+membrana  [noun] (1st decl., feminine)
+    parchment
+
+
+memoria  [noun] (1st decl., feminine)
+    memory
+
+
+mens  [noun] (3rd decl., feminine)
+    mind
+
+
+mensa  [noun] (1st decl., feminine)
+    table
+
+
+mensis  [noun] (3rd decl., masculine)
+    month
+
+
+mensura  [noun] (1st decl., feminine)
+    measure
+
+
+merces  [noun] (3rd decl., feminine)
+    wages, reward
+
+
+mercurius  [proper noun] (2nd decl., masculine)
+    Mercury
+
+
+meridies  [noun] (5th decl., masculine)
+    midday, noon
+
+
+messis  [noun] (3rd decl., feminine)
+    harvest
+
+
+metrum  [noun] (2nd decl., neuter)
+    meter
+
+
+miles  [noun] (3rd decl., masculine)
+    soldier
+
+
+mille  [numeral] (irregular decl.)
+    thousand
+
+
+minerva  [proper noun] (1st decl., feminine)
+    Minerva
+
+
+misericordia  [noun] (1st decl., feminine)
+    mercy
+
+
+mitra  [noun] (1st decl., feminine)
+    headband, turban
+
+
+mitto  [verb] (3rd conj.)
+    to send
+
+
+modo  [adverb]
+    only, just now
+
+
+modus  [noun] (2nd decl., masculine)
+    manner, measure
+
+
+momentum  [noun] (2nd decl., neuter)
+    moment
+
+
+mons  [noun] (3rd decl., masculine)
+    mountain
+
+
+mores  [noun] (3rd decl., masculine)
+    morals, customs
+
+
+morior  [verb] (3rd conj.)
+    to die
+
+
+mors  [noun] (3rd decl., feminine)
+    death
+
+
+mos  [noun] (3rd decl., masculine)
+    custom, habit
+
+
+mulier  [noun] (3rd decl., feminine)
+    woman
+
+
+multus  [adjective] (1st/2nd decl., masculine)
+    much, many
+
+
+mundus  [noun] (2nd decl., masculine)
+    world, universe
+
+
+murus  [noun] (2nd decl., masculine)
+    wall
+
+
+mus  [noun] (3rd decl., masculine/feminine)
+    mouse
+
+
+nasus  [noun] (2nd decl., masculine)
+    nose
+
+
+natio  [noun] (3rd decl., feminine)
+    nation, race
+
+
+natura  [noun] (1st decl., feminine)
+    nature
+
+
+navis  [noun] (3rd decl., feminine)
+    ship
+
+
+nemus  [noun] (3rd decl., neuter)
+    grove, forest
+
+
+neptunus  [proper noun] (2nd decl., masculine)
+    Neptune
+
+
+neque  [conjunction]
+    and not, nor
+
+
+nisi  [conjunction]
+    unless, except
+
+
+nomen  [noun] (3rd decl., neuter)
+    name
+
+
+non  [adverb]
+    not
+
+
+nos  [personal pronoun] (irregular decl.)
+    we
+
+
+novus  [adjective] (1st/2nd decl., masculine)
+    new
+
+
+nox  [noun] (3rd decl., feminine)
+    night
+
+
+nubes  [noun] (3rd decl., feminine)
+    cloud
+
+
+numen  [noun] (3rd decl., neuter)
+    divine power, deity
+
+
+numerus  [noun] (2nd decl., masculine)
+    number
+
+
+nuncupatio  [noun] (3rd decl., feminine)
+    solemn declaration
+
+
+nunquam  [adverb]
+    never
+
+
+obtentio  [noun] (3rd decl., feminine)
+    obtaining favorable omens
+
+
+oculus  [noun] (2nd decl., masculine)
+    eye
+
+
+ode  [noun] (3rd decl., feminine)
+    ode
+
+
+officina  [noun] (1st decl., feminine)
+    workshop, factory
+
+
+oleum  [noun] (2nd decl., neuter)
+    oil
+
+
+oliva  [noun] (1st decl., feminine)
+    olive
+
+
+omnis  [adjective] (3rd decl., masculine/feminine)
+    all, every
+
+
+oportet  [verb]
+    it is necessary
+
+
+opus  [noun] (3rd decl., neuter)
+    work
+
+
+oratio  [noun] (3rd decl., feminine)
+    speech, prayer
+
+
+orator  [noun] (3rd decl., masculine)
+    orator
+
+
+ordo  [noun] (3rd decl., masculine)
+    order, rank
+
+
+os  [noun] (3rd decl., neuter)
+    mouth, face
+
+
+ostium  [noun] (2nd decl., neuter)
+    door, entrance
+
+
+ovis  [noun] (3rd decl., feminine)
+    sheep
+
+
+paenula  [noun] (1st decl., feminine)
+    thick cloak
+
+
+pallium  [noun] (2nd decl., neuter)
+    cloak, mantle
+
+
+pan  [proper noun] (3rd decl., masculine)
+    Pan
+
+
+panis  [noun] (3rd decl., masculine)
+    bread
+
+
+papilio  [noun] (3rd decl., masculine)
+    butterfly, moth
+
+
+paradisus  [noun] (2nd decl., masculine)
+    paradise
+
+
+parvus  [adjective] (1st/2nd decl., masculine)
+    small, little
+
+
+patrimonium  [noun] (2nd decl., neuter)
+    inheritance
+
+
+patronus  [noun] (2nd decl., masculine)
+    patron
+
+
+paucus  [adjective] (1st/2nd decl., masculine)
+    few
+
+
+pax  [noun] (3rd decl., feminine)
+    peace, treaty
+
+
+peccatum  [noun] (2nd decl., neuter)
+    sin
+
+
+pectus  [noun] (3rd decl., neuter)
+    chest, breast
+
+
+peculium  [noun] (2nd decl., neuter)
+    private property
+
+
+pecunia  [noun] (1st decl., feminine)
+    money
+
+
+pedes  [noun] (3rd decl., masculine)
+    foot-soldier
+
+
+penates  [noun] (3rd decl., masculine)
+    Penates
+
+
+pentameter  [noun] (3rd decl., masculine)
+    pentameter
+
+
+per  [preposition]
+    through, by means of
+
+
+peristylium  [noun] (2nd decl., neuter)
+    colonnade
+
+
+perna  [noun] (1st decl., feminine)
+    ham
+
+
+pes  [noun] (3rd decl., masculine)
+    foot
+
+
+petasus  [noun] (2nd decl., masculine)
+    broad-brimmed hat
+
+
+philosophus  [noun] (2nd decl., masculine)
+    philosopher
+
+
+piaculum  [noun] (2nd decl., neuter)
+    expiatory sacrifice
+
+
+piamentum  [noun] (2nd decl., neuter)
+    means of expiation
+
+
+pileus  [noun] (2nd decl., masculine)
+    felt cap
+
+
+pilum  [noun] (2nd decl., neuter)
+    javelin
+
+
+pinetum  [noun] (2nd decl., neuter)
+    pine grove
+
+
+piscis  [noun] (3rd decl., masculine)
+    fish
+
+
+plebiscitum  [noun] (2nd decl., neuter)
+    plebiscite
+
+
+plumbum  [noun] (2nd decl., neuter)
+    lead
+
+
+pluto  [proper noun] (3rd decl., masculine)
+    Pluto
+
+
+poena  [noun] (1st decl., feminine)
+    punishment, penalty
+
+
+poeta  [noun] (1st decl., masculine)
+    poet
+
+
+pollux  [proper noun] (3rd decl., masculine)
+    Pollux
+
+
+pomum  [noun] (2nd decl., neuter)
+    fruit
+
+
+pontifex  [noun] (3rd decl., masculine)
+    pontiff, high priest
+
+
+pontifex maximus  [noun phrase] (3rd/1st/2nd decl., masculine)
+    high priest
+
+
+populus  [noun] (2nd decl., masculine)
+    people, nation
+
+
+porcus  [noun] (2nd decl., masculine)
+    pig
+
+
+porta  [noun] (1st decl., feminine)
+    gate
+
+
+portorium  [noun] (2nd decl., neuter)
+    customs duty
+
+
+post  [preposition]
+    after
+
+
+potestas  [noun] (3rd decl., feminine)
+    power
+
+
+praefectus  [noun] (2nd decl., masculine)
+    prefect
+
+
+praetor  [noun] (3rd decl., masculine)
+    praetor
+
+
+precatio  [noun] (3rd decl., feminine)
+    prayer
+
+
+presbyter  [noun] (2nd decl., masculine)
+    elder, priest
+
+
+primus  [adjective] (irregular decl., masculine)
+    first
+
+
+princeps  [noun] (3rd decl., masculine)
+    chief, first citizen
+
+
+pro  [preposition]
+    before, for
+
+
+proconsul  [noun] (irregular decl., masculine)
+    proconsul
+
+
+procuratio  [noun] (3rd decl., feminine)
+    expiation
+
+
+proelium  [noun] (2nd decl., neuter)
+    battle
+
+
+pronuntiatio  [noun] (3rd decl., feminine)
+    delivery, pronunciation
+
+
+propheta  [noun] (1st decl., masculine)
+    prophet
+
+
+propinquus  [adjective] (1st/2nd decl., masculine)
+    near
+
+
+propraetor  [noun] (irregular decl., masculine)
+    propraetor
+
+
+propter  [preposition]
+    on account of
+
+
+proserpina  [proper noun] (1st decl., feminine)
+    Proserpina
+
+
+provincia  [noun] (1st decl., feminine)
+    province
+
+
+psalmus  [noun] (2nd decl., masculine)
+    psalm
+
+
+puella  [noun] (1st decl., feminine)
+    girl
+
+
+puer  [noun] (2nd decl., masculine)
+    boy, child
+
+
+pugna  [noun] (1st decl., feminine)
+    fight
+
+
+purificatio  [noun] (3rd decl., feminine)
+    purification
+
+
+purpura  [noun] (1st decl., feminine)
+    purple dye, purple cloth
+
+
+purpureus  [adjective] (1st/2nd decl., masculine)
+    purple
+
+
+quae  [relative pronoun] (irregular decl.)
+    who, which (feminine)
+
+
+quaestor  [noun] (3rd decl., masculine)
+    quaestor
+
+
+quattuor  [numeral]
+    four
+
+
+quattuorvir  [noun] (irregular decl., masculine)
+    member of board of four
+
+
+querquetum  [noun] (2nd decl., neuter)
+    oak grove
+
+
+qui  [relative pronoun] (irregular decl.)
+    who, which (masculine)
+
+
+quia  [conjunction]
+    because
+
+
+quindecimvir sacris faciundis  [noun phrase] (irregular/3rd decl., masculine)
+    board of fifteen for sacred rites
+
+
+quinque  [numeral]
+    five
+
+
+quirinus  [proper noun] (2nd decl., masculine)
+    Quirinus
+
+
+quod  [relative pronoun] (irregular decl.)
+    which (neuter)
+
+
+quoniam  [conjunction]
+    since, because
+
+
+radix  [noun] (3rd decl., feminine)
+    root
+
+
+ramus  [noun] (2nd decl., masculine)
+    branch
+
+
+ratio  [noun] (3rd decl., feminine)
+    reason, account
+
+
+recitatio  [noun] (3rd decl., feminine)
+    reading aloud, recitation
+
+
+regnum  [noun] (2nd decl., neuter)
+    kingdom, reign
+
+
+religio  [noun] (3rd decl., feminine)
+    religion
+
+
+remus  [proper noun] (2nd decl., masculine)
+    Remus
+
+
+res  [noun] (5th decl., feminine)
+    thing, matter, affair
+
+
+res familiaris  [noun phrase] (5th/3rd decl., feminine)
+    property, estate
+
+
+res publica  [noun phrase] (5th/1st decl., feminine)
+    republic, commonwealth
+
+
+responsum  [noun] (2nd decl., neuter)
+    legal opinion
+
+
+resurgo  [verb] (3rd conj.)
+    to rise again
+
+
+resurrectio  [noun] (3rd decl., feminine)
+    resurrection
+
+
+rex sacrorum  [noun phrase] (3rd/2nd decl., masculine)
+    king of sacred rites
+
+
+rhetor  [noun] (3rd decl., masculine)
+    rhetorician
+
+
+ritus  [noun] (4th decl., masculine)
+    rite
+
+
+romulus  [proper noun] (2nd decl., masculine)
+    Romulus
+
+
+rus  [noun] (3rd decl., neuter)
+    country, countryside
+
+
+sacellum  [noun] (2nd decl., neuter)
+    small shrine
+
+
+sacerdos  [noun] (3rd decl., masculine)
+    priest
+
+
+sacramentum  [noun] (2nd decl., neuter)
+    sacrament, mystery
+
+
+sacrificium  [noun] (2nd decl., neuter)
+    sacrifice
+
+
+sacristia  [noun] (1st decl., feminine)
+    sacristy
+
+
+sacrum  [noun] (2nd decl., neuter)
+    sacred rite
+
+
+sagitta  [noun] (1st decl., feminine)
+    arrow
+
+
+sagum  [noun] (2nd decl., neuter)
+    military cloak
+
+
+sal  [noun] (3rd decl., masculine)
+    salt
+
+
+salii  [noun] (2nd decl., masculine)
+    leaping priests
+
+
+sanctus  [adjective] (1st/2nd decl., masculine)
+    holy, sacred
+
+
+sanguis  [noun] (3rd decl., masculine)
+    blood
+
+
+sapientia  [noun] (1st decl., feminine)
+    wisdom
+
+
+satanas  [noun] (irregular decl., masculine)
+    satan
+
+
+satira  [noun] (1st decl., feminine)
+    satire
+
+
+scheda  [noun] (1st decl., feminine)
+    strip of papyrus, leaf
+
+
+schema  [noun] (3rd decl., neuter)
+    scheme, figure
+
+
+scientia  [noun] (1st decl., feminine)
+    knowledge
+
+
+scio  [verb] (4th conj.)
+    to know
+
+
+scutum  [noun] (2nd decl., neuter)
+    shield
+
+
+sed  [conjunction]
+    but
+
+
+sedeo  [verb] (2nd conj.)
+    to sit
+
+
+seges  [noun] (3rd decl., feminine)
+    crop, field of grain
+
+
+semen  [noun] (3rd decl., neuter)
+    seed
+
+
+semper  [adverb]
+    always
+
+
+senatus  [noun] (4th decl., masculine)
+    senate
+
+
+senatus consultum  [noun phrase] (4th/2nd decl., neuter)
+    senatorial decree
+
+
+sententia  [noun] (1st decl., feminine)
+    opinion, sentence
+
+
+septemvir epulonum  [noun phrase] (irregular/2nd decl., masculine)
+    board of seven for feasts
+
+
+sermo  [noun] (3rd decl., masculine)
+    speech, conversation
+
+
+serpens  [noun] (3rd decl., masculine/feminine)
+    serpent, snake
+
+
+servus  [noun] (2nd decl., masculine)
+    slave, servant
+
+
+si  [conjunction]
+    if
+
+
+sibylla  [noun] (1st decl., feminine)
+    sibyl
+
+
+sic  [adverb]
+    thus, so
+
+
+signifer  [noun] (irregular decl., masculine)
+    standard-bearer
+
+
+silva  [noun] (1st decl., feminine)
+    wood, forest
+
+
+silvanus  [proper noun] (2nd decl., masculine)
+    Silvanus
+
+
+simulacrum  [noun] (2nd decl., neuter)
+    image, statue
+
+
+sine  [preposition]
+    without
+
+
+socius  [noun] (2nd decl., masculine)
+    ally, companion
+
+
+sol  [noun] (3rd decl., masculine)
+    sun
+
+
+solarium  [noun] (2nd decl., neuter)
+    terrace
+
+
+solea  [noun] (1st decl., feminine)
+    sandal
+
+
+species  [noun] (5th decl., feminine)
+    appearance, kind
+
+
+spectrum  [noun] (2nd decl., neuter)
+    apparition, ghost
+
+
+spero  [verb] (1st conj.)
+    to hope
+
+
+spes  [noun] (3rd decl., feminine)
+    hope
+
+
+spina  [noun] (1st decl., feminine)
+    thorn
+
+
+spiritus  [noun] (4th decl., masculine)
+    spirit, breath
+
+
+stella  [noun] (1st decl., feminine)
+    star
+
+
+stibadium  [noun] (2nd decl., neuter)
+    couch
+
+
+stipendium  [noun] (2nd decl., neuter)
+    stipend, pay
+
+
+sto  [verb] (1st conj.)
+    to stand
+
+
+stola  [noun] (1st decl., feminine)
+    robe, stola
+
+
+stylus  [noun] (2nd decl., masculine)
+    stylus, pen
+
+
+sub  [preposition]
+    under, up to
+
+
+subscriptio  [noun] (3rd decl., feminine)
+    signature, subscription
+
+
+sucus  [noun] (2nd decl., masculine)
+    sap, juice
+
+
+sum  [verb] (irregular conj.)
+    to be, exist
+
+
+super  [preposition]
+    above, over, upon
+
+
+supplicium  [noun] (2nd decl., neuter)
+    punishment, supplication
+
+
+sylva  [noun] (1st decl., feminine)
+    forest, wood
+
+
+tablinum  [noun] (2nd decl., neuter)
+    reception room
+
+
+tabula  [noun] (1st decl., feminine)
+    tablet, writing tablet
+
+
+tamen  [adverb]
+    however, nevertheless
+
+
+tela  [noun] (1st decl., feminine)
+    web, loom
+
+
+tempestas  [noun] (3rd decl., feminine)
+    storm
+
+
+templum  [noun] (2nd decl., neuter)
+    temple
+
+
+tenebrae  [noun] (1st decl., feminine)
+    darkness
+
+
+tergum  [noun] (2nd decl., neuter)
+    back
+
+
+terminus  [proper noun] (2nd decl., masculine)
+    Terminus
+
+
+terra  [noun] (1st decl., feminine)
+    earth, land, ground
+
+
+testamentum  [noun] (2nd decl., neuter)
+    testament, covenant
+
+
+textor  [noun] (3rd decl., masculine)
+    weaver
+
+
+thermae  [noun] (1st decl., feminine)
+    warm baths
+
+
+thura  [noun] (1st decl., feminine)
+    incense
+
+
+titulus  [noun] (2nd decl., masculine)
+    title, inscription
+
+
+toga  [noun] (1st decl., feminine)
+    toga
+
+
+tonitrus  [noun] (2nd decl., masculine)
+    thunder
+
+
+totus  [adjective] (irregular decl., masculine)
+    whole, entire
+
+
+tragoedia  [noun] (1st decl., feminine)
+    tragedy
+
+
+trans  [preposition]
+    across, beyond
+
+
+tres  [numeral] (irregular decl.)
+    three
+
+
+tribunus  [noun] (2nd decl., masculine)
+    tribune
+
+
+tribunus plebis  [noun phrase] (2nd/3rd decl., masculine)
+    tribune of the plebs
+
+
+tributum  [noun] (2nd decl., neuter)
+    tribute, tax
+
+
+triclinium  [noun] (2nd decl., neuter)
+    dining room
+
+
+trinitas  [noun] (3rd decl., feminine)
+    trinity
+
+
+triticum  [noun] (2nd decl., neuter)
+    wheat
+
+
+triumphus  [noun] (2nd decl., masculine)
+    triumph
+
+
+tropus  [noun] (2nd decl., masculine)
+    trope
+
+
+tu  [personal pronoun] (irregular decl.)
+    you (singular)
+
+
+tubicen  [noun] (3rd decl., masculine)
+    trumpeter
+
+
+tunica  [noun] (1st decl., feminine)
+    tunic
+
+
+turris  [noun] (3rd decl., feminine)
+    tower
+
+
+ultimus  [adjective] (1st/2nd decl., masculine)
+    last
+
+
+umbra  [noun] (1st decl., feminine)
+    shade, ghost
+
+
+unguis  [noun] (3rd decl., masculine)
+    nail, claw
+
+
+unitas  [noun] (3rd decl., feminine)
+    unity
+
+
+unus  [numeral] (irregular decl.)
+    one
+
+
+urbs  [noun] (3rd decl., feminine)
+    city
+
+
+ursus  [noun] (2nd decl., masculine)
+    bear
+
+
+ut  [conjunction]
+    so that, in order that
+
+
+uva  [noun] (1st decl., feminine)
+    grape
+
+
+vado  [verb] (1st conj.)
+    to go
+
+
+vallis  [noun] (3rd decl., feminine)
+    valley
+
+
+vallum  [noun] (2nd decl., neuter)
+    rampart, palisade
+
+
+vates  [noun] (3rd decl., masculine/feminine)
+    prophet, poet
+
+
+vectigal  [noun] (3rd decl., neuter)
+    tax, revenue
+
+
+vel  [conjunction]
+    or (inclusive)
+
+
+vena  [noun] (1st decl., feminine)
+    vein
+
+
+venio  [verb] (4th conj.)
+    to come
+
+
+venter  [noun] (3rd decl., masculine)
+    belly, stomach
+
+
+ventus  [noun] (2nd decl., masculine)
+    wind
+
+
+venus  [proper noun] (3rd decl., feminine)
+    Venus
+
+
+ver  [noun] (irregular decl., neuter)
+    spring
+
+
+verbum  [noun] (2nd decl., neuter)
+    word
+
+
+veritas  [noun] (3rd decl., feminine)
+    truth
+
+
+vermis  [noun] (3rd decl., masculine)
+    worm
+
+
+versus  [noun] (4th decl., masculine)
+    verse
+
+
+vertex  [noun] (3rd decl., masculine)
+    top of head
+
+
+verus  [adjective] (1st/2nd decl., masculine)
+    true, real
+
+
+vesper  [noun] (irregular decl., masculine)
+    evening
+
+
+vesta  [proper noun] (1st decl., feminine)
+    Vesta
+
+
+vestimentum  [noun] (2nd decl., neuter)
+    garment
+
+
+vestis  [noun] (3rd decl., feminine)
+    clothing
+
+
+via  [noun] (1st decl., feminine)
+    way, road, path
+
+
+victima  [noun] (1st decl., feminine)
+    victim, sacrificial animal
+
+
+victoria  [noun] (1st decl., feminine)
+    victory
+
+
+video  [verb] (2nd conj.)
+    to see
+
+
+vigintisexvir  [noun] (irregular decl., masculine)
+    member of board of twenty-six
+
+
+villa  [noun] (1st decl., feminine)
+    country house, farm
+
+
+vinum  [noun] (2nd decl., neuter)
+    wine
+
+
+vir  [noun] (3rd decl., masculine)
+    man, male
+
+
+virgo vestalis  [noun phrase] (3rd/3rd decl., feminine)
+    Vestal virgin
+
+
+virtus  [noun] (3rd decl., feminine)
+    virtue, power
+
+
+vis  [noun] (3rd decl., feminine)
+    force, power
+
+
+viscera  [noun] (3rd decl., neuter)
+    internal organs, entrails
+
+
+vita  [noun] (1st decl., feminine)
+    life
+
+
+vitis  [noun] (3rd decl., feminine)
+    vine
+
+
+vitium  [noun] (2nd decl., neuter)
+    fault, defect in omens
+
+
+vivo  [verb] (3rd conj.)
+    to live
+
+
+vocabulum  [noun] (2nd decl., neuter)
+    word, term
+
+
+volumen  [noun] (3rd decl., neuter)
+    volume, scroll
+
+
+voluntas  [noun] (3rd decl., feminine)
+    will, wish
+
+
+vos  [personal pronoun] (irregular decl.)
+    you (plural)
+
+
+votum  [noun] (2nd decl., neuter)
+    vow
+
+
+vulpes  [noun] (3rd decl., feminine)
+    fox
+

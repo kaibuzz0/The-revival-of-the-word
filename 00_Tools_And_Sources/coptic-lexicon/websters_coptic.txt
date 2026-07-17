@@ -1,0 +1,762 @@
+======================================================================
+COPTIC LEXICON
+Coptic-English Dictionary (Sahidic Dialect)
+Period: 100-800 CE (Early Christian Egypt)
+======================================================================
+
+About Coptic:
+  - Written in modified Greek alphabet
+  - Last stage of ancient Egyptian language
+  - Dialects: Sahidic (Upper Egypt), Bohairic (Lower Egypt)
+  - Used for early Christian texts (Nag Hammadi library)
+
+Pronunciation Guide:
+  ⲁ = a as in father    ⲉ = e as in pet
+  ⲏ = ay as in say      ⲓ = i as in machine
+  ⲟ = o as in note      ⲩ = u/y as in French tu
+  ⲱ = o as in tone      ϩ = h (rough breathing)
+  ϣ = sh                ϭ = ky/ch
+  ϥ = f                 ⲑ = th as in thin
+
+----------------------------------------------------------------------
+
+
+ϣⲁϣ  (shash)  [noun]
+    tree, wood
+    Origin: Egyptian št
+
+
+ϣⲏⲣⲉ  (shēre)  [noun]
+    son, child
+    Origin: Egyptian šr
+
+
+ϣⲟⲙⲛ̄ⲧ  (shomnt)  [numeral]
+    three
+    Origin: Egyptian ḫmt
+
+
+ϣⲱⲡⲉ  (shōpe)  [verb]
+    to become, be
+    Origin: Egyptian ḫpr
+
+
+ϣⲱⲣ  (shōr)  [verb]
+    to spread
+    Origin: Egyptian pꜣḏ
+
+
+ϣⲱⲱⲧ  (shōwt)  [verb]
+    to seek
+    Origin: Greek: ζητεῖν
+
+
+ϥⲧⲟⲟⲩ  (ftoou)  [numeral]
+    four
+    Origin: Egyptian jfdw
+
+
+ϩⲁ  (ha)  [preposition]
+    with, by, near
+    Origin: Egyptian ḥꜣ
+
+
+ϩⲁⲉ  (hae)  [noun]
+    field
+    Origin: Egyptian sḥt
+
+
+ϩⲁⲑ  (hath)  [adjective]
+    exalted
+    Origin: Egyptian šꜣi
+
+
+ϩⲁⲙ  (ham)  [noun]
+    reed, papyrus
+    Origin: Egyptian ꜥm
+
+
+ϩⲏⲧ  (hēt)  [noun]
+    heart
+    Origin: Egyptian ḥꜣt
+
+
+ϩⲓ  (hi)  [preposition]
+    under, through, by
+    Origin: Egyptian ḥr
+
+
+ϩⲓⲟⲙ  (hiom)  [noun]
+    sea, lake
+    Origin: Greek: ἡ θάλασσα
+
+
+ϩⲓⲣⲏⲛⲏ  (hirēnē)  [noun]
+    peace
+    Origin: Greek: εἰρήνη
+
+
+ϩⲓⲥⲉ  (hise)  [noun]
+    wound, mark
+    Origin: Greek: ἕλκος
+
+
+ϩⲓⲧⲛ  (hitn)  [preposition]
+    through, by means of
+    Origin: Greek
+
+
+ϩⲛ  (hn)  [preposition]
+    in, at, by (prefix)
+    Origin: Egyptian m
+
+
+ϩⲛⲟⲩ  (hnou)  [noun]
+    voice
+    Origin: Egyptian ḥnw
+
+
+ϩⲟ  (ho)  [noun]
+    face
+    Origin: Egyptian ḥr
+
+
+ϩⲟⲓⲛⲉ  (hoine)  [noun]
+    road, way
+    Origin: Egyptian wꜣt
+
+
+ϩⲟⲟⲩ  (hoou)  [noun]
+    day
+    Origin: Egyptian hrw
+
+
+ϩⲟⲩⲓⲧ  (houit)  [noun]
+    hand
+    Origin: Egyptian ḏrt
+
+
+ϩⲟⲩⲛⲧ  (hount)  [noun]
+    clothing
+    Origin: Egyptian mnḫt
+
+
+ϩⲣⲟⲇⲏ  (hrōdē)  [proper noun]
+    Herod
+    Origin: Greek: Ἡρῴδης
+
+
+ϩⲧⲟ  (hto)  [noun]
+    morning
+    Origin: Greek: ἑωθινός
+
+
+ϩⲱⲃ  (hōb)  [noun]
+    thing, matter
+    Origin: Egyptian ḫt
+
+
+ϩⲱⲥ  (hōs)  [conjunction]
+    until, when
+    Origin: Greek: ἕως
+
+
+ϫⲉ  (je)  [noun]
+    saying, word
+    Origin: Coptic
+
+
+ϫⲓ  (ji)  [verb]
+    to take, receive
+    Origin: Egyptian ḫi
+
+
+ϭⲱ  (chō)  [verb]
+    to remain, stay
+    Origin: Greek: μένω
+
+
+ϯ  (ti)  [verb]
+    to give
+    Origin: Egyptian di
+
+
+ϯϩⲏ  (tihē)  [verb]
+    to command
+    Origin: Egyptian wd
+
+
+ⲁⲅⲁⲡⲏ  (agapē)  [noun]
+    love
+    Origin: Greek: ἀγάπη
+
+
+ⲁⲗⲗⲁ  (alla)  [conjunction]
+    if
+    Origin: Greek: ἀλλά
+
+
+ⲁⲛⲇⲣⲉⲁⲥ  (andreas)  [proper noun]
+    Andrew
+    Origin: Greek: Ἀνδρέας
+
+
+ⲁⲛⲟⲕ  (anok)  [pronoun]
+    I, me
+    Origin: Egyptian
+
+
+ⲁⲡⲟⲥⲧⲟⲗⲟⲥ  (apostolos)  [noun]
+    apostle
+    Origin: Greek: ἀπόστολος
+
+
+ⲁⲩⲱ  (auō)  [conjunction]
+    and
+    Origin: Greek: αὐτός
+
+
+ⲃⲱⲕ  (bōk)  [verb]
+    to go, walk
+    Origin: Egyptian bk
+
+
+ⲅⲛⲱⲥⲓⲥ  (gnōsis)  [noun]
+    knowledge
+    Origin: Greek: γνῶσις
+
+
+ⲇⲉ  (de)  [conjunction]
+    but, and, now
+    Origin: Greek: δέ
+
+
+ⲇⲓⲁⲕⲟⲛⲟⲥ  (diakonos)  [noun]
+    deacon
+    Origin: Greek: διάκονος
+
+
+ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ  (dikaiosynē)  [noun]
+    righteousness
+    Origin: Greek: δικαιοσύνη
+
+
+ⲉ  (e)  [preposition]
+    to, toward, for
+    Origin: Egyptian r
+
+
+ⲉⲓ  (ei)  [verb]
+    to come
+    Origin: Egyptian ii
+
+
+ⲉⲓⲛⲉ  (eine)  [verb]
+    to bring
+    Origin: Egyptian jnj
+
+
+ⲉⲓⲣⲉ  (eire)  [verb]
+    to do, make
+    Origin: Egyptian ir
+
+
+ⲉⲓⲧⲉ  (eite)  [conjunction]
+    if
+    Origin: Greek: εἴτε
+
+
+ⲉⲓⲱⲧ  (eitōt)  [noun]
+    father
+    Origin: Egyptian it
+
+
+ⲉⲕⲕⲗⲏⲥⲓⲁ  (ekklēsia)  [noun]
+    church, assembly
+    Origin: Greek: ἐκκλησία
+
+
+ⲉⲗⲡⲓⲥ  (elpis)  [noun]
+    hope
+    Origin: Greek: ἐλπίς
+
+
+ⲉⲡⲓⲥⲕⲟⲡⲟⲥ  (episkopos)  [noun]
+    bishop, overseer
+    Origin: Greek: ἐπίσκοπος
+
+
+ⲉⲧⲃⲉ  (etbe)  [conjunction]
+    because, since
+    Origin: Egyptian
+
+
+ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ  (euaggelion)  [noun]
+    gospel
+    Origin: Greek: εὐαγγέλιον
+
+
+ⲏ  (ē)  [conjunction]
+    or
+    Origin: Greek: ἤ
+
+
+ⲓⲁⲕⲱⲃⲟⲥ  (iakōbos)  [proper noun]
+    James
+    Origin: Greek: Ἰάκωβος
+
+
+ⲓⲟⲩⲇⲁⲥ  (ioudas)  [proper noun]
+    Judas
+    Origin: Greek: Ἰούδας
+
+
+ⲓⲥ  (is)  [proper noun]
+    Jesus
+    Origin: Greek: Ἰησοῦς
+
+
+ⲓⲱⲁⲛⲛⲏⲥ  (iōannēs)  [proper noun]
+    John
+    Origin: Greek: Ἰωάννης
+
+
+ⲕⲁϩ  (kah)  [noun]
+    earth, land
+    Origin: Egyptian tꜣ
+
+
+ⲕⲁⲧⲁ  (kata)  [preposition]
+    according to
+    Origin: Greek: κατά
+
+
+ⲕⲏⲡⲉ  (kēpe)  [noun]
+    garden
+    Origin: Greek: κῆπος
+
+
+ⲕⲟⲩⲓ  (koui)  [adjective]
+    small, young
+    Origin: Greek: μικρός
+
+
+ⲕⲱⲛ  (kōn)  [noun]
+    village
+    Origin: Greek: κώμη
+
+
+ⲙⲁⲁϫⲉ  (maaje)  [noun]
+    eye
+    Origin: Egyptian jrt
+
+
+ⲙⲁⲁⲩ  (maau)  [noun]
+    mother
+    Origin: Egyptian mw.t
+
+
+ⲙⲁⲣⲓⲁ  (maria)  [proper noun]
+    Mary
+    Origin: Greek: Μαρία
+
+
+ⲙⲉ  (me)  [noun]
+    truth
+    Origin: Egyptian mꜣꜣt
+
+
+ⲙⲉϩ  (meh)  [noun]
+    thigh, side
+    Origin: Egyptian mḥ
+
+
+ⲙⲛ  (mn)  [preposition]
+    with, and
+    Origin: Egyptian ḥnꜥ
+
+
+ⲙⲛⲧ  (mnt)  [noun]
+    nature, condition, -ness
+    Origin: Egyptian mnt
+
+
+ⲙⲛⲧⲣⲉ  (mntre)  [noun]
+    joy
+    Origin: Egyptian
+
+
+ⲙⲟⲟⲩⲧ  (moout)  [verb]
+    to touch
+    Origin: Greek: ἅπτεσθαι
+
+
+ⲙⲟⲟⲩⲧⲉ  (mooute)  [verb]
+    to kill
+    Origin: Egyptian mwt
+
+
+ⲙⲟⲩ  (mou)  [verb]
+    to die
+    Origin: Egyptian mwt
+
+
+ⲙⲟⲩⲛ  (moun)  [noun]
+    water
+    Origin: Egyptian mw
+
+
+ⲙⲟⲩⲧⲉ  (moute)  [verb]
+    to call
+    Origin: Egyptian mwt
+
+
+ⲙⲡⲉ  (mpe)  [negative]
+    not (past)
+    Origin: Egyptian n-m-ir
+
+
+ⲛ  (n)  [negative]
+    not (present)
+    Origin: Egyptian nn
+
+
+ⲛⲁⲛⲟⲩⲃ  (nanoub)  [adjective]
+    good, beautiful
+    Origin: Egyptian nfr
+
+
+ⲛⲁⲩ  (nau)  [verb]
+    to see
+    Origin: Egyptian mꜣꜣ
+
+
+ⲛⲉⲓ  (nei)  [demonstrative]
+    these (plural)
+    Origin: nu + ei
+
+
+ⲛⲓⲙ  (nim)  [adjective]
+    small, little
+    Origin: Egyptian nḏs
+
+
+ⲛⲟϭ  (noj)  [noun]
+    thing, matter
+    Origin: Greek?
+
+
+ⲛⲟⲃⲉ  (nobe)  [adjective]
+    bad, evil
+    Origin: Egyptian bin
+
+
+ⲛⲟⲩⲛⲉ  (noune)  [noun]
+    fountain, well
+    Origin: Greek: πηγή
+
+
+ⲛⲟⲩⲧⲉ  (noute)  [noun]
+    God
+    Origin: Egyptian nṯr
+
+
+ⲛⲧⲟ  (nto)  [pronoun]
+    you (feminine singular)
+    Origin: Egyptian
+
+
+ⲛⲧⲟϥ  (ntof)  [pronoun]
+    he, him
+    Origin: Egyptian
+
+
+ⲛⲧⲟⲕ  (ntok)  [pronoun]
+    you (masculine singular)
+    Origin: Egyptian
+
+
+ⲛⲧⲟⲟⲩ  (ntoou)  [pronoun]
+    they, them
+    Origin: Egyptian
+
+
+ⲛⲧⲟⲥ  (ntos)  [pronoun]
+    she, her
+    Origin: Egyptian
+
+
+ⲛⲧⲟⲩ  (ntou)  [pronoun]
+    you (plural)
+    Origin: Egyptian
+
+
+ⲟⲓⲕⲓⲁ  (oikia)  [noun]
+    house
+    Origin: Greek: οἰκία
+
+
+ⲟⲩ  (ou)  [article]
+    a, an (indefinite article)
+    Origin: Greek: οὐ
+
+
+ⲟⲩⲁ  (oua)  [numeral]
+    one
+    Origin: Egyptian waꜥ
+
+
+ⲟⲩⲁⲁⲃ  (ouaab)  [adjective]
+    holy
+    Origin: Egyptian wꜥb
+
+
+ⲟⲩⲟⲓ  (ouoi)  [adjective]
+    great, big
+    Origin: Greek: πολύς
+
+
+ⲟⲩⲱⲛϩ  (ouōnh)  [noun]
+    light
+    Origin: Egyptian ꜣḫt
+
+
+ⲡ  (p)  [article]
+    the (masculine singular article)
+    Origin: pi
+
+
+ⲡⲁⲩⲗⲟⲥ  (paulos)  [proper noun]
+    Paul
+    Origin: Greek: Παῦλος
+
+
+ⲡⲉ  (pe)  [noun]
+    heaven, sky
+    Origin: Egyptian pt
+
+
+ⲡⲉⲓ  (pei)  [demonstrative]
+    this (masculine)
+    Origin: pi + ei
+
+
+ⲡⲉⲧⲣⲟⲥ  (petros)  [proper noun]
+    Peter
+    Origin: Greek: Πέτρος
+
+
+ⲡⲓⲗⲁⲧⲟⲥ  (pilatos)  [proper noun]
+    Pilate
+    Origin: Greek: Πιλᾶτος
+
+
+ⲡⲓⲥⲧⲓⲥ  (pistis)  [noun]
+    faith
+    Origin: Greek: πίστις
+
+
+ⲡⲛⲉⲩⲙⲁ  (pneuma)  [noun]
+    spirit, breath, wind
+    Origin: Greek: πνεῦμα
+
+
+ⲡⲛⲟⲩⲧⲉ  (pnoute)  [proper noun]
+    the God
+    Origin: ⲡ + ⲛⲟⲩⲧⲉ
+
+
+ⲡⲟⲗⲓⲥ  (polis)  [noun]
+    city
+    Origin: Greek: πόλις
+
+
+ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ  (presbyteros)  [noun]
+    elder, priest
+    Origin: Greek: πρεσβύτερος
+
+
+ⲡⲩⲣ  (pyr)  [noun]
+    fire
+    Origin: Greek: πῦρ
+
+
+ⲣⲁϣⲉ  (rashe)  [noun]
+    joy, gladness
+    Origin: Egyptian ršw
+
+
+ⲣⲁϩ  (rah)  [noun]
+    foot
+    Origin: Egyptian rd
+
+
+ⲣⲁϩⲧ  (raht)  [noun]
+    kingdom, reign
+    Origin: Egyptian nsyt
+
+
+ⲣⲏ  (rē)  [noun]
+    sun
+    Origin: Egyptian rꜥ
+
+
+ⲣⲟϩ  (roh)  [verb]
+    to open
+    Origin: Egyptian wn
+
+
+ⲣⲟⲩϩⲉ  (rouhe)  [noun]
+    day, time
+    Origin: Egyptian tr
+
+
+ⲣⲱ  (rō)  [noun]
+    river
+    Origin: Greek: ῥεῖν
+
+
+ⲣⲱⲙⲉ  (rōme)  [noun]
+    man, person
+    Origin: Egyptian rmṯ
+
+
+ⲥϩⲓⲙⲉ  (shime)  [noun]
+    woman
+    Origin: Egyptian ẖmt
+
+
+ⲥⲁϩⲛⲉ  (sahne)  [noun]
+    truth
+    Origin: Egyptian mꜣꜣt
+
+
+ⲥⲁⲣⲝ  (sarx)  [noun]
+    flesh
+    Origin: Greek: σάρξ
+
+
+ⲥⲓⲛⲉ  (sine)  [verb]
+    to kiss
+    Origin: Greek: κυνέω
+
+
+ⲥⲕⲟⲧⲟⲥ  (skotos)  [noun]
+    darkness
+    Origin: Greek: σκότος
+
+
+ⲥⲙⲟⲧ  (smot)  [noun]
+    blessing
+    Origin: Egyptian sḥtp
+
+
+ⲥⲛⲁⲩ  (snau)  [numeral]
+    two
+    Origin: Egyptian snwj
+
+
+ⲥⲛⲟⲟⲩⲥ  (snoous)  [adjective]
+    last
+    Origin: Egyptian ḥr
+
+
+ⲥⲟ  (so)  [noun]
+    rock, stone
+    Origin: Greek: πέτρα
+
+
+ⲥⲟⲃⲧ  (sobt)  [noun]
+    sword
+    Origin: Greek: σπάθη
+
+
+ⲥⲟⲛ  (son)  [noun]
+    brother
+    Origin: Greek: ἀδελφός
+
+
+ⲥⲟⲟⲩ  (soou)  [noun]
+    time, hour
+    Origin: Greek: ὥρα
+
+
+ⲥⲟⲟⲩⲛ  (sooun)  [verb]
+    to know
+    Origin: Egyptian rh
+
+
+ⲥⲟⲩ  (sou)  [adjective]
+    first
+    Origin: Egyptian tp
+
+
+ⲥⲟⲫⲓⲁ  (sophia)  [noun]
+    wisdom
+    Origin: Greek: σοφία
+
+
+ⲥⲱⲙⲁ  (sōma)  [noun]
+    body
+    Origin: Greek: σῶμα
+
+
+ⲥⲱⲛⲉ  (sōne)  [noun]
+    sister
+    Origin: Greek: ἀδελφή
+
+
+ⲥⲱⲣ  (sōr)  [verb]
+    to write
+    Origin: Egyptian sšꜣ
+
+
+ⲥⲱⲧⲙ  (sōtm)  [verb]
+    to hear
+    Origin: Egyptian sḏm
+
+
+ⲧ  (t)  [article]
+    the (feminine singular article)
+    Origin: tau
+
+
+ⲧⲉⲃⲛⲏ  (tebnē)  [noun]
+    evening
+    Origin: Greek: ἑσπέρα
+
+
+ⲧⲉⲓ  (tei)  [demonstrative]
+    this (feminine)
+    Origin: tau + ei
+
+
+ⲧⲓⲟⲩ  (tiou)  [numeral]
+    five
+    Origin: Egyptian djwf
+
+
+ⲧⲟⲩ  (tou)  [noun]
+    head
+    Origin: Egyptian ḏd
+
+
+ⲭⲣⲓⲥⲧⲟⲥ  (christos)  [proper noun]
+    Christ
+    Origin: Greek: Χριστός
+
+
+ⲯⲩⲭⲏ  (psychē)  [noun]
+    soul
+    Origin: Greek: ψυχή
+
+
+ⲱϣ  (ōsh)  [verb]
+    to wash
+    Origin: Egyptian wꜥb
+
+
+ⲱⲛϩ  (ōnh)  [verb]
+    to live
+    Origin: Egyptian ꜥnḫ
+

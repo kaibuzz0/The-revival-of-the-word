@@ -1,0 +1,1464 @@
+{
+  "metadata": {
+    "title": "Aramaic Lexicon",
+    "language": "Aramaic (Biblical and Galilean)",
+    "script": "Hebrew (square script)",
+    "period": "Biblical (600-400 BCE), Galilean (Jesus' era, 30 CE)",
+    "total_entries": 149,
+    "format": "JSON",
+    "notes": "Biblical Aramaic from Daniel/Ezra. Jesus spoke Galilean Aramaic. Includes NT Aramaic terms."
+  },
+  "entries": {
+    "הַ": {
+      "word": "הַ",
+      "definition": "the (definite article)",
+      "part_of_speech": "article",
+      "transliteration": "ha",
+      "root": "h"
+    },
+    "דִּ": {
+      "word": "דִּ",
+      "definition": "which, who, that (relative)",
+      "part_of_speech": "pronoun",
+      "transliteration": "di",
+      "root": "d"
+    },
+    "מַן": {
+      "word": "מַן",
+      "definition": "who, what",
+      "part_of_speech": "pronoun",
+      "transliteration": "man",
+      "root": "m-n"
+    },
+    "מָה": {
+      "word": "מָה",
+      "definition": "what",
+      "part_of_speech": "pronoun",
+      "transliteration": "māh",
+      "root": "m-h"
+    },
+    "אֲנָה": {
+      "word": "אֲנָה",
+      "definition": "I",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾănāh",
+      "root": "ʾ-n-h"
+    },
+    "אַתָּה": {
+      "word": "אַתָּה",
+      "definition": "you (masculine singular)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾattāh",
+      "root": "ʾ-t-h"
+    },
+    "אַתִּי": {
+      "word": "אַתִּי",
+      "definition": "you (feminine singular)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾattî",
+      "root": "ʾ-t"
+    },
+    "הוּא": {
+      "word": "הוּא",
+      "definition": "he, it",
+      "part_of_speech": "pronoun",
+      "transliteration": "hûʾ",
+      "root": "h-w-ʾ"
+    },
+    "הִיא": {
+      "word": "הִיא",
+      "definition": "she, it",
+      "part_of_speech": "pronoun",
+      "transliteration": "hîʾ",
+      "root": "h-y-ʾ"
+    },
+    "אֲנַחְנָא": {
+      "word": "אֲנַחְנָא",
+      "definition": "we",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾănaḥnāʾ",
+      "root": "ʾ-n-ḥ"
+    },
+    "אִנּוּן": {
+      "word": "אִנּוּן",
+      "definition": "they (masculine)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾinnûn",
+      "root": "ʾ-n"
+    },
+    "אִנִּין": {
+      "word": "אִנִּין",
+      "definition": "they (feminine)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾinnîn",
+      "root": "ʾ-n"
+    },
+    "הֲדָא": {
+      "word": "הֲדָא",
+      "definition": "this (masculine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "hăḏāʾ",
+      "root": "h-ḏ-ʾ"
+    },
+    "הָדֵא": {
+      "word": "הָדֵא",
+      "definition": "this (feminine)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "hāḏēʾ",
+      "root": "h-ḏ-ʾ"
+    },
+    "אֵלֶּה": {
+      "word": "אֵלֶּה",
+      "definition": "these",
+      "part_of_speech": "demonstrative",
+      "transliteration": "ʾēlleh",
+      "root": "ʾ-l-h"
+    },
+    "אֱלָהָא": {
+      "word": "אֱלָהָא",
+      "definition": "God",
+      "part_of_speech": "noun",
+      "transliteration": "ʾĕlāhāʾ",
+      "root": "ʾ-l-h"
+    },
+    "אֱלָהֵהּ": {
+      "word": "אֱלָהֵהּ",
+      "definition": "his God",
+      "part_of_speech": "noun",
+      "transliteration": "ʾĕlāhēh",
+      "root": "ʾ-l-h"
+    },
+    "מָרֵא": {
+      "word": "מָרֵא",
+      "definition": "lord, master",
+      "part_of_speech": "noun",
+      "transliteration": "mārēʾ",
+      "root": "m-r-ʾ"
+    },
+    "מַלְכוּתָא": {
+      "word": "מַלְכוּתָא",
+      "definition": "kingdom",
+      "part_of_speech": "noun",
+      "transliteration": "malkûṯāʾ",
+      "root": "m-l-k"
+    },
+    "מֶלֶךְ": {
+      "word": "מֶלֶךְ",
+      "definition": "king",
+      "part_of_speech": "noun",
+      "transliteration": "meleḵ",
+      "root": "m-l-k"
+    },
+    "מַלְאֲכָא": {
+      "word": "מַלְאֲכָא",
+      "definition": "angel, messenger",
+      "part_of_speech": "noun",
+      "transliteration": "malʾăḵāʾ",
+      "root": "m-l-ʾ"
+    },
+    "בְּרִי": {
+      "word": "בְּרִי",
+      "definition": "son",
+      "part_of_speech": "noun",
+      "transliteration": "bərî",
+      "root": "b-r"
+    },
+    "אַבָּא": {
+      "word": "אַבָּא",
+      "definition": "father (emphatic)",
+      "part_of_speech": "noun",
+      "transliteration": "ʾabbāʾ",
+      "root": "ʾ-b"
+    },
+    "רוּחַ": {
+      "word": "רוּחַ",
+      "definition": "spirit, wind",
+      "part_of_speech": "noun",
+      "transliteration": "rûaḥ",
+      "root": "r-w-ḥ"
+    },
+    "קְדָם": {
+      "word": "קְדָם",
+      "definition": "before, ancient",
+      "part_of_speech": "preposition/adjective",
+      "transliteration": "qəḏām",
+      "root": "q-d-m"
+    },
+    "שְׁמַיָּא": {
+      "word": "שְׁמַיָּא",
+      "definition": "heavens",
+      "part_of_speech": "noun",
+      "transliteration": "šəmayyāʾ",
+      "root": "š-m-y"
+    },
+    "אַרְעָא": {
+      "word": "אַרְעָא",
+      "definition": "earth, land",
+      "part_of_speech": "noun",
+      "transliteration": "ʾarʿāʾ",
+      "root": "ʾ-r-ʿ"
+    },
+    "אֱנָשָׁא": {
+      "word": "אֱנָשָׁא",
+      "definition": "man, human",
+      "part_of_speech": "noun",
+      "transliteration": "ʾĕnāšāʾ",
+      "root": "ʾ-n-š"
+    },
+    "גְּבַר": {
+      "word": "גְּבַר",
+      "definition": "man, male",
+      "part_of_speech": "noun",
+      "transliteration": "gəḇar",
+      "root": "g-b-r"
+    },
+    "אַנְתָּה": {
+      "word": "אַנְתָּה",
+      "definition": "you (emphatic)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾanṯāh",
+      "root": "ʾ-n-ṯ"
+    },
+    "בַּיִת": {
+      "word": "בַּיִת",
+      "definition": "house",
+      "part_of_speech": "noun",
+      "transliteration": "bayiṯ",
+      "root": "b-y-ṯ"
+    },
+    "דּוּכְרָן": {
+      "word": "דּוּכְרָן",
+      "definition": "memory, mention",
+      "part_of_speech": "noun",
+      "transliteration": "dûḵrān",
+      "root": "d-k-r"
+    },
+    "מִלְּתָא": {
+      "word": "מִלְּתָא",
+      "definition": "word, matter",
+      "part_of_speech": "noun",
+      "transliteration": "milləṯāʾ",
+      "root": "m-l-ʾ"
+    },
+    "פֶּה": {
+      "word": "פֶּה",
+      "definition": "mouth",
+      "part_of_speech": "noun",
+      "transliteration": "peh",
+      "root": "p-h"
+    },
+    "עַיִן": {
+      "word": "עַיִן",
+      "definition": "eye",
+      "part_of_speech": "noun",
+      "transliteration": "ʿayin",
+      "root": "ʿ-y-n"
+    },
+    "אָזְנָא": {
+      "word": "אָזְנָא",
+      "definition": "ear",
+      "part_of_speech": "noun",
+      "transliteration": "ʾoznāʾ",
+      "root": "ʾ-z-n"
+    },
+    "יַד": {
+      "word": "יַד",
+      "definition": "hand",
+      "part_of_speech": "noun",
+      "transliteration": "yaḏ",
+      "root": "y-d"
+    },
+    "רֵאשׁ": {
+      "word": "רֵאשׁ",
+      "definition": "head",
+      "part_of_speech": "noun",
+      "transliteration": "rēš",
+      "root": "r-ʾ-š"
+    },
+    "לֵב": {
+      "word": "לֵב",
+      "definition": "heart",
+      "part_of_speech": "noun",
+      "transliteration": "lēḇ",
+      "root": "l-ḇ-ḇ"
+    },
+    "דָּם": {
+      "word": "דָּם",
+      "definition": "blood",
+      "part_of_speech": "noun",
+      "transliteration": "dām",
+      "root": "d-m"
+    },
+    "בְּשַׂר": {
+      "word": "בְּשַׂר",
+      "definition": "flesh",
+      "part_of_speech": "noun",
+      "transliteration": "bəśar",
+      "root": "b-ś-r"
+    },
+    "גְּשַׁם": {
+      "word": "גְּשַׁם",
+      "definition": "rain",
+      "part_of_speech": "noun",
+      "transliteration": "gəšam",
+      "root": "g-š-m"
+    },
+    "מַיִן": {
+      "word": "מַיִן",
+      "definition": "water",
+      "part_of_speech": "noun",
+      "transliteration": "mayin",
+      "root": "m-y-n"
+    },
+    "נוּרָא": {
+      "word": "נוּרָא",
+      "definition": "fire",
+      "part_of_speech": "noun",
+      "transliteration": "nûrāʾ",
+      "root": "n-w-r"
+    },
+    "אִילָן": {
+      "word": "אִילָן",
+      "definition": "tree",
+      "part_of_speech": "noun",
+      "transliteration": "ʾîlān",
+      "root": "ʾ-y-l"
+    },
+    "דְּרָךְ": {
+      "word": "דְּרָךְ",
+      "definition": "way, road",
+      "part_of_speech": "noun",
+      "transliteration": "dərāḵ",
+      "root": "d-r-k"
+    },
+    "קְבֵל": {
+      "word": "קְבֵל",
+      "definition": "presence, before",
+      "part_of_speech": "noun",
+      "transliteration": "qəḇēl",
+      "root": "q-ḇ-l"
+    },
+    "דָּת": {
+      "word": "דָּת",
+      "definition": "law, decree",
+      "part_of_speech": "noun",
+      "transliteration": "dāṯ",
+      "root": "d-ṯ"
+    },
+    "טְעֵם": {
+      "word": "טְעֵם",
+      "definition": "taste, judgment",
+      "part_of_speech": "noun",
+      "transliteration": "ṭəʿēm",
+      "root": "ṭ-ʿ-m"
+    },
+    "צְלֵם": {
+      "word": "צְלֵם",
+      "definition": "image, likeness",
+      "part_of_speech": "noun",
+      "transliteration": "ṣəlēm",
+      "root": "ṣ-l-m"
+    },
+    "כְּתָב": {
+      "word": "כְּתָב",
+      "definition": "writing, inscription",
+      "part_of_speech": "noun",
+      "transliteration": "kəṯāḇ",
+      "root": "k-ṯ-ḇ"
+    },
+    "סְפַר": {
+      "word": "סְפַר",
+      "definition": "book, scroll",
+      "part_of_speech": "noun",
+      "transliteration": "səfar",
+      "root": "s-f-r"
+    },
+    "אֲמַר": {
+      "word": "אֲמַר",
+      "definition": "to say",
+      "part_of_speech": "verb",
+      "transliteration": "ʾămar",
+      "root": "ʾ-m-r"
+    },
+    "הֲוָה": {
+      "word": "הֲוָה",
+      "definition": "to be, become",
+      "part_of_speech": "verb",
+      "transliteration": "hăwāh",
+      "root": "h-w-h"
+    },
+    "עֲבַד": {
+      "word": "עֲבַד",
+      "definition": "to do, make, serve",
+      "part_of_speech": "verb",
+      "transliteration": "ʿăḇaḏ",
+      "root": "ʿ-ḇ-ḏ"
+    },
+    "יְדַע": {
+      "word": "יְדַע",
+      "definition": "to know",
+      "part_of_speech": "verb",
+      "transliteration": "yəḏaʿ",
+      "root": "y-d-ʿ"
+    },
+    "חֲזָה": {
+      "word": "חֲזָה",
+      "definition": "to see",
+      "part_of_speech": "verb",
+      "transliteration": "ḥăzāh",
+      "root": "ḥ-z-h"
+    },
+    "שְׁמַע": {
+      "word": "שְׁמַע",
+      "definition": "to hear",
+      "part_of_speech": "verb",
+      "transliteration": "šəmaʿ",
+      "root": "š-m-ʿ"
+    },
+    "יְהַב": {
+      "word": "יְהַב",
+      "definition": "to give",
+      "part_of_speech": "verb",
+      "transliteration": "yəhaḇ",
+      "root": "y-h-ḇ"
+    },
+    "נְסַב": {
+      "word": "נְסַב",
+      "definition": "to take, receive",
+      "part_of_speech": "verb",
+      "transliteration": "nəsaḇ",
+      "root": "n-s-ḇ"
+    },
+    "אֲתָה": {
+      "word": "אֲתָה",
+      "definition": "to come",
+      "part_of_speech": "verb",
+      "transliteration": "ʾăṯāh",
+      "root": "ʾ-ṯ-h"
+    },
+    "אֲזַל": {
+      "word": "אֲזַל",
+      "definition": "to go",
+      "part_of_speech": "verb",
+      "transliteration": "ʾăzal",
+      "root": "ʾ-z-l"
+    },
+    "נְפַל": {
+      "word": "נְפַל",
+      "definition": "to fall",
+      "part_of_speech": "verb",
+      "transliteration": "nəfal",
+      "root": "n-f-l"
+    },
+    "קוּם": {
+      "word": "קוּם",
+      "definition": "to rise, stand",
+      "part_of_speech": "verb",
+      "transliteration": "qûm",
+      "root": "q-w-m"
+    },
+    "עֲלָה": {
+      "word": "עֲלָה",
+      "definition": "to go up",
+      "part_of_speech": "verb",
+      "transliteration": "ʿălāh",
+      "root": "ʿ-l-h"
+    },
+    "נְחֵת": {
+      "word": "נְחֵת",
+      "definition": "to go down",
+      "part_of_speech": "verb",
+      "transliteration": "nəḥēṯ",
+      "root": "n-ḥ-ṯ"
+    },
+    "חַיַי": {
+      "word": "חַיַי",
+      "definition": "to live",
+      "part_of_speech": "verb",
+      "transliteration": "ḥayay",
+      "root": "ḥ-y-y"
+    },
+    "מַיַת": {
+      "word": "מַיַת",
+      "definition": "to die",
+      "part_of_speech": "verb",
+      "transliteration": "mayaṯ",
+      "root": "m-w-ṯ"
+    },
+    "גְּנַז": {
+      "word": "גְּנַז",
+      "definition": "to hide, treasure",
+      "part_of_speech": "verb",
+      "transliteration": "gənaz",
+      "root": "g-n-z"
+    },
+    "חֲסַד": {
+      "word": "חֲסַד",
+      "definition": "to be merciful",
+      "part_of_speech": "verb",
+      "transliteration": "ḥăsaḏ",
+      "root": "ḥ-s-d"
+    },
+    "טְעַן": {
+      "word": "טְעַן",
+      "definition": "to load, carry",
+      "part_of_speech": "verb",
+      "transliteration": "ṭəʿan",
+      "root": "ṭ-ʿ-n"
+    },
+    "פְּתַח": {
+      "word": "פְּתַח",
+      "definition": "to open",
+      "part_of_speech": "verb",
+      "transliteration": "pəṯaḥ",
+      "root": "p-ṯ-ḥ"
+    },
+    "סְגַר": {
+      "word": "סְגַר",
+      "definition": "to shut, close",
+      "part_of_speech": "verb",
+      "transliteration": "səgar",
+      "root": "s-g-r"
+    },
+    "שְׁכַב": {
+      "word": "שְׁכַב",
+      "definition": "to lie down",
+      "part_of_speech": "verb",
+      "transliteration": "šəḵaḇ",
+      "root": "š-ḵ-ḇ"
+    },
+    "חֲזַק": {
+      "word": "חֲזַק",
+      "definition": "to be strong",
+      "part_of_speech": "verb",
+      "transliteration": "ḥăzaq",
+      "root": "ḥ-z-q"
+    },
+    "בְּנָה": {
+      "word": "בְּנָה",
+      "definition": "to build",
+      "part_of_speech": "verb",
+      "transliteration": "bənāh",
+      "root": "b-n-h"
+    },
+    "קְטַל": {
+      "word": "קְטַל",
+      "definition": "to kill",
+      "part_of_speech": "verb",
+      "transliteration": "qəṭal",
+      "root": "q-ṭ-l"
+    },
+    "בְּ": {
+      "word": "בְּ",
+      "definition": "in, with, by",
+      "part_of_speech": "preposition",
+      "transliteration": "bə",
+      "root": "b"
+    },
+    "לְ": {
+      "word": "לְ",
+      "definition": "to, for, of",
+      "part_of_speech": "preposition",
+      "transliteration": "lə",
+      "root": "l"
+    },
+    "מִן": {
+      "word": "מִן",
+      "definition": "from, out of",
+      "part_of_speech": "preposition",
+      "transliteration": "min",
+      "root": "m-n"
+    },
+    "עַל": {
+      "word": "עַל",
+      "definition": "upon, over, against",
+      "part_of_speech": "preposition",
+      "transliteration": "ʿal",
+      "root": "ʿ-l"
+    },
+    "תְּחוֹת": {
+      "word": "תְּחוֹת",
+      "definition": "under, beneath",
+      "part_of_speech": "preposition",
+      "transliteration": "təḥôṯ",
+      "root": "ṯ-ḥ-ṯ"
+    },
+    "לְקֳבֵל": {
+      "word": "לְקֳבֵל",
+      "definition": "before, in front of",
+      "part_of_speech": "preposition",
+      "transliteration": "ləqŏḇēl",
+      "root": "q-ḇ-l"
+    },
+    "בָּתוֹךְ": {
+      "word": "בָּתוֹךְ",
+      "definition": "in the midst of",
+      "part_of_speech": "preposition",
+      "transliteration": "bāṯôḵ",
+      "root": "b-ṯ-ḵ"
+    },
+    "כְּ": {
+      "word": "כְּ",
+      "definition": "like, as",
+      "part_of_speech": "preposition",
+      "transliteration": "kə",
+      "root": "k"
+    },
+    "עַד": {
+      "word": "עַד",
+      "definition": "until, as far as",
+      "part_of_speech": "preposition",
+      "transliteration": "ʿaḏ",
+      "root": "ʿ-ḏ"
+    },
+    "בֵּין": {
+      "word": "בֵּין",
+      "definition": "between",
+      "part_of_speech": "preposition",
+      "transliteration": "bēn",
+      "root": "b-y-n"
+    },
+    "וְ": {
+      "word": "וְ",
+      "definition": "and",
+      "part_of_speech": "conjunction",
+      "transliteration": "wə",
+      "root": "w"
+    },
+    "אֲלָא": {
+      "word": "אֲלָא",
+      "definition": "but, however",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾălāʾ",
+      "root": "ʾ-l"
+    },
+    "דִּי": {
+      "word": "דִּי",
+      "definition": "that, because, which",
+      "part_of_speech": "conjunction",
+      "transliteration": "dî",
+      "root": "d"
+    },
+    "כָּל־קְבֵל": {
+      "word": "כָּל־קְבֵל",
+      "definition": "therefore",
+      "part_of_speech": "conjunction",
+      "transliteration": "kāl-qəḇēl",
+      "root": "k-l; q-ḇ-l"
+    },
+    "אִם": {
+      "word": "אִם",
+      "definition": "if",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾim",
+      "root": "ʾ-m"
+    },
+    "אוֹ": {
+      "word": "אוֹ",
+      "definition": "or",
+      "part_of_speech": "conjunction",
+      "transliteration": "ʾô",
+      "root": "ʾ"
+    },
+    "לָא": {
+      "word": "לָא",
+      "definition": "no, not",
+      "part_of_speech": "negative",
+      "transliteration": "lāʾ",
+      "root": "l-ʾ"
+    },
+    "אֱלָא": {
+      "word": "אֱלָא",
+      "definition": "except, but",
+      "part_of_speech": "negative",
+      "transliteration": "ʾĕlāʾ",
+      "root": "ʾ-l"
+    },
+    "טָב": {
+      "word": "טָב",
+      "definition": "good",
+      "part_of_speech": "adjective",
+      "transliteration": "ṭāḇ",
+      "root": "ṭ-ḇ"
+    },
+    "רַב": {
+      "word": "רַב",
+      "definition": "great, many",
+      "part_of_speech": "adjective",
+      "transliteration": "raḇ",
+      "root": "r-ḇ"
+    },
+    "זְעֵיר": {
+      "word": "זְעֵיר",
+      "definition": "small, little",
+      "part_of_speech": "adjective",
+      "transliteration": "zəʿēr",
+      "root": "z-ʿ-r"
+    },
+    "קַדִּישׁ": {
+      "word": "קַדִּישׁ",
+      "definition": "holy",
+      "part_of_speech": "adjective",
+      "transliteration": "qadiš",
+      "root": "q-d-š"
+    },
+    "יַקִּיר": {
+      "word": "יַקִּיר",
+      "definition": "precious, heavy",
+      "part_of_speech": "adjective",
+      "transliteration": "yaqqîr",
+      "root": "y-q-r"
+    },
+    "חֲשִׁיב": {
+      "word": "חֲשִׁיב",
+      "definition": "important, worthy",
+      "part_of_speech": "adjective",
+      "transliteration": "ḥăšîḇ",
+      "root": "ḥ-š-ḇ"
+    },
+    "כֵּן": {
+      "word": "כֵּן",
+      "definition": "true, right",
+      "part_of_speech": "adjective",
+      "transliteration": "kēn",
+      "root": "k-n"
+    },
+    "מְהַחֲזֵה": {
+      "word": "מְהַחֲזֵה",
+      "definition": "visible, conspicuous",
+      "part_of_speech": "adjective",
+      "transliteration": "məhaḥăzēh",
+      "root": "ḥ-z-h"
+    },
+    "חַד": {
+      "word": "חַד",
+      "definition": "one",
+      "part_of_speech": "numeral",
+      "transliteration": "ḥaḏ",
+      "root": "ḥ-d"
+    },
+    "תְּרֵין": {
+      "word": "תְּרֵין",
+      "definition": "two",
+      "part_of_speech": "numeral",
+      "transliteration": "tərēn",
+      "root": "t-r-n"
+    },
+    "תְּלָתָא": {
+      "word": "תְּלָתָא",
+      "definition": "three",
+      "part_of_speech": "numeral",
+      "transliteration": "təlāṯāʾ",
+      "root": "t-l-ṯ"
+    },
+    "אַרְבַּע": {
+      "word": "אַרְבַּע",
+      "definition": "four",
+      "part_of_speech": "numeral",
+      "transliteration": "ʾarbaʿ",
+      "root": "ʾ-r-b-ʿ"
+    },
+    "חֲמִשָּׁא": {
+      "word": "חֲמִשָּׁא",
+      "definition": "five",
+      "part_of_speech": "numeral",
+      "transliteration": "ḥămiššāʾ",
+      "root": "ḥ-m-š"
+    },
+    "הֵיךְ": {
+      "word": "הֵיךְ",
+      "definition": "how?",
+      "part_of_speech": "particle",
+      "transliteration": "hêḵ",
+      "root": "h-y-ḵ"
+    },
+    "לְמָא": {
+      "word": "לְמָא",
+      "definition": "why?",
+      "part_of_speech": "particle",
+      "transliteration": "ləmāʾ",
+      "root": "l-m"
+    },
+    "אֱדַיִן": {
+      "word": "אֱדַיִן",
+      "definition": "then",
+      "part_of_speech": "particle",
+      "transliteration": "ʾĕḏayin",
+      "root": "ʾ-ḏ-y"
+    },
+    "כְּעֶת": {
+      "word": "כְּעֶת",
+      "definition": "now",
+      "part_of_speech": "particle",
+      "transliteration": "kəʿeṯ",
+      "root": "k-ʿ-ṯ"
+    },
+    "בַּאדַיִן": {
+      "word": "בַּאדַיִן",
+      "definition": "then, afterwards",
+      "part_of_speech": "particle",
+      "transliteration": "baʾḏayin",
+      "root": "ʾ-ḏ-y"
+    },
+    "אֲבָא": {
+      "word": "אֲבָא",
+      "definition": "father (Jesus' Aramaic)",
+      "part_of_speech": "noun",
+      "transliteration": "ʾăḇāʾ",
+      "root": "ʾ-b",
+      "note": "Mark 14:36, Abba Father"
+    },
+    "טַלִיתָא": {
+      "word": "טַלִיתָא",
+      "definition": "little girl",
+      "part_of_speech": "noun",
+      "transliteration": "ṭalîṯāʾ",
+      "root": "ṭ-l-ṯ",
+      "note": "Mark 5:41, Talitha cumi"
+    },
+    "קוּמִי": {
+      "word": "קוּמִי",
+      "definition": "rise!",
+      "part_of_speech": "verb",
+      "transliteration": "qûmî",
+      "root": "q-w-m",
+      "note": "Mark 5:41"
+    },
+    "אֶפְפַתַח": {
+      "word": "אֶפְפַתַח",
+      "definition": "be opened!",
+      "part_of_speech": "verb",
+      "transliteration": "ʾep̱paṯaḥ",
+      "root": "p-ṯ-ḥ",
+      "note": "Mark 7:34, Ephphatha"
+    },
+    "מַמְּדָא": {
+      "word": "מַמְּדָא",
+      "definition": "measure",
+      "part_of_speech": "noun",
+      "transliteration": "mammədāʾ",
+      "root": "m-d-d",
+      "note": "Matthew 23:32"
+    },
+    "גְּבוּרְתָּא": {
+      "word": "גְּבוּרְתָּא",
+      "definition": "power, might",
+      "part_of_speech": "noun",
+      "transliteration": "gəḇûrəṯāʾ",
+      "root": "g-b-r",
+      "note": "Matthew 6:13"
+    },
+    "חֵילָא": {
+      "word": "חֵילָא",
+      "definition": "wealth, strength",
+      "part_of_speech": "noun",
+      "transliteration": "ḥêlāʾ",
+      "root": "ḥ-y-l",
+      "note": "Matthew 6:13, power"
+    },
+    "מַלְכוּתָךְ": {
+      "word": "מַלְכוּתָךְ",
+      "definition": "your kingdom",
+      "part_of_speech": "noun",
+      "transliteration": "malkûṯāḵ",
+      "root": "m-l-k",
+      "note": "Lord's Prayer"
+    },
+    "תֵּאתֵא": {
+      "word": "תֵּאתֵא",
+      "definition": "let come",
+      "part_of_speech": "verb",
+      "transliteration": "têʾṯēʾ",
+      "root": "ʾ-ṯ-h",
+      "note": "Lord's Prayer, thy kingdom come"
+    },
+    "פְּשַׁר": {
+      "word": "פְּשַׁר",
+      "definition": "interpretation",
+      "part_of_speech": "noun",
+      "transliteration": "pəšar",
+      "root": "p-š-r"
+    },
+    "חֶלְמָא": {
+      "word": "חֶלְמָא",
+      "definition": "dream",
+      "part_of_speech": "noun",
+      "transliteration": "ḥelmāʾ",
+      "root": "ḥ-l-m"
+    },
+    "חָזוּ": {
+      "word": "חָזוּ",
+      "definition": "vision",
+      "part_of_speech": "noun",
+      "transliteration": "ḥāzû",
+      "root": "ḥ-z-h"
+    },
+    "סוֹף": {
+      "word": "סוֹף",
+      "definition": "end",
+      "part_of_speech": "noun",
+      "transliteration": "sôp̱",
+      "root": "s-w-p̱"
+    },
+    "זְמָן": {
+      "word": "זְמָן",
+      "definition": "time",
+      "part_of_speech": "noun",
+      "transliteration": "zəmān",
+      "root": "z-m-n"
+    },
+    "עִדָּן": {
+      "word": "עִדָּן",
+      "definition": "time, season",
+      "part_of_speech": "noun",
+      "transliteration": "ʿiddān",
+      "root": "ʿ-d-n"
+    },
+    "דָּא": {
+      "word": "דָּא",
+      "definition": "this (demonstrative)",
+      "part_of_speech": "demonstrative",
+      "transliteration": "dāʾ",
+      "root": "d"
+    },
+    "לָקֳבֵל": {
+      "word": "לָקֳבֵל",
+      "definition": "according to",
+      "part_of_speech": "preposition",
+      "transliteration": "lāqŏḇēl",
+      "root": "q-ḇ-l"
+    },
+    "וּמְדָן": {
+      "word": "וּמְדָן",
+      "definition": "and judgment",
+      "part_of_speech": "noun",
+      "transliteration": "ûməḏān",
+      "root": "d-y-n"
+    },
+    "צְדָקָה": {
+      "word": "צְדָקָה",
+      "definition": "righteousness",
+      "part_of_speech": "noun",
+      "transliteration": "ṣəḏāqāh",
+      "root": "ṣ-d-q"
+    },
+    "חֲכִים": {
+      "word": "חֲכִים",
+      "definition": "wise",
+      "part_of_speech": "adjective",
+      "transliteration": "ḥăḵîm",
+      "root": "ḥ-ḵ-m"
+    },
+    "גְּבַרְתָּא": {
+      "word": "גְּבַרְתָּא",
+      "definition": "mistress, lady",
+      "part_of_speech": "noun",
+      "transliteration": "gəḇarṯāʾ",
+      "root": "g-b-r"
+    },
+    "אַנְתּוּן": {
+      "word": "אַנְתּוּן",
+      "definition": "you (plural)",
+      "part_of_speech": "pronoun",
+      "transliteration": "ʾantûn",
+      "root": "ʾ-n-ṯ"
+    },
+    "בְּנָא": {
+      "word": "בְּנָא",
+      "definition": "built (passive participle)",
+      "part_of_speech": "adjective",
+      "transliteration": "bənāʾ",
+      "root": "b-n-h"
+    },
+    "גְּדַבַר": {
+      "word": "גְּדַבַר",
+      "definition": "to speak",
+      "part_of_speech": "verb",
+      "transliteration": "gəḏaḇar",
+      "root": "d-ḇ-r"
+    },
+    "הוּדַע": {
+      "word": "הוּדַע",
+      "definition": "to inform",
+      "part_of_speech": "verb",
+      "transliteration": "hûḏaʿ",
+      "root": "y-d-ʿ"
+    },
+    "מֵישְׁר": {
+      "word": "מֵישְׁר",
+      "definition": "uprightness",
+      "part_of_speech": "noun",
+      "transliteration": "mêšar",
+      "root": "y-š-r"
+    },
+    "רְמָא": {
+      "word": "רְמָא",
+      "definition": "to throw",
+      "part_of_speech": "verb",
+      "transliteration": "rəmāʾ",
+      "root": "r-m-ʾ"
+    },
+    "תְּרוּם": {
+      "word": "תְּרוּם",
+      "definition": "to rise",
+      "part_of_speech": "verb",
+      "transliteration": "tərûm",
+      "root": "r-w-m"
+    },
+    "נְבַעַת": {
+      "word": "נְבַעַת",
+      "definition": "to burst forth",
+      "part_of_speech": "verb",
+      "transliteration": "nəbaʿaṯ",
+      "root": "n-b-ʿ"
+    },
+    "אֲחַשְׁדַּרְפְּנַיָּא": {
+      "word": "אֲחַשְׁדַּרְפְּנַיָּא",
+      "definition": "satraps",
+      "part_of_speech": "noun",
+      "transliteration": "ʾăḥašdarpənnayyāʾ",
+      "root": "Persian loan"
+    },
+    "עֵט": {
+      "word": "עֵט",
+      "definition": "counsel",
+      "part_of_speech": "noun",
+      "transliteration": "ʿēṭ",
+      "root": "ʿ-y-ṭ"
+    },
+    "נְזִיד": {
+      "word": "נְזִיד",
+      "definition": "pulse, food",
+      "part_of_speech": "noun",
+      "transliteration": "nəzîḏ",
+      "root": "n-z-d"
+    },
+    "טָל": {
+      "word": "טָל",
+      "definition": "dew",
+      "part_of_speech": "noun",
+      "transliteration": "ṭāl",
+      "root": "ṭ-l"
+    },
+    "רְעוּת": {
+      "word": "רְעוּת",
+      "definition": "will, desire",
+      "part_of_speech": "noun",
+      "transliteration": "rəʿûṯ",
+      "root": "r-ʿ-h"
+    },
+    "כְּנֵמָא": {
+      "word": "כְּנֵמָא",
+      "definition": "thus",
+      "part_of_speech": "adverb",
+      "transliteration": "kənēmāʾ",
+      "root": "k-n-m"
+    },
+    "עַל־יְדֵי": {
+      "word": "עַל־יְדֵי",
+      "definition": "by the hand of",
+      "part_of_speech": "preposition",
+      "transliteration": "ʿal-yəḏê",
+      "root": "ʿ-l; y-d"
+    }
+  },
+  "root_index": {
+    "h": [
+      "הַ"
+    ],
+    "d": [
+      "דִּ",
+      "דִּי",
+      "דָּא"
+    ],
+    "m-n": [
+      "מַן",
+      "מִן"
+    ],
+    "m-h": [
+      "מָה"
+    ],
+    "ʾ-n-h": [
+      "אֲנָה"
+    ],
+    "ʾ-t-h": [
+      "אַתָּה"
+    ],
+    "ʾ-t": [
+      "אַתִּי"
+    ],
+    "h-w-ʾ": [
+      "הוּא"
+    ],
+    "h-y-ʾ": [
+      "הִיא"
+    ],
+    "ʾ-n-ḥ": [
+      "אֲנַחְנָא"
+    ],
+    "ʾ-n": [
+      "אִנּוּן",
+      "אִנִּין"
+    ],
+    "h-ḏ-ʾ": [
+      "הֲדָא",
+      "הָדֵא"
+    ],
+    "ʾ-l-h": [
+      "אֵלֶּה",
+      "אֱלָהָא",
+      "אֱלָהֵהּ"
+    ],
+    "m-r-ʾ": [
+      "מָרֵא"
+    ],
+    "m-l-k": [
+      "מַלְכוּתָא",
+      "מֶלֶךְ",
+      "מַלְכוּתָךְ"
+    ],
+    "m-l-ʾ": [
+      "מַלְאֲכָא",
+      "מִלְּתָא"
+    ],
+    "b-r": [
+      "בְּרִי"
+    ],
+    "ʾ-b": [
+      "אַבָּא",
+      "אֲבָא"
+    ],
+    "r-w-ḥ": [
+      "רוּחַ"
+    ],
+    "q-d-m": [
+      "קְדָם"
+    ],
+    "š-m-y": [
+      "שְׁמַיָּא"
+    ],
+    "ʾ-r-ʿ": [
+      "אַרְעָא"
+    ],
+    "ʾ-n-š": [
+      "אֱנָשָׁא"
+    ],
+    "g-b-r": [
+      "גְּבַר",
+      "גְּבוּרְתָּא",
+      "גְּבַרְתָּא"
+    ],
+    "ʾ-n-ṯ": [
+      "אַנְתָּה",
+      "אַנְתּוּן"
+    ],
+    "b-y-ṯ": [
+      "בַּיִת"
+    ],
+    "d-k-r": [
+      "דּוּכְרָן"
+    ],
+    "p-h": [
+      "פֶּה"
+    ],
+    "ʿ-y-n": [
+      "עַיִן"
+    ],
+    "ʾ-z-n": [
+      "אָזְנָא"
+    ],
+    "y-d": [
+      "יַד",
+      "עַל־יְדֵי"
+    ],
+    "r-ʾ-š": [
+      "רֵאשׁ"
+    ],
+    "l-ḇ-ḇ": [
+      "לֵב"
+    ],
+    "d-m": [
+      "דָּם"
+    ],
+    "b-ś-r": [
+      "בְּשַׂר"
+    ],
+    "g-š-m": [
+      "גְּשַׁם"
+    ],
+    "m-y-n": [
+      "מַיִן"
+    ],
+    "n-w-r": [
+      "נוּרָא"
+    ],
+    "ʾ-y-l": [
+      "אִילָן"
+    ],
+    "d-r-k": [
+      "דְּרָךְ"
+    ],
+    "q-ḇ-l": [
+      "קְבֵל",
+      "לְקֳבֵל",
+      "כָּל־קְבֵל",
+      "לָקֳבֵל"
+    ],
+    "d-ṯ": [
+      "דָּת"
+    ],
+    "ṭ-ʿ-m": [
+      "טְעֵם"
+    ],
+    "ṣ-l-m": [
+      "צְלֵם"
+    ],
+    "k-ṯ-ḇ": [
+      "כְּתָב"
+    ],
+    "s-f-r": [
+      "סְפַר"
+    ],
+    "ʾ-m-r": [
+      "אֲמַר"
+    ],
+    "h-w-h": [
+      "הֲוָה"
+    ],
+    "ʿ-ḇ-ḏ": [
+      "עֲבַד"
+    ],
+    "y-d-ʿ": [
+      "יְדַע",
+      "הוּדַע"
+    ],
+    "ḥ-z-h": [
+      "חֲזָה",
+      "מְהַחֲזֵה",
+      "חָזוּ"
+    ],
+    "š-m-ʿ": [
+      "שְׁמַע"
+    ],
+    "y-h-ḇ": [
+      "יְהַב"
+    ],
+    "n-s-ḇ": [
+      "נְסַב"
+    ],
+    "ʾ-ṯ-h": [
+      "אֲתָה",
+      "תֵּאתֵא"
+    ],
+    "ʾ-z-l": [
+      "אֲזַל"
+    ],
+    "n-f-l": [
+      "נְפַל"
+    ],
+    "q-w-m": [
+      "קוּם",
+      "קוּמִי"
+    ],
+    "ʿ-l-h": [
+      "עֲלָה"
+    ],
+    "n-ḥ-ṯ": [
+      "נְחֵת"
+    ],
+    "ḥ-y-y": [
+      "חַיַי"
+    ],
+    "m-w-ṯ": [
+      "מַיַת"
+    ],
+    "g-n-z": [
+      "גְּנַז"
+    ],
+    "ḥ-s-d": [
+      "חֲסַד"
+    ],
+    "ṭ-ʿ-n": [
+      "טְעַן"
+    ],
+    "p-ṯ-ḥ": [
+      "פְּתַח",
+      "אֶפְפַתַח"
+    ],
+    "s-g-r": [
+      "סְגַר"
+    ],
+    "š-ḵ-ḇ": [
+      "שְׁכַב"
+    ],
+    "ḥ-z-q": [
+      "חֲזַק"
+    ],
+    "b-n-h": [
+      "בְּנָה",
+      "בְּנָא"
+    ],
+    "q-ṭ-l": [
+      "קְטַל"
+    ],
+    "b": [
+      "בְּ"
+    ],
+    "l": [
+      "לְ"
+    ],
+    "ʿ-l": [
+      "עַל",
+      "עַל־יְדֵי"
+    ],
+    "ṯ-ḥ-ṯ": [
+      "תְּחוֹת"
+    ],
+    "b-ṯ-ḵ": [
+      "בָּתוֹךְ"
+    ],
+    "k": [
+      "כְּ"
+    ],
+    "ʿ-ḏ": [
+      "עַד"
+    ],
+    "b-y-n": [
+      "בֵּין"
+    ],
+    "w": [
+      "וְ"
+    ],
+    "ʾ-l": [
+      "אֲלָא",
+      "אֱלָא"
+    ],
+    "k-l": [
+      "כָּל־קְבֵל"
+    ],
+    "ʾ-m": [
+      "אִם"
+    ],
+    "ʾ": [
+      "אוֹ"
+    ],
+    "l-ʾ": [
+      "לָא"
+    ],
+    "ṭ-ḇ": [
+      "טָב"
+    ],
+    "r-ḇ": [
+      "רַב"
+    ],
+    "z-ʿ-r": [
+      "זְעֵיר"
+    ],
+    "q-d-š": [
+      "קַדִּישׁ"
+    ],
+    "y-q-r": [
+      "יַקִּיר"
+    ],
+    "ḥ-š-ḇ": [
+      "חֲשִׁיב"
+    ],
+    "k-n": [
+      "כֵּן"
+    ],
+    "ḥ-d": [
+      "חַד"
+    ],
+    "t-r-n": [
+      "תְּרֵין"
+    ],
+    "t-l-ṯ": [
+      "תְּלָתָא"
+    ],
+    "ʾ-r-b-ʿ": [
+      "אַרְבַּע"
+    ],
+    "ḥ-m-š": [
+      "חֲמִשָּׁא"
+    ],
+    "h-y-ḵ": [
+      "הֵיךְ"
+    ],
+    "l-m": [
+      "לְמָא"
+    ],
+    "ʾ-ḏ-y": [
+      "אֱדַיִן",
+      "בַּאדַיִן"
+    ],
+    "k-ʿ-ṯ": [
+      "כְּעֶת"
+    ],
+    "ṭ-l-ṯ": [
+      "טַלִיתָא"
+    ],
+    "m-d-d": [
+      "מַמְּדָא"
+    ],
+    "ḥ-y-l": [
+      "חֵילָא"
+    ],
+    "p-š-r": [
+      "פְּשַׁר"
+    ],
+    "ḥ-l-m": [
+      "חֶלְמָא"
+    ],
+    "s-w-p̱": [
+      "סוֹף"
+    ],
+    "z-m-n": [
+      "זְמָן"
+    ],
+    "ʿ-d-n": [
+      "עִדָּן"
+    ],
+    "d-y-n": [
+      "וּמְדָן"
+    ],
+    "ṣ-d-q": [
+      "צְדָקָה"
+    ],
+    "ḥ-ḵ-m": [
+      "חֲכִים"
+    ],
+    "d-ḇ-r": [
+      "גְּדַבַר"
+    ],
+    "y-š-r": [
+      "מֵישְׁר"
+    ],
+    "r-m-ʾ": [
+      "רְמָא"
+    ],
+    "r-w-m": [
+      "תְּרוּם"
+    ],
+    "n-b-ʿ": [
+      "נְבַעַת"
+    ],
+    "Persian loan": [
+      "אֲחַשְׁדַּרְפְּנַיָּא"
+    ],
+    "ʿ-y-ṭ": [
+      "עֵט"
+    ],
+    "n-z-d": [
+      "נְזִיד"
+    ],
+    "ṭ-l": [
+      "טָל"
+    ],
+    "r-ʿ-h": [
+      "רְעוּת"
+    ],
+    "k-n-m": [
+      "כְּנֵמָא"
+    ]
+  }
+}

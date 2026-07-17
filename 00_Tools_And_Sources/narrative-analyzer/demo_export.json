@@ -1,0 +1,1599 @@
+{
+  "export_date": "2026-07-17T00:37:30.848083",
+  "statistics": {
+    "witnesses": 4,
+    "statements": 4,
+    "entities": 44,
+    "contradictions": 129,
+    "convergence": 5,
+    "avg_credibility": 38.0,
+    "tier_distribution": {
+      "unreliable": 4
+    }
+  },
+  "witnesses": [
+    {
+      "id": 1,
+      "witness_id": "W001",
+      "name": "John Smith",
+      "age": 45,
+      "occupation": "Accountant",
+      "relationship_to_case": "bystander",
+      "statement_date": null,
+      "credibility_score": 42.0,
+      "reliability_tier": "unreliable",
+      "metadata": "{\"age\": 45, \"occupation\": \"Accountant\", \"relationship\": \"bystander\"}",
+      "created_at": "2026-07-17 00:37:28",
+      "statements": [
+        {
+          "id": 1,
+          "text": "I was at the bank on Main Street around 3 PM when I saw a man in a blue jacket. \n            He was holding a gun and demanded money from the teller. The suspect was about 6 feet tall \n            with dark hair. After taking the money, he ran out and got into a black sedan. \n            I was terrified but tried to remember details. The whole incident lasted about 2 minutes.",
+          "word_count": 69
+        }
+      ],
+      "entities": [
+        {
+          "type": "PERSON",
+          "value": "Main Street",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "The",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "After",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "The",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "at the bank on Main Street around",
+          "confidence": 0.8
+        },
+        {
+          "type": "WEAPON",
+          "value": "gun",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "sedan",
+          "confidence": 0.8
+        },
+        {
+          "type": "ACTION",
+          "value": "ran",
+          "confidence": 0.8
+        }
+      ],
+      "credibility": {
+        "overall": 42.0,
+        "consistency": 95.0,
+        "detail": 10.0,
+        "corroboration": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "witness_id": "W002",
+      "name": "Sarah Johnson",
+      "age": 32,
+      "occupation": "Bank Teller",
+      "relationship_to_case": "victim",
+      "statement_date": null,
+      "credibility_score": 36.0,
+      "reliability_tier": "unreliable",
+      "metadata": "{\"age\": 32, \"occupation\": \"Bank Teller\", \"relationship\": \"victim\"}",
+      "created_at": "2026-07-17 00:37:28",
+      "statements": [
+        {
+          "id": 2,
+          "text": "I work at the bank on Main Street. At approximately 3:15 PM, a man entered wearing a \n            blue jacket and dark pants. He approached the counter and showed me a weapon, I think it was a pistol. \n            He demanded cash from the drawer. He was tall, maybe 5'10 or 6 feet. After getting the money, \n            he ran outside. I saw him get into a dark colored car, possibly black or dark blue. \n            It was a sedan, I believe. I was very scared during the whole thing.",
+          "word_count": 86
+        }
+      ],
+      "entities": [
+        {
+          "type": "PERSON",
+          "value": "Main Street",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "At",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "After",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "It",
+          "confidence": 0.8
+        },
+        {
+          "type": "TIME",
+          "value": "3:15 PM",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "at the bank on Main Street",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "At approximately",
+          "confidence": 0.8
+        },
+        {
+          "type": "WEAPON",
+          "value": "weapon",
+          "confidence": 0.8
+        },
+        {
+          "type": "WEAPON",
+          "value": "pistol",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "car",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "sedan",
+          "confidence": 0.8
+        },
+        {
+          "type": "ACTION",
+          "value": "entered",
+          "confidence": 0.8
+        },
+        {
+          "type": "ACTION",
+          "value": "ran",
+          "confidence": 0.8
+        }
+      ],
+      "credibility": {
+        "overall": 36.0,
+        "consistency": 80.0,
+        "detail": 10.0,
+        "corroboration": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "witness_id": "W003",
+      "name": "Mike Davis",
+      "age": 28,
+      "occupation": "Delivery Driver",
+      "relationship_to_case": "bystander",
+      "statement_date": null,
+      "credibility_score": 38.0,
+      "reliability_tier": "unreliable",
+      "metadata": "{\"age\": 28, \"occupation\": \"Delivery Driver\", \"relationship\": \"bystander\"}",
+      "created_at": "2026-07-17 00:37:28",
+      "statements": [
+        {
+          "id": 3,
+          "text": "I was parking my car outside the bank on Main when I saw a guy run out around 3 PM. \n            He was wearing a jacket, maybe blue or dark colored. He jumped into a black car and drove away fast. \n            I didn't see a weapon but he looked suspicious. I think the car was a sedan. \n            I couldn't get a good look at his face.",
+          "word_count": 65
+        }
+      ],
+      "entities": [
+        {
+          "type": "PERSON",
+          "value": "Main",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "outside the bank on Main when",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "at his face",
+          "confidence": 0.8
+        },
+        {
+          "type": "WEAPON",
+          "value": "weapon",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "car",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "car",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "car",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "sedan",
+          "confidence": 0.8
+        },
+        {
+          "type": "ACTION",
+          "value": "drove",
+          "confidence": 0.8
+        }
+      ],
+      "credibility": {
+        "overall": 38.0,
+        "consistency": 85.0,
+        "detail": 10.0,
+        "corroboration": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "witness_id": "W004",
+      "name": "Lisa Brown",
+      "age": 24,
+      "occupation": "Student",
+      "relationship_to_case": "bystander",
+      "statement_date": null,
+      "credibility_score": 36.0,
+      "reliability_tier": "unreliable",
+      "metadata": "{\"age\": 24, \"occupation\": \"Student\", \"relationship\": \"bystander\"}",
+      "created_at": "2026-07-17 00:37:28",
+      "statements": [
+        {
+          "id": 4,
+          "text": "I was walking past the bank on Main Street at about 3:30 PM when I heard shouting. \n            I saw a man running out, he had something in his hand but I'm not sure what. \n            He got into a vehicle, maybe blue or black, and drove off. I was confused about what happened. \n            Maybe someone was hurt, I'm not certain.",
+          "word_count": 59
+        }
+      ],
+      "entities": [
+        {
+          "type": "PERSON",
+          "value": "Main Street",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "He",
+          "confidence": 0.8
+        },
+        {
+          "type": "PERSON",
+          "value": "Maybe",
+          "confidence": 0.8
+        },
+        {
+          "type": "TIME",
+          "value": "3:30 PM",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "at about",
+          "confidence": 0.8
+        },
+        {
+          "type": "LOCATION",
+          "value": "in his hand but",
+          "confidence": 0.8
+        },
+        {
+          "type": "VEHICLE",
+          "value": "vehicle",
+          "confidence": 0.8
+        },
+        {
+          "type": "ACTION",
+          "value": "drove",
+          "confidence": 0.8
+        }
+      ],
+      "credibility": {
+        "overall": 36.0,
+        "consistency": 80.0,
+        "detail": 10.0,
+        "corroboration": 0.0
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "date": null,
+      "time": null,
+      "description": "I was at the bank on Main Street around 3 PM when I saw a man in a blue jacket",
+      "type": "witness_account"
+    },
+    {
+      "date": null,
+      "time": null,
+      "description": "After taking the money, he ran out and got into a black sedan",
+      "type": "witness_account"
+    },
+    {
+      "date": null,
+      "time": null,
+      "description": "After getting the money, \n            he ran outside",
+      "type": "witness_account"
+    },
+    {
+      "date": null,
+      "time": null,
+      "description": "I was very scared during the whole thing",
+      "type": "witness_account"
+    },
+    {
+      "date": null,
+      "time": null,
+      "description": "I was parking my car outside the bank on Main when I saw a guy run out around 3 PM",
+      "type": "witness_account"
+    },
+    {
+      "date": null,
+      "time": null,
+      "description": "I was walking past the bank on Main Street at about 3:30 PM when I heard shouting",
+      "type": "witness_account"
+    }
+  ],
+  "contradictions": [
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "he",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "the",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "main street",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "he",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W001",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "after",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "the",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "at",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "after",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "PERSON",
+      "value_a": "at",
+      "value_b": "it",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "at",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "at",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "PERSON",
+      "value_a": "it",
+      "value_b": "main",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "PERSON",
+      "value_a": "it",
+      "value_b": "maybe",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W002",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street around",
+      "value_b": "at approximately",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street around",
+      "value_b": "outside the bank on main when",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street around",
+      "value_b": "at his face",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street around",
+      "value_b": "at about",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W001",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street around",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W002",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street",
+      "value_b": "at approximately",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street",
+      "value_b": "outside the bank on main when",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street",
+      "value_b": "at his face",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street",
+      "value_b": "at about",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at the bank on main street",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at approximately",
+      "value_b": "outside the bank on main when",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "at approximately",
+      "value_b": "at his face",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at approximately",
+      "value_b": "at about",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W002",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at approximately",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W003",
+      "entity_type": "LOCATION",
+      "value_a": "outside the bank on main when",
+      "value_b": "at his face",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "outside the bank on main when",
+      "value_b": "at about",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "outside the bank on main when",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at his face",
+      "value_b": "at about",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W003",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at his face",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    },
+    {
+      "witness_a": "W004",
+      "witness_b": "W004",
+      "entity_type": "LOCATION",
+      "value_a": "at about",
+      "value_b": "in his hand but",
+      "severity": "medium",
+      "confidence": 0.7
+    }
+  ],
+  "convergence": [
+    {
+      "entity_type": "PERSON",
+      "value": "He",
+      "witness_count": 4,
+      "witness_ids": [
+        "W003",
+        "W002",
+        "W001",
+        "W004"
+      ]
+    },
+    {
+      "entity_type": "PERSON",
+      "value": "Main Street",
+      "witness_count": 3,
+      "witness_ids": [
+        "W002",
+        "W001",
+        "W004"
+      ]
+    },
+    {
+      "entity_type": "PERSON",
+      "value": "After",
+      "witness_count": 2,
+      "witness_ids": [
+        "W002",
+        "W001"
+      ]
+    },
+    {
+      "entity_type": "ACTION",
+      "value": "ran",
+      "witness_count": 2,
+      "witness_ids": [
+        "W002",
+        "W001"
+      ]
+    },
+    {
+      "entity_type": "ACTION",
+      "value": "drove",
+      "witness_count": 2,
+      "witness_ids": [
+        "W003",
+        "W004"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+================================================================================
+ENHANCED NARRATIVE ANALYSIS REPORT
+================================================================================
+Generated: 2026-07-17T00:37:30.837553
+Database: demo_narrative.db
+
+DATABASE STATISTICS
+----------------------------------------
+  witnesses: 4
+  statements: 4
+  entities: 44
+  contradictions: 129
+  convergence: 5
+  avg_credibility: 38.0
+  tier_distribution:
+    unreliable: 4
+
+TOP CONVERGENCE POINTS
+----------------------------------------
+  PERSON: He (4 witnesses: W003, W002, W001, W004)
+  PERSON: Main Street (3 witnesses: W002, W001, W004)
+
+CRITICAL CONTRADICTIONS
+----------------------------------------
+  [medium] W001 vs W001: main street vs he
+  [medium] W001 vs W002: main street vs he
+  [medium] W001 vs W002: main street vs he
+  [medium] W001 vs W002: main street vs he
+  [medium] W001 vs W003: main street vs he
+  [medium] W001 vs W003: main street vs he
+  [medium] W001 vs W004: main street vs he
+  [medium] W002 vs W001: main street vs he
+  [medium] W002 vs W002: main street vs he
+  [medium] W002 vs W002: main street vs he
+
+WITNESS RELIABILITY DISTRIBUTION
+----------------------------------------
+  unreliable           ████████████████████ (4)
+
+================================================================================
