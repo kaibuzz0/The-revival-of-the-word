@@ -41,6 +41,23 @@ class AncientTranslator:
                 with open(full_path, 'r', encoding='utf-8') as f:
                     self.lexicons[lang] = json.load(f)
                     
+    def _get_entries(self, lang):
+        """Get actual entry dict from lexicon"""
+        lex = self.lexicons.get(lang, {})
+        return lex.get('entries', lex)
+        
+    def _get_word_key(self, entry):
+        """Get word identifier from entry"""
+        return entry.get('word') or entry.get('lemma')
+        
+    def _get_transliteration(self, entry):
+        """Get transliteration from entry"""
+        return entry.get('transliteration') or entry.get('xlit')
+        
+    def _get_gloss(self, entry):
+        """Get gloss/definition from entry (handles different formats)"""
+        return entry.get('gloss') or entry.get('strongs_def') or entry.get('kjv_def') or entry.get('definition', '')
+        
     def translate_word(self, word, from_lang, to_lang):
         """Translate a single word between languages"""
         if from_lang not in self.lexicons or to_lang not in self.lexicons:
@@ -48,22 +65,24 @@ class AncientTranslator:
             
         # Find English gloss for source word
         english = None
-        for entry in self.lexicons[from_lang].values():
-            if entry.get('word') == word or entry.get('transliteration') == word:
-                english = entry.get('gloss', '').lower()
+        from_entries = self._get_entries(from_lang)
+        for entry in from_entries.values():
+            if self._get_word_key(entry) == word or self._get_transliteration(entry) == word:
+                english = self._get_gloss(entry).lower()
                 break
                 
         if not english:
             return None
             
         # Find target language word for that gloss
-        for entry in self.lexicons[to_lang].values():
-            if entry.get('gloss', '').lower() == english:
+        to_entries = self._get_entries(to_lang)
+        for entry in to_entries.values():
+            if english in self._get_gloss(entry).lower():
                 return {
-                    'word': entry.get('word'),
-                    'transliteration': entry.get('transliteration'),
-                    'gloss': entry.get('gloss'),
-                    'english_bridge': english
+                    'word': self._get_word_key(entry),
+                    'transliteration': self._get_transliteration(entry),
+                    'gloss': self._get_gloss(entry),
+                    'english_bridge': english[:50]  # Truncate for brevity
                 }
                 
         return None
@@ -73,8 +92,9 @@ class AncientTranslator:
         if lang not in self.lexicons:
             return None
             
-        for entry in self.lexicons[lang].values():
-            if entry.get('word') == word or entry.get('transliteration') == word:
+        entries = self._get_entries(lang)
+        for entry in entries.values():
+            if self._get_word_key(entry) == word or self._get_transliteration(entry) == word:
                 return entry
         return None
         
@@ -86,13 +106,14 @@ class AncientTranslator:
         for l in languages:
             if l not in self.lexicons:
                 continue
-            for entry in self.lexicons[l].values():
-                if gloss.lower() in entry.get('gloss', '').lower():
+            entries = self._get_entries(l)
+            for entry in entries.values():
+                if gloss.lower() in self._get_gloss(entry).lower():
                     results.append({
                         'language': l,
-                        'word': entry.get('word'),
-                        'transliteration': entry.get('transliteration'),
-                        'gloss': entry.get('gloss')
+                        'word': self._get_word_key(entry),
+                        'transliteration': self._get_transliteration(entry),
+                        'gloss': self._get_gloss(entry)[:60] + '...' if len(self._get_gloss(entry)) > 60 else self._get_gloss(entry)
                     })
         return results
         
